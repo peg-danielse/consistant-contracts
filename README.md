@@ -2,4 +2,4 @@
 filter in the usecase
 
 
-###runnin the lama3 model and compare the answers.
+### Runnin the lama3 model and compare the answers.
