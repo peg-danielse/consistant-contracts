@@ -1,0 +1,2158 @@
+REQUIREMENTS & CRITERIA,HUMAN INSTRUCTION SET,SUGGESTED PROMPTS,SUGGESTED INSTRUCTION SET,TESTRUNS GPT - 4o,TESTRUNS CLAUDE - SONNET,HUMAN ANALYSIS
+"1. Fundamental Accountability and Governance 
+Basic Accountability
+
+- Does the contract explicitly state that the financial entity maintains full responsibility for compliance with all DORA obligations?
+- Does the contract explicitly state that the financial entity maintains full responsibility for all other applicable financial services law requirements?
+
+Governance Structure
+- Does the financial entity have a governance framework for overseeing third-party ICT risks?
+- Are roles and responsibilities for third-party risk management clearly defined within the contract and internally?
+- Is senior management or the board involved in approving and monitoring third-party ICT service agreements?
+- Are escalation paths for unresolved third-party risks to the board documented?","1. Basic Accountability
+
+TASK: Does the contract explicitly state that the financial entity maintains full responsibility for compliance with all DORA obligations?
+
+Step-by-Step Verification Process:
+1. 
+Understand What DORA Obligations Are:
+ ◦ 
+Definition: DORA obligations refer to regulatory requirements ensuring operational resilience, ICT risk management, and incident reporting.
+ ◦ 
+Examples of DORA Obligations:
+ ▪ Implementing ICT risk management policies.
+ ▪ Reporting ICT-related incidents to regulatory authorities within prescribed timelines.
+ ▪ Ensuring continuous operational resilience through testing and monitoring.
+2. 
+Locate the Relevant Section in the Contract:
+ ◦ Search for clauses or sections labeled as:
+ ▪ ""Compliance with DORA"", ""Regulatory Compliance"", ""Accountability"", or similar.
+3. 
+Check for Explicit Language on Accountability:
+ ◦ Verify if the clause explicitly states that the 
+financial entity retains full responsibility for compliance with DORA obligations.
+ ◦ 
+Example Wording:
+ ▪ ""The financial entity shall retain full responsibility for compliance with DORA requirements and regulatory obligations.""
+4. 
+Verify That Responsibility Is Not Delegated or Shared:
+ ◦ Confirm that the clause does not imply or state that the ICT third-party provider assumes partial or full responsibility for regulatory compliance.
+5. 
+Review Clarity of Language:
+ ◦ Ensure the clause uses clear and unambiguous language, avoiding terms like ""shared accountability"" or ""joint responsibility"".
+6. 
+Cross-Reference with Other Sections:
+ ◦ Check if the responsibility clause is reinforced in related sections, such as general terms or compliance obligations.
+7. 
+Document Observations:
+ ◦ If the clause exists, extract it and confirm it meets the criteria.
+ ◦ If the clause is unclear or absent, highlight the gap for follow-up.
+
+TASK: Does the contract explicitly state that the financial entity maintains full responsibility for all other applicable financial services law requirements?
+
+Step-by-Step Verification Process:
+1. 
+Understand What ""Other Applicable Financial Services Laws"" Are:
+ ◦ 
+Definition: These laws include regulations covering data protection, anti-money laundering (AML), consumer protection, and other legal frameworks applicable to financial entities.
+ ◦ 
+Examples:
+ ▪ GDPR (General Data Protection Regulation).
+ ▪ AML compliance requirements.
+ ▪ Customer data handling regulations.
+2. 
+Locate the Relevant Section in the Contract:
+ ◦ Search for clauses under headings like:
+ ▪ ""Compliance with Applicable Laws"", ""Regulatory Requirements"", or ""Legal Obligations"".
+3. 
+Check for Explicit Language on Responsibility:
+ ◦ Verify that the clause explicitly states the 
+financial entity retains responsibility for compliance with all relevant laws.
+ ◦ 
+Example Wording:
+ ▪ ""The financial entity retains full responsibility for compliance with all applicable laws and regulations governing its operations.""
+4. 
+Verify That Responsibility Is Not Delegated or Shared:
+ ◦ Confirm that the contract does not suggest or allow the ICT third-party provider to assume regulatory compliance obligations.
+5. 
+Review for Comprehensive Coverage:
+ ◦ Ensure the clause covers ""all applicable laws and regulations"" without limitations to specific areas.
+6. 
+Document Observations:
+ ◦ Extract the clause if it meets the criteria.
+ ◦ Highlight any gaps or ambiguities for remediation.
+
+2. Governance Structure
+
+
+TASK: Does the financial entity have a governance framework for overseeing third-party ICT risks?
+
+Step-by-Step Verification Process:
+1. 
+Understand What a Governance Framework Entails:
+ ◦ 
+Definition: A governance framework outlines the processes, roles, and policies for managing third-party ICT risks.
+ ◦ 
+Key Components:
+ ▪ Risk assessment and monitoring.
+ ▪ Reporting lines and escalation procedures.
+ ▪ Oversight responsibilities of senior management and the board.
+2. 
+Locate the Governance Section in the Contract:
+ ◦ Search for terms such as: ""Governance"", ""ICT Risk Oversight"", ""Third-Party Risk Management Framework"".
+3. 
+Check for Explicit Provisions on Governance:
+ ◦ Verify if the contract outlines:
+ ▪ Specific oversight structures.
+ ▪ Roles and responsibilities for managing third-party ICT risks.
+ ▪ Reporting and monitoring mechanisms.
+4. 
+Ensure Framework Addresses Third-Party ICT Risks Specifically:
+ ◦ Confirm that the governance framework is tailored to ICT-related risks arising from third-party service providers.
+5. 
+Cross-Reference with Other Sections:
+ ◦ Check if governance provisions are consistent with other clauses, such as risk monitoring or compliance obligations.
+6. 
+Document Observations:
+ ◦ Extract the governance provisions if clearly outlined.
+ ◦ Highlight gaps or areas needing clarification.
+
+TASK: Are roles and responsibilities for third-party risk management clearly defined within the contract and internally?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Role Definition:
+ ◦ 
+Examples of Roles:
+ ▪ Compliance Officer: Oversees adherence to regulatory obligations.
+ ▪ Risk Manager: Conducts risk assessments and implements mitigation strategies.
+ ▪ Senior ICT Officer: Monitors service provider performance and handles incident escalation.
+2. 
+Locate Relevant Clauses Defining Roles and Responsibilities:
+ ◦ Search for terms like: ""Roles"", ""Responsibilities"", ""Accountability"", ""Position Descriptions"".
+3. 
+Check for Role Clarity:
+ ◦ Verify that the contract defines:
+ ▪ Specific roles assigned to individuals or teams.
+ ▪ Their responsibilities for managing third-party ICT risks.
+ ▪ Reporting structures and accountability.
+4. 
+Document Observations:
+ ◦ Note roles and responsibilities if defined.
+ ◦ Highlight missing or ambiguous definitions.
+
+TASK: Is senior management or the board involved in approving and monitoring third-party ICT service agreements?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Role of Senior Management/Board:
+ ◦ 
+Responsibilities:
+ ▪ Approving contracts with third-party ICT providers.
+ ▪ Monitoring provider compliance and performance.
+ ▪ Reviewing risk and incident reports.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like: ""Board Oversight"", ""Senior Management Approval"", ""Executive Monitoring"".
+3. 
+Verify Involvement in Key Processes:
+ ◦ Confirm that senior management/board duties include:
+ ▪ Reviewing and approving third-party service agreements.
+ ▪ Periodically monitoring third-party risk management.
+4. 
+Document Observations:
+ ◦ Note involvement if clearly stated.
+ ◦ Highlight gaps or lack of clarity.
+
+TASK: Are escalation paths for unresolved third-party risks to the board documented?
+
+Step-by-Step Verification Process:
+1. 
+Understand Escalation Path Requirements:
+ ◦ 
+Key Elements:
+ ▪ Clear triggers for escalation (e.g., unresolved risks, compliance failures).
+ ▪ Defined timelines for reporting to the board.
+ ▪ Assigned responsibilities for escalating issues.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like: ""Escalation Procedures"", ""Critical Risk Reporting"", ""Board Notification"".
+3. 
+Verify Documentation of Escalation Paths:
+ ◦ Confirm that the contract outlines:
+ ▪ Triggers for escalating risks or incidents.
+ ▪ Reporting timelines and required documentation.
+ ▪ Responsibilities of individuals or teams handling escalations.
+4. 
+Document Observations:
+ ◦ Extract escalation paths if documented.
+ ◦ Highlight gaps for improvement if missing or incomplete.","1. Fundamental Accountability and Governance
+1. 
+Basic Accountability Assessment
+ ◦ 
+Check for DORA Compliance Responsibility:
+ ▪ 
+Prompt: Search for explicit clauses stating that the financial entity retains full responsibility for DORA compliance. Look specifically for:
+ • Clear statements of retained responsibility
+ • References to DORA obligations
+ • Non-transfer of compliance obligations
+ • Acknowledgment that outsourcing doesn't diminish entity's responsibility
+ ▪ 
+Follow-up if Missing: Flag as critical compliance gap and recommend adding explicit responsibility retention clause citing DORA requirements.
+ ◦ 
+Check for Financial Services Law Responsibility:
+ ▪ 
+Prompt: Review contract for clear statements regarding the financial entity's retained responsibility for all applicable financial services laws. Look for:
+ • Comprehensive coverage of all applicable regulations
+ • Non-delegation of regulatory responsibilities
+ • Clear acknowledgment of ongoing regulatory obligations
+ • References to specific financial services laws
+ ▪ 
+Follow-up if Missing: Recommend adding explicit clause covering retention of regulatory responsibilities for all applicable financial services laws.
+2. 
+Governance Framework Assessment
+ ◦ 
+Check for ICT Risk Oversight Framework:
+ ▪ 
+Prompt: Search for provisions describing the governance framework for third-party ICT risk oversight. Look for:
+ • Framework structure and components
+ • Oversight mechanisms
+ • Decision-making processes
+ • Review and update procedures
+ ▪ 
+Follow-up if Missing: Note absence of governance framework details and recommend adding comprehensive framework description.
+ ◦ 
+Check for Roles and Responsibilities Definition:
+ ▪ 
+Prompt: Review contract for clear definition of roles and responsibilities in third-party risk management. Verify:
+ • Specific role assignments
+ • Responsibility matrices
+ • Internal accountability structures
+ • Reporting lines
+ ▪ 
+Follow-up if Missing: Recommend adding detailed RACI matrix or equivalent responsibility definition structure.
+3. 
+Senior Management Involvement
+ ◦ 
+Check for Board/Senior Management Approval Process:
+ ▪ 
+Prompt: Search for provisions requiring senior management or board approval of ICT service agreements. Look for:
+ • Approval requirements
+ • Review procedures
+ • Documentation of approvals
+ • Renewal approval processes
+ ▪ 
+Follow-up if Missing: Flag as governance gap and recommend adding explicit board/senior management approval requirements.
+ ◦ 
+Check for Ongoing Monitoring Requirements:
+ ▪ 
+Prompt: Review for provisions requiring ongoing board/senior management monitoring of third-party arrangements. Verify:
+ • Regular review requirements
+ • Monitoring frequency
+ • Performance metrics
+ • Reporting requirements to senior management
+ ▪ 
+Follow-up if Missing: Suggest adding structured monitoring requirements with specific timelines and metrics.
+4. 
+Escalation Path Documentation
+ ◦ 
+Check for Risk Escalation Procedures:
+ ▪ 
+Prompt: Search for documented escalation paths for unresolved third-party risks. Look for:
+ • Clear escalation triggers
+ • Escalation levels
+ • Time frames for escalation
+ • Resolution requirements
+ • Board notification procedures
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive escalation framework with specific triggers and procedures.
+ ◦ 
+Check for Escalation Documentation Requirements:
+ ▪ 
+Prompt: Review requirements for documenting escalation processes and outcomes. Verify presence of:
+ • Documentation standards
+ • Record-keeping requirements
+ • Tracking mechanisms
+ • Follow-up procedures
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.
+5. 
+Governance Documentation Requirements
+ ◦ 
+Check for Overall Documentation Framework:
+ ▪ 
+Prompt: Review requirements for maintaining comprehensive governance documentation. Look for:
+ • Documentation maintenance requirements
+ • Update procedures
+ • Accessibility requirements
+ • Retention policies
+ ▪ 
+Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes.","Basic Accountability
+
+TASK: Check if the contract explicitly states financial entity's responsibility for DORA compliance
+INSTRUCTIONS:
+1. Search for clauses containing keywords: ""responsibility"", ""compliance"", ""DORA"", ""regulatory obligations""
+2. Analyze if these clauses explicitly state that the financial entity retains full responsibility
+3. Verify that responsibility is not transferred or shared with the service provider
+4. Check if the clause uses clear, unambiguous language about regulatory compliance responsibility
+5. Return TRUE if explicit statement found, FALSE if missing or ambiguous
+
+TASK: Verify responsibility for other financial services law requirements
+INSTRUCTIONS:
+1. Search for clauses containing: ""applicable law"", ""regulatory requirements"", ""financial services law""
+2. Check if clause states financial entity maintains full responsibility for these requirements
+3. Verify no transfer of regulatory compliance responsibility to provider
+4. Check if clause covers ""all"" applicable laws and regulations
+5. Return TRUE if explicit statement found, FALSE if missing or ambiguous
+
+
+Governance structure 
+
+TASK: Verify governance framework for ICT risk oversight
+INSTRUCTIONS:
+1. Search for sections about: ""governance"", ""oversight"", ""risk management"", ""ICT risk""
+2. Identify specific provisions describing:
+- Risk oversight structure
+- Management responsibilities
+- Reporting lines
+3. Check if framework specifically addresses third-party ICT risks
+4. Return TRUE if comprehensive framework found, FALSE if incomplete/missing
+
+TASK: Check for roles and responsibilities definition
+INSTRUCTIONS:
+1. Locate sections defining:
+- Organizational responsibilities
+- Individual roles
+- Accountability structures
+2. Extract and list all defined roles
+3. Verify each role has:
+- Clear responsibilities
+- Reporting lines
+- Authority levels
+4. Check if responsibilities are assigned to specific positions/functions
+5. Return TRUE if roles clearly defined, FALSE if ambiguous/missing
+
+TASK: Verify senior management/board involvement
+INSTRUCTIONS:
+1. Search for terms: ""board"", ""senior management"", ""executive"", ""oversight""
+2. Identify clauses specifying:
+- Approval requirements
+- Monitoring responsibilities
+- Review obligations
+3. Check for specific board/management duties regarding:
+- Contract approval
+- Risk monitoring
+- Performance review
+4. Return TRUE if explicit involvement defined, FALSE if unclear/missing
+
+TASK: Check for escalation paths documentation
+INSTRUCTIONS:
+1. Search for terms: ""escalation"", ""reporting"", ""notification"", ""risk communication""
+2. Identify specific escalation procedures for:
+- Unresolved risks
+- Critical incidents
+- Performance issues
+3. Verify escalation paths include:
+- Clear triggers for escalation
+- Timeline requirements
+- Responsible parties
+- Board/senior management involvement
+4. Return TRUE if complete escalation paths found, FALSE if incomplete/missing","RUN 1: 
+
+I will now review the uploaded document to assess its adherence to the criteria provided. This involves systematically analyzing each section of the contract for compliance with the specified requirements related to governance, accountability, senior management involvement, escalation paths, and documentation frameworks. This assessment will be detailed and specific. Please give me a moment.
+The extracted text from the PDF contains irregular formatting, but I will systematically address each section of the provided compliance criteria by searching for relevant clauses within the contract. Here's how the assessment will proceed:
+
+
+Assessment Plan:
+
+1. 
+Accountability:
+ ◦ Search for explicit clauses related to DORA compliance and financial services law responsibility.
+ ◦ Identify if the contract clearly states the entity's retained responsibility for compliance obligations.
+2. 
+Governance Framework:
+ ◦ Examine clauses describing the governance framework for ICT risk oversight and roles/responsibilities definitions.
+ ◦ Check for any detailed responsibility matrices or equivalent structures.
+3. 
+Senior Management Involvement:
+ ◦ Look for provisions requiring senior management or board-level approvals.
+ ◦ Check for ongoing monitoring and performance review mechanisms.
+4. 
+Escalation Path Documentation:
+ ◦ Search for documented escalation procedures, including triggers and notification levels.
+ ◦ Verify if documentation standards and tracking mechanisms are present.
+5. 
+Governance Documentation:
+ ◦ Review requirements for maintaining and updating comprehensive governance documentation, ensuring accessibility and retention policies.
+Let me begin analyzing each section of the contract against these criteria. 
+
+I will now analyze the document against the specified compliance criteria. Below is the assessment for each criterion:
+
+
+1. Fundamental Accountability and Governance
+Basic Accountability Assessment
+
+• 
+DORA Compliance Responsibility:
+ ◦ The document does not explicitly mention that the customer retains full responsibility for DORA compliance. It includes general terms about responsibilities, such as security measures and compliance with laws, but these are not specific to DORA obligations.
+ ◦ 
+Recommendation: Include explicit clauses affirming that the customer retains full responsibility for DORA compliance, including acknowledgment of non-transfer of compliance obligations.
+• 
+Financial Services Law Responsibility:
+ ◦ The agreement mentions that customers are responsible for determining regulatory obligations related to their use of the products.
+ ◦ 
+Recommendation: Add a more specific clause stating the financial entity's ongoing responsibility for all applicable financial services laws, ensuring no ambiguity about regulatory accountability.
+
+2. Governance Framework Assessment
+ICT Risk Oversight Framework:
+
+• The agreement contains references to security measures but does not describe a governance framework for ICT risk oversight, including decision-making or review processes.
+• 
+Recommendation: Add a detailed governance framework section covering oversight mechanisms, review processes, and risk management.
+Roles and Responsibilities Definition:
+
+• The document includes general obligations for the customer and Atlassian but lacks detailed definitions of roles and responsibilities for third-party risk management.
+• 
+Recommendation: Introduce a clear RACI matrix or equivalent to define roles and responsibilities comprehensively.
+
+3. Senior Management Involvement
+Board/Senior Management Approval Process:
+
+• There is no mention of explicit approval requirements by senior management or the board for ICT service agreements.
+• 
+Recommendation: Include clauses that mandate board or senior management approval for all significant ICT agreements.
+Ongoing Monitoring Requirements:
+
+• No provisions require regular monitoring by senior management of third-party arrangements.
+• 
+Recommendation: Add structured monitoring requirements with specific timelines, metrics, and reporting obligations for senior management.
+
+4. Escalation Path Documentation
+Risk Escalation Procedures:
+
+• The contract does not contain documented escalation paths for unresolved third-party risks.
+• 
+Recommendation: Develop a comprehensive escalation framework detailing triggers, levels, timeframes, and resolution requirements.
+Escalation Documentation Requirements:
+
+• There are no specific requirements for documenting escalation processes and outcomes.
+• 
+Recommendation: Include detailed documentation standards for escalation paths and tracking mechanisms.
+
+5. Governance Documentation Requirements
+Overall Documentation Framework:
+
+• The agreement does not provide comprehensive governance documentation requirements. It mentions compliance with applicable laws and general documentation related to data security but lacks structured guidance on governance documentation.
+• 
+Recommendation: Establish a robust documentation framework covering maintenance, updates, accessibility, and retention policies.
+Conclusion
+
+The reviewed contract partially addresses certain governance and accountability aspects but requires significant additions to fully adhere to the specified compliance criteria. The absence of explicit clauses on DORA compliance, senior management involvement, escalation procedures, and a governance framework are critical gaps. Addressing these through detailed amendments will enhance the contract's alignment with regulatory and governance standards.
+
+
+
+RUN 2:
+Based on the provided document, I will assess whether the specified criteria are addressed. Here is the analysis:
+
+1. Fundamental Accountability and Governance
+1.1 Basic Accountability Assessment
+
+
+Check for DORA Compliance Responsibility:
+• 
+Findings: No explicit references to DORA or clauses stating that the entity retains full responsibility for DORA compliance. The document mentions customer responsibilities broadly (e.g., ensuring the product meets regulatory obligations under section 6.2) but lacks specific DORA references.
+• 
+Recommendation: Add an explicit clause confirming the financial entity's retained responsibility for DORA compliance, emphasizing non-transfer of obligations and alignment with DORA requirements.
+
+Check for Financial Services Law Responsibility:
+• 
+Findings: The document addresses customer responsibility for compliance broadly (e.g., ensuring disclosures and regulatory obligations under 6.2). However, it does not explicitly cover financial services laws or non-delegation of regulatory responsibilities.
+• 
+Recommendation: Include a clause specifying retention of all applicable financial services law responsibilities, with explicit references.
+
+2. Governance Framework Assessment
+2.1 Check for ICT Risk Oversight Framework:
+
+• 
+Findings: The document lacks provisions describing a structured governance framework for ICT risk oversight. Governance elements focus on compliance with general laws and security measures.
+• 
+Recommendation: Incorporate a comprehensive governance framework, including oversight mechanisms, decision-making processes, and procedures for regular updates and reviews.
+2.2 Check for Roles and Responsibilities Definition:
+
+• 
+Findings: No detailed responsibility matrices or RACI framework. Roles and responsibilities are vaguely described (e.g., customer obligations under section 6).
+• 
+Recommendation: Add a detailed roles and responsibilities section with a clear accountability matrix for third-party risk management.
+
+3. Senior Management Involvement
+3.1 Check for Board/Senior Management Approval Process:
+
+• 
+Findings: No explicit mention of board or senior management approval requirements for ICT service agreements.
+• 
+Recommendation: Add clauses specifying the need for approval and review by senior management, including documentation and renewal approval processes.
+3.2 Check for Ongoing Monitoring Requirements:
+
+• 
+Findings: No provisions for structured, ongoing monitoring or reporting to senior management regarding third-party arrangements.
+• 
+Recommendation: Include requirements for regular performance reviews, monitoring metrics, and reporting timelines to senior management.
+
+4. Escalation Path Documentation
+4.1 Check for Risk Escalation Procedures:
+
+• 
+Findings: Escalation paths for unresolved third-party risks are not documented.
+• 
+Recommendation: Add a risk escalation framework, detailing triggers, levels of escalation, timeframes, resolution steps, and board notification procedures.
+4.2 Check for Escalation Documentation Requirements:
+
+• 
+Findings: No requirements for documenting escalation processes and outcomes.
+• 
+Recommendation: Add provisions for maintaining documentation standards, tracking mechanisms, and follow-up procedures.
+
+5. Governance Documentation Requirements
+5.1 Check for Overall Documentation Framework:
+
+• 
+Findings: Governance documentation requirements are not comprehensively addressed. There are references to customer obligations for maintaining data security and compliance under general terms (e.g., sections 4.2 and 6).
+• 
+Recommendation: Establish a detailed documentation framework covering governance processes, updates, accessibility, and retention policies.
+Conclusion:
+
+The document broadly addresses responsibilities and compliance requirements but lacks specificity regarding DORA compliance, ICT risk governance, and documentation frameworks. Addressing these gaps will strengthen alignment with DORA requirements and overall governance practices. If you’d like, I can draft tailored clauses or recommendations for integration into the agreement.",,"Assessment: Basic Accountability
+1. Responsibility for Compliance with DORA Obligations
+
+• 
+Clause Search Results: The document does not explicitly mention ""DORA,"" ""Digital Operational Resilience Act,"" or any specific obligations akin to DORA compliance.
+• 
+Accountability Language: The agreement contains clauses where Atlassian explicitly disclaims responsibility for ensuring compliance with regulatory obligations, leaving that responsibility to the customer (e.g., Section 6.2).
+• 
+Observations:
+ ◦ The agreement ensures customers assess if the products meet their own regulatory requirements, but it does not state that Atlassian assumes accountability for DORA-related compliance.
+ ◦ There is no explicit clause where the financial entity explicitly retains full responsibility for DORA compliance.
+
+2. Responsibility for Compliance with All Other Applicable Financial Services Laws
+
+• 
+Clause Search Results: The agreement emphasizes the customer’s obligation to ensure compliance with applicable laws, including acquiring necessary consents (Section 6.1 and 20.1).
+• 
+Accountability Language: There is a clear indication that Atlassian does not assume liability for regulatory or compliance matters but provides tools for customer use.
+Governance Structure
+1. Governance Framework for Third-Party ICT Risks
+
+• 
+Clause Search Results: No explicit mention of governance structures for overseeing third-party ICT risks in relation to compliance frameworks.
+• 
+Observations:
+ ◦ The contract does not specify processes, roles, or frameworks for managing ICT-related risks.
+
+2. Roles and Responsibilities for Third-Party Risk Management
+
+• 
+Clause Search Results: The contract does not define or assign roles and responsibilities for managing third-party ICT risks.
+• 
+Observations:
+ ◦ While it establishes the customer's accountability for their data and compliance, no detailed structure or role allocation for risk management is provided.
+
+3. Senior Management or Board Involvement in Oversight
+
+• 
+Clause Search Results: No specific clause mentions senior management or board approval for third-party service agreements.
+• 
+Observations:
+ ◦ Oversight responsibilities are not described at the management or board level.
+
+4. Escalation Paths for Unresolved Risks
+
+• 
+Clause Search Results: The agreement does not outline escalation paths or procedures for unresolved risks to the board.
+• 
+Observations:
+ ◦ Escalation mechanisms for critical risks or incidents are not included.
+
+
+Conclusion and Recommendations
+
+1. 
+Basic Accountability:
+ ◦ The contract lacks explicit provisions affirming the financial entity retains full responsibility for compliance with DORA obligations or all other applicable laws.
+ ◦ A clause explicitly stating this responsibility would enhance clarity and compliance assurance.
+2. 
+Governance Structure:
+ ◦ The agreement does not address governance frameworks, risk management roles, or senior management involvement.
+ ◦ Including a dedicated governance section with role definitions, board responsibilities, and escalation procedures would improve alignment with DORA requirements."
+"2. Risk Assessment and Implementation
+
+Proportionality Assessment
+Does the contract specify how ICT third-party risk management is implemented considering:
+- Nature, scale, complexity and importance of ICT-related dependencies?
+- Risks arising from the contractual arrangements?
+- Criticality or importance of the service, process or function?
+- Potential impact on continuity and availability of financial services?
+
+Pre-Engagement and Ongoing Assessment
+- Is there evidence of due diligence to assess the third-party provider's risk profile before engagement?
+- Are there procedures for continuous monitoring of the provider's performance and risk profile?
+- Are KRIs and KPIs defined in the contract for tracking compliance?","1. Proportionality Assessment
+
+TASK: Does the contract specify how ICT third-party risk management is implemented considering the nature, scale, complexity, and importance of ICT-related dependencies?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Concept of Proportionality:
+ ◦ 
+Definition: Proportionality ensures that risk management measures are tailored to the financial entity’s ICT dependencies in terms of size, complexity, and operational importance.
+ ◦ 
+Examples:
+ ▪ A small-scale dependency may require fewer controls than a critical operational system reliant on the provider.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for clauses containing terms like:
+ ▪ ""proportionality"", ""risk management implementation"", ""ICT dependencies"", ""scope of services"".
+3. 
+Check for Specific Provisions:
+ ◦ Verify if the contract explicitly states how proportionality is applied in:
+ ▪ ICT risk management processes.
+ ▪ Decision-making for controls or oversight measures.
+4. 
+Review Supporting Details:
+ ◦ Confirm that proportionality factors include the 
+nature, scale, complexity, and importance of ICT dependencies.
+ ◦ Check if the contract describes examples or provides thresholds for these factors.
+5. 
+Document Observations:
+ ◦ Extract the clauses if proportionality is clearly addressed.
+ ◦ Highlight gaps or ambiguous language for follow-up.
+
+TASK: Does the contract specify how risks arising from the contractual arrangements are managed?
+
+Step-by-Step Verification Process:
+1. 
+Understand Risk Management for Contractual Arrangements:
+ ◦ 
+Definition: This involves identifying and mitigating risks that arise directly from the nature of the contract, such as data-sharing agreements or performance dependencies.
+ ◦ 
+Examples:
+ ▪ Risks from unclear service levels.
+ ▪ Liability issues related to ICT service disruptions.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms such as:
+ ▪ ""contractual risks"", ""risk management measures"", ""provider dependencies"".
+3. 
+Check for Explicit Provisions:
+ ◦ Verify if the contract includes a risk management plan or approach tailored to contractual risks.
+ ◦ Confirm if specific contractual risks are identified and addressed (e.g., penalties for non-performance, breach clauses).
+4. 
+Document Observations:
+ ◦ Extract and evaluate the relevant provisions.
+ ◦ Note gaps or ambiguities for further action.
+
+TASK: Does the contract specify how the criticality or importance of the service, process, or function is assessed?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Criticality Assessments:
+ ◦ 
+Definition: Criticality assessments evaluate how essential a service, process, or function is to the financial entity’s operations.
+ ◦ 
+Examples of Critical Services:
+ ▪ Payment processing systems.
+ ▪ Customer data management.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""critical functions"", ""service criticality"", ""process importance"".
+3. 
+Check for Criteria and Assessment Processes:
+ ◦ Verify if the contract outlines specific criteria for assessing criticality (e.g., financial impact, regulatory requirements).
+ ◦ Confirm if there is a structured process for reviewing and updating criticality assessments.
+4. 
+Document Observations:
+ ◦ Extract clauses if criticality assessment requirements are included.
+ ◦ Highlight any missing or vague provisions.
+
+TASK: Does the contract specify the potential impact on the continuity and availability of financial services?
+
+Step-by-Step Verification Process:
+1. 
+Understand Continuity and Availability Requirements:
+ ◦ 
+Definition: Ensuring the uninterrupted delivery of financial services even during ICT-related disruptions.
+ ◦ 
+Examples of Risks:
+ ▪ Prolonged service outages.
+ ▪ Loss of data access impacting customer transactions.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""continuity"", ""service availability"", ""resilience"".
+3. 
+Verify Coverage of Potential Impacts:
+ ◦ Check if the contract includes provisions for:
+ ▪ Assessing potential disruptions to financial services.
+ ▪ Mitigating risks to continuity and availability.
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses addressing service continuity.
+ ◦ Highlight gaps or areas needing clarification.
+
+2. Pre-Engagement and Ongoing Assessment
+
+
+TASK: Is there evidence of due diligence to assess the third-party provider's risk profile before engagement?
+
+Step-by-Step Verification Process:
+1. 
+Understand Due Diligence Requirements:
+ ◦ 
+Definition: Due diligence involves evaluating the provider’s financial stability, operational capacity, and regulatory compliance before entering into a contract.
+ ◦ 
+Examples:
+ ▪ Reviewing financial audits of the provider.
+ ▪ Checking past performance and compliance history.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""due diligence"", ""provider assessment"", ""pre-engagement evaluation"".
+3. 
+Check for Due Diligence Processes:
+ ◦ Verify if the contract outlines specific steps or criteria for assessing the provider’s risk profile.
+ ◦ Confirm that due diligence includes financial, operational, and compliance evaluations.
+4. 
+Document Observations:
+ ◦ Extract clauses describing due diligence requirements.
+ ◦ Highlight gaps if the process is not addressed.
+
+TASK: Are there procedures for continuous monitoring of the provider's performance and risk profile?
+
+Step-by-Step Verification Process:
+1. 
+Understand Continuous Monitoring Requirements:
+ ◦ 
+Definition: Continuous monitoring involves regular evaluations of the provider’s performance, compliance, and operational risks.
+ ◦ 
+Examples:
+ ▪ Quarterly performance reviews.
+ ▪ Real-time monitoring tools.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""monitoring"", ""performance reviews"", ""compliance checks"".
+3. 
+Verify Monitoring Procedures:
+ ◦ Confirm if the contract specifies:
+ ▪ Frequency of monitoring.
+ ▪ Metrics or benchmarks for evaluation.
+ ▪ Responsibilities for conducting reviews.
+4. 
+Document Observations:
+ ◦ Extract monitoring procedures if outlined.
+ ◦ Highlight areas where additional detail may be required.
+
+TASK: Are KRIs (Key Risk Indicators) and KPIs (Key Performance Indicators) defined in the contract for tracking compliance?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Purpose of KRIs and KPIs:
+ ◦ 
+Definition: KRIs and KPIs are measurable metrics used to monitor risk levels and provider performance.
+ ◦ 
+Examples of KRIs:
+ ▪ Incident response times.
+ ▪ System downtime duration.
+ ◦ 
+Examples of KPIs:
+ ▪ SLA (Service Level Agreement) adherence rates.
+ ▪ Customer service response times.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Key Risk Indicators (KRIs)"", ""Key Performance Indicators (KPIs)"", ""performance metrics"".
+3. 
+Check for Clear Definitions:
+ ◦ Verify if the contract specifies:
+ ▪ The metrics to be tracked.
+ ▪ Target values or thresholds.
+ ▪ Reporting frequency for KRIs and KPIs.
+4. 
+Document Observations:
+ ◦ Extract defined KRIs and KPIs if present.
+ ◦ Highlight missing or vague metrics for follow-up.","2. Risk Assessment and Implementation
+1. 
+Proportionality Assessment - Dependencies
+ ◦ 
+Check for ICT Dependency Analysis Requirements:
+ ▪ 
+Prompt: Search for contractual provisions requiring assessment of ICT-related dependencies. Look specifically for:
+ • Methodology for evaluating nature of dependencies
+ • Scale assessment requirements
+ • Complexity evaluation criteria
+ • Importance classification metrics
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding structured framework for dependency assessment aligned with DORA requirements.
+ ◦ 
+Check for Dependency Documentation Requirements:
+ ▪ 
+Prompt: Review contract for requirements to document and maintain records of ICT dependencies. Verify presence of:
+ • Documentation standards
+ • Update frequencies
+ • Dependency mapping requirements
+ • Review and validation procedures
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive dependency documentation requirements with specific maintenance schedules.
+2. 
+Contractual Risk Assessment
+ ◦ 
+Check for Risk Analysis Framework:
+ ▪ 
+Prompt: Search for provisions detailing how risks arising from contractual arrangements are assessed. Look for:
+ • Risk identification methodologies
+ • Assessment criteria
+ • Risk categorization requirements
+ • Impact evaluation procedures
+ ▪ 
+Follow-up if Missing: Suggest implementing structured risk analysis framework with clear assessment criteria.
+ ◦ 
+Check for Risk Monitoring Requirements:
+ ▪ 
+Prompt: Review requirements for ongoing monitoring of contractual risks. Verify:
+ • Monitoring frequency
+ • Risk indicator definitions
+ • Reporting requirements
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Recommend adding detailed risk monitoring protocol with specific metrics and timelines.
+3. 
+Service Criticality Assessment
+ ◦ 
+Check for Criticality Evaluation Framework:
+ ▪ 
+Prompt: Search for methodology to assess service, process, or function criticality. Look for:
+ • Criticality assessment criteria
+ • Classification levels
+ • Impact thresholds
+ • Review requirements
+ ▪ 
+Follow-up if Missing: Flag as gap and recommend adding comprehensive criticality assessment framework.
+ ◦ 
+Check for Critical Function Documentation:
+ ▪ 
+Prompt: Review requirements for documenting critical functions and processes. Verify:
+ • Documentation standards
+ • Update requirements
+ • Review procedures
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Suggest implementing structured documentation requirements for critical functions.
+4. 
+Impact Analysis Requirements
+ ◦ 
+Check for Continuity Impact Assessment:
+ ▪ 
+Prompt: Search for provisions requiring assessment of impact on service continuity. Look for:
+ • Impact assessment methodology
+ • Continuity requirements
+ • Service level commitments
+ • Recovery objectives
+ ▪ 
+Follow-up if Missing: Recommend adding detailed impact assessment requirements focusing on service continuity.
+ ◦ 
+Check for Availability Impact Assessment:
+ ▪ 
+Prompt: Review requirements for assessing impact on service availability. Verify:
+ • Availability metrics
+ • Assessment criteria
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding specific availability impact assessment requirements.
+5. 
+Pre-Engagement Due Diligence
+ ◦ 
+Check for Due Diligence Requirements:
+ ▪ 
+Prompt: Search for pre-engagement due diligence requirements. Look for:
+ • Assessment scope
+ • Required evaluations
+ • Documentation requirements
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive due diligence requirements aligned with DORA.
+6. 
+Ongoing Monitoring Framework
+ ◦ 
+Check for Performance Monitoring Requirements:
+ ▪ 
+Prompt: Review provisions for continuous monitoring of provider performance. Verify:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Suggest implementing structured ongoing monitoring framework.
+7. 
+KRI/KPI Framework
+ ◦ 
+Check for Key Indicator Definitions:
+ ▪ 
+Prompt: Search for defined Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs). Look for:
+ • Specific metrics
+ • Measurement methodologies
+ • Thresholds
+ • Reporting requirements
+ ▪ 
+Follow-up if Missing: Recommend adding clearly defined KRIs and KPIs with specific measurement criteria.
+ ◦ 
+Check for Monitoring and Reporting Requirements:
+ ▪ 
+Prompt: Review requirements for monitoring and reporting on KRIs/KPIs. Verify:
+ • Monitoring frequency
+ • Reporting templates
+ • Escalation triggers
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding comprehensive monitoring and reporting framework for key indicators.","Proportionality Assessment
+
+TASK: Verify implementation of ICT third-party risk management considering proportionality
+INSTRUCTIONS:
+1. Search for sections describing risk assessment methodology
+2. Check for explicit consideration of:
+a. Parse sections describing scope and scale using keywords: ""nature"", ""scale"", ""complexity"", ""dependencies""
+b. Search for risk assessment criteria using: ""risk criteria"", ""risk factors"", ""risk assessment""
+c. Look for criticality classifications using: ""critical"", ""important"", ""essential"", ""core function""
+d. Identify impact assessment using: ""continuity"", ""availability"", ""service impact"", ""business impact""
+3. For each element found, analyze if it includes:
+- Clear assessment criteria
+- Measurement methods
+- Thresholds or classification levels
+4. Return structured findings for each element with TRUE/FALSE and evidence quoted from contract
+
+
+Pre-Engagement and Ongoing Assessment
+
+TASK: Check for due diligence requirements
+INSTRUCTIONS:
+1. Search for terms: ""due diligence"", ""assessment"", ""evaluation"", ""provider screening""
+2. Analyze if contract specifies:
+- Pre-engagement assessment requirements
+- Assessment criteria
+- Required documentation
+- Approval process
+3. Verify timeframes for initial assessment are specified
+4. Return TRUE if comprehensive due diligence process found, FALSE if incomplete
+
+TASK: Verify continuous monitoring procedures
+INSTRUCTIONS:
+1. Search for: ""monitoring"", ""ongoing assessment"", ""performance tracking"", ""supervision""
+2. Check if contract defines:
+- Monitoring frequency
+- Monitoring methods
+- Tools or systems to be used
+- Reporting requirements
+3. Extract specific monitoring obligations and timelines
+4. Return structured analysis of monitoring requirements with TRUE/FALSE for comprehensiveness
+
+TASK: Analyze KRI and KPI definitions
+INSTRUCTIONS:
+1. Search for: ""KPI"", ""KRI"", ""performance indicator"", ""risk indicator"", ""metrics"", ""measurement""
+2. For each KPI/KRI found, verify:
+- Clear definition
+- Measurement method
+- Thresholds/targets
+- Reporting frequency
+3. Create list of all defined indicators
+4. Return TRUE if KPIs/KRIs are adequately defined, FALSE if incomplete",,,
+"3. Documentation and Register Requirements
+
+Contract Documentation
+- Is there a complete written agreement detailing rights and obligations of both parties?
+- Does the contract specify the critical and important functions being outsourced?
+- Does the contract require the third-party provider to comply with applicable laws and DORA requirements?
+
+Register Maintenance
+Does the contract require maintenance of a register containing:
+- All contractual arrangements on ICT services?
+- Information about categories of ICT third-party service providers?
+- Type of contractual arrangements?
+- ICT services and functions being provided?","1. Contract Documentation
+
+TASK: Is there a complete written agreement detailing rights and obligations of both parties?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of a Complete Written Agreement:
+ ◦ 
+Definition: A complete written agreement ensures that all roles, responsibilities, and obligations of both the financial entity and the third-party provider are clearly documented and enforceable.
+ ◦ 
+Key Elements to Look For:
+ ▪ Scope of services.
+ ▪ Roles and responsibilities.
+ ▪ Penalties for non-compliance.
+2. 
+Locate the Agreement Section in the Contract:
+ ◦ Search for sections titled:
+ ▪ ""Agreement Scope"", ""Terms and Conditions"", ""Roles and Obligations"".
+3. 
+Verify the Completeness of the Agreement:
+ ◦ Confirm that the agreement specifies:
+ ▪ Rights of both parties.
+ ▪ Obligations of the ICT third-party provider.
+ ▪ Recourse for breaches of contract or non-performance.
+4. 
+Document Observations:
+ ◦ If the agreement is complete, note its location for reference.
+ ◦ If incomplete or ambiguous, highlight the gaps for follow-up.
+
+TASK: Does the contract specify the critical and important functions being outsourced?
+
+Step-by-Step Verification Process:
+1. 
+Understand Critical and Important Functions:
+ ◦ 
+Definition: Functions whose disruption would significantly impact the financial entity’s operations, legal compliance, or customer services.
+ ◦ 
+Examples:
+ ▪ Payment processing systems.
+ ▪ Customer data storage.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""critical functions"", ""important functions"", ""outsourced activities"".
+3. 
+Verify if Functions Are Clearly Identified:
+ ◦ Confirm that the contract:
+ ▪ Lists all critical and important functions being outsourced.
+ ▪ Includes details about the scope and significance of these functions.
+4. 
+Document Observations:
+ ◦ Extract the list of critical and important functions if included.
+ ◦ Highlight gaps or omissions for corrective action.
+
+TASK: Does the contract require the third-party provider to comply with applicable laws and DORA requirements?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Compliance Requirements:
+ ◦ 
+Applicable Laws: General regulatory obligations (e.g., GDPR, AML).
+ ◦ 
+DORA Requirements: Specific operational resilience and ICT risk management standards.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for clauses titled:
+ ▪ ""Compliance"", ""Regulatory Obligations"", ""Legal Requirements"".
+3. 
+Check for Explicit Compliance Obligations:
+ ◦ Verify if the contract explicitly states that the third-party provider must:
+ ▪ Comply with all applicable laws.
+ ▪ Meet DORA regulatory requirements.
+4. 
+Review Clarity and Scope:
+ ◦ Ensure the clause leaves no ambiguity about the provider’s responsibility for compliance.
+5. 
+Document Observations:
+ ◦ Note the clause if it meets compliance standards.
+ ◦ Highlight missing or vague compliance terms.
+
+2. Register Maintenance
+
+
+TASK: Does the contract require maintenance of a register containing all contractual arrangements on ICT services?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Purpose of a Register:
+ ◦ 
+Definition: A register documents all ICT contractual arrangements to facilitate monitoring, reporting, and regulatory compliance.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""register"", ""record keeping"", ""contractual arrangements documentation"".
+3. 
+Verify the Register’s Coverage:
+ ◦ Confirm that the contract requires maintaining a register listing all ICT contractual arrangements.
+4. 
+Document Observations:
+ ◦ Note if the clause is present.
+ ◦ Highlight gaps if no register maintenance requirement is mentioned.
+
+TASK: Does the contract require maintenance of information about categories of ICT third-party service providers?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Categorizing Providers:
+ ◦ 
+Examples of Categories:
+ ▪ Cloud service providers.
+ ▪ Payment processors.
+ ▪ Data storage providers.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""provider categories"", ""classification of third parties"".
+3. 
+Check for Detailed Categorization Requirements:
+ ◦ Verify if the contract mandates recording categories for each provider in the register.
+4. 
+Document Observations:
+ ◦ Extract details about categorization requirements if present.
+ ◦ Highlight gaps for corrective action.
+
+TASK: Does the contract require maintenance of information about the type of contractual arrangements?
+
+Step-by-Step Verification Process:
+1. 
+Understand Types of Contractual Arrangements:
+ ◦ 
+Examples:
+ ▪ Service Level Agreements (SLAs).
+ ▪ Data processing agreements.
+ ▪ Subcontractor arrangements.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""type of agreement"", ""contract classification"".
+3. 
+Verify if Contract Types Are Documented:
+ ◦ Confirm that the register includes details about the type of arrangement for each provider.
+4. 
+Document Observations:
+ ◦ Note the presence of documentation requirements.
+ ◦ Highlight missing details for follow-up.
+
+TASK: Does the contract require maintenance of information about ICT services and functions being provided?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Scope of Services to Be Documented:
+ ◦ 
+Definition: This includes all services or functions the provider delivers to the financial entity.
+ ◦ 
+Examples:
+ ▪ Data backup and recovery services.
+ ▪ Software maintenance.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""ICT services"", ""provided functions"", ""scope of outsourced services"".
+3. 
+Verify Documentation Requirements:
+ ◦ Check if the contract mandates recording details of all ICT services and functions in the register.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing service documentation.
+ ◦ Highlight gaps or incomplete requirements.","3. Documentation and Register Requirements
+1. 
+Written Agreement Completeness
+ ◦ 
+Check for Agreement Comprehensiveness:
+ ▪ 
+Prompt: Review the contract to verify presence of complete documentation of all rights and obligations. Look specifically for:
+ • Clear delineation of all parties' rights
+ • Comprehensive list of obligations
+ • Service scope definitions
+ • Term and termination provisions
+ • Liability and indemnification clauses
+ ▪ 
+Follow-up if Missing: Flag any missing essential contract elements and recommend adding comprehensive rights and obligations documentation.
+ ◦ 
+Check for Agreement Structure:
+ ▪ 
+Prompt: Verify that the contract follows a structured format containing all essential elements. Look for:
+ • Table of contents
+ • Clear section organization
+ • Cross-referencing
+ • Definition of terms
+ • Signature blocks and dates
+ ▪ 
+Follow-up if Missing: Recommend restructuring agreement to ensure all essential elements are properly organized and documented.
+2. 
+Critical Functions Documentation
+ ◦ 
+Check for Critical Function Identification:
+ ▪ 
+Prompt: Search for explicit identification and documentation of critical and important functions being outsourced. Look for:
+ • Clear function definitions
+ • Criticality criteria
+ • Impact assessments
+ • Dependencies mapping
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding detailed documentation of critical and important functions.
+ ◦ 
+Check for Function Classification Framework:
+ ▪ 
+Prompt: Review methodology for classifying functions as critical or important. Verify presence of:
+ • Classification criteria
+ • Assessment methodology
+ • Review procedures
+ • Update requirements
+ ▪ 
+Follow-up if Missing: Suggest implementing structured framework for function classification and documentation.
+3. 
+Regulatory Compliance Documentation
+ ◦ 
+Check for DORA Compliance Requirements:
+ ▪ 
+Prompt: Search for explicit requirements regarding compliance with DORA. Look for:
+ • Specific DORA references
+ • Compliance obligations
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Recommend adding explicit DORA compliance requirements and documentation procedures.
+ ◦ 
+Check for General Regulatory Compliance:
+ ▪ 
+Prompt: Review provisions requiring compliance with all applicable laws. Verify:
+ • Comprehensive coverage of applicable regulations
+ • Compliance monitoring requirements
+ • Documentation standards
+ • Update procedures
+ ▪ 
+Follow-up if Missing: Flag as compliance gap and suggest adding comprehensive regulatory compliance documentation requirements.
+4. 
+Register Maintenance Requirements
+ ◦ 
+Check for Contract Register Requirements:
+ ▪ 
+Prompt: Search for requirements to maintain a comprehensive register of ICT service arrangements. Look for:
+ • Register structure requirements
+ • Content specifications
+ • Update procedures
+ • Access controls
+ ▪ 
+Follow-up if Missing: Recommend adding detailed requirements for contract register maintenance.
+ ◦ 
+Check for Provider Categorization:
+ ▪ 
+Prompt: Review requirements for documenting ICT third-party service provider categories. Verify:
+ • Categorization criteria
+ • Documentation requirements
+ • Review procedures
+ • Update frequency
+ ▪ 
+Follow-up if Missing: Suggest implementing structured provider categorization framework and documentation requirements.
+5. 
+Contractual Arrangement Documentation
+ ◦ 
+Check for Contract Type Documentation:
+ ▪ 
+Prompt: Search for requirements to document types of contractual arrangements. Look for:
+ • Contract type definitions
+ • Classification criteria
+ • Documentation standards
+ • Maintenance requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive contract type documentation requirements.
+6. 
+Service Documentation
+ ◦ 
+Check for Service Documentation Requirements:
+ ▪ 
+Prompt: Review requirements for documenting ICT services and functions. Verify presence of:
+ • Service descriptions
+ • Function specifications
+ • Performance requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and suggest adding detailed service documentation requirements.
+7. 
+Register Maintenance Procedures
+ ◦ 
+Check for Register Update Requirements:
+ ▪ 
+Prompt: Search for specific procedures regarding register updates and maintenance. Look for:
+ • Update frequency requirements
+ • Responsibility assignments
+ • Review procedures
+ • Quality control measures
+ ▪ 
+Follow-up if Missing: Recommend implementing structured register maintenance procedures with clear responsibilities.
+ ◦ 
+Check for Register Access Controls:
+ ▪ 
+Prompt: Review requirements for register access and security. Verify:
+ • Access control requirements
+ • Security measures
+ • Audit trail requirements
+ • Confidentiality provisions
+ ▪ 
+Follow-up if Missing: Suggest adding comprehensive access control and security requirements for register maintenance.","Contract Documentation
+TASK: Verify completeness of contract documentation
+INSTRUCTIONS:
+1. Check for essential contract elements:
+- Parties' identification
+- Scope of services
+- Rights and obligations
+- Term and termination
+- Pricing and payment terms
+2. Search for sections defining:
+- Critical/important functions
+- Service levels
+- Performance standards
+3. Verify DORA compliance requirements are explicitly stated
+4. Return checklist of found/missing essential elements
+
+
+Register Maintenance
+TASK: Check register maintenance requirements
+INSTRUCTIONS:
+1. Search for: ""register"", ""documentation"", ""record keeping"", ""maintenance""
+2. Verify requirements for maintaining:
+- List of all ICT service arrangements
+- Provider categorization
+- Contract types
+- Service descriptions
+3. Check for:
+- Update frequency requirements
+- Responsibility assignments
+- Access rights to register
+4. Return structured analysis of register requirements with TRUE/FALSE for completeness",,,
+"4. Reporting and Notification Requirements
+
+Regular Reporting
+Does the contract specify annual reporting requirements including:
+- Number of new ICT service arrangements?
+- Categories of ICT third-party service providers?
+- Type of contractual arrangements?
+- ICT services and functions provided?
+
+Critical Function Notification
+Are there provisions for timely notification regarding:
+- Planned contracts supporting critical or important functions?
+- When a function becomes critical or important?
+- Does the agreement allow reporting of risks and incidents to regulators?","1. Regular Reporting
+
+TASK: Does the contract specify annual reporting requirements, including the number of new ICT service arrangements?
+
+Step-by-Step Verification Process:
+1. 
+Understand Annual Reporting Requirements:
+ ◦ 
+Definition: Annual reporting involves submitting detailed information about new ICT service agreements entered into within the reporting period.
+ ◦ 
+Key Information to Look For:
+ ▪ Total number of new contracts.
+ ▪ Summary of changes or additions to ICT service providers.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for sections labeled:
+ ▪ ""Reporting Obligations"", ""Annual Reports"", ""Compliance Reporting"".
+3. 
+Verify Reporting Details:
+ ◦ Check if the contract explicitly mandates annual reporting of:
+ ▪ The total number of new ICT service arrangements.
+ ▪ Reporting timelines (e.g., at the end of each fiscal year).
+4. 
+Document Observations:
+ ◦ Note the clause if reporting requirements are clearly defined.
+ ◦ Highlight gaps if the requirement is missing or ambiguous.
+
+TASK: Does the contract specify annual reporting requirements, including categories of ICT third-party service providers?
+
+Step-by-Step Verification Process:
+1. 
+Understand Provider Categorization:
+ ◦ 
+Definition: Categorization involves grouping third-party providers based on the type of ICT services they offer.
+ ◦ 
+Examples of Categories:
+ ▪ Cloud service providers.
+ ▪ Payment processors.
+ ▪ Infrastructure maintenance providers.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Provider Categories"", ""Service Provider Classification"", ""Third-Party Categories"".
+3. 
+Verify Categorization Requirements:
+ ◦ Check if the contract mandates:
+ ▪ Reporting the categories of ICT service providers annually.
+ ▪ Using specific or standardized categories.
+4. 
+Document Observations:
+ ◦ Extract the relevant clause if categories are specified.
+ ◦ Highlight any missing details for follow-up.
+
+TASK: Does the contract specify annual reporting requirements, including the type of contractual arrangements?
+
+Step-by-Step Verification Process:
+1. 
+Understand Types of Arrangements:
+ ◦ 
+Examples:
+ ▪ Service Level Agreements (SLAs).
+ ▪ Data processing agreements.
+ ▪ Subcontracting arrangements.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Contractual Arrangements"", ""Agreement Types"", ""Service Agreements"".
+3. 
+Verify Reporting Details:
+ ◦ Check if the contract requires:
+ ▪ Documentation of the types of agreements with each ICT third-party provider.
+ ▪ Annual reporting of these types.
+4. 
+Document Observations:
+ ◦ Note if the clause is present and complete.
+ ◦ Highlight any gaps for corrective action.
+
+TASK: Does the contract specify annual reporting requirements, including ICT services and functions provided?
+
+Step-by-Step Verification Process:
+1. 
+Understand Service and Function Reporting Requirements:
+ ◦ 
+Definition: This includes listing all ICT services and functions delivered by third-party providers.
+ ◦ 
+Examples:
+ ▪ Data storage and backup.
+ ▪ Cybersecurity monitoring.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""ICT Services"", ""Provided Functions"", ""Outsourced Activities"".
+3. 
+Verify Reporting Obligations:
+ ◦ Confirm if the contract specifies:
+ ▪ Annual reporting of services and functions provided.
+ ▪ Details about the scope and criticality of each service or function.
+4. 
+Document Observations:
+ ◦ Extract the clause if it meets reporting criteria.
+ ◦ Highlight missing requirements for follow-up.
+
+2. Critical Function Notification
+
+
+TASK: Are there provisions for timely notification regarding planned contracts supporting critical or important functions?
+
+Step-by-Step Verification Process:
+1. 
+Understand Critical Function Notification Requirements:
+ ◦ 
+Definition: This involves informing relevant stakeholders about new contracts that support critical or important functions before they are executed.
+ ◦ 
+Examples of Critical Functions:
+ ▪ Payment processing systems.
+ ▪ Core banking applications.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Critical Function Notification"", ""Planned Contracts"", ""Important Function Reporting"".
+3. 
+Verify Notification Requirements:
+ ◦ Check if the contract mandates:
+ ▪ Advance notification of planned contracts supporting critical or important functions.
+ ▪ Details about notification timelines and methods.
+4. 
+Document Observations:
+ ◦ Extract the relevant clauses if present.
+ ◦ Highlight gaps if requirements are absent.
+
+TASK: Are there provisions for timely notification when a function becomes critical or important?
+
+Step-by-Step Verification Process:
+1. 
+Understand Notification Requirements for Function Changes:
+ ◦ 
+Definition: This involves informing stakeholders when an existing function transitions to being critical or important.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Function Reclassification"", ""Criticality Updates"", ""Operational Importance Notification"".
+3. 
+Verify Notification Obligations:
+ ◦ Confirm if the contract includes:
+ ▪ Triggers for notifying changes in function criticality.
+ ▪ Timelines and methods for reporting these changes.
+4. 
+Document Observations:
+ ◦ Extract and evaluate relevant clauses.
+ ◦ Highlight gaps or ambiguities for corrective action.
+
+TASK: Does the agreement allow reporting of risks and incidents to regulators?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Regulatory Reporting:
+ ◦ 
+Definition: This involves notifying regulatory authorities about risks or incidents affecting operational resilience or compliance.
+ ◦ 
+Examples of Reportable Events:
+ ▪ Data breaches.
+ ▪ Service outages impacting critical functions.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Regulatory Reporting"", ""Incident Notification"", ""Risk Reporting to Authorities"".
+3. 
+Verify Reporting Provisions:
+ ◦ Check if the contract explicitly allows:
+ ▪ Reporting risks or incidents to regulators.
+ ▪ Sharing relevant data with authorities as needed.
+4. 
+Document Observations:
+ ◦ Extract the clause if reporting to regulators is permitted.
+ ◦ Highlight any missing permissions for follow-up.","4. Reporting and Notification Requirements
+1. 
+Annual Reporting Framework
+ ◦ 
+Check for Regular Reporting Requirements:
+ ▪ 
+Prompt: Search for explicit provisions detailing annual reporting obligations. Look specifically for:
+ • Reporting frequency specifications
+ • Submission deadlines
+ • Report format requirements
+ • Responsibility assignments
+ ▪ 
+Follow-up if Missing: Flag as compliance gap and recommend adding structured annual reporting requirements aligned with DORA.
+ ◦ 
+Check for Report Content Requirements:
+ ▪ 
+Prompt: Review specifications for required report content. Verify presence of:
+ • Content structure requirements
+ • Mandatory information elements
+ • Data presentation formats
+ • Supporting documentation requirements
+ ▪ 
+Follow-up if Missing: Recommend implementing comprehensive report content specifications.
+2. 
+New Service Arrangement Reporting
+ ◦ 
+Check for Service Tracking Requirements:
+ ▪ 
+Prompt: Search for provisions requiring documentation and reporting of new ICT service arrangements. Look for:
+ • Tracking methodology
+ • Documentation requirements
+ • Change monitoring procedures
+ • Reporting templates
+ ▪ 
+Follow-up if Missing: Flag as reporting gap and suggest adding specific service tracking requirements.
+ ◦ 
+Check for Quantitative Reporting Requirements:
+ ▪ 
+Prompt: Review requirements for reporting numerical data on service arrangements. Verify:
+ • Counting methodology
+ • Aggregation requirements
+ • Classification criteria
+ • Verification procedures
+ ▪ 
+Follow-up if Missing: Recommend adding detailed quantitative reporting specifications.
+3. 
+Provider Category Reporting
+ ◦ 
+Check for Provider Classification Requirements:
+ ▪ 
+Prompt: Search for provisions requiring reporting on ICT third-party service provider categories. Look for:
+ • Classification criteria
+ • Category definitions
+ • Documentation requirements
+ • Update procedures
+ ▪ 
+Follow-up if Missing: Suggest implementing structured provider classification and reporting framework.
+ ◦ 
+Check for Category Changes Reporting:
+ ▪ 
+Prompt: Review requirements for reporting changes in provider categories. Verify:
+ • Change tracking requirements
+ • Notification procedures
+ • Documentation standards
+ • Review processes
+ ▪ 
+Follow-up if Missing: Recommend adding specific requirements for reporting category changes.
+4. 
+Contract Type Reporting
+ ◦ 
+Check for Contract Classification Requirements:
+ ▪ 
+Prompt: Search for provisions requiring reporting on types of contractual arrangements. Look for:
+ • Contract type definitions
+ • Classification methodology
+ • Reporting format
+ • Update requirements
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and suggest adding contract classification reporting requirements.
+5. 
+Service Function Reporting
+ ◦ 
+Check for Service Documentation Requirements:
+ ▪ 
+Prompt: Review requirements for reporting ICT services and functions. Verify:
+ • Service description requirements
+ • Function categorization
+ • Performance reporting
+ • Status updates
+ ▪ 
+Follow-up if Missing: Recommend implementing comprehensive service reporting framework.
+6. 
+Critical Function Notification
+ ◦ 
+Check for Critical Function Planning Notification:
+ ▪ 
+Prompt: Search for provisions requiring notification of planned critical function contracts. Look for:
+ • Notification triggers
+ • Timeline requirements
+ • Documentation standards
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Flag as critical gap and suggest adding specific notification requirements for planned critical functions.
+ ◦ 
+Check for Criticality Change Notification:
+ ▪ 
+Prompt: Review requirements for notifying when functions become critical. Verify:
+ • Change assessment criteria
+ • Notification procedures
+ • Timeline requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive criticality change notification requirements.
+7. 
+Regulatory Reporting
+ ◦ 
+Check for Regulatory Reporting Permissions:
+ ▪ 
+Prompt: Search for provisions allowing reporting to regulators. Look for:
+ • Explicit permissions
+ • Reporting scope
+ • Confidentiality provisions
+ • Information sharing protocols
+ ▪ 
+Follow-up if Missing: Flag as regulatory gap and suggest adding explicit regulatory reporting permissions.
+ ◦ 
+Check for Incident Reporting Requirements:
+ ▪ 
+Prompt: Review requirements for reporting incidents to regulators. Verify:
+ • Incident classification criteria
+ • Reporting procedures
+ • Timeline requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Recommend implementing structured incident reporting framework for regulatory compliance.","Regular Reporting
+TASK: Verify annual reporting requirements
+INSTRUCTIONS:
+1. Search for sections containing: ""reporting"", ""annual report"", ""periodic reporting""
+2. Check if contract specifies reporting of:
+a. Parse for new arrangements:
+- Keywords: ""new services"", ""new arrangements"", ""additional services""
+- Reporting timeframes
+- Required details
+b. Parse for provider categories:
+- Provider classification requirements
+- Category definitions
+- Reporting format
+c. Check for contractual arrangement types:
+- Service type classifications
+- Contract categories
+- Arrangement descriptions
+3. Verify reporting frequency meets minimum annual requirement
+4. Return structured analysis with TRUE/FALSE for each reporting element
+
+
+Critical Function Notification
+TASK: Check notification requirements for critical functions
+INSTRUCTIONS:
+1. Search for: ""notification"", ""critical function"", ""important function"", ""material change""
+2. Verify presence of:
+a. Notification requirements for:
+- New critical functions
+- Changes to existing functions
+- Timeline requirements for notifications
+b. Process for determining criticality:
+- Assessment criteria
+- Decision process
+- Documentation requirements
+3. Check for regulatory reporting provisions
+4. Return analysis of notification requirements with compliance assessment",,,
+"5. Operational Controls and Rights
+
+Subcontracting Controls
+- Are restrictions and conditions for subcontracting clearly defined?
+- Is prior approval required for engaging subcontractors?
+- Are there provisions for monitoring subcontractor compliance?
+
+Access and Audit Rights
+- 
+Does the contract grant audit rights over systems, processes, and data? 
+- Are regulatory body inspection rights included?
+
+Resilience and Incident Management
+- 
+Are BCDR plans required and aligned with operational needs? 
+- Is there a clear incident response plan with notification timelines?
+- Are regular testing requirements specified?
+
+Termination Provisions
+- 
+Are there clear termination clauses for material breach or non-compliance? 
+- Are transition plans included to ensure service continuity?","1. Subcontracting Controls
+
+TASK: Are restrictions and conditions for subcontracting clearly defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontracting Restrictions and Conditions:
+ ◦ 
+Definition: Restrictions and conditions specify which functions or services may be subcontracted and under what terms.
+ ◦ 
+Examples:
+ ▪ Prohibition on subcontracting critical functions.
+ ▪ Geographic restrictions on subcontractors.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Subcontracting Restrictions"", ""Conditions for Subcontracting"", ""Outsourcing Terms"".
+3. 
+Verify Specificity of Restrictions and Conditions:
+ ◦ Confirm if the contract explicitly states:
+ ▪ Which functions may or may not be subcontracted.
+ ▪ Conditions for subcontracting, such as security requirements or approvals.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses if restrictions and conditions are clearly defined.
+ ◦ Highlight gaps or ambiguities for follow-up.
+
+TASK: Is prior approval required for engaging subcontractors?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Prior Approval:
+ ◦ 
+Definition: Prior approval ensures the financial entity retains oversight over subcontracting decisions.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Prior Approval"", ""Authorization for Subcontracting"", ""Consent for Subcontractors"".
+3. 
+Verify Approval Process:
+ ◦ Confirm that the contract specifies:
+ ▪ Written approval from the financial entity before subcontracting.
+ ▪ Criteria for granting approval.
+4. 
+Document Observations:
+ ◦ Extract the clause if prior approval is required.
+ ◦ Highlight gaps if the requirement is not addressed.
+
+TASK: Are there provisions for monitoring subcontractor compliance?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontractor Monitoring Requirements:
+ ◦ 
+Definition: Monitoring ensures subcontractors adhere to regulatory and contractual obligations.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Subcontractor Monitoring"", ""Compliance Checks"", ""Subcontractor Audits"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Check if the contract requires:
+ ▪ Regular compliance checks or audits of subcontractors.
+ ▪ Reporting on subcontractor performance.
+4. 
+Document Observations:
+ ◦ Extract clauses describing monitoring provisions.
+ ◦ Highlight gaps or ambiguities.
+
+2. Access and Audit Rights
+
+
+TASK: Does the contract grant audit rights over systems, processes, and data?
+
+Step-by-Step Verification Process:
+1. 
+Understand Audit Rights:
+ ◦ 
+Definition: Audit rights allow the financial entity to review the provider’s systems, processes, and data to ensure compliance.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Audit Rights"", ""Inspection Rights"", ""Access to Systems"".
+3. 
+Verify Scope of Audit Rights:
+ ◦ Confirm that the contract explicitly grants:
+ ▪ The right to audit systems, processes, and data.
+ ▪ The frequency and scope of audits.
+4. 
+Document Observations:
+ ◦ Extract the relevant clauses.
+ ◦ Highlight any gaps in the scope or frequency of audits.
+
+TASK: Are regulatory body inspection rights included?
+
+Step-by-Step Verification Process:
+1. 
+Understand Regulatory Inspection Requirements:
+ ◦ 
+Definition: Regulatory inspection rights allow supervisory authorities to access systems and data to verify compliance.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""Regulatory Access"", ""Inspection by Authorities"", ""Regulator Oversight"".
+3. 
+Verify Access Provisions:
+ ◦ Confirm that the contract includes:
+ ▪ Provisions granting access to regulatory bodies.
+ ▪ Specific rights for inspecting systems and processes.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing regulatory inspection rights.
+ ◦ Highlight gaps or missing provisions.
+
+3. Resilience and Incident Management
+
+
+TASK: Are BCDR plans required and aligned with operational needs?
+
+Step-by-Step Verification Process:
+1. 
+Understand BCDR Requirements:
+ ◦ 
+Definition: Business Continuity and Disaster Recovery (BCDR) plans ensure operational resilience during disruptions.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Business Continuity"", ""Disaster Recovery"", ""Operational Resilience"".
+3. 
+Verify Alignment with Operational Needs:
+ ◦ Confirm if the contract requires:
+ ▪ BCDR plans tailored to the financial entity’s critical operations.
+ ▪ Regular updates and testing of these plans.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses.
+ ◦ Highlight gaps or missing alignment with operational needs.
+
+TASK: Is there a clear incident response plan with notification timelines?
+
+Step-by-Step Verification Process:
+1. 
+Understand Incident Response Plan Requirements:
+ ◦ 
+Definition: An incident response plan outlines steps for addressing ICT-related incidents, including reporting and resolution.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Incident Response"", ""Notification Timelines"", ""Incident Management"".
+3. 
+Verify Plan Details:
+ ◦ Check if the contract specifies:
+ ▪ Clear timelines for incident notification.
+ ▪ Steps for escalation and resolution.
+4. 
+Document Observations:
+ ◦ Extract clauses describing the incident response plan.
+ ◦ Highlight gaps in timelines or procedures.
+
+TASK: Are regular testing requirements specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Testing Requirements:
+ ◦ 
+Definition: Regular testing ensures that resilience measures, such as BCDR plans, remain effective.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Testing Requirements"", ""Resilience Testing"", ""Scenario-Based Exercises"".
+3. 
+Verify Testing Details:
+ ◦ Confirm that the contract mandates:
+ ▪ Specific testing intervals (e.g., annual).
+ ▪ Reporting of test results and updates to plans.
+4. 
+Document Observations:
+ ◦ Extract clauses describing testing requirements.
+ ◦ Highlight missing or vague testing provisions.
+
+4. Termination Provisions
+
+
+TASK: Are there clear termination clauses for material breach or non-compliance?
+
+Step-by-Step Verification Process:
+1. 
+Understand Termination Provisions:
+ ◦ 
+Definition: Termination clauses specify the conditions under which the contract can be ended, such as regulatory non-compliance or operational failures.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Termination Provisions"", ""Contract Termination"", ""Material Breach"".
+3. 
+Verify Termination Conditions:
+ ◦ Confirm that the contract includes:
+ ▪ Specific conditions for termination.
+ ▪ Remedies or penalties for breaches.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses.
+ ◦ Highlight gaps or ambiguities in termination terms.
+
+TASK: Are transition plans included to ensure service continuity?
+
+Step-by-Step Verification Process:
+1. 
+Understand Transition Planning Requirements:
+ ◦ 
+Definition: Transition plans outline steps for ensuring continuity of services during contract termination or provider replacement.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Transition Plans"", ""Service Continuity"", ""Operational Continuity"".
+3. 
+Verify Transition Plan Details:
+ ◦ Confirm that the contract specifies:
+ ▪ Steps for transferring services and data.
+ ▪ Timelines and responsibilities for transition.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing transition plans.
+ ◦ Highlight missing or unclear provisions.","5. Operational Controls and Rights
+1. 
+Subcontracting Control Framework
+ ◦ 
+Check for Subcontracting Restrictions:
+ ▪ 
+Prompt: Search for explicit provisions defining restrictions on subcontracting. Look specifically for:
+ • Prohibited activities
+ • Geographic restrictions
+ • Service type limitations
+ • Chain length restrictions
+ • Specific excluded functions
+ ▪ 
+Follow-up if Missing: Flag as control gap and recommend adding comprehensive subcontracting restrictions aligned with DORA requirements.
+ ◦ 
+Check for Subcontracting Conditions:
+ ▪ 
+Prompt: Review conditions under which subcontracting is permitted. Verify presence of:
+ • Qualification criteria for subcontractors
+ • Minimum security requirements
+ • Compliance obligations
+ • Performance standards
+ • Risk assessment requirements
+ ▪ 
+Follow-up if Missing: Recommend implementing detailed subcontracting condition framework.
+2. 
+Approval Process Requirements
+ ◦ 
+Check for Prior Approval Framework:
+ ▪ 
+Prompt: Search for provisions requiring prior approval for subcontractor engagement. Look for:
+ • Approval request procedures
+ • Required documentation
+ • Assessment criteria
+ • Decision timelines
+ • Approval authority designation
+ ▪ 
+Follow-up if Missing: Flag as critical control gap and suggest adding structured approval process.
+ ◦ 
+Check for Change Management Requirements:
+ ▪ 
+Prompt: Review requirements for managing changes to subcontractor arrangements. Verify:
+ • Change notification requirements
+ • Assessment procedures
+ • Approval processes
+ • Documentation standards
+ • Timeline requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive change management requirements.
+3. 
+Subcontractor Compliance Monitoring
+ ◦ 
+Check for Monitoring Requirements:
+ ▪ 
+Prompt: Search for provisions requiring monitoring of subcontractor compliance. Look for:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ • Oversight responsibilities
+ ▪ 
+Follow-up if Missing: Suggest implementing structured monitoring framework.
+ ◦ 
+Check for Assessment and Review Requirements:
+ ▪ 
+Prompt: Review requirements for assessing subcontractor performance. Verify:
+ • Assessment criteria
+ • Review frequency
+ • Documentation requirements
+ • Corrective action procedures
+ • Escalation protocols
+ ▪ 
+Follow-up if Missing: Flag as monitoring gap and recommend adding detailed assessment requirements.
+4. 
+Access and Audit Rights
+ ◦ 
+Check for System Access Rights:
+ ▪ 
+Prompt: Search for provisions granting comprehensive audit rights over systems. Look for:
+ • Scope of access
+ • Access conditions
+ • Notice requirements
+ • Security protocols
+ • Documentation requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed system access rights provisions.
+ ◦ 
+Check for Process Audit Rights:
+ ▪ 
+Prompt: Review rights to audit processes and procedures. Verify:
+ • Audit scope
+ • Methodology requirements
+ • Documentation access
+ • Testing permissions
+ • Report requirements
+ ▪ 
+Follow-up if Missing: Flag as audit gap and suggest adding comprehensive process audit rights.
+5. 
+Regulatory Inspection Rights
+ ◦ 
+Check for Regulatory Access Provisions:
+ ▪ 
+Prompt: Search for provisions allowing regulatory body inspections. Look for:
+ • Access scope
+ • Notice requirements
+ • Cooperation obligations
+ • Documentation requirements
+ • Information sharing protocols
+ ▪ 
+Follow-up if Missing: Recommend adding explicit regulatory inspection rights.
+6. 
+Resilience Requirements
+ ◦ 
+Check for BCDR Plan Requirements:
+ ▪ 
+Prompt: Review requirements for Business Continuity and Disaster Recovery plans. Verify:
+ • Plan components
+ • Alignment with operational needs
+ • Update frequency
+ • Testing requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as resilience gap and suggest adding comprehensive BCDR requirements.
+7. 
+Incident Management Framework
+ ◦ 
+Check for Incident Response Requirements:
+ ▪ 
+Prompt: Search for incident response plan specifications. Look for:
+ • Response procedures
+ • Notification timelines
+ • Escalation protocols
+ • Documentation requirements
+ • Communication plans
+ ▪ 
+Follow-up if Missing: Recommend implementing structured incident response framework.
+8. 
+Testing Framework
+ ◦ 
+Check for Testing Requirements:
+ ▪ 
+Prompt: Review requirements for regular testing of controls and procedures. Verify:
+ • Test types
+ • Frequency requirements
+ • Documentation standards
+ • Result reporting
+ • Improvement procedures
+ ▪ 
+Follow-up if Missing: Flag as testing gap and suggest adding comprehensive testing requirements.
+9. 
+Termination Framework
+ ◦ 
+Check for Termination Clauses:
+ ▪ 
+Prompt: Search for clear termination provisions. Look for:
+ • Termination triggers
+ • Notice requirements
+ • Material breach definitions
+ • Non-compliance criteria
+ • Process requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed termination provisions.
+10. 
+Transition Planning
+ ◦ 
+Check for Transition Requirements:
+ ◦ 
+Prompt: Review requirements for service continuity during transition. Verify:
+ ▪ Transition plan components
+ ▪ Timeline requirements
+ ▪ Resource allocation
+ ▪ Knowledge transfer
+ ▪ Data migration procedures
+ ◦ 
+Follow-up if Missing: Flag as continuity gap and suggest adding comprehensive transition planning requirements.","Subcontracting Controls & Rights
+TASK: Analyze subcontracting provisions
+INSTRUCTIONS:
+1. Search for: ""subcontract"", ""third party"", ""outsource"", ""delegate""
+2. Verify presence of:
+a. Subcontracting restrictions:
+- Prohibited activities
+- Geographical restrictions
+- Required qualifications
+b. Approval process:
+- Prior approval requirements
+- Documentation needed
+- Assessment criteria
+3. Check for subcontractor monitoring requirements
+4. Return structured analysis of subcontracting controls with compliance assessment
+
+
+Access and Audit Rights
+TASK: Verify audit and access rights
+INSTRUCTIONS:
+1. Search for: ""audit"", ""access"", ""inspection"", ""review""
+2. Check for:
+a. Audit rights covering:
+- Systems access
+- Data access
+- Process review
+- Documentation review
+b. Regulatory access provisions:
+- Regulator rights
+- Inspection scope
+- Access conditions
+3. Verify timing and notice requirements
+4. Return comprehensive analysis of audit rights with TRUE/FALSE for completeness
+
+
+Resilience and Incident Management
+TASK: Check BCDR and incident management requirements
+INSTRUCTIONS:
+1. Search for: ""business continuity"", ""disaster recovery"", ""incident"", ""BCDR""
+2. Verify presence of:
+a. BCDR requirements:
+- Plan components
+- Testing requirements
+- Update frequency
+b. Incident response:
+- Response times
+- Escalation procedures
+- Communication requirements
+3. Check testing and reporting requirements
+4. Return structured analysis of resilience provisions with compliance assessment
+
+
+Termination Provisions
+TASK: Analyze termination clauses
+INSTRUCTIONS:
+1. Search for: ""termination"", ""exit"", ""transition"", ""wind-down""
+2. Verify presence of:
+a. Termination triggers:
+- Material breach
+- Non-compliance
+- Performance issues
+b. Transition requirements:
+- Service continuity
+- Data transfer
+- Knowledge transfer
+3. Check for:
+- Notice periods
+- Transition assistance
+- Data return/destruction
+4. Return analysis of termination provisions with compliance assessment",,,

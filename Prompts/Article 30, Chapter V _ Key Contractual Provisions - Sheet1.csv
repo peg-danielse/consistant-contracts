@@ -1,0 +1,374 @@
+REQUIREMENTS & CRITERIA,HUMAN INSTRUCTION SET,SUGGESTED PROMPTS,SUGGESTED INSTRUCTION SET
+"1. Contractual Clarity and Documentation
+1. Does the contract explicitly allocate the rights and obligations of the financial entity and the ICT third-party service provider?
+2. Is the full contract, including service level agreements (SLAs), documented in one accessible and durable format, such as paper or a downloadable digital file?","TASK: Does the contract explicitly allocate the rights and obligations of the financial entity and the ICT third-party service provider?
+
+Step-by-Step Verification Process:
+1. 
+Understand Rights and Obligations in the Context of ICT Agreements:
+ ◦ 
+Definition: Rights and obligations outline the specific duties and entitlements of both the financial entity and the ICT third-party service provider.
+ ◦ 
+Examples of Rights and Obligations:
+ ▪ **Financial Entity Rights:**▪ Access to data and systems.▪ Termination rights in case of non-compliance.
+ ▪ **Provider Obligations:**▪ Delivering services as per agreed performance levels.▪ Compliance with DORA and other regulatory requirements.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for sections labeled:
+ ▪ ""Roles and Responsibilities"", ""Duties and Obligations"", ""Allocation of Rights"".
+3. 
+Verify Specificity of Rights and Obligations:
+ ◦ Check if the contract clearly specifies:
+ ▪ The scope of services to be delivered by the provider.
+ ▪ Responsibilities of the financial entity (e.g., providing required inputs or access).
+ ▪ Remedies and penalties for failure to meet obligations.
+4. 
+Cross-Reference with Other Sections:
+ ◦ Ensure that the rights and obligations are consistent across related sections, such as ""Service Levels"" or ""Compliance Obligations"".
+5. 
+Document Observations:
+ ◦ Extract relevant clauses if rights and obligations are clearly allocated.
+ ◦ Highlight gaps or ambiguities for follow-up.
+
+TASK: Is the full contract, including service level agreements (SLAs), documented in one accessible and durable format, such as paper or a downloadable digital file?
+
+
+Step-by-Step Verification Process:
+1. 
+Understand Documentation and Accessibility Requirements:
+ ◦ 
+Definition: The full contract, including any annexes like SLAs, must be documented in a format that ensures accessibility and durability for future reference.
+ ◦ 
+Examples of Acceptable Formats:
+ ▪ Paper copy stored securely.
+ ▪ Digital file that is easily downloadable and maintained (e.g., PDF format).
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for sections titled:
+ ▪ ""Contract Documentation"", ""Service Level Agreements (SLAs)"", ""Archiving and Access"".
+3. 
+Verify Documentation Completeness and Format:
+ ◦ Check if the contract specifies:
+ ▪ Inclusion of all essential elements (e.g., SLAs, annexes, compliance requirements).
+ ▪ Maintenance of a durable and accessible format for future audits or reviews.
+4. 
+Ensure Compliance with Regulatory Standards:
+ ◦ Confirm if the format meets regulatory requirements for record-keeping and durability (e.g., compliance with EU standards).
+5. 
+Document Observations:
+ ◦ Extract clauses detailing documentation and format requirements.
+ ◦ Highlight any gaps or inconsistencies for further action.",,
+"2. Mandatory Elements in ICT Service Agreements
+1. 
+Service Description:
+ ◦ Does the contract include a clear and complete description of all ICT services and functions provided by the ICT third-party service provider?
+ ◦ Does it indicate whether subcontracting for critical or important functions is permitted, and if so, under what conditions?
+2. 
+Service Locations:
+ ◦ Are the regions or countries where services are provided and data is processed explicitly listed?
+ ◦ Does the contract include provisions requiring the ICT third-party service provider to notify the financial entity of any planned changes to these locations in advance?
+3. 
+Data Protection:
+ ◦ Are provisions included to ensure the availability, authenticity, integrity, and confidentiality of both personal and non-personal data?
+ ◦ Do these provisions specify measures for compliance with EU data protection laws?
+4. 
+Access and Recovery of Data:
+ ◦ Does the contract include provisions for ensuring access, recovery, and return of data (personal and non-personal) in an easily accessible format in cases of:
+ ▪ Insolvency?
+ ▪ Business discontinuation of the ICT third-party service provider?
+ ▪ Termination of the contract?
+5. 
+Service Levels and Updates:
+ ◦ Are service levels explicitly described, including provisions for updates and revisions?
+ ◦ Are there performance metrics included that allow effective monitoring and corrective actions?
+6. 
+Incident Assistance:
+ ◦ Does the contract obligate the ICT third-party service provider to assist the financial entity during ICT incidents?
+ ◦ Are the costs for such assistance specified, either as included or pre-determined?
+7. 
+Cooperation with Authorities:
+ ◦ Is the ICT third-party service provider obligated to cooperate fully with competent and resolution authorities, including those appointed by the financial entity?
+8. 
+Termination Provisions:
+ ◦ Are termination rights clearly defined, including minimum notice periods?
+ ◦ Do termination rights align with expectations from competent and resolution authorities?
+9. 
+Participation in Security and Training Programs:
+ ◦ Are conditions outlined for the ICT third-party service provider to participate in the financial entity’s ICT security awareness and digital resilience training programs?","TASK: Does the contract include a clear and complete description of all ICT services and functions provided by the ICT third-party service provider?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Service Descriptions:
+ ◦ 
+Definition: A service description provides a detailed overview of the services and functions the ICT third-party service provider delivers.
+ ◦ 
+Examples of ICT Services:
+ ▪ Data storage and backup solutions.
+ ▪ Payment processing systems.
+ ▪ Cybersecurity monitoring services.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for sections titled:
+ ▪ ""Description of Services"", ""Scope of ICT Functions"", ""Service Overview"".
+3. 
+Verify Completeness of the Description:
+ ◦ Check if the contract specifies:
+ ▪ Each service provided, including its scope and purpose.
+ ▪ How the services align with the financial entity’s operational needs.
+4. 
+Document Observations:
+ ◦ Extract clauses that detail service descriptions.
+ ◦ Highlight gaps or unclear descriptions for follow-up.
+
+TASK: Does it indicate whether subcontracting for critical or important functions is permitted, and if so, under what conditions?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontracting for Critical Functions:
+ ◦ 
+Definition: Subcontracting for critical functions refers to engaging third parties to perform services essential to operational resilience.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Subcontracting Permissions"", ""Critical Functions Outsourcing"", ""Conditions for Subcontracting"".
+3. 
+Verify Subcontracting Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Whether subcontracting is permitted for critical or important functions.
+ ▪ Conditions under which subcontracting is allowed (e.g., prior approval, risk assessments).
+4. 
+Document Observations:
+ ◦ Extract clauses addressing subcontracting permissions and conditions.
+ ◦ Highlight gaps in subcontracting provisions for further action.
+
+TASK: Are the regions or countries where services are provided and data is processed explicitly listed?
+
+
+Step-by-Step Verification Process:
+1. 
+Understand Location Requirements:
+ ◦ 
+Definition: Identifying service locations ensures transparency about where data is processed and services are delivered.
+ ◦ 
+Examples of Relevant Locations:
+ ▪ Data centers in specific countries.
+ ▪ Regional hubs managing critical services.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Service Locations"", ""Geographical Coverage"", ""Data Processing Regions"".
+3. 
+Verify Listing of Locations:
+ ◦ Confirm if the contract explicitly lists:
+ ▪ All countries or regions where ICT services are provided.
+ ▪ Locations where data is stored or processed.
+4. 
+Document Observations:
+ ◦ Extract clauses specifying service and processing locations.
+ ◦ Highlight gaps or missing information for follow-up.
+
+TASK: Does the contract include provisions requiring the ICT third-party service provider to notify the financial entity of any planned changes to these locations in advance?
+
+Step-by-Step Verification Process:
+1. 
+Understand Notification Requirements:
+ ◦ 
+Definition: Advance notification ensures the financial entity can assess risks associated with location changes.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Location Change Notification"", ""Data Center Relocation"", ""Advance Notice of Changes"".
+3. 
+Verify Notification Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Timelines for advance notifications (e.g., 30 days prior).
+ ▪ Processes for evaluating risks associated with location changes.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing location change notifications.
+ ◦ Highlight gaps or missing requirements for action.
+
+TASK: Are provisions included to ensure the availability, authenticity, integrity, and confidentiality of both personal and non-personal data?
+
+
+Step-by-Step Verification Process:
+1. 
+Understand Data Protection Requirements:
+ ◦ 
+Definition: Ensuring data security involves maintaining its availability, authenticity, integrity, and confidentiality.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Data Security"", ""Confidentiality Requirements"", ""Integrity and Availability"".
+3. 
+Verify Security Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Measures to prevent unauthorized access (e.g., encryption, firewalls).
+ ▪ Mechanisms to ensure data availability during disruptions (e.g., backups).
+4. 
+Document Observations:
+ ◦ Extract clauses detailing data security measures.
+ ◦ Highlight gaps in provisions for follow-up.
+
+TASK: Do these provisions specify measures for compliance with EU data protection laws?
+
+Step-by-Step Verification Process:
+1. 
+Understand EU Data Protection Compliance:
+ ◦ 
+Definition: Ensuring compliance with laws like GDPR is critical for managing personal and non-personal data.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""GDPR Compliance"", ""EU Data Protection"", ""Privacy Regulations"".
+3. 
+Verify Compliance Provisions:
+ ◦ Confirm if the contract mandates:
+ ▪ Adherence to EU data protection laws.
+ ▪ Specific processes for handling and processing personal data.
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses addressing compliance with EU data protection laws.
+ ◦ Highlight gaps or missing provisions for corrective action.
+
+TASK: Does the contract include a clear and complete description of all ICT services and functions provided by the ICT third-party service provider?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Service Descriptions:
+ ◦ 
+Definition: A service description provides a detailed overview of the services and functions the ICT third-party service provider delivers.
+ ◦ 
+Examples of ICT Services:
+ ▪ Data storage and backup solutions.
+ ▪ Payment processing systems.
+ ▪ Cybersecurity monitoring services.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for sections titled:
+ ▪ ""Description of Services"", ""Scope of ICT Functions"", ""Service Overview"".
+3. 
+Verify Completeness of the Description:
+ ◦ Check if the contract specifies:
+ ▪ Each service provided, including its scope and purpose.
+ ▪ How the services align with the financial entity’s operational needs.
+4. 
+Document Observations:
+ ◦ Extract clauses that detail service descriptions.
+ ◦ Highlight gaps or unclear descriptions for follow-up.
+
+TASK: Does it indicate whether subcontracting for critical or important functions is permitted, and if so, under what conditions?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontracting for Critical Functions:
+ ◦ 
+Definition: Subcontracting for critical functions refers to engaging third parties to perform services essential to operational resilience.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Subcontracting Permissions"", ""Critical Functions Outsourcing"", ""Conditions for Subcontracting"".
+3. 
+Verify Subcontracting Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Whether subcontracting is permitted for critical or important functions.
+ ▪ Conditions under which subcontracting is allowed (e.g., prior approval, risk assessments).
+4. 
+Document Observations:
+ ◦ Extract clauses addressing subcontracting permissions and conditions.
+ ◦ Highlight gaps in subcontracting provisions for further action.
+
+TASK: Are the regions or countries where services are provided and data is processed explicitly listed?
+
+
+Step-by-Step Verification Process:
+1. 
+Understand Location Requirements:
+ ◦ 
+Definition: Identifying service locations ensures transparency about where data is processed and services are delivered.
+ ◦ 
+Examples of Relevant Locations:
+ ▪ Data centers in specific countries.
+ ▪ Regional hubs managing critical services.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Service Locations"", ""Geographical Coverage"", ""Data Processing Regions"".
+3. 
+Verify Listing of Locations:
+ ◦ Confirm if the contract explicitly lists:
+ ▪ All countries or regions where ICT services are provided.
+ ▪ Locations where data is stored or processed.
+4. 
+Document Observations:
+ ◦ Extract clauses specifying service and processing locations.
+ ◦ Highlight gaps or missing information for follow-up.
+
+TASK: Does the contract include provisions requiring the ICT third-party service provider to notify the financial entity of any planned changes to these locations in advance?
+
+Step-by-Step Verification Process:
+1. 
+Understand Notification Requirements:
+ ◦ 
+Definition: Advance notification ensures the financial entity can assess risks associated with location changes.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Location Change Notification"", ""Data Center Relocation"", ""Advance Notice of Changes"".
+3. 
+Verify Notification Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Timelines for advance notifications (e.g., 30 days prior).
+ ▪ Processes for evaluating risks associated with location changes.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing location change notifications.
+ ◦ Highlight gaps or missing requirements for action.
+
+TASK: Are provisions included to ensure the availability, authenticity, integrity, and confidentiality of both personal and non-personal data?
+
+
+Step-by-Step Verification Process:
+1. 
+Understand Data Protection Requirements:
+ ◦ 
+Definition: Ensuring data security involves maintaining its availability, authenticity, integrity, and confidentiality.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Data Security"", ""Confidentiality Requirements"", ""Integrity and Availability"".
+3. 
+Verify Security Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Measures to prevent unauthorized access (e.g., encryption, firewalls).
+ ▪ Mechanisms to ensure data availability during disruptions (e.g., backups).
+4. 
+Document Observations:
+ ◦ Extract clauses detailing data security measures.
+ ◦ Highlight gaps in provisions for follow-up.
+
+TASK: Do these provisions specify measures for compliance with EU data protection laws?
+
+Step-by-Step Verification Process:
+1. 
+Understand EU Data Protection Compliance:
+ ◦ 
+Definition: Ensuring compliance with laws like GDPR is critical for managing personal and non-personal data.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""GDPR Compliance"", ""EU Data Protection"", ""Privacy Regulations"".
+3. 
+Verify Compliance Provisions:
+ ◦ Confirm if the contract mandates:
+ ▪ Adherence to EU data protection laws.
+ ▪ Specific processes for handling and processing personal data.
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses addressing compliance with EU data protection laws.
+ ◦ Highlight gaps or missing provisions for corrective action.",,
+"3. Additional Requirements for Critical or Important Functions
+1. 
+Enhanced Service Level Descriptions:
+ ◦ Are full service levels provided, including precise quantitative and qualitative performance targets?
+ ◦ Do the descriptions enable effective monitoring and prompt corrective action for service level failures?",,,

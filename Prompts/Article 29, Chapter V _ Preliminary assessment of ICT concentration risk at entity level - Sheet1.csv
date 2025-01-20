@@ -1,0 +1,2605 @@
+REQUIREMENTS & CRITERIA,HUMAN INSTRUCTION SET,SUGGESTED PROMPTS,SUGGESTED INSTRUCTIONSET
+"1. Initial Risk and Concentration Assessment
+1. 
+Substitutability Analysis
+ ◦ Has an assessment been made whether the ICT third-party service provider is easily substitutable?
+ ◦ Are criteria defined for determining substitutability?
+ ◦ Is there documentation of alternative providers in the market?
+ ◦ Has a cost-benefit analysis of alternative solutions been conducted?
+ ◦ Are there provisions for maintaining awareness of market alternatives?
+2. 
+Multiple Contract and Dependency Analysis
+ ◦ Has an assessment been made of existing contractual arrangements with the same provider?
+ ◦ Are there assessments of arrangements with closely connected providers?
+ ◦ Has the concentration risk of multiple services from one provider been evaluated?
+ ◦ Is there an assessment of interdependencies between different services?
+ ◦ Has the market concentration risk (provider's market share) been evaluated?
+3. 
+Geographic and Jurisdictional Assessment
+ ◦ Has geographical concentration risk been assessed?
+ ◦ For third-country providers, is there an assessment of:
+ ▪ Compliance with EU data protection rules?
+ ▪ Effectiveness of law enforcement?
+ ▪ Data localization requirements and risks?
+ ▪ Country-specific operational risks?","1. Substitutability Analysis
+
+TASK: Has an assessment been made whether the ICT third-party service provider is easily substitutable?
+
+Step-by-Step Verification Process:
+1. 
+Understand Substitutability Requirements:
+ ◦ 
+Definition: Substitutability refers to the ease with which the financial entity can replace the ICT third-party service provider without significant operational disruptions.
+ ◦ 
+Key Factors to Consider:
+ ▪ Availability of alternative providers.
+ ▪ Cost and complexity of substitution.
+ ▪ Compatibility with existing systems.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Substitutability Assessment"", ""Replacement of Provider"", ""Alternative Providers"".
+3. 
+Verify the Assessment Process:
+ ◦ Check if the contract specifies a process for assessing substitutability.
+ ◦ Confirm if the assessment includes technical, operational, and financial feasibility.
+4. 
+Document Observations:
+ ◦ Extract the clauses if substitutability is addressed.
+ ◦ Highlight gaps if no assessment process is mentioned.
+
+TASK: Are criteria defined for determining substitutability?
+
+Step-by-Step Verification Process:
+1. 
+Understand Criteria for Substitutability:
+ ◦ 
+Examples of Criteria:
+ ▪ Technical compatibility.
+ ▪ Cost-effectiveness.
+ ▪ Time required for transition.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Substitution Criteria"", ""Assessment Standards"", ""Replacement Factors"".
+3. 
+Check for Explicit Criteria:
+ ◦ Verify if the contract defines measurable criteria for determining substitutability.
+4. 
+Document Observations:
+ ◦ Extract clauses specifying criteria.
+ ◦ Highlight gaps or ambiguities for further action.
+
+TASK: Is there documentation of alternative providers in the market?
+
+Step-by-Step Verification Process:
+1. 
+Understand Documentation Requirements:
+ ◦ 
+Definition: Maintaining a list of alternative providers ensures readiness to transition if needed.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""Alternative Providers"", ""Market Analysis"", ""Competitive Landscape"".
+3. 
+Verify Documentation Obligations:
+ ◦ Check if the contract requires maintaining an updated list of alternative providers.
+ ◦ Confirm if the documentation includes provider details and capabilities.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses.
+ ◦ Highlight gaps in documentation requirements.
+
+TASK: Has a cost-benefit analysis of alternative solutions been conducted?
+
+Step-by-Step Verification Process:
+1. 
+Understand Cost-Benefit Analysis Requirements:
+ ◦ 
+Definition: Evaluating the financial and operational impact of using alternative providers.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Cost-Benefit Analysis"", ""Provider Evaluation"", ""Alternatives Assessment"".
+3. 
+Verify the Analysis Details:
+ ◦ Check if the contract requires evaluating:
+ ▪ Costs of transition.
+ ▪ Operational risks and benefits.
+ ▪ Long-term feasibility.
+4. 
+Document Observations:
+ ◦ Extract clauses if the cost-benefit analysis is addressed.
+ ◦ Highlight gaps if not mentioned.
+
+TASK: Are there provisions for maintaining awareness of market alternatives?
+
+Step-by-Step Verification Process:
+1. 
+Understand Market Awareness Requirements:
+ ◦ 
+Definition: Continuous monitoring of market alternatives ensures adaptability to changes in provider capabilities or availability.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""Market Awareness"", ""Alternative Monitoring"", ""Competitive Analysis"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Check if the contract requires periodic reviews of market alternatives.
+ ◦ Confirm if triggers for re-evaluating alternatives (e.g., performance issues) are included.
+4. 
+Document Observations:
+ ◦ Extract clauses related to market awareness.
+ ◦ Highlight missing provisions for follow-up.
+
+2. Multiple Contract and Dependency Analysis
+
+
+TASK: Has an assessment been made of existing contractual arrangements with the same provider?
+
+Step-by-Step Verification Process:
+1. 
+Understand Dependency Risks:
+ ◦ 
+Definition: Assessing existing contracts helps identify over-reliance on a single provider.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Existing Contracts"", ""Provider Dependency"", ""Current Arrangements"".
+3. 
+Verify Assessment Requirements:
+ ◦ Check if the contract mandates a review of:
+ ▪ Number of active agreements with the same provider.
+ ▪ Scope and criticality of each agreement.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing this assessment.
+ ◦ Highlight gaps if not included.
+
+TASK: Are there assessments of arrangements with closely connected providers?
+
+Step-by-Step Verification Process:
+1. 
+Understand Connections Between Providers:
+ ◦ 
+Definition: Closely connected providers may share financial or operational ties, increasing risk exposure.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""Connected Providers"", ""Affiliated Providers"", ""Group Dependencies"".
+3. 
+Verify Assessment Provisions:
+ ◦ Check if the contract requires evaluating risks from closely connected providers.
+4. 
+Document Observations:
+ ◦ Extract clauses if present.
+ ◦ Highlight gaps for improvement.
+
+TASK: Has the concentration risk of multiple services from one provider been evaluated?
+
+Step-by-Step Verification Process:
+1. 
+Understand Concentration Risks:
+ ◦ 
+Definition: Over-reliance on one provider for multiple critical services can increase operational risk.
+2. 
+Locate Relevant Sections:
+ ◦ Search for terms like:
+ ▪ ""Concentration Risk"", ""Service Dependency"".
+3. 
+Verify Evaluation Details:
+ ◦ Check if the contract requires assessing:
+ ▪ Number of critical services provided by one vendor.
+ ▪ Potential impact of service disruption.
+4. 
+Document Observations:
+ ◦ Extract and review relevant clauses.
+
+3. Geographic and Jurisdictional Assessment
+
+
+TASK: Has geographical concentration risk been assessed?
+
+Step-by-Step Verification Process:
+1. 
+Understand Geographic Risks:
+ ◦ 
+Definition: Dependencies on providers concentrated in specific regions can expose operations to localized risks.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""Geographic Risk"", ""Regional Dependency"".
+3. 
+Verify Assessment Details:
+ ◦ Confirm if the contract requires evaluating risks tied to provider location.
+ ◦ Check if natural disasters, political risks, or infrastructure issues are considered.
+4. 
+Document Observations:
+ ◦ Extract clauses related to geographic risk.
+
+TASK: For third-country providers, is there an assessment of compliance with EU data protection rules?
+
+Step-by-Step Verification Process:
+1. 
+Understand Data Protection Requirements:
+ ◦ 
+Definition: Ensuring compliance with GDPR and other EU regulations.
+2. 
+Locate Relevant Sections:
+ ◦ Search for terms like:
+ ▪ ""Data Protection"", ""GDPR Compliance"".
+3. 
+Verify Compliance Obligations:
+ ◦ Confirm that the contract mandates compliance with EU data protection laws.
+4. 
+Document Observations:
+ ◦ Extract the clause if compliance is addressed.","1. Substitutability Analysis
+1. 
+Check for Substitutability Assessment:
+ ◦ 
+Prompt:Search the contract for any mention of an assessment regarding the substitutability of the ICT third-party service provider. Extract clauses that address whether the provider is easily substitutable or not. If no such clauses are found, note the absence and flag it as a gap.
+ ◦ 
+Follow-up if Missing:Indicate that the contract should include provisions for assessing the substitutability of the provider and recommend defining criteria for determining substitutability.
+2. 
+Check for Defined Criteria:
+ ◦ 
+Prompt:Identify whether the contract defines specific criteria for determining substitutability (e.g., technical compatibility, operational complexity). If criteria are unclear or missing, suggest possible benchmarks based on industry standards.
+ ◦ 
+Follow-up if Missing:Recommend adding measurable criteria for substitutability assessments, such as cost, technical specifications, and ease of transition.
+3. 
+Check for Documentation of Alternative Providers:
+ ◦ 
+Prompt:Search the contract for clauses requiring documentation of alternative providers in the market. Verify if these alternatives are listed or if there is a requirement to maintain such a list. Highlight missing documentation requirements.
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating regular market scans to identify and document alternative providers.
+4. 
+Check for Cost-Benefit Analysis of Alternatives:
+ ◦ 
+Prompt:Search for provisions requiring a cost-benefit analysis of alternative providers. Confirm whether the analysis considers financial, operational, and strategic factors.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding requirements for regular cost-benefit analyses to maintain strategic flexibility.
+5. 
+Check for Awareness of Market Alternatives:
+ ◦ 
+Prompt:Look for any clauses specifying the need to maintain awareness of market alternatives (e.g., through periodic market research). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend adding provisions for periodic market reviews to evaluate emerging alternatives.
+2. Multiple Contract and Dependency Analysis
+
+1. 
+Check for Existing Contractual Arrangements:
+ ◦ 
+Prompt:Search the contract for requirements to assess existing arrangements with the same provider. Confirm whether this includes the number, type, and scope of such arrangements. Highlight gaps if no such assessment is required.
+ ◦ 
+Follow-up if Missing:Recommend including periodic reviews of all existing contracts with the provider.
+2. 
+Check for Closely Connected Providers:
+ ◦ 
+Prompt:Search for provisions requiring the assessment of relationships with closely connected providers. Verify whether these relationships are identified and documented in the contract.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including requirements to evaluate risks from connected providers.
+3. 
+Check for Concentration Risk Evaluation:
+ ◦ 
+Prompt:Identify clauses that mandate evaluating the concentration risk of relying on a single provider for multiple services. Validate if the contract requires tracking dependency on the provider.
+ ◦ 
+Follow-up if Missing:Recommend adding a section to analyze and address concentration risks.
+4. 
+Check for Interdependency Assessment:
+ ◦ 
+Prompt:Search for provisions assessing interdependencies between services provided by the third-party provider. Extract these clauses if present.
+ ◦ 
+Follow-up if Missing:Suggest requiring an assessment of how interdependent services might amplify operational risks.
+5. 
+Check for Market Concentration Risk Evaluation:
+ ◦ 
+Prompt:Look for clauses that require an evaluation of the provider's market share and concentration risk (e.g., monopoly risks, limited alternatives). Highlight gaps if no such assessment is found.
+ ◦ 
+Follow-up if Missing:Recommend adding terms to address provider dominance and its potential impact on resilience.
+3. Geographic and Jurisdictional Assessment
+
+1. 
+Check for Geographical Concentration Risk:
+ ◦ 
+Prompt:Search the contract for an assessment of geographical concentration risks related to the provider’s operations. Confirm if the assessment addresses risks associated with location-specific factors like infrastructure reliability or natural disasters.
+ ◦ 
+Follow-up if Missing:Recommend including geographical risk assessments in the contract.
+2. 
+Check for Compliance with EU Data Protection Rules (Third-Country Providers):
+ ◦ 
+Prompt:Search for clauses requiring third-country providers to comply with EU data protection rules (e.g., GDPR). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including mandatory compliance with EU data protection regulations.
+3. 
+Check for Effectiveness of Law Enforcement:
+ ◦ 
+Prompt:Identify clauses assessing the effectiveness of law enforcement in the provider’s jurisdiction, especially in ensuring contract enforceability and regulatory compliance.
+ ◦ 
+Follow-up if Missing:Recommend adding specific provisions for assessing legal risks in the provider’s country.
+4. 
+Check for Data Localization Requirements:
+ ◦ 
+Prompt:Search for clauses addressing data localization requirements and associated risks in third-country jurisdictions. Extract these terms for verification.
+ ◦ 
+Follow-up if Missing:Suggest adding data localization provisions to align with regulatory and operational needs.
+5. 
+Check for Country-Specific Operational Risks:
+ ◦ 
+Prompt:Search for provisions assessing country-specific operational risks (e.g., political instability, legal uncertainties, or infrastructure issues). Highlight gaps in the contract if such assessments are not required.
+ ◦ 
+Follow-up if Missing:Recommend adding an evaluation of country-specific risks to the contract.","1. Substitutability Analysis
+
+TASK: Check if an assessment has been made whether the ICT third-party service provider is easily substitutable.
+
+INSTRUCTIONS:
+1. Search for clauses containing keywords: ""substitutability"", ""alternative providers"", ""replacement"", ""switching"".
+2. Identify if the contract includes a specific assessment of the provider's substitutability.
+3. Check if the assessment considers technical, operational, and cost factors.
+4. Verify if substitutability is described as ""easily"", ""partially"", or ""not easily"" feasible.
+5. Return TRUE if substitutability is explicitly assessed, FALSE if missing or ambiguous.
+
+TASK: Verify if criteria for determining substitutability are defined.
+
+INSTRUCTIONS:
+1. Search for terms: ""criteria"", ""assessment factors"", ""evaluation standards"", ""substitution feasibility"".
+2. Identify criteria used to determine substitutability (e.g., cost, technical compatibility, operational complexity).
+3. Check if the criteria are measurable and documented in the contract.
+4. Return TRUE if clear criteria are defined, FALSE if criteria are absent or vague.
+
+TASK: Check for documentation of alternative providers in the market.
+
+INSTRUCTIONS:
+1. Search for references to ""alternative providers"", ""market research"", ""vendor options"", ""competitive analysis"".
+2. Verify if the contract requires maintaining a documented list of alternative providers.
+3. Check if the list is reviewed or updated periodically.
+4. Return TRUE if documentation of alternatives is required, FALSE if missing.
+
+TASK: Verify if a cost-benefit analysis of alternative solutions has been conducted.
+
+INSTRUCTIONS:
+1. Search for terms: ""cost-benefit analysis"", ""comparative analysis"", ""feasibility study"".
+2. Check if the contract includes a requirement for evaluating financial and operational impacts of alternative providers.
+3. Verify if the analysis considers transition costs, service quality, and regulatory compliance.
+4. Return TRUE if a cost-benefit analysis is explicitly required, FALSE if absent.
+
+TASK: Check for provisions to maintain awareness of market alternatives.
+
+INSTRUCTIONS:
+1. Search for clauses mentioning ""market awareness"", ""vendor updates"", ""alternative evaluation"", ""market research"".
+2. Verify if the contract requires regular reviews of emerging providers or market changes.
+3. Check if there are triggers for re-evaluating alternatives (e.g., changes in provider performance).
+4. Return TRUE if provisions for market awareness are included, FALSE if missing.
+
+2. Multiple Contract and Dependency Analysis
+
+
+TASK: Verify if an assessment has been made of existing contractual arrangements with the same provider.
+
+INSTRUCTIONS:
+1. Search for clauses containing: ""existing contracts"", ""current arrangements"", ""provider dependency"".
+2. Check if the contract requires an inventory or review of all existing agreements with the same provider.
+3. Verify if assessments include service scope, criticality, and contract durations.
+4. Return TRUE if existing arrangements are assessed, FALSE if not mentioned.
+
+TASK: Check for assessments of arrangements with closely connected providers.
+
+INSTRUCTIONS:
+1. Search for references to ""connected providers"", ""affiliated companies"", ""group dependencies"".
+2. Verify if the contract includes requirements to evaluate risks from providers with financial, operational, or ownership ties.
+3. Check if these arrangements are monitored for conflicts or concentration risks.
+4. Return TRUE if assessments are required, FALSE if absent.
+
+TASK: Verify if the concentration risk of multiple services from one provider has been evaluated.
+
+INSTRUCTIONS:
+1. Search for terms: ""concentration risk"", ""service dependency"", ""provider reliance"".
+2. Identify clauses requiring analysis of dependency on a single provider for multiple services.
+3. Check if this assessment includes operational, financial, and geographical impacts.
+4. Return TRUE if concentration risks are assessed, FALSE if missing.
+
+TASK: Check for assessment of interdependencies between different services.
+
+INSTRUCTIONS:
+1. Search for clauses mentioning ""interdependencies"", ""service overlap"", ""functional dependencies"".
+2. Verify if the contract requires evaluation of how different services provided by the same vendor interact or depend on each other.
+3. Return TRUE if interdependency assessments are included, FALSE if absent.
+
+TASK: Verify if the market concentration risk (provider's market share) has been evaluated.
+
+INSTRUCTIONS:
+1. Search for terms: ""market concentration"", ""market share"", ""dominance risk"".
+2. Check if the contract includes analysis of the provider’s market position and potential risks due to dominance or limited alternatives.
+3. Return TRUE if market concentration risks are assessed, FALSE if not mentioned.
+
+3. Geographic and Jurisdictional Assessment
+
+
+TASK: Verify if geographical concentration risks have been assessed.
+
+INSTRUCTIONS:
+1. Search for clauses mentioning ""geographical concentration"", ""location risk"", ""regional dependency"".
+2. Check if the contract includes requirements to evaluate risks based on provider locations or service delivery regions.
+3. Verify if risks like natural disasters, political instability, or infrastructure issues are considered.
+4. Return TRUE if geographical concentration risks are assessed, FALSE if missing.
+
+TASK: Check for assessment of third-country providers' compliance with EU data protection rules.
+
+INSTRUCTIONS:
+1. Search for terms: ""data protection"", ""GDPR compliance"", ""regulatory alignment"".
+2. Verify if the contract requires third-country providers to comply with EU data protection laws.
+3. Check if penalties for non-compliance are outlined.
+4. Return TRUE if compliance with EU data protection rules is assessed, FALSE if absent.
+
+TASK: Verify if the effectiveness of law enforcement in third-country jurisdictions is assessed.
+
+INSTRUCTIONS:
+1. Search for references to ""law enforcement"", ""jurisdictional risks"", ""legal enforceability"".
+2. Check if the contract evaluates the ability of the provider’s jurisdiction to enforce legal obligations.
+3. Verify if legal risks in the jurisdiction are explicitly addressed.
+4. Return TRUE if effectiveness of law enforcement is assessed, FALSE if missing.
+
+TASK: Check for data localization requirements and risks.
+
+INSTRUCTIONS:
+1. Search for clauses addressing ""data localization"", ""data residency"", ""data sovereignty"".
+2. Verify if the contract evaluates risks associated with data storage locations in third countries.
+3. Check if compliance with EU data localization requirements is ensured.
+4. Return TRUE if data localization risks are assessed, FALSE if absent.
+
+TASK: Verify if country-specific operational risks are assessed.
+
+INSTRUCTIONS:
+1. Search for terms: ""operational risks"", ""country-specific risks"", ""jurisdictional challenges"".
+2. Check if the contract evaluates risks from political, economic, or infrastructure issues in the provider’s country.
+3. Verify if mitigation measures for country-specific risks are outlined.
+4. Return TRUE if these risks are assessed, FALSE if not mentioned."
+"2. Operational Risk Management
+1. 
+Critical Risk Assessment
+ ◦ Are regular assessments of critical risks mandated?
+ ◦ Are risk mitigation measures specified?
+ ◦ Is there a process for ongoing risk monitoring?
+ ◦ Are there provisions for regular risk reassessment?
+2. 
+Technology Dependency Risks
+ ◦ Has technological lock-in risk been assessed?
+ ◦ Are proprietary technology dependencies evaluated?
+ ◦ Is the impact of technological changes on substitutability assessed?
+3. 
+Resource Allocation Risks
+ ◦ Has resource concentration risk been assessed?
+ ◦ Are shared resource dependencies evaluated?
+ ◦ Is there an assessment of resource constraint impacts?","1. Critical Risk Assessment
+
+TASK: Are regular assessments of critical risks mandated?
+
+Step-by-Step Verification Process:
+1. 
+Understand Critical Risk Assessments:
+ ◦ 
+Definition: Critical risk assessments identify and evaluate risks that could significantly impact operations or compliance.
+ ◦ 
+Examples of Critical Risks:
+ ▪ ICT disruptions affecting core services.
+ ▪ Regulatory non-compliance penalties.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Critical Risk Assessments"", ""Risk Evaluations"", ""Periodic Risk Reviews"".
+3. 
+Verify the Assessment Requirements:
+ ◦ Check if the contract specifies:
+ ▪ Mandatory periodic assessments (e.g., annually or quarterly).
+ ▪ Conditions for triggering ad hoc assessments (e.g., significant changes in operations).
+4. 
+Document Observations:
+ ◦ Extract clauses describing assessment requirements.
+ ◦ Highlight missing or ambiguous terms.
+
+TASK: Are risk mitigation measures specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Risk Mitigation Measures:
+ ◦ 
+Definition: Risk mitigation involves strategies and actions to reduce the likelihood or impact of identified risks.
+ ◦ 
+Examples:
+ ▪ Redundant systems for critical operations.
+ ▪ Predefined incident response procedures.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Risk Mitigation"", ""Preventive Measures"", ""Corrective Actions"".
+3. 
+Verify the Mitigation Provisions:
+ ◦ Confirm that the contract:
+ ▪ Specifies actionable measures for managing critical risks.
+ ▪ Assigns responsibilities for implementing mitigation actions.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses and highlight gaps where measures are missing or unclear.
+
+TASK: Is there a process for ongoing risk monitoring?
+
+Step-by-Step Verification Process:
+1. 
+Understand Ongoing Monitoring Requirements:
+ ◦ 
+Definition: Continuous tracking of risks to detect and address emerging issues in real time.
+ ◦ 
+Examples:
+ ▪ Automated risk monitoring tools.
+ ▪ Periodic updates on provider performance.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Ongoing Monitoring"", ""Real-Time Risk Tracking"", ""Continuous Risk Management"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Check if the contract mandates:
+ ▪ Regular risk monitoring.
+ ▪ Reporting mechanisms to inform stakeholders of changes.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing monitoring processes and tools.
+
+TASK: Are there provisions for regular risk reassessment?
+
+Step-by-Step Verification Process:
+1. 
+Understand Risk Reassessment Requirements:
+ ◦ 
+Definition: Reassessment ensures that risk evaluations remain relevant as conditions change.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Risk Reassessment"", ""Updated Risk Analysis"", ""Periodic Reviews"".
+3. 
+Verify Reassessment Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Timelines or triggers for reassessment (e.g., annually, after incidents).
+ ▪ Requirements to update existing risk documentation.
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses addressing reassessment.
+
+2. Technology Dependency Risks
+
+
+TASK: Has technological lock-in risk been assessed?
+
+Step-by-Step Verification Process:
+1. 
+Understand Technological Lock-In Risks:
+ ◦ 
+Definition: Dependency on proprietary systems or technologies that hinder switching to other providers.
+ ◦ 
+Examples:
+ ▪ Exclusive software integrations.
+ ▪ Systems incompatible with industry standards.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Technological Lock-In"", ""Vendor Lock-In"", ""Exclusive Technology"".
+3. 
+Verify Assessment Requirements:
+ ◦ Check if the contract mandates an evaluation of lock-in risks.
+ ◦ Confirm if mitigation strategies (e.g., compatibility with alternative providers) are addressed.
+4. 
+Document Observations:
+ ◦ Extract clauses specifying lock-in risk assessments.
+
+TASK: Are proprietary technology dependencies evaluated?
+
+Step-by-Step Verification Process:
+1. 
+Understand Proprietary Technology Dependencies:
+ ◦ 
+Definition: Reliance on the provider’s proprietary tools, software, or systems.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Proprietary Systems"", ""Exclusive Solutions"", ""Customized Technology"".
+3. 
+Verify Evaluation Provisions:
+ ◦ Confirm if the contract requires assessment of:
+ ▪ Risks associated with reliance on proprietary systems.
+ ▪ Potential alternatives or compatibility with open standards.
+4. 
+Document Observations:
+ ◦ Extract and evaluate relevant clauses.
+
+TASK: Is the impact of technological changes on substitutability assessed?
+
+Step-by-Step Verification Process:
+1. 
+Understand Substitutability Risks Due to Technological Changes:
+ ◦ 
+Definition: Assessing how updates or changes in technology could affect the ability to switch providers.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Technological Changes"", ""Substitution Impact"", ""Innovation Risks"".
+3. 
+Verify Assessment Provisions:
+ ◦ Check if the contract mandates evaluation of:
+ ▪ Potential impacts of technological evolution on substitutability.
+ ▪ Future-proofing strategies to mitigate substitution risks.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses and highlight gaps if assessments are missing.
+
+3. Resource Allocation Risks
+
+
+TASK: Has resource concentration risk been assessed?
+
+Step-by-Step Verification Process:
+1. 
+Understand Resource Concentration Risks:
+ ◦ 
+Definition: Over-reliance on specific resources, such as data centers or personnel, within a single provider.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Resource Concentration"", ""Dependency Risks"", ""Critical Resources"".
+3. 
+Verify Assessment Requirements:
+ ◦ Confirm that the contract mandates an evaluation of:
+ ▪ Concentration risks across key resources.
+ ▪ Mitigation measures for resource redundancy or diversification.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses for review.
+
+TASK: Are shared resource dependencies evaluated?
+
+Step-by-Step Verification Process:
+1. 
+Understand Shared Resource Risks:
+ ◦ 
+Definition: Dependencies on resources shared across multiple clients or systems.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Shared Resources"", ""Multi-Tenancy"", ""Shared Infrastructure"".
+3. 
+Verify Evaluation Provisions:
+ ◦ Check if the contract requires assessing risks tied to shared resources.
+ ◦ Confirm if mitigation strategies (e.g., dedicated resources) are addressed.
+4. 
+Document Observations:
+ ◦ Extract and evaluate relevant clauses.
+
+TASK: Is there an assessment of resource constraint impacts?
+
+Step-by-Step Verification Process:
+1. 
+Understand Resource Constraint Risks:
+ ◦ 
+Definition: Evaluating the impact of limited resources (e.g., staff shortages, capacity issues) on operations.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Resource Constraints"", ""Capacity Limitations"", ""Resource Shortages"".
+3. 
+Verify Assessment Provisions:
+ ◦ Confirm if the contract specifies processes for evaluating:
+ ▪ Impacts of resource constraints on service delivery.
+ ▪ Contingency plans to address shortages.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing resource constraints.","1. Critical Risk Assessment
+1. 
+Check for Regular Risk Assessments:
+ ◦ 
+Prompt:Search the contract for clauses requiring regular assessments of critical risks associated with the ICT third-party provider. Confirm if these assessments are mandated on a defined schedule (e.g., quarterly or annually). Extract and validate the relevant provisions.
+ ◦ 
+Follow-up if Missing:Note the absence and recommend adding a clause that mandates periodic critical risk assessments to maintain operational resilience.
+2. 
+Check for Risk Mitigation Measures:
+ ◦ 
+Prompt:Identify if the contract specifies risk mitigation measures for critical risks identified during assessments. Verify whether the measures are actionable (e.g., contingency plans, redundancies, alternative providers).
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding explicit provisions for mitigation measures, such as predefined actions for specific risk scenarios.
+3. 
+Check for Ongoing Risk Monitoring:
+ ◦ 
+Prompt:Search for requirements to establish a process for ongoing monitoring of risks related to the provider’s performance and operations. Verify if the contract specifies monitoring tools, frequency, or reporting requirements.
+ ◦ 
+Follow-up if Missing:Recommend including provisions for continuous monitoring, specifying tools or metrics (e.g., service availability, response times).
+4. 
+Check for Regular Risk Reassessment:
+ ◦ 
+Prompt:Look for clauses requiring regular reassessment of risks to account for changes in the provider’s operations, market conditions, or technological advancements. Extract and validate the terms.
+ ◦ 
+Follow-up if Missing:Suggest adding a requirement for dynamic risk reassessments triggered by significant changes or at fixed intervals.
+2. Technology Dependency Risks
+
+1. 
+Check for Technological Lock-In Risk Assessment:
+ ◦ 
+Prompt:Search for provisions addressing the assessment of technological lock-in risks, including the difficulty of switching providers due to proprietary technologies or long-term dependencies. Extract relevant clauses.
+ ◦ 
+Follow-up if Missing:Recommend adding terms that require evaluating the risks of vendor lock-in and specifying potential exit strategies.
+2. 
+Check for Proprietary Technology Dependencies:
+ ◦ 
+Prompt:Identify clauses assessing proprietary technology dependencies, such as the use of custom software, unique configurations, or exclusive systems. Validate if these dependencies are documented and monitored.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding provisions for evaluating and documenting dependencies on proprietary technologies.
+3. 
+Check for Substitutability in Case of Technological Changes:
+ ◦ 
+Prompt:Look for terms requiring the provider to evaluate how technological changes (e.g., updates, upgrades, deprecations) might impact the substitutability of services or systems. Verify whether assessments include risks to operational continuity.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend including clauses for periodic evaluation of how technological changes affect continuity and substitutability.
+3. Resource Allocation Risks
+
+1. 
+Check for Resource Concentration Risk Assessment:
+ ◦ 
+Prompt:Search for clauses requiring an assessment of resource concentration risks, such as reliance on specific teams, data centers, or geographical locations. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding requirements to evaluate and address risks from resource concentration.
+2. 
+Check for Shared Resource Dependencies:
+ ◦ 
+Prompt:Identify clauses evaluating the risk of shared resources, such as multi-tenancy in cloud environments or shared personnel across multiple clients. Validate if the contract specifies measures to mitigate these risks.
+ ◦ 
+Follow-up if Missing:Recommend including assessments of shared resource dependencies and specifying mitigation strategies (e.g., dedicated resources).
+3. 
+Check for Resource Constraint Impact Assessment:
+ ◦ 
+Prompt:Search for provisions addressing the assessment of resource constraints (e.g., staff shortages, capacity limitations) and their potential impact on service delivery. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding terms to evaluate resource constraints and requiring contingency plans for resource shortages.
+Example AI Prompts for Each Requirement
+
+1. 
+Critical Risk Assessments:Search the contract for clauses mandating regular critical risk assessments. Extract any mention of assessment frequency, scope, or required documentation. If missing, recommend adding a term specifying periodic risk evaluations.
+2. 
+Risk Mitigation:Identify whether the contract includes specific mitigation measures for critical risks identified in assessments. Extract any references to contingency plans or predefined responses. Flag as a gap if no such measures are found.
+3. 
+Technology Lock-In:Search for terms addressing the risk of technological lock-in, such as reliance on proprietary software or long-term contractual exclusivity. Validate and extract these clauses. Suggest adding exit strategies if missing.
+4. 
+Shared Resources:Look for clauses assessing shared resource risks, such as multi-tenancy in cloud environments. Extract and validate any references. If absent, suggest adding a requirement for dedicated resources or impact assessments.
+5. 
+Resource Constraints:Search the contract for terms addressing resource constraints, such as capacity shortages or staff unavailability. Extract and confirm if mitigation plans are included. Flag as a gap if these considerations are missing.","1. Critical Risk Assessment
+
+TASK: Check if regular assessments of critical risks are mandated.
+
+INSTRUCTIONS:
+1. Search for clauses containing keywords: ""critical risks"", ""risk assessment"", ""regular evaluation"", ""risk management"".
+2. Verify if the contract mandates regular assessments (e.g., quarterly, annually) for critical risks affecting operations or services.
+3. Check if specific intervals or triggers for reassessments are outlined.
+4. Return TRUE if regular assessments are mandated with clear timelines, FALSE if absent or ambiguous.
+
+TASK: Verify if risk mitigation measures are specified.
+
+INSTRUCTIONS:
+1. Search for terms: ""risk mitigation"", ""preventive measures"", ""corrective actions"", ""risk control"".
+2. Check if the contract includes specific risk mitigation strategies for critical risks identified in assessments.
+3. Verify if the measures are actionable and tied to accountability (e.g., who implements them and by when).
+4. Return TRUE if mitigation measures are clearly specified, FALSE if missing or unclear.
+
+TASK: Check if there is a process for ongoing risk monitoring.
+
+INSTRUCTIONS:
+1. Locate sections containing: ""ongoing monitoring"", ""continuous assessment"", ""real-time risk tracking"", ""continuous review"".
+2. Verify if the contract requires mechanisms for ongoing risk monitoring, such as automated tools, dashboards, or regular updates.
+3. Check if monitoring results are reviewed and reported to stakeholders.
+4. Return TRUE if ongoing risk monitoring is mandated, FALSE if not addressed.
+
+TASK: Verify if there are provisions for regular risk reassessment.
+
+INSTRUCTIONS:
+1. Search for clauses mentioning: ""risk reassessment"", ""updated assessments"", ""periodic reviews"".
+2. Check if the contract specifies when and how reassessments should occur (e.g., annually, after incidents, or significant operational changes).
+3. Verify if reassessments cover both previously identified risks and emerging risks.
+4. Return TRUE if provisions for risk reassessment are included, FALSE if missing.
+
+2. Technology Dependency Risks
+
+
+TASK: Verify if technological lock-in risk has been assessed.
+
+INSTRUCTIONS:
+1. Search for terms: ""technological lock-in"", ""vendor lock-in"", ""exclusive technology dependency"".
+2. Check if the contract requires an evaluation of risks associated with being tied to proprietary or non-standard technology solutions.
+3. Verify if mitigation strategies (e.g., compatibility with other systems, open standards) are outlined.
+4. Return TRUE if lock-in risk assessment is mandated, FALSE if absent.
+
+TASK: Check if proprietary technology dependencies are evaluated.
+
+INSTRUCTIONS:
+1. Search for clauses referencing: ""proprietary technology"", ""exclusive solutions"", ""customized systems"".
+2. Verify if the contract mandates an assessment of dependencies on proprietary systems, tools, or software.
+3. Check if the risks of reliance on non-interoperable or unique technologies are addressed.
+4. Return TRUE if proprietary technology dependencies are evaluated, FALSE if missing.
+
+TASK: Verify if the impact of technological changes on substitutability is assessed.
+
+INSTRUCTIONS:
+1. Locate terms such as: ""technology evolution"", ""substitution impact"", ""innovation risks"", ""transition risks"".
+2. Check if the contract requires assessments of how technological advancements or changes might affect the ability to switch providers or systems.
+3. Verify if these assessments are linked to future-proofing or strategic planning.
+4. Return TRUE if the impact of technological changes on substitutability is explicitly addressed, FALSE if absent.
+
+3. Resource Allocation Risks
+
+
+TASK: Check if resource concentration risk has been assessed.
+
+INSTRUCTIONS:
+1. Search for terms: ""resource concentration"", ""dependency risks"", ""centralized resources"".
+2. Verify if the contract requires assessments of risks from reliance on specific resources, such as personnel, data centers, or regional hubs.
+3. Check if these risks are mitigated through diversification or redundancy measures.
+4. Return TRUE if resource concentration risks are assessed, FALSE if not mentioned.
+
+TASK: Verify if shared resource dependencies are evaluated.
+
+INSTRUCTIONS:
+1. Search for clauses mentioning: ""shared resources"", ""multi-tenancy"", ""resource pooling"", ""shared infrastructure"".
+2. Check if the contract includes requirements for evaluating dependencies on shared resources (e.g., cloud services, personnel shared across clients).
+3. Verify if there are provisions to mitigate risks arising from shared resources.
+4. Return TRUE if shared resource dependencies are evaluated, FALSE if absent.
+
+TASK: Check if resource constraint impacts are assessed.
+
+INSTRUCTIONS:
+1. Search for terms: ""resource constraints"", ""capacity limitations"", ""resource shortages"".
+2. Verify if the contract requires assessments of how resource constraints (e.g., staffing shortages, system capacity) could impact service delivery.
+3. Check if mitigation strategies (e.g., scaling, additional hiring, backup systems) are outlined.
+4. Return TRUE if resource constraint impacts are assessed, FALSE if missing.
+
+Example AI Prompts for Each Requirement
+Critical Risk Assessment
+
+1. 
+Regular Risk Assessments:Search for clauses mandating regular critical risk assessments. Extract and validate if timelines and scope are specified. Return TRUE if provisions are clear, FALSE if missing or ambiguous.
+2. 
+Risk Mitigation Measures:Search for terms related to risk mitigation. Extract specific measures for addressing critical risks. Flag as a gap if mitigation strategies are not mentioned.
+3. 
+Ongoing Monitoring:Locate provisions requiring ongoing risk monitoring. Extract any references to tools or processes used for monitoring. Suggest adding such terms if missing.
+4. 
+Risk Reassessment:Search for terms mandating periodic or event-driven risk reassessments. Extract and validate these provisions. Recommend adding reassessment clauses if absent.
+Technology Dependency Risks
+
+1. 
+Lock-In Risk Assessment:Search for clauses addressing technological lock-in risks. Validate if risks and mitigation measures are described. Flag as missing if lock-in risks are not assessed.
+2. 
+Proprietary Dependencies:Locate clauses evaluating proprietary technology dependencies. Extract details on associated risks and mitigation plans. Recommend including these evaluations if absent.
+3. 
+Impact of Technological Changes:Search for provisions assessing the impact of technological changes on substitutability. Verify if these assessments are tied to risk management or future-proofing. Suggest adding such terms if missing.
+Resource Allocation Risks
+
+1. 
+Resource Concentration:Search for clauses evaluating resource concentration risks. Extract references to dependencies on critical resources. Suggest adding these assessments if absent.
+2. 
+Shared Resources:Locate terms requiring evaluation of shared resource dependencies. Extract and validate provisions for mitigating shared resource risks. Recommend including such evaluations if missing.
+3. 
+Resource Constraints:Search for provisions assessing resource constraint impacts. Extract any references to capacity limitations or mitigation strategies. Suggest adding these assessments if absent."
+"3. Operational Resilience
+1. 
+Business Continuity and Disaster Recovery
+ ◦ Are BCDR plans aligned with DORA requirements?
+ ◦ Are specific RTOs and RPOs defined?
+ ◦ Are there provisions for regular updates to BCDR plans?
+ ◦ Is there a requirement for resilience testing?
+2. 
+Incident Management
+ ◦ Are incident reporting timelines clearly defined?
+ ◦ Are escalation procedures specified?
+ ◦ Is root cause analysis required?
+ ◦ Are corrective action procedures defined?","1. Business Continuity and Disaster Recovery (BCDR)
+
+TASK: Are BCDR plans aligned with DORA requirements?
+
+Step-by-Step Verification Process:
+1. 
+Understand DORA Requirements for BCDR Plans:
+ ◦ 
+Definition: BCDR plans ensure operational resilience during disruptions by maintaining critical ICT services.
+ ◦ 
+Key Elements:
+ ▪ Resilience of critical functions.
+ ▪ Incident response and recovery processes.
+ ▪ Alignment with regulatory standards.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Business Continuity"", ""Disaster Recovery"", ""Operational Resilience"".
+3. 
+Verify Alignment with DORA Requirements:
+ ◦ Check if the contract explicitly states that BCDR plans adhere to DORA standards.
+ ◦ Confirm if the plans address ICT-related disruptions and regulatory compliance.
+4. 
+Document Observations:
+ ◦ Extract clauses describing BCDR plans and their alignment with DORA.
+ ◦ Highlight gaps or ambiguities for follow-up.
+
+TASK: Are specific RTOs and RPOs defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand RTOs and RPOs:
+ ◦ 
+Definition:
+ ▪ 
+Recovery Time Objective (RTO): Maximum time to restore operations after disruption.
+ ▪ 
+Recovery Point Objective (RPO): Maximum acceptable data loss in case of an incident.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""RTO"", ""RPO"", ""Recovery Objectives"".
+3. 
+Verify RTO and RPO Specifications:
+ ◦ Confirm if the contract defines measurable RTOs and RPOs for critical functions.
+ ◦ Check if these objectives align with the financial entity’s operational needs.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing RTOs and RPOs.
+ ◦ Highlight missing or vague specifications for follow-up.
+
+TASK: Are there provisions for regular updates to BCDR plans?
+
+Step-by-Step Verification Process:
+1. 
+Understand Update Requirements for BCDR Plans:
+ ◦ 
+Definition: Regular updates ensure that BCDR plans remain effective and reflect changes in operations or risks.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""BCDR Updates"", ""Plan Revisions"", ""Periodic Reviews"".
+3. 
+Verify Update Provisions:
+ ◦ Check if the contract mandates:
+ ▪ Scheduled updates to BCDR plans (e.g., annually).
+ ▪ Revisions after significant operational changes or incidents.
+4. 
+Document Observations:
+ ◦ Extract clauses specifying update requirements.
+ ◦ Highlight gaps or ambiguities in update provisions.
+
+TASK: Is there a requirement for resilience testing?
+
+Step-by-Step Verification Process:
+1. 
+Understand Resilience Testing Requirements:
+ ◦ 
+Definition: Testing BCDR plans through simulations or exercises to ensure effectiveness.
+ ◦ 
+Examples:
+ ▪ Scenario-based exercises.
+ ▪ Full-scale operational tests.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Resilience Testing"", ""BCDR Testing"", ""Scenario Exercises"".
+3. 
+Verify Testing Provisions:
+ ◦ Confirm if the contract mandates:
+ ▪ Specific testing intervals (e.g., quarterly, annually).
+ ▪ Reporting of test results and subsequent plan updates.
+4. 
+Document Observations:
+ ◦ Extract and review clauses addressing resilience testing.
+
+2. Incident Management
+
+
+TASK: Are incident reporting timelines clearly defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand Incident Reporting Requirements:
+ ◦ 
+Definition: Timely reporting ensures that incidents are addressed promptly and regulators are informed when required.
+ ◦ 
+Key Timelines:
+ ▪ Immediate notification for critical incidents.
+ ▪ Reporting deadlines based on incident severity.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Incident Reporting"", ""Notification Timelines"", ""ICT Incidents"".
+3. 
+Verify Reporting Timelines:
+ ◦ Confirm if the contract specifies:
+ ▪ Timelines for reporting ICT-related incidents.
+ ▪ Escalation processes for unresolved issues.
+4. 
+Document Observations:
+ ◦ Extract reporting timeline provisions.
+ ◦ Highlight gaps or missing timelines for follow-up.
+
+TASK: Are escalation procedures specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Escalation Requirements:
+ ◦ 
+Definition: Escalation ensures critical incidents are brought to the attention of senior management or the board.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms like:
+ ▪ ""Escalation Procedures"", ""Incident Escalation"", ""Critical Risk Reporting"".
+3. 
+Verify Escalation Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Triggers for escalation (e.g., unresolved risks).
+ ▪ Timelines for escalating incidents.
+ ▪ Responsible parties for each escalation stage.
+4. 
+Document Observations:
+ ◦ Extract clauses describing escalation processes.
+
+TASK: Is root cause analysis required?
+
+Step-by-Step Verification Process:
+1. 
+Understand Root Cause Analysis Requirements:
+ ◦ 
+Definition: Root cause analysis identifies the underlying issues that led to an incident to prevent recurrence.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Root Cause Analysis"", ""Incident Investigation"", ""Post-Incident Review"".
+3. 
+Verify Root Cause Analysis Provisions:
+ ◦ Check if the contract mandates:
+ ▪ Comprehensive investigations after incidents.
+ ▪ Timelines for completing the analysis and reporting findings.
+4. 
+Document Observations:
+ ◦ Extract clauses requiring root cause analysis.
+ ◦ Highlight gaps or missing requirements.
+
+TASK: Are corrective action procedures defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand Corrective Action Requirements:
+ ◦ 
+Definition: Corrective actions address issues identified during incident investigations or root cause analyses.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Corrective Actions"", ""Mitigation Measures"", ""Incident Remediation"".
+3. 
+Verify Corrective Action Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Steps for implementing corrective actions.
+ ▪ Timelines and responsibilities for addressing identified issues.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing corrective action procedures.","1. Business Continuity and Disaster Recovery (BCDR)
+1. 
+Check for BCDR Alignment with DORA Requirements:
+ ◦ 
+Prompt:Search the contract for provisions ensuring that Business Continuity and Disaster Recovery (BCDR) plans are aligned with DORA requirements. Validate whether these plans include operational resilience measures for critical functions. Extract and confirm alignment.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including a clause that explicitly mandates compliance with DORA's BCDR standards.
+2. 
+Check for Specific Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs):
+ ◦ 
+Prompt:Identify clauses defining Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services. Extract and verify whether these objectives are specific and measurable.
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding contractual requirements for clear RTOs and RPOs tailored to service-criticality levels.
+3. 
+Check for Regular Updates to BCDR Plans:
+ ◦ 
+Prompt:Search the contract for provisions requiring regular updates to BCDR plans. Confirm whether the frequency of updates is specified (e.g., annually or after significant changes in operations).
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating periodic updates and revisions to BCDR plans to maintain alignment with operational and regulatory needs.
+4. 
+Check for Resilience Testing Requirements:
+ ◦ 
+Prompt:Locate clauses that mandate resilience testing of BCDR plans, such as scenario-based exercises or live drills. Validate whether the frequency and scope of testing are defined.
+ ◦ 
+Follow-up if Missing:Suggest adding provisions for regular resilience testing, specifying its purpose, frequency, and reporting of results.
+2. Incident Management
+
+1. 
+Check for Clearly Defined Incident Reporting Timelines:
+ ◦ 
+Prompt:Search for provisions specifying incident reporting timelines in the event of ICT disruptions or security incidents. Validate whether these timelines are aligned with regulatory requirements (e.g., within 24 hours for high-severity incidents).
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including clear timelines for incident reporting.
+2. 
+Check for Escalation Procedures:
+ ◦ 
+Prompt:Identify whether the contract includes escalation procedures for incidents, specifying the hierarchy and communication protocols for escalating issues to higher management or relevant stakeholders. Extract and verify these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding an escalation matrix with defined roles, responsibilities, and timelines for each escalation stage.
+3. 
+Check for Root Cause Analysis Requirements:
+ ◦ 
+Prompt:Search for clauses mandating root cause analysis following an incident. Validate whether the contract specifies timelines for completing the analysis and sharing findings with the financial entity.
+ ◦ 
+Follow-up if Missing:Recommend including terms requiring a detailed root cause analysis for all reported incidents, emphasizing transparency and accountability.
+4. 
+Check for Corrective Action Procedures:
+ ◦ 
+Prompt:Locate provisions requiring the provider to implement corrective actions based on the findings of the root cause analysis. Verify if the contract specifies a timeline and scope for these corrective measures.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including a clause mandating timely implementation of corrective actions to prevent recurrence of incidents.
+Example AI Prompts for Each Requirement
+Business Continuity and Disaster Recovery
+
+1. 
+BCDR Compliance:Search for clauses ensuring BCDR plans comply with DORA. Extract details on operational resilience measures for critical functions. If missing, recommend adding a compliance clause.
+2. 
+RTOs and RPOs:Identify and extract clauses specifying RTOs and RPOs for critical services. Verify if they are clearly measurable. If absent, suggest defining these objectives in the contract.
+3. 
+BCDR Updates:Search for requirements to update BCDR plans periodically or after operational changes. Extract and confirm details. Recommend adding periodic updates if missing.
+4. 
+Resilience Testing:Search for provisions requiring resilience testing of BCDR plans. Validate if testing frequency and scope are specified. If absent, recommend adding mandatory testing clauses.
+Incident Management
+
+1. 
+Incident Reporting Timelines:Search for clauses specifying incident reporting timelines. Extract and confirm if timelines are aligned with regulatory standards. Flag gaps if timelines are not defined.
+2. 
+Escalation Procedures:Search for provisions defining escalation procedures for incidents. Extract details of roles, responsibilities, and communication paths. If missing, suggest including an escalation matrix.
+3. 
+Root Cause Analysis:Identify clauses requiring root cause analysis for incidents. Extract timelines and responsibilities, if present. Recommend including root cause analysis terms if absent.
+4. 
+Corrective Actions:Search for provisions mandating corrective actions based on root cause findings. Extract details on timelines and scope. Flag gaps if corrective action requirements are missing.","1. Business Continuity and Disaster Recovery (BCDR)
+
+TASK: Check if BCDR plans are aligned with DORA requirements.
+
+INSTRUCTIONS:
+1. Search for clauses containing keywords: ""business continuity"", ""disaster recovery"", ""resilience plans"", ""DORA requirements"".
+2. Verify if the contract explicitly mandates BCDR plans that align with DORA standards, covering critical ICT and operational functions.
+3. Check if BCDR plans include requirements for addressing operational disruptions and maintaining service continuity.
+4. Return TRUE if BCDR alignment with DORA is explicitly stated, FALSE if absent or ambiguous.
+
+TASK: Verify if specific RTOs and RPOs are defined.
+
+INSTRUCTIONS:
+1. Locate terms like ""Recovery Time Objective (RTO)"", ""Recovery Point Objective (RPO)"", ""recovery targets"".
+2. Check if the contract specifies measurable RTOs and RPOs for critical functions or services.
+3. Verify if these objectives are reasonable and aligned with the entity’s operational needs.
+4. Return TRUE if RTOs and RPOs are clearly defined, FALSE if missing or unclear.
+
+TASK: Check for provisions for regular updates to BCDR plans.
+
+INSTRUCTIONS:
+1. Search for clauses referencing: ""updates"", ""revision"", ""review cycle"", ""BCDR updates"".
+2. Verify if the contract mandates periodic reviews and updates to BCDR plans (e.g., annually or after significant changes).
+3. Check if responsibilities for maintaining and updating the plans are assigned.
+4. Return TRUE if regular updates are required, FALSE if absent.
+
+TASK: Verify if there is a requirement for resilience testing.
+
+INSTRUCTIONS:
+1. Search for terms: ""resilience testing"", ""BCDR testing"", ""scenario-based exercises"", ""stress tests"".
+2. Check if the contract mandates regular resilience testing for BCDR plans, including frequency and scope.
+3. Verify if the results of resilience tests are shared with stakeholders and used to improve the plans.
+4. Return TRUE if resilience testing is explicitly required, FALSE if missing or ambiguous.
+
+2. Incident Management
+
+
+TASK: Check if incident reporting timelines are clearly defined.
+
+INSTRUCTIONS:
+1. Search for terms: ""incident reporting"", ""notification timeline"", ""response time"".
+2. Verify if the contract specifies clear timelines for reporting ICT-related incidents or disruptions (e.g., 24 hours for critical incidents).
+3. Check if the timelines align with DORA requirements and other regulatory standards.
+4. Return TRUE if reporting timelines are clearly defined, FALSE if absent or ambiguous.
+
+TASK: Verify if escalation procedures are specified.
+
+INSTRUCTIONS:
+1. Locate clauses mentioning: ""escalation"", ""critical incidents"", ""notification process"", ""escalation triggers"".
+2. Check if the contract includes specific escalation procedures, covering:
+ ◦ Triggers for escalation.
+ ◦ Communication channels and responsible parties.
+ ◦ Timelines for escalating unresolved incidents.
+3. Return TRUE if escalation procedures are detailed, FALSE if missing or unclear.
+
+TASK: Check if root cause analysis is required.
+
+INSTRUCTIONS:
+1. Search for terms: ""root cause analysis"", ""incident investigation"", ""post-incident review"".
+2. Verify if the contract mandates a thorough root cause analysis following ICT-related incidents.
+3. Check if there are timelines and reporting requirements for completing the analysis.
+4. Return TRUE if root cause analysis is required, FALSE if absent.
+
+TASK: Verify if corrective action procedures are defined.
+
+INSTRUCTIONS:
+1. Search for clauses referencing: ""corrective actions"", ""mitigation steps"", ""post-incident measures"".
+2. Check if the contract includes requirements for defining and implementing corrective actions based on incident investigations or root cause analysis findings.
+3. Verify if responsibilities for implementing corrective actions are clearly assigned.
+4. Return TRUE if corrective action procedures are defined, FALSE if not addressed.
+
+Example AI Prompts for Each Requirement
+Business Continuity and Disaster Recovery (BCDR)
+
+1. 
+BCDR Compliance with DORA:Search for clauses requiring BCDR plans aligned with DORA requirements. Extract references to operational continuity and disaster recovery. Return TRUE if alignment is explicitly stated, FALSE if missing or unclear.
+2. 
+RTOs and RPOs:Locate clauses specifying RTOs and RPOs. Verify if recovery targets are clearly measurable. Return TRUE if defined, FALSE if absent or ambiguous.
+3. 
+BCDR Updates:Search for provisions requiring regular updates to BCDR plans. Extract details on review cycles or responsible parties. Recommend adding such clauses if missing.
+4. 
+Resilience Testing:Search for terms mandating resilience testing. Extract details on test frequency, scope, and result sharing. Flag as a gap if testing requirements are absent.
+Incident Management
+
+1. 
+Incident Reporting Timelines:Search for clauses specifying incident reporting timelines. Validate if the timelines meet regulatory standards. Return TRUE if timelines are clear, FALSE if absent or ambiguous.
+2. 
+Escalation Procedures:Search for provisions detailing escalation procedures. Extract references to triggers, responsible parties, and timelines. Suggest adding these if absent.
+3. 
+Root Cause Analysis:Locate clauses requiring root cause analysis. Verify if timelines and responsibilities for analysis are specified. Return TRUE if root cause analysis is mandated, FALSE if missing.
+4. 
+Corrective Actions:Search for clauses defining corrective action procedures. Extract details on implementation steps and assigned responsibilities. Flag as a gap if these provisions are absent."
+"4. Subcontracting Management
+1. 
+Subcontracting Controls
+ ◦ Are restrictions and conditions for subcontracting defined?
+ ◦ Is prior approval required for subcontracting?
+ ◦ Are there provisions for subcontractor monitoring?
+ ◦ Is there a process for assessing subcontractor risks?
+2. 
+Chain Assessment
+ ◦ Has the length and complexity of subcontracting chains been evaluated?
+ ◦ Is there an assessment of chain monitoring capabilities?
+ ◦ Are there provisions for chain transparency?
+ ◦ Is there a process for evaluating changes in the chain?","1. Subcontracting Controls
+
+TASK: Are restrictions and conditions for subcontracting defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontracting Restrictions and Conditions:
+ ◦ 
+Definition: Restrictions and conditions specify which functions may or may not be subcontracted and outline the terms under which subcontracting is permitted.
+ ◦ 
+Examples of Restrictions:
+ ▪ Prohibition on subcontracting critical or important functions.
+ ▪ Geographical restrictions on subcontractors.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Subcontracting Restrictions"", ""Conditions for Subcontracting"", ""Outsourcing Limitations"".
+3. 
+Verify Specificity of Restrictions and Conditions:
+ ◦ Confirm if the contract specifies:
+ ▪ Services or functions that cannot be subcontracted.
+ ▪ Conditions required for allowing subcontracting, such as security standards or compliance with regulatory requirements.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses if restrictions and conditions are clearly defined.
+ ◦ Highlight gaps or ambiguities for follow-up.
+
+TASK: Is prior approval required for subcontracting?
+
+Step-by-Step Verification Process:
+1. 
+Understand the Importance of Prior Approval:
+ ◦ 
+Definition: Prior approval ensures the financial entity retains control over subcontracting decisions.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Prior Approval"", ""Authorization for Subcontracting"", ""Consent for Subcontractors"".
+3. 
+Verify Approval Process:
+ ◦ Check if the contract mandates written approval from the financial entity before engaging subcontractors.
+ ◦ Confirm if the approval process includes timelines, criteria, or conditions.
+4. 
+Document Observations:
+ ◦ Extract clauses requiring prior approval for subcontracting.
+ ◦ Highlight gaps or missing requirements for follow-up.
+
+TASK: Are there provisions for subcontractor monitoring?
+
+Step-by-Step Verification Process:
+1. 
+Understand Monitoring Requirements for Subcontractors:
+ ◦ 
+Definition: Monitoring ensures that subcontractors comply with regulatory and contractual obligations.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Subcontractor Monitoring"", ""Performance Oversight"", ""Compliance Checks"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Confirm that the contract requires:
+ ▪ Regular performance and compliance audits of subcontractors.
+ ▪ Reporting mechanisms to monitor subcontractor adherence to terms.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing monitoring obligations.
+ ◦ Highlight any gaps or ambiguities in monitoring provisions.
+
+TASK: Is there a process for assessing subcontractor risks?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontractor Risk Assessments:
+ ◦ 
+Definition: Evaluating risks posed by subcontractors ensures they meet performance and regulatory standards.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Subcontractor Risk Assessment"", ""Due Diligence"", ""Evaluation Process"".
+3. 
+Verify Risk Assessment Provisions:
+ ◦ Confirm if the contract requires assessments of subcontractor:
+ ▪ Financial stability.
+ ▪ Operational capacity.
+ ▪ Compliance with legal and regulatory obligations.
+4. 
+Document Observations:
+ ◦ Extract clauses describing risk assessment processes.
+ ◦ Highlight gaps or missing details for follow-up.
+
+2. Chain Assessment
+
+
+TASK: Has the length and complexity of subcontracting chains been evaluated?
+
+Step-by-Step Verification Process:
+1. 
+Understand Subcontracting Chain Complexity:
+ ◦ 
+Definition: Length and complexity of subcontracting chains refer to the number of tiers and interdependencies among subcontractors.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms such as:
+ ▪ ""Subcontracting Chain"", ""Chain Length"", ""Complexity Evaluation"".
+3. 
+Verify Evaluation Provisions:
+ ◦ Check if the contract requires an assessment of:
+ ▪ The number of tiers in the chain.
+ ▪ Risks associated with interdependencies in the chain.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing chain length and complexity.
+ ◦ Highlight gaps for further action.
+
+TASK: Is there an assessment of chain monitoring capabilities?
+
+Step-by-Step Verification Process:
+1. 
+Understand Chain Monitoring Requirements:
+ ◦ 
+Definition: Ensuring that the primary provider can monitor the entire subcontracting chain for compliance and performance.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Chain Monitoring"", ""Oversight Capability"", ""Chain Compliance"".
+3. 
+Verify Assessment Provisions:
+ ◦ Confirm if the contract requires the primary provider to:
+ ▪ Demonstrate tools or processes for monitoring the chain.
+ ▪ Report on subcontractor compliance across all tiers.
+4. 
+Document Observations:
+ ◦ Extract clauses related to chain monitoring.
+ ◦ Highlight gaps or missing provisions for follow-up.
+
+TASK: Are there provisions for chain transparency?
+
+Step-by-Step Verification Process:
+1. 
+Understand Chain Transparency Requirements:
+ ◦ 
+Definition: Full disclosure of subcontractors and their roles in the chain ensures visibility and accountability.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Transparency in Subcontracting"", ""Chain Visibility"", ""Subcontractor Disclosure"".
+3. 
+Verify Transparency Provisions:
+ ◦ Confirm that the contract requires:
+ ▪ Disclosure of all subcontractors, including their roles and locations.
+ ▪ Updates on changes in the subcontracting chain.
+4. 
+Document Observations:
+ ◦ Extract clauses related to chain transparency.
+ ◦ Highlight gaps or missing provisions for follow-up.
+
+TASK: Is there a process for evaluating changes in the chain?
+
+Step-by-Step Verification Process:
+1. 
+Understand Change Evaluation Requirements:
+ ◦ 
+Definition: Evaluating changes in the subcontracting chain ensures new risks are identified and addressed promptly.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Change in Chain"", ""Subcontracting Modifications"", ""Evaluation of New Subcontractors"".
+3. 
+Verify Change Evaluation Provisions:
+ ◦ Confirm that the contract requires:
+ ▪ Notification of any changes in the chain.
+ ▪ Re-assessment of risks associated with new subcontractors or structural changes.
+4. 
+Document Observations:
+ ◦ Extract clauses related to chain change evaluation.
+ ◦ Highlight gaps or missing requirements for follow-up.","1. Subcontracting Controls
+1. 
+Check for Defined Restrictions and Conditions:
+ ◦ 
+Prompt:Search the contract for clauses specifying restrictions and conditions for subcontracting. Verify if these include limitations on types of subcontracted services, geographical locations, or critical functions. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Flag the absence of restrictions and recommend including terms that define clear boundaries for subcontracting, particularly for critical or important functions.
+2. 
+Check for Prior Approval Requirements:
+ ◦ 
+Prompt:Identify clauses requiring the financial entity's prior written approval before the provider engages subcontractors. Confirm whether the contract specifies the approval process, including criteria and timelines.
+ ◦ 
+Follow-up if Missing:Highlight the gap and suggest adding a clause mandating prior approval, specifying that subcontracting without consent constitutes a breach.
+3. 
+Check for Subcontractor Monitoring Provisions:
+ ◦ 
+Prompt:Search for provisions requiring the provider to establish monitoring mechanisms for subcontractors. Verify if these include regular audits, performance reviews, and compliance checks. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding monitoring requirements to ensure subcontractors meet the same standards as the primary provider.
+4. 
+Check for Subcontractor Risk Assessment Process:
+ ◦ 
+Prompt:Locate clauses specifying a risk assessment process for subcontractors. Confirm whether the contract outlines criteria for assessing financial, operational, and compliance risks associated with subcontractors.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest adding a mandatory subcontractor risk assessment process as part of overall third-party risk management.
+2. Chain Assessment
+
+1. 
+Check for Length and Complexity Evaluation:
+ ◦ 
+Prompt:Search the contract for provisions requiring the evaluation of the length and complexity of subcontracting chains. Validate if these assessments consider the number of subcontractors, dependencies, and geographical dispersion.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating a comprehensive review of subcontracting chain length and complexity, emphasizing operational and regulatory risks.
+2. 
+Check for Chain Monitoring Capabilities:
+ ◦ 
+Prompt:Identify clauses that assess the provider's ability to monitor the entire subcontracting chain. Verify if specific tools or processes are described for ensuring compliance throughout the chain.
+ ◦ 
+Follow-up if Missing:Recommend including requirements for regular chain monitoring, such as reporting structures or dedicated monitoring resources.
+3. 
+Check for Chain Transparency Provisions:
+ ◦ 
+Prompt:Locate terms ensuring transparency in subcontracting chains. Confirm whether the contract requires the provider to disclose:
+ ▪ Names and roles of all subcontractors.
+ ▪ Changes to the subcontracting structure.
+ ▪ Validate if the financial entity has the right to access this information.
+ ◦ 
+Follow-up if Missing:Highlight the lack of transparency provisions and suggest adding clauses mandating full disclosure of subcontracting chains.
+4. 
+Check for Change Evaluation Processes:
+ ◦ 
+Prompt:Search for provisions requiring a process for evaluating changes in the subcontracting chain. Verify if the contract specifies:
+ ▪ Notification requirements for changes.
+ ▪ Re-assessment of risks for new subcontractors or structural changes.
+ ▪ Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Recommend including clauses for timely notification and risk evaluation of any changes in the subcontracting structure.
+Example AI Prompts for Each Requirement
+Subcontracting Controls
+
+1. 
+Subcontracting Restrictions:Search for clauses specifying restrictions or conditions for subcontracting. Extract details about limitations on services, geography, or critical functions. If missing, suggest adding these restrictions.
+2. 
+Prior Approval:Search for provisions requiring prior approval for subcontracting. Extract details on the approval process. If absent, recommend including this requirement.
+3. 
+Monitoring Subcontractors:Locate terms requiring monitoring of subcontractors. Validate whether these include audits or compliance checks. Suggest adding monitoring requirements if missing.
+4. 
+Risk Assessment:Search for provisions mandating risk assessments of subcontractors. Extract details on criteria and scope. If missing, recommend adding a risk evaluation process.
+Chain Assessment
+
+1. 
+Chain Complexity:Identify clauses requiring evaluation of the length and complexity of subcontracting chains. Extract references to the number of subcontractors or geographical dispersion. Suggest adding this requirement if absent.
+2. 
+Monitoring Capability:Search for provisions assessing the provider's ability to monitor subcontracting chains. Extract details of tools or processes mentioned. If missing, recommend including monitoring mechanisms.
+3. 
+Transparency:Locate clauses ensuring transparency of subcontracting chains, including full disclosure of subcontractors. If absent, suggest adding transparency provisions.
+4. 
+Change Processes:Search for terms requiring notification and risk assessment for changes in subcontracting chains. Extract and validate details. If missing, recommend including notification and evaluation clauses.","1. Subcontracting Controls
+
+TASK: Check if restrictions and conditions for subcontracting are defined.
+
+INSTRUCTIONS:
+1. Search for clauses containing keywords: ""subcontracting"", ""restrictions"", ""conditions"", ""limitations"".
+2. Identify if the contract specifies:
+ ◦ Which functions or services may or may not be subcontracted.
+ ◦ Conditions under which subcontracting is permissible.
+3. Verify if there are restrictions on subcontracting critical or important functions.
+4. Return TRUE if restrictions and conditions for subcontracting are explicitly defined, FALSE if missing or unclear.
+
+TASK: Verify if prior approval is required for subcontracting.
+
+INSTRUCTIONS:
+1. Search for terms: ""prior approval"", ""authorization"", ""written consent"", ""notification before subcontracting"".
+2. Check if the contract requires the financial entity’s prior written approval before the service provider can subcontract any functions.
+3. Verify if the approval process includes specific timelines, criteria, or conditions.
+4. Return TRUE if prior approval is required, FALSE if absent or ambiguous.
+
+TASK: Check for provisions for subcontractor monitoring.
+
+INSTRUCTIONS:
+1. Search for clauses referencing: ""monitoring"", ""oversight"", ""performance review"", ""compliance checks"" related to subcontractors.
+2. Verify if the contract mandates:
+ ◦ Regular monitoring of subcontractor performance.
+ ◦ Compliance checks to ensure adherence to contractual and regulatory requirements.
+3. Check if monitoring responsibilities are assigned to specific roles or teams.
+4. Return TRUE if monitoring provisions are clearly defined, FALSE if missing.
+
+TASK: Verify if there is a process for assessing subcontractor risks.
+
+INSTRUCTIONS:
+1. Locate sections mentioning: ""risk assessment"", ""due diligence"", ""evaluation process"", ""subcontractor risks"".
+2. Check if the contract requires:
+ ◦ Initial and periodic risk assessments of subcontractors.
+ ◦ Evaluation of financial stability, operational capacity, and regulatory compliance of subcontractors.
+3. Verify if specific risk assessment criteria or methodologies are outlined.
+4. Return TRUE if a risk assessment process is defined, FALSE if absent or vague.
+
+2. Chain Assessment
+
+
+TASK: Verify if the length and complexity of subcontracting chains have been evaluated.
+
+INSTRUCTIONS:
+1. Search for terms: ""subcontracting chain"", ""chain length"", ""complexity"", ""tiers"".
+2. Check if the contract requires evaluation of:
+ ◦ The number of subcontractors in the chain.
+ ◦ The operational and geographical dispersion of subcontractors.
+3. Verify if risks associated with long or complex chains are addressed.
+4. Return TRUE if the length and complexity of subcontracting chains are evaluated, FALSE if missing.
+
+TASK: Check for assessment of chain monitoring capabilities.
+
+INSTRUCTIONS:
+1. Search for clauses referencing: ""chain monitoring"", ""oversight capability"", ""compliance across the chain"".
+2. Verify if the contract includes:
+ ◦ Requirements for the service provider to demonstrate their ability to monitor subcontracting chains effectively.
+ ◦ Tools, processes, or reporting mechanisms for chain monitoring.
+3. Return TRUE if chain monitoring capabilities are assessed, FALSE if absent.
+
+TASK: Verify if there are provisions for chain transparency.
+
+INSTRUCTIONS:
+1. Search for terms: ""transparency"", ""subcontracting disclosure"", ""chain visibility"", ""subcontractor disclosure"".
+2. Check if the contract mandates:
+ ◦ Full disclosure of all subcontractors, including their roles and locations.
+ ◦ Updates on changes in the subcontracting chain.
+3. Verify if the financial entity has the right to access information about all tiers of the subcontracting chain.
+4. Return TRUE if transparency provisions are included, FALSE if missing.
+
+TASK: Check if there is a process for evaluating changes in the chain.
+
+INSTRUCTIONS:
+1. Locate clauses mentioning: ""changes"", ""modifications"", ""chain updates"", ""evaluation of new subcontractors"".
+2. Check if the contract requires:
+ ◦ Notification of any changes in the subcontracting chain.
+ ◦ Evaluation of risks associated with new subcontractors or structural changes.
+ ◦ Approval from the financial entity for such changes.
+3. Return TRUE if a process for evaluating changes in the chain is defined, FALSE if absent or unclear."
+"5. Financial and Legal Considerations
+1. 
+Financial Viability
+ ◦ Are there requirements for regular financial stability assessments?
+ ◦ Is there monitoring for potential insolvency?
+ ◦ Are insolvency law provisions considered?
+ ◦ Is there contingency planning for provider financial distress?
+2. 
+Legal and Regulatory Compliance
+ ◦ Is explicit DORA compliance stated?
+ ◦ Are comprehensive audit rights granted?
+ ◦ Is regulatory authority access ensured?
+ ◦ Are data protection requirements specified?","1. Financial Viability
+
+TASK: Are there requirements for regular financial stability assessments?
+
+Step-by-Step Verification Process:
+1. 
+Understand Financial Stability Assessments:
+ ◦ 
+Definition: These assessments evaluate the financial health of the ICT third-party provider to identify risks of insolvency or non-performance.
+ ◦ 
+Examples of Stability Indicators:
+ ▪ Financial statements.
+ ▪ Credit ratings.
+ ▪ History of timely payments.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Financial Stability"", ""Provider Health Assessment"", ""Regular Financial Reviews"".
+3. 
+Verify Assessment Provisions:
+ ◦ Check if the contract mandates periodic financial stability assessments (e.g., annually or semi-annually).
+ ◦ Confirm if responsibilities for conducting assessments are assigned.
+4. 
+Document Observations:
+ ◦ Extract and review clauses addressing financial assessments.
+ ◦ Highlight missing or vague provisions for follow-up.
+
+TASK: Is there monitoring for potential insolvency?
+
+Step-by-Step Verification Process:
+1. 
+Understand Insolvency Monitoring Requirements:
+ ◦ 
+Definition: Monitoring ensures that early signs of financial distress are identified and addressed promptly.
+ ◦ 
+Examples of Early Warning Indicators:
+ ▪ Decreased credit scores.
+ ▪ Missed deadlines or payments.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Insolvency Monitoring"", ""Financial Distress Alerts"", ""Provider Solvency"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Confirm that the contract specifies mechanisms for identifying potential insolvency risks.
+ ◦ Check if notification procedures for financial distress are described.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing insolvency monitoring processes.
+
+TASK: Are insolvency law provisions considered?
+
+Step-by-Step Verification Process:
+1. 
+Understand Insolvency Law Requirements:
+ ◦ 
+Definition: Insolvency law provisions ensure the financial entity retains control over data and services during the provider’s financial distress or bankruptcy.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Insolvency Provisions"", ""Bankruptcy Protections"", ""Legal Enforceability"".
+3. 
+Verify Provisions for Insolvency Laws:
+ ◦ Check if the contract explicitly addresses:
+ ▪ Data recovery and access rights during insolvency.
+ ▪ Protections under jurisdiction-specific insolvency laws.
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses related to insolvency laws.
+
+TASK: Is there contingency planning for provider financial distress?
+
+Step-by-Step Verification Process:
+1. 
+Understand Contingency Planning Requirements:
+ ◦ 
+Definition: Contingency plans outline steps for maintaining service continuity during the provider’s financial distress.
+ ◦ 
+Examples:
+ ▪ Backup providers.
+ ▪ Transition agreements.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Contingency Planning"", ""Financial Distress Plans"", ""Continuity Measures"".
+3. 
+Verify Contingency Planning Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Steps to manage disruptions caused by financial distress.
+ ▪ Transition procedures to alternative providers.
+4. 
+Document Observations:
+ ◦ Extract clauses related to contingency planning.
+ ◦ Highlight gaps for further action.
+
+2. Legal and Regulatory Compliance
+
+
+TASK: Is explicit DORA compliance stated?
+
+Step-by-Step Verification Process:
+1. 
+Understand DORA Compliance Requirements:
+ ◦ 
+Definition: The ICT third-party provider must align with operational resilience and ICT risk management obligations under DORA.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""DORA Compliance"", ""Regulatory Adherence"", ""Operational Resilience"".
+3. 
+Verify Compliance Provisions:
+ ◦ Confirm that the contract explicitly requires the provider to adhere to DORA standards.
+ ◦ Check if compliance is tied to specific performance metrics or penalties for non-compliance.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing DORA compliance.
+
+TASK: Are comprehensive audit rights granted?
+
+Step-by-Step Verification Process:
+1. 
+Understand Audit Rights:
+ ◦ 
+Definition: Audit rights allow the financial entity to verify the provider’s compliance with contractual and regulatory obligations.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Audit Rights"", ""Inspection Rights"", ""Compliance Audits"".
+3. 
+Verify Audit Scope and Frequency:
+ ◦ Confirm that the contract grants:
+ ▪ Unrestricted access to systems, processes, and documentation for audits.
+ ▪ The right to conduct on-site inspections.
+4. 
+Document Observations:
+ ◦ Extract clauses granting audit rights.
+
+TASK: Is regulatory authority access ensured?
+
+Step-by-Step Verification Process:
+1. 
+Understand Regulatory Access Requirements:
+ ◦ 
+Definition: Regulatory authorities must have access to the provider’s systems and records to verify compliance.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Regulatory Access"", ""Inspection by Authorities"", ""Supervisory Oversight"".
+3. 
+Verify Access Provisions:
+ ◦ Confirm that the contract explicitly grants regulatory authorities:
+ ▪ Access to inspect relevant systems and data.
+ ▪ Rights to review subcontractor compliance as needed.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing regulatory authority access.
+
+TASK: Are data protection requirements specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Data Protection Requirements:
+ ◦ 
+Definition: Ensures the provider complies with data protection laws, such as GDPR, and safeguards sensitive data.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Data Protection"", ""GDPR Compliance"", ""Data Security"".
+3. 
+Verify Data Protection Obligations:
+ ◦ Confirm that the contract specifies:
+ ▪ Requirements for encryption, secure storage, and data localization.
+ ▪ Notification procedures for data breaches.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing data protection requirements.","1. Financial Viability
+1. 
+Check for Regular Financial Stability Assessments:
+ ◦ 
+Prompt:Search the contract for clauses requiring regular financial stability assessments of the ICT third-party service provider. Verify if the frequency (e.g., annual, semi-annual) and criteria for these assessments are defined. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the absence and recommend including terms that mandate periodic financial assessments to evaluate the provider's solvency and overall financial health.
+2. 
+Check for Insolvency Monitoring Provisions:
+ ◦ 
+Prompt:Search for terms specifying the monitoring of potential insolvency risks, including early warning indicators (e.g., credit rating downgrades, missed payments). Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Highlight the gap and suggest adding a requirement for monitoring insolvency risks with predefined thresholds for escalation.
+3. 
+Check for Consideration of Insolvency Laws:
+ ◦ 
+Prompt:Identify whether the contract addresses insolvency law provisions, especially regarding the jurisdiction of the provider. Confirm if it includes rights to recover assets or data in case of insolvency. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding clauses that outline the applicability of insolvency laws, including provisions for securing data or assets during insolvency proceedings.
+4. 
+Check for Contingency Planning for Financial Distress:
+ ◦ 
+Prompt:Search for provisions mandating contingency plans in case of the provider’s financial distress or insolvency. Validate if these plans cover transition arrangements, alternative providers, or temporary service continuity.
+ ◦ 
+Follow-up if Missing:Suggest including contingency planning requirements to mitigate service disruptions caused by financial instability.
+2. Legal and Regulatory Compliance
+
+1. 
+Check for Explicit DORA Compliance Requirements:
+ ◦ 
+Prompt:Search for clauses explicitly requiring the ICT third-party service provider to comply with DORA regulations. Verify if compliance is tied to performance metrics or penalties for non-compliance. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend adding a clause that explicitly mandates adherence to DORA requirements.
+2. 
+Check for Comprehensive Audit Rights:
+ ◦ 
+Prompt:Locate clauses granting the financial entity audit rights over the provider’s systems, processes, and records. Confirm whether the scope includes financial, operational, and compliance aspects. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest adding a requirement for unrestricted audit rights, including the ability to conduct on-site inspections.
+3. 
+Check for Regulatory Authority Access:
+ ◦ 
+Prompt:Identify provisions ensuring access for regulatory authorities to inspect systems, processes, and records of the ICT third-party provider. Confirm if these rights extend to all relevant subcontractors. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding a clause that explicitly grants regulatory authorities access to the provider’s systems and subcontractors for compliance inspections.
+4. 
+Check for Data Protection Requirements:
+ ◦ 
+Prompt:Search for clauses addressing data protection requirements, including adherence to GDPR and DORA standards. Verify if the contract specifies measures like encryption, secure storage, and data localization. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding explicit data protection requirements, including penalties for breaches or non-compliance with data security measures.
+Example AI Prompts for Each Requirement
+Financial Viability
+
+1. 
+Financial Stability Assessments:Search for clauses mandating regular financial stability assessments of the provider. Extract any references to assessment criteria or frequency. Flag as a gap if no such requirement exists.
+2. 
+Insolvency Monitoring:Locate terms requiring monitoring for insolvency risks. Verify if early warning mechanisms are included. If missing, recommend adding insolvency risk monitoring clauses.
+3. 
+Insolvency Laws:Search for references to insolvency laws applicable to the provider's jurisdiction. Extract clauses ensuring data recovery and legal enforceability during insolvency. Suggest adding provisions if absent.
+4. 
+Contingency Planning:Search for contingency plans addressing provider financial distress. Verify if they include transition measures or alternative providers. Recommend adding a contingency plan requirement if missing.
+Legal and Regulatory Compliance
+
+1. 
+DORA Compliance:Search for explicit clauses requiring DORA compliance. Extract and validate terms tying compliance to performance. Flag as missing if such clauses are not present.
+2. 
+Audit Rights:Locate terms granting audit rights to the financial entity. Verify the scope includes systems, processes, and compliance records. Recommend adding unrestricted audit rights if absent.
+3. 
+Regulatory Access:Search for provisions allowing regulatory authorities access to the provider’s systems and subcontractors. Validate their presence. Suggest adding such access rights if missing.
+4. 
+Data Protection:Search for clauses specifying data protection requirements, such as GDPR compliance, encryption, and secure storage. Extract and validate these provisions. Recommend adding data security terms if missing.","1. Financial Viability
+
+TASK: Verify if there are requirements for regular financial stability assessments.
+
+INSTRUCTIONS:
+1. Search the contract for terms such as: ""financial stability"", ""financial health"", ""regular assessments"", ""periodic reviews"".
+2. Identify clauses requiring periodic financial evaluations of the ICT third-party provider.
+3. Check if specific assessment intervals or methodologies are defined.
+4. Extract details about who conducts the assessments and how findings are reported.
+
+TASK: Check if there is monitoring for potential insolvency.
+
+INSTRUCTIONS:
+1. Search for terms such as: ""insolvency monitoring"", ""financial distress"", ""early warning indicators"".
+2. Identify any mechanisms for ongoing monitoring of the provider’s financial health, such as credit rating checks or alerts.
+3. Verify if escalation processes are defined in case insolvency risks are detected.
+4. Extract clauses detailing how the financial entity will be notified of insolvency risks.
+
+TASK: Verify if insolvency law provisions are considered.
+
+INSTRUCTIONS:
+1. Locate sections referencing: ""insolvency law"", ""legal provisions"", ""jurisdictional enforcement"", ""data recovery during insolvency"".
+2. Check if the contract addresses rights and protections under insolvency laws, especially for asset and data recovery.
+3. Extract clauses detailing how insolvency laws in the provider's jurisdiction will apply to contract terms.
+4. Identify any specific provisions for securing financial entity data or continuity during insolvency.
+
+TASK: Verify if contingency planning for provider financial distress is addressed.
+
+INSTRUCTIONS:
+1. Search for terms such as: ""contingency planning"", ""financial distress"", ""continuity measures"", ""service continuity during distress"".
+2. Identify whether the contract requires contingency plans for scenarios like financial distress or bankruptcy of the provider.
+3. Verify if the plans include:
+ ◦ Alternative provider arrangements.
+ ◦ Temporary service extensions.
+ ◦ Data transfer procedures.
+4. Extract clauses detailing these contingency measures.
+
+2. Legal and Regulatory Compliance
+
+
+TASK: Verify if explicit DORA compliance is stated.
+
+INSTRUCTIONS:
+1. Search the contract for terms such as: ""DORA compliance"", ""regulatory adherence"", ""operational resilience"", ""legal obligations"".
+2. Identify if the contract explicitly requires the ICT third-party provider to comply with DORA requirements.
+3. Check if compliance is tied to specific performance metrics, responsibilities, or reporting requirements.
+4. Extract clauses outlining the provider's obligations under DORA.
+
+TASK: Check if comprehensive audit rights are granted.
+
+INSTRUCTIONS:
+1. Search for terms such as: ""audit rights"", ""inspection"", ""compliance reviews"", ""financial and operational audits"".
+2. Locate clauses granting the financial entity the right to audit the provider’s systems, processes, and compliance records.
+3. Check if these rights cover:
+ ◦ On-site inspections.
+ ◦ Documentation reviews.
+ ◦ Subcontractor audits.
+4. Extract details about the scope and frequency of audits.
+
+TASK: Verify if regulatory authority access is ensured.
+
+INSTRUCTIONS:
+1. Search for terms such as: ""regulatory access"", ""supervisory authority inspection"", ""compliance oversight"", ""data access by regulators"".
+2. Identify clauses ensuring that regulatory authorities can access the provider’s systems, records, and facilities as needed.
+3. Verify if this access extends to subcontractors involved in providing critical services.
+4. Extract any specific terms outlining the scope of regulatory access.
+
+TASK: Verify if data protection requirements are specified.
+
+INSTRUCTIONS:
+1. Locate clauses referencing: ""data protection"", ""GDPR compliance"", ""confidentiality"", ""security measures"".
+2. Identify specific requirements for safeguarding sensitive data, such as:
+ ◦ Encryption.
+ ◦ Secure storage.
+ ◦ Data localization.
+3. Check if the contract includes provisions for reporting data breaches or incidents.
+4. Extract details about compliance with applicable data protection laws and standards."
+"6. Monitoring and Documentation
+1. 
+Ongoing Monitoring
+ ◦ Are there provisions for continuous risk monitoring?
+ ◦ Is regular reassessment of concentration risks required?
+ ◦ Are there requirements for periodic compliance reviews?
+ ◦ Is there a process for monitoring market changes?
+2. 
+Documentation Requirements
+ ◦ Are risk assessments properly documented?
+ ◦ Is there a requirement for maintaining assessment records?
+ ◦ Are reporting formats and frequencies specified?
+ ◦ Is there a process for document retention and updates?","1. Ongoing Monitoring
+
+TASK: Are there provisions for continuous risk monitoring?
+
+Step-by-Step Verification Process:
+1. 
+Understand Continuous Risk Monitoring Requirements:
+ ◦ 
+Definition: Continuous monitoring involves tracking risks in real time to promptly identify and address emerging issues.
+ ◦ 
+Examples of Monitoring Methods:
+ ▪ Automated risk tracking tools.
+ ▪ Dashboards for ongoing performance evaluations.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Continuous Monitoring"", ""Real-Time Risk Tracking"", ""Ongoing Risk Assessment"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Confirm if the contract mandates:
+ ▪ Continuous monitoring of ICT third-party risks.
+ ▪ Mechanisms for reporting and escalating identified risks.
+4. 
+Document Observations:
+ ◦ Extract clauses detailing monitoring requirements.
+ ◦ Highlight gaps or missing elements for follow-up.
+
+TASK: Is regular reassessment of concentration risks required?
+
+Step-by-Step Verification Process:
+1. 
+Understand Concentration Risks:
+ ◦ 
+Definition: Over-reliance on a single provider or group of interconnected providers increases operational vulnerability.
+ ◦ 
+Examples of Concentration Risks:
+ ▪ Multiple critical services dependent on one provider.
+ ▪ Geographical concentration of service providers.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Concentration Risks"", ""Risk Reassessment"", ""Dependency Evaluation"".
+3. 
+Verify Reassessment Provisions:
+ ◦ Check if the contract specifies periodic or event-driven reassessments of concentration risks.
+ ◦ Confirm if reassessment triggers (e.g., new services, regulatory changes) are described.
+4. 
+Document Observations:
+ ◦ Extract and evaluate reassessment clauses.
+
+TASK: Are there requirements for periodic compliance reviews?
+
+Step-by-Step Verification Process:
+1. 
+Understand Periodic Compliance Reviews:
+ ◦ 
+Definition: Regular reviews ensure that the ICT third-party provider continues to meet regulatory and contractual obligations.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Compliance Reviews"", ""Regulatory Audits"", ""Performance Assessments"".
+3. 
+Verify Review Requirements:
+ ◦ Check if the contract mandates:
+ ▪ Periodic compliance reviews at defined intervals (e.g., annually, semi-annually).
+ ▪ Reporting of review findings to stakeholders.
+4. 
+Document Observations:
+ ◦ Extract clauses specifying review requirements.
+ ◦ Highlight missing or ambiguous provisions for follow-up.
+
+TASK: Is there a process for monitoring market changes?
+
+Step-by-Step Verification Process:
+1. 
+Understand Market Monitoring Requirements:
+ ◦ 
+Definition: Monitoring market changes helps identify emerging risks or alternative providers.
+2. 
+Locate Relevant Clauses:
+ ◦ Search for terms such as:
+ ▪ ""Market Monitoring"", ""Alternative Providers"", ""Competitive Analysis"".
+3. 
+Verify Monitoring Provisions:
+ ◦ Check if the contract requires:
+ ▪ Regular reviews of market trends and emerging technologies.
+ ▪ Reassessment of providers based on market conditions.
+4. 
+Document Observations:
+ ◦ Extract clauses related to market monitoring.
+ ◦ Highlight gaps in provisions for market awareness.
+
+2. Documentation Requirements
+
+
+TASK: Are risk assessments properly documented?
+
+Step-by-Step Verification Process:
+1. 
+Understand Risk Assessment Documentation Requirements:
+ ◦ 
+Definition: Documenting risk assessments ensures transparency and provides a reference for audits and compliance checks.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Risk Assessment Documentation"", ""Risk Records"", ""Assessment Reports"".
+3. 
+Verify Documentation Requirements:
+ ◦ Confirm if the contract mandates:
+ ▪ Detailed records of all risk assessments.
+ ▪ Inclusion of methodologies, identified risks, and mitigation strategies.
+4. 
+Document Observations:
+ ◦ Extract and review clauses specifying documentation obligations.
+
+TASK: Is there a requirement for maintaining assessment records?
+
+Step-by-Step Verification Process:
+1. 
+Understand Record Maintenance Requirements:
+ ◦ 
+Definition: Maintaining records ensures that risk assessments are available for audits and future reference.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Record Maintenance"", ""Risk Assessment Retention"", ""Documentation Storage"".
+3. 
+Verify Record Maintenance Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Retention periods for assessment records.
+ ▪ Storage and security measures (e.g., encryption, controlled access).
+4. 
+Document Observations:
+ ◦ Extract clauses detailing record maintenance requirements.
+ ◦ Highlight gaps if provisions are missing.
+
+TASK: Are reporting formats and frequencies specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Reporting Format and Frequency Requirements:
+ ◦ 
+Definition: Standardized reporting ensures consistent and clear communication of risk-related updates.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Reporting Requirements"", ""Report Formats"", ""Frequency of Reports"".
+3. 
+Verify Reporting Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Standardized templates or formats for reporting.
+ ▪ Defined intervals for submitting reports (e.g., monthly, quarterly).
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses addressing reporting requirements.
+
+TASK: Is there a process for document retention and updates?
+
+Step-by-Step Verification Process:
+1. 
+Understand Retention and Update Processes:
+ ◦ 
+Definition: Ensuring that documents remain up to date and accessible is critical for operational and regulatory needs.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Document Retention"", ""Record Updates"", ""Documentation Revision Process"".
+3. 
+Verify Retention and Update Requirements:
+ ◦ Confirm if the contract mandates:
+ ▪ Retaining documents for a specified period.
+ ▪ Updating records to reflect changes in risks, regulations, or operations.
+4. 
+Document Observations:
+ ◦ Extract clauses describing retention and update processes.
+ ◦ Highlight missing or unclear provisions for follow-up.","1. Ongoing Monitoring
+1. 
+Check for Provisions for Continuous Risk Monitoring:
+ ◦ 
+Prompt:Search the contract for clauses requiring continuous risk monitoring of the ICT third-party provider. Verify if these provisions include mechanisms like automated tools, regular risk evaluations, or real-time dashboards. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend adding a clause mandating continuous risk monitoring, specifying tools and metrics to be used.
+2. 
+Check for Regular Reassessment of Concentration Risks:
+ ◦ 
+Prompt:Locate provisions mandating the regular reassessment of concentration risks, such as dependency on a single provider for multiple critical services. Validate whether specific intervals or triggers for reassessment are defined.
+ ◦ 
+Follow-up if Missing:Recommend including a requirement for periodic or event-driven reassessments of concentration risks.
+3. 
+Check for Periodic Compliance Reviews:
+ ◦ 
+Prompt:Search for clauses requiring periodic compliance reviews to ensure the provider adheres to DORA and other regulatory standards. Verify if the contract specifies review frequency and scope (e.g., operational, financial, data protection compliance). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding terms mandating periodic compliance reviews, including detailed audit reports and corrective action plans.
+4. 
+Check for Monitoring Market Changes:
+ ◦ 
+Prompt:Search for provisions requiring monitoring of market changes, such as emerging alternative providers, regulatory shifts, or technology trends. Verify if these reviews are tied to the contract renewal or risk mitigation strategies. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Recommend including requirements for ongoing market evaluations, emphasizing their importance in maintaining flexibility and compliance.
+2. Documentation Requirements
+
+1. 
+Check for Proper Documentation of Risk Assessments:
+ ◦ 
+Prompt:Search the contract for requirements to document all risk assessments conducted on the ICT third-party provider. Verify if these documents must include methodologies, identified risks, and mitigation measures. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend adding a clause mandating detailed documentation of risk assessments.
+2. 
+Check for Maintenance of Assessment Records:
+ ◦ 
+Prompt:Locate clauses specifying requirements for maintaining assessment records over a defined period. Verify if the contract includes details on record formats, retention timelines, and responsible parties. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding terms requiring proper record maintenance, including secure storage and accessibility for audits.
+3. 
+Check for Reporting Formats and Frequencies:
+ ◦ 
+Prompt:Identify clauses specifying formats and frequencies for reporting assessments, incidents, or compliance statuses. Validate whether standardized formats (e.g., templates) and defined reporting intervals are included. Extract and confirm these details.
+ ◦ 
+Follow-up if Missing:Recommend including standardized reporting formats and frequencies to ensure consistent communication and compliance tracking.
+4. 
+Check for Document Retention and Updates:
+ ◦ 
+Prompt:Search for provisions requiring document retention and updates, including details on who is responsible for updating and how frequently updates should occur. Verify if these terms apply to risk assessments, compliance records, and audit reports. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating document retention and a regular update process to reflect changes in risks, regulations, or operations.
+Example AI Prompts for Each Requirement
+Ongoing Monitoring
+
+1. 
+Continuous Risk Monitoring:Search the contract for clauses requiring continuous risk monitoring of the provider. Extract any references to monitoring tools, processes, or metrics. Flag gaps if such provisions are not present.
+2. 
+Concentration Risk Reassessment:Identify clauses mandating regular reassessment of concentration risks. Verify if intervals or triggers for reassessment are defined. Recommend adding such terms if missing.
+3. 
+Periodic Compliance Reviews:Search for terms requiring periodic compliance reviews to ensure DORA adherence. Extract details on review frequency and scope. Suggest adding compliance review requirements if absent.
+4. 
+Market Monitoring:Locate clauses requiring ongoing monitoring of market changes, including new providers and regulatory shifts. Verify if these are tied to contract renewals. Flag gaps if provisions are not included.
+Documentation Requirements
+
+1. 
+Risk Assessment Documentation:Search for clauses mandating documentation of risk assessments. Extract any references to methodologies, risks identified, and mitigation measures. Suggest adding this requirement if absent.
+2. 
+Assessment Records Maintenance:Locate terms requiring maintenance of assessment records. Verify if retention timelines and responsible parties are specified. Recommend adding record maintenance requirements if missing.
+3. 
+Reporting Formats and Frequencies:Search for clauses specifying reporting formats and frequencies. Extract references to standardized templates or intervals. Suggest adding these terms if absent.
+4. 
+Retention and Updates:Search for provisions mandating document retention and updates. Verify if responsibilities and update frequencies are specified. Flag gaps and recommend adding such requirements if missing.","1. Ongoing Monitoring
+
+TASK: Verify if there are provisions for continuous risk monitoring.
+
+INSTRUCTIONS:
+1. Search the contract for terms such as: ""continuous monitoring"", ""risk tracking"", ""real-time monitoring"", ""ongoing assessment"".
+2. Identify clauses mandating continuous monitoring of the provider’s performance, compliance, or operational risks.
+3. Check if specific tools, methods, or processes for risk monitoring are described.
+4. Extract details about how monitoring results are reported and reviewed.
+
+TASK: Check if regular reassessment of concentration risks is required.
+
+INSTRUCTIONS:
+1. Locate sections referencing: ""concentration risk"", ""dependency assessment"", ""service reliance"", ""periodic reassessment"".
+2. Verify if the contract requires periodic reassessments of risks associated with provider concentration (e.g., reliance on a single provider for critical services).
+3. Check if reassessment intervals or triggers (e.g., changes in service scope or performance issues) are specified.
+4. Extract any clauses outlining the reassessment process.
+
+TASK: Verify if there are requirements for periodic compliance reviews.
+
+INSTRUCTIONS:
+1. Search for terms like: ""compliance review"", ""regulatory check"", ""audit schedule"", ""performance review"".
+2. Identify if the contract mandates regular compliance reviews to ensure alignment with DORA and other regulatory requirements.
+3. Check if responsibilities for conducting these reviews are assigned and if the frequency is specified.
+4. Extract clauses detailing the scope of compliance reviews.
+
+TASK: Check if there is a process for monitoring market changes.
+
+INSTRUCTIONS:
+1. Locate clauses mentioning: ""market monitoring"", ""alternative providers"", ""industry trends"", ""competitive analysis"".
+2. Verify if the contract requires regular reviews of market changes, such as new providers, regulatory shifts, or emerging technologies.
+3. Check if market monitoring is tied to contract renewal, risk mitigation strategies, or contingency planning.
+4. Extract details on how market insights are incorporated into decision-making.
+
+2. Documentation Requirements
+
+
+TASK: Verify if risk assessments are properly documented.
+
+INSTRUCTIONS:
+1. Search for terms: ""risk documentation"", ""assessment records"", ""risk reports"", ""analysis reports"".
+2. Identify clauses mandating documentation of all risk assessments conducted on the ICT third-party provider.
+3. Verify if the documentation includes:
+ ◦ Assessment methodologies.
+ ◦ Identified risks.
+ ◦ Mitigation measures.
+4. Extract any provisions specifying the format or structure of these documents.
+
+TASK: Check if there is a requirement for maintaining assessment records.
+
+INSTRUCTIONS:
+1. Search for clauses referencing: ""record keeping"", ""risk assessment storage"", ""documentation retention"".
+2. Verify if the contract requires maintaining records of all assessments for a specified duration.
+3. Check if storage security and accessibility requirements (e.g., encryption, access controls) are described.
+4. Extract clauses detailing retention periods and record management processes.
+
+TASK: Verify if reporting formats and frequencies are specified.
+
+INSTRUCTIONS:
+1. Search for terms: ""reporting"", ""formats"", ""templates"", ""frequency of reports"", ""periodic updates"".
+2. Identify if the contract specifies:
+ ◦ Standardized formats for reporting.
+ ◦ Defined intervals for submitting reports (e.g., monthly, quarterly).
+3. Verify if reporting obligations cover performance, compliance, or incident-related updates.
+4. Extract any templates or schedules referenced in the contract.
+
+TASK: Check if there is a process for document retention and updates.
+
+INSTRUCTIONS:
+1. Search for clauses mentioning: ""document retention"", ""record updates"", ""revision process"", ""compliance updates"".
+2. Verify if the contract includes a process for:
+ ◦ Retaining documents for regulatory or operational purposes.
+ ◦ Updating records to reflect changes in risks, compliance, or operations.
+3. Check if responsibilities for maintaining and updating documents are clearly assigned.
+4. Extract provisions describing how and when updates are performed."
+"7. Exit Strategy and Transition
+1. 
+Termination Planning
+ ◦ Are termination conditions clearly specified?
+ ◦ Is there a comprehensive exit plan?
+ ◦ Are data transfer procedures defined?
+ ◦ Are service continuity measures specified?
+2. 
+Transition Management
+ ◦ Are transition timelines defined?
+ ◦ Is there a process for knowledge transfer?
+ ◦ Are data migration procedures specified?
+ ◦ Are there provisions for operational continuity during transition?","1. Termination Planning
+
+TASK: Are termination conditions clearly specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Termination Conditions:
+ ◦ 
+Definition: Termination conditions outline the specific scenarios in which the contract may be ended by either party.
+ ◦ 
+Examples of Termination Triggers:
+ ▪ Regulatory non-compliance.
+ ▪ Material breach of contract.
+ ▪ Persistent service failures.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for sections labeled:
+ ▪ ""Termination Conditions"", ""Contract Termination"", ""Breach of Agreement"".
+3. 
+Verify Specificity of Termination Conditions:
+ ◦ Check if the contract clearly defines:
+ ▪ Events or conditions triggering termination.
+ ▪ Notification periods and processes for termination.
+ ▪ Remedies or penalties associated with early termination.
+4. 
+Document Observations:
+ ◦ Extract relevant clauses if termination conditions are clearly defined.
+ ◦ Highlight gaps or ambiguities for follow-up.
+
+TASK: Is there a comprehensive exit plan?
+
+Step-by-Step Verification Process:
+1. 
+Understand Exit Plans:
+ ◦ 
+Definition: An exit plan ensures smooth transitions during contract termination, minimizing disruptions to services.
+ ◦ 
+Key Components:
+ ▪ Data transfer.
+ ▪ Continuity measures.
+ ▪ Timelines for exit activities.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Exit Plan"", ""Termination Procedures"", ""Transition Arrangements"".
+3. 
+Verify the Exit Plan Details:
+ ◦ Check if the contract specifies:
+ ▪ Step-by-step procedures for transitioning services.
+ ▪ Allocation of responsibilities for exit activities.
+ ▪ Contingency measures for critical functions.
+4. 
+Document Observations:
+ ◦ Extract clauses outlining the exit plan.
+ ◦ Highlight gaps for further action.
+
+TASK: Are data transfer procedures defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand Data Transfer Requirements:
+ ◦ 
+Definition: Data transfer procedures ensure the secure and efficient handover of data during contract termination.
+ ◦ 
+Examples of Data to Transfer:
+ ▪ Customer records.
+ ▪ System configurations.
+ ▪ Operational logs.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Data Transfer"", ""Information Handover"", ""Data Migration"".
+3. 
+Verify Data Transfer Provisions:
+ ◦ Confirm that the contract specifies:
+ ▪ Security protocols for data transfer (e.g., encryption).
+ ▪ Timelines for completing the data transfer.
+ ▪ Formats and standards for data delivery.
+4. 
+Document Observations:
+ ◦ Extract clauses describing data transfer procedures.
+
+TASK: Are service continuity measures specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Service Continuity Requirements:
+ ◦ 
+Definition: Measures ensuring uninterrupted delivery of services during the transition period.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Service Continuity"", ""Interim Support"", ""Continuity of Operations"".
+3. 
+Verify Continuity Provisions:
+ ◦ Check if the contract includes:
+ ▪ Temporary service extensions.
+ ▪ Alternative providers for critical functions.
+ ▪ Contingency plans for service interruptions.
+4. 
+Document Observations:
+ ◦ Extract and evaluate clauses addressing service continuity.
+
+2. Transition Management
+
+
+TASK: Are transition timelines defined?
+
+Step-by-Step Verification Process:
+1. 
+Understand Transition Timelines:
+ ◦ 
+Definition: Timelines outline the schedule for completing all transition activities.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Transition Timelines"", ""Handover Schedule"", ""Exit Deadlines"".
+3. 
+Verify Timeline Details:
+ ◦ Confirm if the contract specifies:
+ ▪ Clear deadlines for transition milestones.
+ ▪ Timeframes for completing specific exit activities (e.g., data migration, knowledge transfer).
+4. 
+Document Observations:
+ ◦ Extract clauses describing transition timelines.
+
+TASK: Is there a process for knowledge transfer?
+
+Step-by-Step Verification Process:
+1. 
+Understand Knowledge Transfer Requirements:
+ ◦ 
+Definition: Knowledge transfer involves sharing operational expertise and documentation to ensure continuity after termination.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Knowledge Transfer"", ""Documentation Handover"", ""Training Support"".
+3. 
+Verify Knowledge Transfer Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Steps for transferring operational know-how.
+ ▪ Handover of key documentation, manuals, and configurations.
+ ▪ Training or onboarding support for the replacement provider or internal teams.
+4. 
+Document Observations:
+ ◦ Extract clauses outlining knowledge transfer requirements.
+
+TASK: Are data migration procedures specified?
+
+Step-by-Step Verification Process:
+1. 
+Understand Data Migration Requirements:
+ ◦ 
+Definition: Data migration ensures the secure and seamless transition of all relevant data to the new provider or internal systems.
+2. 
+Locate Relevant Clauses in the Contract:
+ ◦ Search for terms like:
+ ▪ ""Data Migration"", ""Data Transfer Procedures"", ""Information Relocation"".
+3. 
+Verify Data Migration Provisions:
+ ◦ Confirm if the contract specifies:
+ ▪ Security measures for data migration (e.g., encryption).
+ ▪ Formats and protocols for data handover.
+ ▪ Responsibilities for both parties during migration.
+4. 
+Document Observations:
+ ◦ Extract clauses describing data migration procedures.
+
+TASK: Are there provisions for operational continuity during the transition?
+
+Step-by-Step Verification Process:
+1. 
+Understand Operational Continuity During Transition:
+ ◦ 
+Definition: Ensures uninterrupted services and operations while transitioning to a new provider or internal systems.
+2. 
+Locate Relevant Sections in the Contract:
+ ◦ Search for terms such as:
+ ▪ ""Operational Continuity"", ""Continuity During Transition"", ""Service Stabilization"".
+3. 
+Verify Continuity Provisions:
+ ◦ Check if the contract specifies:
+ ▪ Temporary support arrangements from the outgoing provider.
+ ▪ Overlapping services from the new provider.
+ ▪ Contingency measures for critical operations.
+4. 
+Document Observations:
+ ◦ Extract clauses addressing operational continuity.","1. Termination Planning
+1. 
+Check for Clearly Specified Termination Conditions:
+ ◦ 
+Prompt:Search the contract for clauses that clearly specify termination conditions, including breaches of compliance, insolvency, or failure to meet performance standards. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including detailed termination conditions to address non-compliance, operational failures, and other critical triggers.
+2. 
+Check for a Comprehensive Exit Plan:
+ ◦ 
+Prompt:Locate clauses requiring a comprehensive exit plan in the event of contract termination. Verify if the exit plan includes steps for operational continuity, resource handovers, and communication protocols. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding an exit plan requirement that addresses all key elements, such as timelines, responsibilities, and post-termination support.
+3. 
+Check for Data Transfer Procedures:
+ ◦ 
+Prompt:Identify clauses specifying data transfer procedures during contract termination. Verify whether these procedures include timelines, security measures, and formats for data handover. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Recommend including terms requiring secure, timely, and comprehensive data transfer to ensure regulatory and operational continuity.
+4. 
+Check for Service Continuity Measures:
+ ◦ 
+Prompt:Search for provisions ensuring service continuity measures during the termination process. Validate whether the contract specifies interim service arrangements, such as temporary extensions or alternative providers. Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating service continuity until a transition is complete.
+2. Transition Management
+
+1. 
+Check for Defined Transition Timelines:
+ ◦ 
+Prompt:Search the contract for clauses specifying transition timelines for completing the migration of services, resources, and data. Verify if these timelines are realistic and tied to milestones. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including a detailed transition timeline with predefined milestones.
+2. 
+Check for Knowledge Transfer Processes:
+ ◦ 
+Prompt:Locate clauses requiring a knowledge transfer process during the transition period. Validate whether the process includes training, documentation, or dedicated support from the outgoing provider. Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding requirements for knowledge transfer to ensure a smooth transition of responsibilities to the new provider or internal teams.
+3. 
+Check for Data Migration Procedures:
+ ◦ 
+Prompt:Search for provisions detailing data migration procedures, including security measures, data formats, and timelines. Validate whether responsibilities for both parties are clearly outlined. Extract and verify these clauses.
+ ◦ 
+Follow-up if Missing:Recommend adding data migration requirements to ensure secure and seamless transfer of all relevant data.
+4. 
+Check for Operational Continuity Provisions During Transition:
+ ◦ 
+Prompt:Identify clauses requiring operational continuity during the transition period. Verify if the contract specifies interim measures, alternative arrangements, or extended support from the outgoing provider. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest including provisions mandating operational continuity to avoid service disruptions during the transition phase.
+Example AI Prompts for Each Requirement
+Termination Planning
+
+1. 
+Termination Conditions:Search for clauses specifying termination conditions, including compliance breaches or performance failures. Extract and validate these provisions. Recommend adding detailed conditions if missing.
+2. 
+Exit Plan:Locate terms requiring a comprehensive exit plan. Verify whether the plan includes steps for operational continuity, resource handovers, and communication protocols. Suggest adding an exit plan if absent.
+3. 
+Data Transfer:Search for clauses defining data transfer procedures during termination. Extract references to timelines, security, and formats. Recommend adding secure data transfer requirements if missing.
+4. 
+Service Continuity:Identify terms ensuring service continuity during termination. Extract and validate provisions for interim service arrangements. Suggest adding such measures if missing.
+Transition Management
+
+1. 
+Transition Timelines:Search for clauses specifying transition timelines and milestones. Extract and confirm details. Recommend including defined timelines if missing.
+2. 
+Knowledge Transfer:Locate clauses requiring a knowledge transfer process. Extract details on training, documentation, or dedicated support. Suggest adding such processes if absent.
+3. 
+Data Migration:Search for provisions detailing data migration procedures. Extract references to security, formats, and timelines. Recommend adding data migration requirements if missing.
+4. 
+Operational Continuity:Search for clauses mandating operational continuity during the transition. Extract and validate details on interim measures or extended support. Suggest adding operational continuity provisions if absent.","1. Termination Planning
+
+TASK: Verify if termination conditions are clearly specified.
+
+INSTRUCTIONS:
+1. Search the contract for terms such as: ""termination conditions"", ""contract termination"", ""termination clause"".
+2. Identify clauses outlining specific conditions under which the agreement can be terminated (e.g., non-compliance, insolvency, failure to meet SLAs).
+3. Check if termination conditions are comprehensive and cover financial, operational, and regulatory risks.
+4. Extract these clauses for review.
+
+TASK: Check if there is a comprehensive exit plan.
+
+INSTRUCTIONS:
+1. Locate sections referencing: ""exit plan"", ""transition planning"", ""termination procedures"".
+2. Verify if the contract includes a detailed exit plan specifying the steps to be followed upon termination.
+3. Check if the exit plan includes:
+ ◦ Allocation of responsibilities.
+ ◦ Timelines for execution.
+ ◦ Processes for ensuring continuity.
+4. Extract the relevant clauses for further validation.
+
+TASK: Verify if data transfer procedures are defined.
+
+INSTRUCTIONS:
+1. Search for terms: ""data transfer"", ""data migration"", ""handover process"", ""data recovery"".
+2. Identify if the contract specifies secure and efficient data transfer procedures upon termination.
+3. Verify if these procedures include:
+ ◦ Timelines for data transfer.
+ ◦ Security measures (e.g., encryption, access controls).
+ ◦ Formats for data handover.
+4. Extract clauses detailing the data transfer process.
+
+TASK: Check if service continuity measures are specified.
+
+INSTRUCTIONS:
+1. Locate clauses referencing: ""service continuity"", ""operational continuity"", ""interim services"".
+2. Verify if the contract mandates measures to maintain service continuity during the termination process.
+3. Check if temporary arrangements or alternative providers are specified.
+4. Extract these provisions for evaluation.
+
+2. Transition Management
+
+
+TASK: Verify if transition timelines are defined.
+
+INSTRUCTIONS:
+1. Search for clauses containing: ""transition timelines"", ""migration schedule"", ""handover period"".
+2. Identify if the contract specifies:
+ ◦ Clear timelines for transitioning services.
+ ◦ Deadlines for completing each phase of the transition.
+3. Check if milestones and responsibilities are outlined in the timeline.
+4. Extract details on transition timelines.
+
+TASK: Check if there is a process for knowledge transfer.
+
+INSTRUCTIONS:
+1. Search for terms such as: ""knowledge transfer"", ""documentation handover"", ""training"", ""operational know-how"".
+2. Verify if the contract requires the outgoing provider to:
+ ◦ Transfer documentation and expertise to the financial entity or new provider.
+ ◦ Provide training or support during the transition.
+3. Check if knowledge transfer responsibilities are clearly assigned.
+4. Extract clauses describing the process.
+
+TASK: Verify if data migration procedures are specified.
+
+INSTRUCTIONS:
+1. Locate sections referencing: ""data migration"", ""data handover"", ""information transfer"".
+2. Check if the contract outlines:
+ ◦ Methods for securely migrating data.
+ ◦ Formats and standards for data handover.
+ ◦ Timelines and responsibilities for data migration.
+3. Extract these clauses for validation.
+
+TASK: Check if there are provisions for operational continuity during the transition.
+
+INSTRUCTIONS:
+1. Search for terms like: ""operational continuity"", ""continuity of services"", ""interim support"", ""transition services"".
+2. Verify if the contract includes measures to ensure uninterrupted operations during the transition period.
+3. Check if temporary or extended services are detailed to cover the gap until the transition is complete.
+4. Extract provisions addressing operational continuity."
