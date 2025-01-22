@@ -1,0 +1,1438 @@
+{
+    "chapter_5_name": "CHAPTER V: Managing of ICT third-party risk",
+    "chapter_5": [
+        {
+            "section_1_name": "SECTION I: Key principles for a sound management of ICT third-party risk",
+            "section_1": [
+                {
+                    "article_28_name": "General principles",
+                    "article_28": [
+                        {
+                            "question": "Explain the foundational principles for ICT third-party risk management in Article 28(1).",
+                            "answer": "Financial entities shall manage ICT third-party risk as an integral component of ICT risk within their ICT risk management framework as referred to in Article 6(1), and in accordance with the following principles:"
+                        },
+                        {
+                            "question": "Summarize Article 28(1)'s approach to ICT third-party risk.",
+                            "answer": "Financial entities shall manage ICT third-party risk as an integral component of ICT risk within their ICT risk management framework as referred to in Article 6(1), and in accordance with the following principles:"
+                        },
+                        {
+                            "question": "What is required under Article 28(1(a))?",
+                            "answer": "financial entities that have in place contractual arrangements for the use of ICT services to run their business operations shall, at all times, remain fully responsible for compliance with, and the discharge of, all obligations under this Regulation and applicable financial services law;"
+                        },
+                        {
+                            "question": "What is required under Article 28(1(b))?",
+                            "answer": "financial entities\u00e2\u20ac\u2122 management of ICT third-party risk shall be implemented in light of the principle of proportionality, taking into account:"
+                        },
+                        {
+                            "question": "What does Article 28(1(b)(i)) specify?",
+                            "answer": "the nature, scale, complexity and importance of ICT-related dependencies,"
+                        },
+                        {
+                            "question": "What does Article 28(1(b)(ii)) specify?",
+                            "answer": "the risks arising from contractual arrangements on the use of ICT services concluded with ICT third-party service providers, taking into account the criticality or importance of the respective service, process or function, and the potential impact on the continuity and availability of financial services and activities, at individual and at group level"
+                        },
+                        {
+                            "question": "What strategy requirements does Article 28(2) impose on financial entities?",
+                            "answer": "Financial entities (excluding microenterprises) must adopt and regularly review a strategy on ICT third-party risk, incorporating a multi-vendor approach where applicable."
+                        },
+                        {
+                            "question": "What policy requirements are included in Article 28(2)'s strategy?",
+                            "answer": "The strategy must include a policy on using ICT services supporting critical functions, applied at individual and consolidated levels."
+                        },
+                        {
+                            "question": "What are the management body's responsibilities under Article 28(2)?",
+                            "answer": "The management body must regularly review risks related to ICT service contracts, based on the entity's overall risk profile and business complexity."
+                        },
+                        {
+                            "question": "Identify the core obligations under Article 28(2).",
+                            "answer": "Requirement for strategy on ICT third-party risk; Management body responsibilities"
+                        },
+                        {
+                            "question": "What register maintenance requirements does Article 28(3) specify?",
+                            "answer": "Financial entities shall maintain and update at entity level, and at sub-consolidated and consolidated levels, a register of information in relation to all contractual arrangements on the use of ICT services provided by ICT third-party service providers."
+                        },
+                        {
+                            "question": "What documentation standards are required under Article 28(3)?",
+                            "answer": "The contractual arrangements referred to in the first subparagraph shall be appropriately documented, distinguishing between those that cover ICT services supporting critical or important functions and those that do not."
+                        },
+                        {
+                            "question": "What reporting obligations exist under Article 28(3)?",
+                            "answer": "Financial entities shall report at least yearly to the competent authorities on the number of new arrangements, categories of providers, and types of ICT services. They must also inform the authority about planned arrangements for critical functions."
+                        },
+                        {
+                            "question": "List the components mandated by Article 28(3).",
+                            "answer": "Register maintenance requirements; Documentation standards; Reporting obligations"
+                        },
+                        {
+                            "question": "Outline the stipulations of Article 28(4) regarding ICT third-party risk management.",
+                            "answer": "Before entering into a contractual arrangement on the use of ICT services, financial entities shall:"
+                        },
+                        {
+                            "question": "What requirements does Article 28(4) impose on ICT third-party engagements?",
+                            "answer": "Before entering into a contractual arrangement on the use of ICT services, financial entities shall:"
+                        },
+                        {
+                            "question": "What is required under Article 28(4(a))?",
+                            "answer": "assess whether the contractual arrangement covers the use of ICT services supporting a critical or important function;"
+                        },
+                        {
+                            "question": "What is required under Article 28(4(b))?",
+                            "answer": "assess if supervisory conditions for contracting are met;"
+                        },
+                        {
+                            "question": "What is required under Article 28(4(c))?",
+                            "answer": "identify and assess all relevant risks in relation to the contractual arrangement, including the possibility that such contractual arrangement may contribute to reinforcing ICT concentration risk as referred to in Article 29;"
+                        },
+                        {
+                            "question": "What is required under Article 28(4(d))?",
+                            "answer": "undertake all due diligence on prospective ICT third-party service providers and ensure throughout the selection and assessment processes that the ICT third-party service provider is suitable;"
+                        },
+                        {
+                            "question": "What is required under Article 28(4(e))?",
+                            "answer": "identify and assess conflicts of interest that the contractual arrangement may cause."
+                        },
+                        {
+                            "question": "Explain the information security standards required by Article 28(5).",
+                            "answer": "Financial entities may only enter into contractual arrangements with ICT third-party service providers that comply with appropriate information security standards. When those contractual arrangements concern critical or important functions, financial entities shall, prior to concluding the arrangements, take due consideration of the use, by ICT third- party service providers, of the most up-to-date and highest quality information security standards."
+                        },
+                        {
+                            "question": "What contractual prerequisites does Article 28(5) define?",
+                            "answer": "Financial entities may only enter into contractual arrangements with ICT third-party service providers that comply with appropriate information security standards. When those contractual arrangements concern critical or important functions, financial entities shall, prior to concluding the arrangements, take due consideration of the use, by ICT third- party service providers, of the most up-to-date and highest quality information security standards."
+                        },
+                        {
+                            "question": "What does Article 28(6) state about ICT third-party risk?",
+                            "answer": "In exercising access, inspection and audit rights over the ICT third-party service provider, financial entities shall, on the basis of a risk-based approach, pre-determine the frequency of audits and inspections as well as the areas to be audited through adhering to commonly accepted audit standards in line with any supervisory instruction on the use and incorporation of such audit standards."
+                        },
+                        {
+                            "question": "What is required under Article 28(6(a))?",
+                            "answer": "Where contractual arrangements concluded with ICT third-party service providers on the use of ICT services entail high technical complexity, the financial entity shall verify that auditors, whether internal or external, or a pool of auditors, possess appropriate skills and knowledge to effectively perform the relevant audits and assessments."
+                        },
+                        {
+                            "question": "What role do 'commonly accepted audit standards' play under Article 28(6)?",
+                            "answer": "Audits and inspections must align with these standards and any supervisory instructions, ensuring consistency and regulatory compliance in evaluating ICT third-party providers."
+                        },
+                        {
+                            "question": "What does Article 28(7) state about ICT third-party risk?",
+                            "answer": "Financial entities shall ensure that contractual arrangements on the use of ICT services may be terminated in any of the following circumstances:"
+                        },
+                        {
+                            "question": "What contractual termination conditions are defined in Article 28(7)(a)?",
+                            "answer": "significant breach by the ICT third-party service provider of applicable laws, regulations or contractual terms;"
+                        },
+                        {
+                            "question": "Describe the obligations specified in Article 28(7)(a).",
+                            "answer": "significant breach by the ICT third-party service provider of applicable laws, regulations or contractual terms;"
+                        },
+                        {
+                            "question": "What is required under Article 28(7(b))?",
+                            "answer": "circumstances identified throughout the monitoring of ICT third-party risk that are deemed capable of altering the performance of the functions provided through the contractual arrangement, including material changes that affect the arrangement or the situation of the ICT third-party service provider;"
+                        },
+                        {
+                            "question": "What is required under Article 28(7(c))?",
+                            "answer": "ICT third-party service provider\u00e2\u20ac\u2122s evidenced weaknesses pertaining to its overall ICT risk management and in particular in the way it ensures the availability, authenticity, integrity and confidentiality of data, whether personal or otherwise sensitive data, or non-personal data;"
+                        },
+                        {
+                            "question": "What is required under Article 28(7(d))?",
+                            "answer": "where the competent authority can no longer effectively supervise the financial entity as a result of the conditions of, or circumstances related to, the respective contractual arrangement."
+                        },
+                        {
+                            "question": "What exit strategy provisions are required for critical ICT services under Article 28(8)?",
+                            "answer": "Financial entities shall put in place exit strategies for ICT services supporting critical or important functions. These strategies must account for risks emerging from ICT third-party service providers, including possible provider failures."
+                        },
+                        {
+                            "question": "What risks must exit strategies address under Article 28(8)?",
+                            "answer": "Exit strategies must consider: deterioration of ICT service quality, business disruption from inappropriate/failed service provision, and material risks affecting continuous deployment of ICT services."
+                        },
+                        {
+                            "question": "Under what circumstances can exit strategies be triggered per Article 28(8)?",
+                            "answer": "Exit strategies apply when contractual arrangements with ICT third-party providers are terminated under the conditions listed in Section 7 of this regulation."
+                        },
+                        {
+                            "question": "What is required under Article 28(8(e))?",
+                            "answer": "Exit plans shall be comprehensive, documented and, in accordance with the criteria set out in Article 4(2), shall be sufficiently tested and reviewed periodically."
+                        },
+                        {
+                            "question": "What is required under Article 28(8(f))?",
+                            "answer": "Financial entities shall identify alternative solutions and develop transition plans enabling them to remove the contracted ICT services and the relevant data from the ICT third-party service provider and to securely and integrally transfer them to alternative providers or reincorporate them in-house."
+                        },
+                        {
+                            "question": "What is required under Article 28(8(g))?",
+                            "answer": "Financial entities shall have appropriate contingency measures in place to maintain business continuity in the event of the circumstances referred to in the first subparagraph."
+                        },
+                        {
+                            "question": "What does Article 28(9) state about ICT third-party risk?",
+                            "answer": "The ESAs shall, through the Joint Committee, develop draft implementing technical standards to establish the standard templates for the purposes of the register of information referred to in paragraph 3, including information that is common to all contractual arrangements on the use of ICT services. The ESAs shall submit those draft implementing technical standards to the Commission by 17 January 2024."
+                        },
+                        {
+                            "question": "What additional requirements does Article 28(9) specify?",
+                            "answer": "Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010."
+                        },
+                        {
+                            "question": "What does Article 28(10) state about ICT third-party risk?",
+                            "answer": "The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to further specify the detailed content of the policy referred to in paragraph 2 in relation to the contractual arrangements on the use of ICT services supporting critical or important functions provided by ICT third-party service providers."
+                        },
+                        {
+                            "question": "Detail the supplementary obligations introduced in Article 28(10).",
+                            "answer": "When developing those draft regulatory technical standards, the ESAs shall take into account the size and the overall risk profile of the financial entity, and the nature, scale and complexity of its services, activities and operations. The ESAs shall submit those draft regulatory technical standards to the Commission by 17 January 2024."
+                        },
+                        {
+                            "question": "What expanded provisions are outlined in Article 28(10)?",
+                            "answer": "When developing those draft regulatory technical standards, the ESAs shall take into account the size and the overall risk profile of the financial entity, and the nature, scale and complexity of its services, activities and operations. The ESAs shall submit those draft regulatory technical standards to the Commission by 17 January 2024."
+                        },
+                        {
+                            "question": "What additional requirements does Article 28(10) specify?",
+                            "answer": "Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010."
+                        },
+                        {
+                            "question": "What does Article 28(1) mean by 'integral component of ICT risk'?",
+                            "answer": "ICT third-party risk must be embedded within the broader ICT risk management framework of financial entities, ensuring it is not treated as a separate risk category but as part of the entity's holistic risk management approach."
+                        },
+                        {
+                            "question": "How does Article 28(2) incorporate the 'multi-vendor strategy'?",
+                            "answer": "The strategy on ICT third-party risk must take into account the multi-vendor strategy referenced in Article 6(9), ensuring diversification of providers to mitigate concentration risks."
+                        },
+                        {
+                            "question": "What specific obligation does Article 28(3) impose regarding functions becoming critical?",
+                            "answer": "Financial entities must inform competent authorities in a timely manner when a function transitions to being classified as critical or important."
+                        },
+                        {
+                            "question": "What is the purpose of the pre-contractual assessments in Article 28(4)?",
+                            "answer": "To ensure financial entities systematically evaluate risks, compliance, and suitability of ICT third-party providers before formalizing agreements, thereby mitigating potential disruptions or regulatory breaches."
+                        },
+                        {
+                            "question": "What information security standards are mandated by Article 28(5)?",
+                            "answer": "For critical or important functions, financial entities must prioritize the use of the most up-to-date and highest quality information security standards by ICT third-party providers."
+                        },
+                        {
+                            "question": "How do 'commonly accepted audit standards' ensure compliance under Article 28(6)?",
+                            "answer": "By requiring audits to align with these standards, financial entities ensure consistency and regulatory compliance in evaluating ICT third-party providers, per supervisory guidelines."
+                        },
+                        {
+                            "question": "Summarize all termination conditions listed in Article 28(7).",
+                            "answer": "Termination is permitted for: (a) legal/contractual breaches; (b) material changes affecting performance; (c) provider's ICT risk management weaknesses; (d) impediments to supervisory effectiveness."
+                        },
+                        {
+                            "question": "What does Article 28(8)(e) require for exit plans?",
+                            "answer": "Exit plans must be comprehensive, documented, periodically reviewed, and sufficiently tested in accordance with Article 4(2)."
+                        },
+                        {
+                            "question": "How does Article 28(9) involve the Joint Committee?",
+                            "answer": "The European Supervisory Authorities (ESAs), via the Joint Committee, are tasked with developing draft implementing technical standards for the register of ICT service contracts."
+                        },
+                        {
+                            "question": "What regulations govern the Commission's power under Article 28(10)?",
+                            "answer": "Regulations (EU) No 1093/2010, 1094/2010, and 1095/2010, specifically Articles 10–14, delegate authority to the Commission to adopt regulatory technical standards."
+                        },
+                        {
+                            "question": "What is the significance of Article 4(2) in the context of Article 28(8)?",
+                            "answer": "Article 4(2) provides criteria for ensuring exit plans are robust, including requirements for testing and documentation, which financial entities must adhere to."
+                        },
+                        {
+                            "question": "What specific conditions must exit strategies avoid under Article 28(8(a))?",
+                            "answer": "Exit strategies must ensure termination occurs without: (b) disruption to business activities; (c) limiting compliance with regulatory requirements; (d) detriment to service continuity or quality for clients."
+                        },
+                        {
+                            "question": "What is required under Article 28(8(a))?",
+                            "answer": "Financial entities must ensure they can exit contractual arrangements without: (b) disruption to business activities; (c) limiting compliance with regulatory requirements; (d) detriment to service continuity or quality for clients."
+                        },
+                        {
+                            "question": "What must financial entities report under Article 28(3) when a function becomes critical?",
+                            "answer": "Financial entities must inform the competent authority in a timely manner when a function transitions to being classified as critical or important."
+                        },
+                        {
+                            "question": "How does the multi-vendor strategy under Article 6(9) mitigate ICT third-party risk?",
+                            "answer": "The multi-vendor strategy reduces concentration risk by diversifying ICT service providers, ensuring no single provider's failure disrupts critical functions."
+                        },
+                        {
+                            "question": "What is required under Article 28(6(a)) for high-complexity ICT contracts?",
+                            "answer": "For contracts with high technical complexity, financial entities must verify auditors (internal/external) possess the necessary technical skills and knowledge to conduct effective audits."
+                        },
+                        {
+                            "question": "What contingency measures are required under Article 28(8(g))?",
+                            "answer": "Financial entities must implement contingency measures to maintain business continuity during exit scenarios, such as provider failure or service deterioration."
+                        },
+                        {
+                            "question": "What legal basis empowers the Commission under Article 28(9(a))?",
+                            "answer": "The Commission adopts technical standards under Article 15 of EU Regulations 1093/2010, 1094/2010, and 1095/2010, which govern the ESAs' operational framework."
+                        },
+                        {
+                            "question": "How does Article 28(10(b)) delegate power to the Commission?",
+                            "answer": "The Commission is empowered to adopt regulatory technical standards under Articles 10–14 of EU Regulations 1093-1095/2010, ensuring harmonized implementation of ICT third-party policies."
+                        },
+                        {
+                            "question": "What specific conditions must exit strategies avoid under Article 28(8(a))?",
+                            "answer": "Exit strategies must ensure termination occurs without: (b) disruption to business activities; (c) limiting compliance with regulatory requirements; (d) detriment to service continuity or quality for clients."
+                        },
+                        {
+                            "question": "What legal basis empowers the Commission under Article 28(9(a))?",
+                            "answer": "The Commission adopts technical standards under Article 15 of Regulations (EU) No 1093/2010, No 1094/2010, and No 1095/2010, which govern the European Supervisory Authorities' operational framework."
+                        },
+                        {
+                            "question": "How does Article 28(10(b)) delegate power to the Commission?",
+                            "answer": "The Commission is empowered to adopt regulatory technical standards under Articles 10–14 of Regulations (EU) No 1093/2010, No 1094/2010, and No 1095/2010, ensuring harmonized implementation of ICT third-party policies."
+                        },
+                        {
+                            "question": "How does Article 28 cross-reference Article 29 regarding concentration risk?",
+                            "answer": "Article 28 requires assessing ICT third-party risks in contractual agreements. Article 29 adds the need for evaluating concentration risk when choosing providers or subcontractors."
+                        },
+                        {
+                            "question": "Which oversight rules under Article 42 link to termination conditions in Article 28(7)?",
+                            "answer": "Article 42 outlines supervisory follow-up and potential enforcement. If a critical provider breaches contractual terms under Article 28(7), supervisors may intervene, even mandating service suspension."
+                        },
+                        {
+                            "question": "What does partial compliance with the obligation to maintain a register of ICT contracts (Article 28(3)) look like?",
+                            "answer": "Some contracts may be recorded, but key details might be missing or outdated. This violates full compliance since the register must be continually updated and comprehensive."
+                        },
+                        {
+                            "question": "What if a provider only applies some information security standards required by Article 28(5)?",
+                            "answer": "It constitutes partial compliance. The provider meets minimal controls but fails to meet the ‘highest quality standards.’ Financial entities must reassess risks and consider corrective measures."
+                        },
+                        {
+                            "question": "How might escalation unfold if a provider ignores exit strategy requirements under Article 28(8)?",
+                            "answer": "Supervisors can demand remediation, referencing Articles 42 and 28(7). If non-compliance persists, financial entities might be required to suspend or terminate services under Article 42(6)."
+                        },
+                        {
+                            "question": "What escalation actions can competent authorities take if they discover serious issues with contractual terms under Article 28?",
+                            "answer": "They can notify the financial entity to correct or renegotiate terms. If unresolved, authorities might leverage enforcement or require terminating the contract, consistent with Articles 42(4) and 42(6)."
+                        }
+                    ],
+                    "article_29_name": "Article 29: Preliminary assessment of ICT concentration risk at entity level",
+                    "article_29": [
+                        {
+                            "question": "What does Article 29(1) require for ICT concentration risk?",
+                            "answer": "Financial entities must check if new contracts for critical ICT services create a dependence on providers that are not easily replaceable or involve multiple important service agreements with the same or closely connected providers."
+                        },
+                        {
+                            "question": "Which factors must financial entities weigh under Article 29(1)?",
+                            "answer": "They must balance the benefits and costs of alternatives, like using different providers, while considering how potential solutions align with their digital resilience strategy."
+                        },
+                        {
+                            "question": "What does Article 29(2) require regarding subcontracting?",
+                            "answer": "Where critical or important functions can be further subcontracted, financial entities must evaluate the risks of subcontractors, especially when they are in third countries."
+                        },
+                        {
+                            "question": "What does Article 29(2) say about insolvency considerations?",
+                            "answer": "Financial entities must consider the insolvency law that would apply if the ICT third-party provider becomes bankrupt, including the urgency of recovering the entity’s data."
+                        },
+                        {
+                            "question": "What must be considered for ICT providers in third countries under Article 29(2)?",
+                            "answer": "Compliance with Union data protection rules, effective enforcement of the law, and any additional constraints on urgent data recovery in the event of provider bankruptcy."
+                        },
+                        {
+                            "question": "How do potentially long or complex subcontracting chains affect oversight per Article 29(2)?",
+                            "answer": "They may impair the financial entity’s ability to monitor contracted functions and hinder competent authorities’ supervisory activities."
+                        },
+                        {
+                            "question": "Which contract clauses ensure compliance with Article 29(1) regarding substitutability?",
+                            "answer": "Contracts should include fallback provider options, exit strategies, and provisions ensuring critical functions can be migrated quickly if an ICT provider becomes unavailable or non-compliant."
+                        },
+                        {
+                            "question": "What steps must a contract cover to meet Article 29(1)(b) on multiple arrangements?",
+                            "answer": "It should define clear scope for each critical function, detail monitoring of overlapping services, and require periodic reviews to avoid excessive reliance on a single or connected providers."
+                        },
+                        {
+                            "question": "How do financial entities confirm compliance with Article 29(2) when dealing with subcontractors in third countries?",
+                            "answer": "They must include clauses enforcing EU data protection standards, define data retrieval procedures if the provider fails, and ensure the chain of subcontractors remains auditable by competent authorities."
+                        },
+                        {
+                            "question": "How can an entity demonstrate it has accounted for insolvency risks as required under Article 29(2)?",
+                            "answer": "They should include terms guaranteeing rapid data recovery and transfer if the ICT provider enters bankruptcy, reference applicable insolvency laws, and outline how continuity of critical services remains protected."
+                        },
+                        {
+                            "question": "What contract features facilitate ongoing monitoring of subcontracting chains under Article 29(2)?",
+                            "answer": "They include audit clauses that extend to all subcontractors, reporting duties on any changes in the subcontracting chain, and immediate notification to the financial entity of new or replaced subcontractors."
+                        },
+                        {
+                            "question": "What must financial entities verify for third-country ICT subcontractors under Article 29(2)?",
+                            "answer": "Financial entities must ensure compliance with EU data protection rules, assess the enforceability of laws in the third country, and evaluate constraints on urgent data recovery during provider bankruptcy."
+                        },
+                        {
+                            "question": "What insolvency considerations apply under Article 29(2)?",
+                            "answer": "Financial entities must assess the insolvency law applicable to ICT third-party providers, including the ability to urgently recover data in the event of bankruptcy."
+                        },
+                        {
+                            "question": "How does Article 29’s focus on concentration risk intersect with Article 28’s requirement for proportionality?",
+                            "answer": "Article 28(1)(b) addresses proportional ICT risk management. Article 29 specifically adds that entities must consider substitutability and multiple contracts with one provider, deepening the proportionality principle."
+                        },
+                        {
+                            "question": "Why should entities also cross-check Article 42(6) when a single provider’s non-compliance is discovered under Article 29?",
+                            "answer": "Because Article 42(6) outlines measures to suspend or terminate services if the provider fails to address the identified concentration or compliance risks indicated in Article 29."
+                        },
+                        {
+                            "question": "What might partial compliance with Article 29(1) look like?",
+                            "answer": "An entity might recognize concentration risk but only document partial mitigation measures. For instance, they note the risk without implementing an alternative provider or fallback plan."
+                        },
+                        {
+                            "question": "How can partial compliance with subcontracting assessments under Article 29(2) create vulnerabilities?",
+                            "answer": "Entities may assess primary providers but overlook deeper subcontracting chains or fail to verify third-country compliance with EU data protection rules."
+                        },
+                        {
+                            "question": "What escalation paths exist if an entity keeps using a non-substitutable provider without mitigation measures under Article 29?",
+                            "answer": "Supervisors could mandate multi-vendor strategies, referencing Article 28. Under Article 42(4) and (6), they might force partial suspension until concentration risk is reduced."
+                        },
+                        {
+                            "question": "How might competent authorities escalate issues if they see recurring subcontracting problems under Article 29(2)?",
+                            "answer": "They can require more stringent oversight, or, as a last resort, invoke Article 42(6) to suspend certain critical functions until compliance is assured."
+                        }
+                    ],
+                    "article_30_name": "Article 30: Key contractual provisions",
+                    "article_30": [
+                        {
+                            "question": "What is the primary requirement of Article 30(1) regarding contractual documentation?",
+                            "answer": "Financial entities and ICT third-party providers must have a single written contract containing service-level agreements, ensuring the rights and obligations of both parties are clearly allocated and accessible."
+                        },
+                        {
+                            "question": "Which minimum elements must be included in every contract under Article 30(2)?",
+                            "answer": "The elements include details on scope of services, data protection measures, service level descriptions, cooperation obligations, and provisions on termination rights, among others."
+                        },
+                        {
+                            "question": "How does Article 30(2)(a) address subcontracting of critical ICT services?",
+                            "answer": "Contracts must clarify whether subcontracting is permitted and, if so, under what conditions, especially for material portions of critical or important functions."
+                        },
+                        {
+                            "question": "What does Article 30(2)(b) require about the locations of service provision and data storage?",
+                            "answer": "Providers must identify which regions or countries host the services and data. They must notify the financial entity in advance of any changes to these locations."
+                        },
+                        {
+                            "question": "How do contractual obligations under Article 30(2)(c) ensure data confidentiality and integrity?",
+                            "answer": "They require clear provisions on data authenticity, integrity, confidentiality, and availability, reflecting data protection regulations and the financial entity’s requirements."
+                        },
+                        {
+                            "question": "Which data return obligations does Article 30(2)(d) impose for insolvency or contract termination scenarios?",
+                            "answer": "Providers must ensure that personal and non-personal data can be returned or recovered in a readily accessible format, even if the provider goes bankrupt or ceases operations."
+                        },
+                        {
+                            "question": "Under Article 30(2)(e) and (f), what are service level descriptions and incident management obligations?",
+                            "answer": "The contract must have explicit service level descriptions and require the provider’s assistance, at no or pre-defined cost, if an ICT incident affects the financial entity."
+                        },
+                        {
+                            "question": "Why does Article 30(2)(g) require ICT third-party providers to fully cooperate with competent and resolution authorities?",
+                            "answer": "Such cooperation ensures oversight, allowing authorities to verify compliance and quickly address risks or incidents threatening financial stability."
+                        },
+                        {
+                            "question": "How do termination rights under Article 30(2)(h) tie back to Article 28(7)?",
+                            "answer": "They align with DORA’s termination conditions. If the provider breaches obligations or poses unresolved risks, the financial entity can end the contract following these clauses."
+                        },
+                        {
+                            "question": "What additional obligations apply to critical ICT services under Article 30(3)?",
+                            "answer": "More detailed service level descriptions, strict notification requirements, mandatory business contingency plans, participation in TLPT, and robust monitoring rights."
+                        },
+                        {
+                            "question": "How does Article 30(3)(a) support effective monitoring of ICT services?",
+                            "answer": "It requires precise performance targets and metrics, enabling the financial entity to detect shortfalls quickly and take corrective actions if service levels are not met."
+                        },
+                        {
+                            "question": "Which mandatory testing measures must providers implement according to Article 30(3)(c)?",
+                            "answer": "They must have and test contingency plans, ensure robust ICT security measures, and follow all relevant regulatory requirements for providing services to financial entities."
+                        },
+                        {
+                            "question": "What is the significance of TLPT participation under Article 30(3)(d)?",
+                            "answer": "Providers must cooperate fully in Threat Led Penetration Testing (TLPT) as set out in Articles 26 and 27, ensuring their systems meet resilience standards."
+                        },
+                        {
+                            "question": "How do access and audit rights under Article 30(3)(e)(i) empower financial entities and competent authorities?",
+                            "answer": "They grant unrestricted inspection and audit powers, allowing on-site reviews and documentation checks, ensuring providers meet contractual and regulatory obligations."
+                        },
+                        {
+                            "question": "What does Article 30(3)(e)(ii) and (iii) say about balancing multiple clients’ rights?",
+                            "answer": "Providers must agree on alternative assurance levels if direct inspection might violate other clients’ confidentiality, but they must still cooperate fully with audits and inspections."
+                        },
+                        {
+                            "question": "When are exit strategies under Article 30(3)(f) necessary?",
+                            "answer": "They apply when transitioning away from a provider, allowing services to continue smoothly or ensuring an effective resolution if a provider fails or if the contract terminates."
+                        },
+                        {
+                            "question": "What flexibility do microenterprises have under Article 30(3)(e)’s derogation?",
+                            "answer": "They may delegate their audit rights to an independent third party chosen by the ICT provider, provided the microenterprise can still request performance information anytime."
+                        },
+                        {
+                            "question": "How do standard contractual clauses under Article 30(4) assist negotiations?",
+                            "answer": "They simplify compliance by providing pre-approved wording and structures, ensuring both financial entities and ICT providers meet DORA requirements more easily."
+                        },
+                        {
+                            "question": "What is the link between Article 30(5) and existing obligations in Articles 28–29?",
+                            "answer": "Article 30(5) references developing technical standards for subcontracting. Articles 28–29 emphasize managing third-party and concentration risks, which these standards must address."
+                        },
+                        {
+                            "question": "What is a partial compliance scenario under Article 30(2)?",
+                            "answer": "A contract may define data confidentiality or location but omit exit strategies, making it incomplete. This leaves gaps in risk management and can trigger regulator intervention."
+                        },
+                        {
+                            "question": "How might hypothetical partial compliance with Article 30(3)(a) create vulnerabilities?",
+                            "answer": "If service levels are vaguely defined, the financial entity may fail to detect shortfalls or hold the provider accountable, risking service disruptions."
+                        },
+                        {
+                            "question": "Which escalation steps apply if a provider refuses key contractual clauses required by Article 30?",
+                            "answer": "Supervisors can demand amendments or invoke Article 42. If non-compliance continues, regulators might force contract suspension (Article 42(6)) or require an exit (Article 28(8))."
+                        },
+                        {
+                            "question": "How might the Lead Overseer respond if repeated audits under Article 30(3)(e)(i) reveal persistent service shortfalls?",
+                            "answer": "The Lead Overseer could coordinate a general investigation (Article 38) or on-site inspection (Article 39). Continued issues might lead to more severe enforcement under Article 42."
+                        },
+                        {
+                            "question": "In what way can subcontracting obligations under Article 30(5) tie into Article 29(2) concentration risk?",
+                            "answer": "If a subcontractor is in a third country or has complex chains, the financial entity must ensure it does not create undue concentration or compliance risk. Non-compliance can escalate quickly."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section_2_name": "SECTION II: Oversight Framework of critical ICT third-party service providers",
+            "section_2": [
+                {
+                    "article_31_name": "Article 31: Designation of critical ICT third-party service providers",
+                    "article_31": [
+                        {
+                            "question": "What role do the ESAs play under Article 31(1)?",
+                            "answer": "They designate critical ICT third-party providers, upon the Oversight Forum’s recommendation, and appoint the Lead Overseer based on which ESA supervises the financial entities with the largest share of total assets."
+                        },
+                        {
+                            "question": "How does Article 31(1)(b) determine the Lead Overseer?",
+                            "answer": "It names as Lead Overseer the ESA responsible for the financial entities that collectively represent the largest share of total assets served by the ICT provider."
+                        },
+                        {
+                            "question": "Which four criteria does Article 31(2) list to assess whether an ICT third-party provider is critical?",
+                            "answer": "Systemic impact, systemic character or importance of clients, reliance on services for critical functions, and limited substitutability."
+                        },
+                        {
+                            "question": "What does Article 31(2)(a) emphasize regarding systemic impact?",
+                            "answer": "It looks at the scale of operational failure risk, the number of financial entities relying on the provider, and the total value of assets at stake."
+                        },
+                        {
+                            "question": "How does Article 31(2)(b) define the ‘systemic character’ of financial entities served?",
+                            "answer": "It refers to G-SIIs or O-SIIs using the provider, their interdependence with other entities, and any infrastructure services they deliver to others."
+                        },
+                        {
+                            "question": "Why is indirect reliance via subcontracting captured under Article 31(2)(c)?",
+                            "answer": "Even if multiple entities use the same underlying provider indirectly, that dependency still carries significant aggregated risk."
+                        },
+                        {
+                            "question": "What does substitutability under Article 31(2)(d) involve?",
+                            "answer": "Assessing whether another provider or in-house solution can feasibly replace the current ICT service without excessive cost, complexity, or risk."
+                        },
+                        {
+                            "question": "How does Article 31(2)(d)(ii) address data migration challenges?",
+                            "answer": "It acknowledges that moving workloads to a new provider may involve prohibitive costs, time, or operational risks, affecting substitutability."
+                        },
+                        {
+                            "question": "How do group structures affect designation under Article 31(3)?",
+                            "answer": "If a provider is part of a group, the criticality assessment considers the entire group’s ICT services. One provider’s scale can reflect group-level capabilities."
+                        },
+                        {
+                            "question": "What is the coordination point obligation for group providers under Article 31(4)?",
+                            "answer": "They must designate a single legal person to represent the group and communicate with the Lead Overseer effectively."
+                        },
+                        {
+                            "question": "How does Article 31 interact with Article 28’s risk management framework?",
+                            "answer": "Article 28 requires financial entities to integrate ICT third-party risk into their overall risk framework. Article 31 helps identify which providers are so critical that enhanced oversight is mandatory."
+                        },
+                        {
+                            "question": "What if a provider partially meets the systemic criteria under Article 31(2)(a) and (b)?",
+                            "answer": "Partial compliance can still lead to scrutiny. The Oversight Forum might push for deeper evaluation if the provider serves key clients or has potential large-scale impacts."
+                        },
+                        {
+                            "question": "How does substitutability under Article 31(2)(d) connect to Article 29’s concentration risk?",
+                            "answer": "Article 29 highlights concentration concerns. If a provider is not easily replaced (Article 31(2)(d)), it increases systemic risk and triggers more robust oversight."
+                        },
+                        {
+                            "question": "What hypothetical scenario illustrates partial compliance with Article 31(2)?",
+                            "answer": "A provider might disclose partial client lists but omit details on G-SIIs or O-SIIs. This obscures systemic relevance and raises red flags for the Oversight Forum."
+                        },
+                        {
+                            "question": "Which escalation steps could occur if a suspected critical provider resists giving full data for assessment?",
+                            "answer": "The Lead Overseer can invoke Article 37’s requests for information or escalate to investigations (Article 38). Continued resistance could trigger penalties under Article 35(6)."
+                        },
+                        {
+                            "question": "How does Article 31 link with Article 42’s follow-up procedures?",
+                            "answer": "Once a provider is designated as critical, they fall under stricter oversight. Non-compliance can lead to supervisory actions, public disclosures, or service suspensions under Article 42."
+                        },
+                        {
+                            "question": "How do ESAs handle a provider’s partial compliance with the designation process?",
+                            "answer": "They can recommend further checks under Articles 38–40. If the provider disputes or obstructs, ESAs might impose escalation measures or involve the Joint Oversight Network (JON)."
+                        },
+                        {
+                            "question": "What notification steps apply after the Lead Overseer designates an ICT provider as critical under Article 31(5)?",
+                            "answer": "The Lead Overseer notifies the provider, which then has 6 weeks to submit a reasoned statement. The Lead Overseer may request more data within 30 days if needed."
+                        },
+                        {
+                            "question": "When does oversight officially start for a newly designated critical provider according to Article 31(5)?",
+                            "answer": "The ESAs must inform the ICT provider of the designation and the start date. Oversight activities begin no later than one month after that notification. The provider must also inform its financial entity clients."
+                        },
+                        {
+                            "question": "How do Articles 31(6) and (7) define the timing for using the designation powers in paragraph 1(a)?",
+                            "answer": "The Commission must adopt a delegated act by 17 July 2024 specifying the criteria. Until this act is in place, the designation in 31(1)(a) cannot be used."
+                        },
+                        {
+                            "question": "Which providers are excluded from critical designation under Article 31(8)?",
+                            "answer": "Financial entities acting as ICT providers, certain providers under EU central bank oversight tasks, ICT intra-group providers, and ICT providers offering services only in one Member State to local-only financial entities."
+                        },
+                        {
+                            "question": "What does Article 31(9) require regarding public information on critical providers?",
+                            "answer": "The ESAs, through the Joint Committee, must publish and update an annual Union-wide list of all designated critical ICT third-party service providers."
+                        },
+                        {
+                            "question": "How does Article 31(10) connect with Article 28(3)?",
+                            "answer": "Competent authorities aggregate yearly reports from financial entities (Article 28(3)). They share these with the Oversight Forum, which assesses ICT dependencies to guide critical provider designations."
+                        },
+                        {
+                            "question": "What is voluntary designation as critical under Article 31(11)?",
+                            "answer": "ICT providers not on the official list can request critical status by submitting a reasoned application to EBA, ESMA, or EIOPA, which must decide within 6 months."
+                        },
+                        {
+                            "question": "How does Article 31(12) manage third-country providers designated as critical?",
+                            "answer": "They must establish a subsidiary in the Union within 12 months of designation. Financial entities can only use them if this requirement is fulfilled."
+                        },
+                        {
+                            "question": "What does Article 31(13) require of critical third-country providers regarding EU subsidiaries?",
+                            "answer": "They must notify the Lead Overseer of any changes to the structure or management of the Union-based subsidiary."
+                        },
+                        {
+                            "question": "How does Article 31(5) align with the investigation procedures in Articles 38–39?",
+                            "answer": "If the provider disputes its designation or provides incomplete info, the Lead Overseer can launch an investigation (38) or inspection (39) to verify criticality."
+                        },
+                        {
+                            "question": "What is a partial compliance scenario under Article 31(5)?",
+                            "answer": "A provider might submit a brief statement without relevant data on systemic impact. The Lead Overseer can request more information, escalate if not provided in 30 days."
+                        },
+                        {
+                            "question": "How can a provider’s refusal to inform clients under Article 31(5) escalate to Article 42 measures?",
+                            "answer": "Failing to notify financial entities undermines transparency. The Lead Overseer or competent authority may impose public disclosures, fines, or require contract suspensions."
+                        },
+                        {
+                            "question": "How does the exception in Article 31(8)(iii) for ICT intra-group service providers relate to Article 28’s risk management?",
+                            "answer": "Intra-group providers are exempt from official ‘critical’ designation, but financial entities must still treat them under Article 28’s general third-party risk principles."
+                        },
+                        {
+                            "question": "What if a newly designated critical provider in a third country fails to form an EU subsidiary under Article 31(12)?",
+                            "answer": "Financial entities cannot continue using them. This could escalate to supervisory orders under Article 42(6) for suspension or termination of services."
+                        },
+                        {
+                            "question": "Why might an ICT provider voluntarily seek critical status under Article 31(11)?",
+                            "answer": "They could gain credibility by adopting higher compliance standards, potentially attracting systemically important clients. However, they must accept direct oversight and the associated obligations."
+                        }
+                    ],
+                    "article_32_name": "Article 32: Structure of the Oversight Framework",
+                    "article_32": [
+                        {
+                            "question": "What is the Oversight Forum according to Article 32(1)?",
+                            "answer": "It is a sub-committee established by the Joint Committee of the ESAs to support the Lead Overseer’s oversight of ICT third-party risk across financial sectors."
+                        },
+                        {
+                            "question": "How does Article 32(1) define the Oversight Forum’s main tasks?",
+                            "answer": "It prepares the Joint Committee’s draft joint positions and common acts on ICT third-party risk, regularly discussing sectoral ICT vulnerabilities and promoting consistent risk monitoring at the Union level."
+                        },
+                        {
+                            "question": "What does the Oversight Forum do yearly under Article 32(2)?",
+                            "answer": "It makes a collective assessment of all critical ICT third-party service providers, coordinates measures to enhance digital operational resilience, and explores ways to mitigate ICT concentration risk."
+                        },
+                        {
+                            "question": "What are the ‘comprehensive benchmarks’ under Article 32(3)?",
+                            "answer": "They are performance or security benchmarks for critical ICT third-party service providers. Once adopted by the Joint Committee, they become joint positions of the ESAs."
+                        },
+                        {
+                            "question": "Who are the core members and observers of the Oversight Forum under Article 32(4)?",
+                            "answer": "Voting members: the ESA Chairpersons and high-level representatives from each Member State’s relevant competent authority. Observers: the Commission, ESRB, ECB, ENISA, potentially a second national authority rep, and representatives from authorities under Directive (EU) 2022/2555, if they supervise a critical ICT provider."
+                        },
+                        {
+                            "question": "What is the role of the independent experts under Article 32(4) and (6)?",
+                            "answer": "They are appointed after a transparent process, chosen for expertise in financial stability and ICT security. They act impartially for the Union’s interests, assisting the Oversight Forum on technical matters."
+                        },
+                        {
+                            "question": "How must Member States designate representatives according to Article 32(5)?",
+                            "answer": "Each Member State picks one high-level staff member from its relevant competent authority to sit on the Oversight Forum. The ESAs publish a list of these representatives on their website."
+                        },
+                        {
+                            "question": "What guidelines are required under Article 32(7)?",
+                            "answer": "By 17 July 2024, the ESAs must issue guidelines on cooperation and information-sharing procedures between the ESAs and competent authorities, helping ensure consistent follow-up on recommendations given to critical ICT third-party providers."
+                        },
+                        {
+                            "question": "How does Article 32(8) clarify interactions with Directive (EU) 2022/2555?",
+                            "answer": "It confirms that the requirements in this Section do not override existing rules under the NIS2 Directive or other relevant oversight frameworks for cloud service providers."
+                        },
+                        {
+                            "question": "What is the yearly reporting requirement under Article 32(9)?",
+                            "answer": "The Joint Committee, based on Oversight Forum work, must submit an annual report on the application of Section II to the European Parliament, the Council, and the Commission."
+                        },
+                        {
+                            "question": "How does Article 32’s Oversight Forum link to the designation of critical providers under Article 31?",
+                            "answer": "The Forum supports the Lead Overseer by tracking ICT third-party risk. Information from the Forum influences whether an ICT third-party provider meets criticality criteria in Article 31."
+                        },
+                        {
+                            "question": "What happens if partial compliance exists in the ESAs’ coordination under Article 32(2)?",
+                            "answer": "If agencies do not fully share or discuss findings, the Oversight Forum’s yearly collective assessment may be incomplete, delaying key decisions or oversight measures."
+                        },
+                        {
+                            "question": "Give a hypothetical scenario of partial compliance with Article 32(5).",
+                            "answer": "A Member State might nominate a low-level representative lacking authority or fail to update the ESA list. The Oversight Forum might operate with outdated contact info, slowing decisions."
+                        },
+                        {
+                            "question": "How can the Oversight Forum escalate unresolved issues regarding critical providers?",
+                            "answer": "They may propose more intense investigations (Article 38) or inspections (Article 39). Persistent non-compliance could lead to Article 42 measures, like service suspension."
+                        },
+                        {
+                            "question": "Why is the cooperation framework under Article 32(7) essential for oversight actions in Articles 35, 37, and 40?",
+                            "answer": "Those articles require data-sharing and supervision alignment. The new guidelines define how authorities coordinate tasks and transmit information for unified follow-up actions."
+                        },
+                        {
+                            "question": "How might partial adherence to the benchmarks defined in Article 32(3) impact risk management?",
+                            "answer": "If critical providers only meet some benchmarks, the Forum might demand corrective action. If they continue falling short, the Lead Overseer can invoke investigation or enforcement steps."
+                        },
+                        {
+                            "question": "How does Article 32(9)’s reporting requirement intersect with Article 31(9)?",
+                            "answer": "Both require transparency. Article 31(9) publishes a list of critical providers, while Article 32(9) details overall oversight application. Combined, they keep EU institutions informed of third-party risks."
+                        }
+                    ],
+                    "article_33_name": "Article 33: Tasks of the Lead Overseer",
+                    "article_33": [
+                        {
+                            "question": "What does Article 33(1) establish regarding the Lead Overseer’s role?",
+                            "answer": "The Lead Overseer is the primary point of contact for each assigned critical ICT third-party provider and conducts its direct oversight."
+                        },
+                        {
+                            "question": "How does Article 33(2) define the scope of the Lead Overseer’s assessment?",
+                            "answer": "It focuses on whether each critical ICT third-party provider has effective risk management arrangements in place, especially for ICT services supporting critical or important functions."
+                        },
+                        {
+                            "question": "What are some key areas assessed under Article 33(3)?",
+                            "answer": "They include ICT security, availability, continuity, physical security of data centers, incident management, data portability, testing of ICT systems, audits, and relevant standards."
+                        },
+                        {
+                            "question": "Why might an assessment under Article 33(2) extend to non-critical functions?",
+                            "answer": "If risks from non-critical services could still pose a threat to overall ICT resilience, the Lead Overseer may review them to address all relevant risks."
+                        },
+                        {
+                            "question": "Which governance elements must a provider demonstrate per Article 33(3)(d)?",
+                            "answer": "A clear organizational structure, transparent responsibilities, and accountability rules to enable effective ICT risk management."
+                        },
+                        {
+                            "question": "How does Article 33(3)(f) ensure financial entities’ termination rights remain effective?",
+                            "answer": "Providers must offer mechanisms for data portability, application portability, and interoperability that enable a smooth exit or migration to another provider."
+                        },
+                        {
+                            "question": "How does Article 33(4) structure the annual oversight plan?",
+                            "answer": "It requires a clear, detailed plan of the Lead Overseer’s objectives and main actions for each critical ICT provider, coordinated with the Joint Oversight Network (JON)."
+                        },
+                        {
+                            "question": "What opportunity does Article 33(4) give critical ICT providers before the plan is finalized?",
+                            "answer": "They can submit a 15-day reasoned statement to explain potential impacts on customers outside DORA’s scope and propose risk mitigation solutions."
+                        },
+                        {
+                            "question": "What coordination requirement does Article 33(5) impose on competent authorities?",
+                            "answer": "They must agree with the Lead Overseer before taking measures affecting a critical ICT provider once the oversight plan is adopted."
+                        },
+                        {
+                            "question": "How does Article 33 link with Article 34’s Joint Oversight Network (JON)?",
+                            "answer": "The Lead Overseer coordinates with the JON to develop and implement the individual oversight plan for each critical ICT provider, ensuring consistent supervision."
+                        },
+                        {
+                            "question": "Why might partial compliance with testing obligations under Article 33(3)(g) be risky?",
+                            "answer": "Incomplete testing leaves vulnerabilities undiscovered. This can undermine resilience and prompt follow-up under Articles 38–39 or eventual enforcement under Article 42."
+                        },
+                        {
+                            "question": "What if a provider fails to comply with the audit requirements in Article 33(3)(h)?",
+                            "answer": "The Lead Overseer can issue recommendations or escalate to penalties under Article 35(6). Repeated non-compliance might lead to suspension measures under Article 42(6)."
+                        },
+                        {
+                            "question": "What escalation steps could occur if a provider disputes the oversight plan, citing non-DORA clients’ interests?",
+                            "answer": "The Lead Overseer reviews their statement and can refine the plan. If disagreement persists, investigations under Article 38 or other enforcement routes might follow."
+                        },
+                        {
+                            "question": "How does Article 33(5) help maintain oversight consistency after the plan is adopted?",
+                            "answer": "It prevents competent authorities from acting unilaterally. They need the Lead Overseer’s agreement, avoiding conflicting instructions or duplicative interventions."
+                        },
+                        {
+                            "question": "How does Article 33 interact with Article 32’s role of the Oversight Forum?",
+                            "answer": "While the Oversight Forum tracks overall developments, Article 33 defines specific oversight actions for each critical provider, with the Lead Overseer implementing the plan."
+                        }
+                    ],
+                    "article_34_name": "Article 34: Operational coordination between Lead Overseers",
+                    "article_34": [
+                        {
+                            "question": "What is the Joint Oversight Network (JON) established under Article 34(1)?",
+                            "answer": "It is a coordination mechanism among the three Lead Overseers to ensure consistent oversight of their respective critical ICT third-party service providers."
+                        },
+                        {
+                            "question": "How does Article 34(1) ensure a unified oversight approach?",
+                            "answer": "By requiring the three Lead Overseers to align their strategies, methodologies, and actions, especially for preparatory tasks and any measures taken under Article 42."
+                        },
+                        {
+                            "question": "What is the purpose of the common oversight protocol under Article 34(2)?",
+                            "answer": "It sets out detailed procedures for daily coordination, fast information exchange, and coherent operational responses, with periodic updates as oversight needs evolve."
+                        },
+                        {
+                            "question": "Why might the Lead Overseers revise the common oversight protocol periodically?",
+                            "answer": "To adapt to changes in operational requirements, reflect new risk scenarios, or update approaches as technology and market conditions shift."
+                        },
+                        {
+                            "question": "How can the ECB and ENISA support the JON according to Article 34(3)?",
+                            "answer": "They can provide technical advice, share practical expertise, or participate in specific coordination meetings if called upon by the Lead Overseers."
+                        },
+                        {
+                            "question": "What benefit does Article 34 offer in connection with Article 33’s individual oversight plans?",
+                            "answer": "The JON can ensure these plans align across the three Lead Overseers, avoiding contradictory approaches and enhancing efficiency."
+                        },
+                        {
+                            "question": "What is a hypothetical scenario of partial compliance under Article 34(1)?",
+                            "answer": "If one Lead Overseer neglects to coordinate with the others or omits data on critical ICT providers, the JON’s cohesive strategy might be compromised."
+                        },
+                        {
+                            "question": "How do actions under Article 42 rely on JON coordination from Article 34?",
+                            "answer": "If a critical provider violates DORA, all Lead Overseers may need to collaborate on enforcement measures or public disclosures, requiring tight alignment via the JON."
+                        },
+                        {
+                            "question": "Which escalation steps may the JON consider if they identify systemic issues across multiple providers?",
+                            "answer": "They might recommend more frequent inspections (Article 39), propose new guidelines under Article 32(7), or urge suspension measures under Article 42(6) if risks remain unmitigated."
+                        }
+                    ],
+                    "article_35_name": "Article 35: Powers of the Lead Overseer",
+                    "article_35": [
+                        {
+                            "question": "Which oversight powers does Article 35(1) grant the Lead Overseer?",
+                            "answer": "They can request relevant information (Article 37), conduct investigations (Article 38) or inspections (Article 39), demand post-oversight reports on remedial actions, and issue recommendations regarding risk management and subcontracting."
+                        },
+                        {
+                            "question": "What forms can the Lead Overseer's recommendations take under Article 35(1)(d)?",
+                            "answer": "They may specify additional ICT security or quality requirements, set conditions to prevent single points of failure, and even prohibit certain subcontracting arrangements if they pose serious financial stability risks."
+                        },
+                        {
+                            "question": "How does Article 35(1)(d)(iv) regulate subcontracting to third-country providers?",
+                            "answer": "If the subcontractor is located outside the EU, involves a financial entity’s critical function, and poses a clear serious risk, the Lead Overseer can recommend refraining from that subcontracting."
+                        },
+                        {
+                            "question": "Which information templates are crucial for subcontracting under Article 35(1)(d)(iv)?",
+                            "answer": "Critical ICT providers must use the standard template under Article 41(1)(b) to submit subcontracting details to the Lead Overseer, ensuring transparency."
+                        },
+                        {
+                            "question": "How must the Lead Overseer coordinate its actions under Article 35(2)?",
+                            "answer": "They must align with the Joint Oversight Network (JON), consult NIS2 authorities to avoid duplicative measures, and minimize disruption to services used by non-DORA entities."
+                        },
+                        {
+                            "question": "Why does Article 35(3) require consulting the Oversight Forum before exercising powers?",
+                            "answer": "The Lead Overseer must seek guidance and ensure consistent cross-sector supervision, giving providers a chance to submit impact statements within 30 days if recommended measures affect non-DORA clients."
+                        },
+                        {
+                            "question": "How does Article 35(4) handle reporting and follow-up after oversight actions?",
+                            "answer": "Post-oversight reports must be shared with the JON and the financial entities’ competent authorities, keeping all parties informed of remedial measures."
+                        },
+                        {
+                            "question": "What is the significance of good-faith cooperation by critical ICT providers under Article 35(5)?",
+                            "answer": "Providers must assist the Lead Overseer’s tasks. Non-cooperation can lead to further scrutiny, investigations, or enforcement, potentially escalating under Article 42."
+                        },
+                        {
+                            "question": "What escalation paths exist if a provider partially complies with recommendations under Article 35(1)(d)?",
+                            "answer": "If the provider only implements some required controls or ignores subcontracting prohibitions, the Lead Overseer may intensify oversight (Articles 38–39) or initiate suspension actions (Article 42)."
+                        },
+                        {
+                            "question": "How do these powers intersect with Articles 37 and 38?",
+                            "answer": "Article 37 covers information requests while Article 38 addresses general investigations. Under Article 35, the Lead Overseer can invoke both to gather data and enforce remediation."
+                        },
+                        {
+                            "question": "Give a hypothetical scenario of partial compliance with subcontracting guidelines in Article 35(1)(d)(iii).",
+                            "answer": "A provider notifies the Lead Overseer about a new subcontractor but omits key risk details or fails to assess the subcontractor’s third-country security posture, undermining full compliance."
+                        },
+                        {
+                            "question": "How can the Lead Overseer handle a critical ICT provider’s failure to implement recommended ICT security patches under Article 35(1)(d)(i)?",
+                            "answer": "They may escalate to more formal actions, requesting additional audits or investigations. If non-compliance persists, the Lead Overseer may coordinate with competent authorities for partial service suspension under Article 42(6)."
+                        },
+                        {
+                            "question": "What enforcement actions can the Lead Overseer take under Article 35(6) if a provider fails to comply with the required measures?",
+                            "answer": "After a 30-day grace period, the Lead Overseer may impose a daily periodic penalty payment to compel compliance."
+                        },
+                        {
+                            "question": "How do the periodic penalty payments under Article 35(7) operate?",
+                            "answer": "They accrue daily until the critical ICT provider complies, for a maximum of six months following the decision’s notification."
+                        },
+                        {
+                            "question": "How is the amount of the penalty determined under Article 35(8)?",
+                            "answer": "It can be up to 1% of the provider’s average daily worldwide turnover in the preceding year, considering the gravity, duration, intent or negligence, and level of cooperation."
+                        },
+                        {
+                            "question": "What consultation requirement applies before setting the penalty amount according to Article 35(8)?",
+                            "answer": "The Lead Overseer must consult within the JON to ensure a consistent approach across all critical ICT third-party service providers."
+                        },
+                        {
+                            "question": "How does Article 35(9) govern enforcement and use of penalty payments?",
+                            "answer": "Penalty payments are administrative, enforceable through national civil procedure rules, and proceeds go to the EU’s general budget."
+                        },
+                        {
+                            "question": "Under what circumstances does Article 35(10) allow public disclosure of penalty payments?",
+                            "answer": "They are disclosed unless doing so would seriously jeopardize financial markets or cause disproportionate harm to involved parties."
+                        },
+                        {
+                            "question": "What procedural safeguards does Article 35(11) provide to critical ICT third-party service providers?",
+                            "answer": "They have a right to be heard, view non-confidential parts of the case file, and defend themselves before penalty payments are imposed."
+                        },
+                        {
+                            "question": "How do these penalty measures cross-reference previous oversight powers in Articles 38 and 39?",
+                            "answer": "If providers ignore investigation or inspection outcomes, the Lead Overseer can escalate to daily penalties under Article 35(6) to secure compliance."
+                        },
+                        {
+                            "question": "What is a partial compliance scenario under Articles 35(6)–(8)?",
+                            "answer": "A provider might fix some issues but ignore others beyond 30 days. The Lead Overseer can impose penalty payments until full compliance is reached."
+                        },
+                        {
+                            "question": "How might Article 35(6–11) escalate in conjunction with Article 42's suspension measures?",
+                            "answer": "If monetary penalties fail to prompt compliance, competent authorities could suspend or terminate the provider’s contracts under Article 42(6)."
+                        },
+                        {
+                            "question": "What parallels exist between Article 35(6–8) and Article 43(1) on oversight fees?",
+                            "answer": "Both involve financial obligations for the ICT provider: Article 35 addresses penalties for non-compliance, while Article 43 addresses fees covering oversight costs."
+                        }
+                    ],
+                    "article_36_name": "Article 36: Exercise of the powers of the Lead Overseer outside the Union",
+                    "article_36": [
+                        {
+                            "question": "What does Article 36(1) allow the Lead Overseer to do regarding third-country locations?",
+                            "answer": "They can conduct oversight activities on premises located outside the Union if necessary to fulfill DORA obligations, but only with the critical provider’s consent and no objection from the host country."
+                        },
+                        {
+                            "question": "Under what conditions can the Lead Overseer exercise these third-country powers according to Article 36(1)?",
+                            "answer": "They apply when oversight can’t be sufficiently performed through an EU subsidiary or EU-based premises, and certain requirements are met: the inspection is necessary, related to services provided to EU financial entities, the provider consents, and the host authority does not object."
+                        },
+                        {
+                            "question": "Which specific powers from Article 35(1) are referenced for third-country oversight in Article 36(1)?",
+                            "answer": "The Lead Overseer can request information (Article 35(1)(a)) and conduct investigations or inspections (Article 35(1)(b), with the scope defined by Articles 38(2)(a), (b), (d) and 39(1), (2)(a))."
+                        },
+                        {
+                            "question": "How does Article 36(2) facilitate administrative cooperation arrangements with third-country authorities?",
+                            "answer": "It lets EBA, ESMA, or EIOPA set up cooperation deals that define procedures for investigations, information sharing, and notifications when critical providers infringe local rules."
+                        },
+                        {
+                            "question": "What content must be included in these cooperation arrangements under Article 36(2)?",
+                            "answer": "They must address at least the coordination of oversight, details on handling info requests (Article 37), notification mechanisms for local law breaches, and possible participation by a third-country authority representative."
+                        },
+                        {
+                            "question": "How does Article 36(3) handle situations where the Lead Overseer cannot conduct planned third-country oversight?",
+                            "answer": "The Lead Overseer relies on available facts and documents, and must explain the consequences of not being able to do the intended oversight. Those limitations factor into any recommendations under Article 35(1)(d)."
+                        },
+                        {
+                            "question": "Give a hypothetical scenario of partial compliance with Article 36(1)’s requirements for third-country inspections.",
+                            "answer": "A provider may consent to certain areas being inspected but refuse others due to local legal constraints, limiting the Lead Overseer’s ability to assess risk fully."
+                        },
+                        {
+                            "question": "How might inability to inspect third-country facilities escalate under Articles 35 and 42?",
+                            "answer": "If the provider repeatedly denies access, the Lead Overseer might impose periodic penalty payments (Article 35(6–8)) or coordinate with competent authorities for service suspension (Article 42(6))."
+                        },
+                        {
+                            "question": "How do cooperation arrangements under Article 36(2) intersect with NIS2 Directive considerations?",
+                            "answer": "They complement efforts to avoid duplicative requirements, ensuring third-country authorities and EU bodies align on cybersecurity frameworks for critical ICT service providers."
+                        },
+                        {
+                            "question": "What cross-references exist between Article 36 and Article 31(12) regarding third-country subsidiaries?",
+                            "answer": "Article 31(12) mandates a critical provider in a third country to establish an EU subsidiary. Article 36 outlines the oversight approach if that subsidiary alone is insufficient to meet DORA’s oversight needs."
+                        },
+                        {
+                            "question": "What kind of documentation must the Lead Overseer maintain under Article 36(3)(b)?",
+                            "answer": "They must record the nature of any oversight limitations, detail why they occurred, and show how those constraints informed the recommendations issued to the provider."
+                        },
+                        {
+                            "question": "How might these third-country oversight provisions affect Article 29’s concentration risk assessments?",
+                            "answer": "If oversight limitations persist, that raises the risk profile of a third-country provider, potentially increasing concentration risk. Supervisors might demand alternative or additional providers under Article 29."
+                        },
+                        {
+                            "question": "What safeguards exist if a third-country authority objects to inspections under Article 36(1)(iv)?",
+                            "answer": "The Lead Overseer cannot proceed with on-site inspections without that authority’s agreement. It must then rely on paragraph 3, basing decisions on available info and possibly imposing recommendations or restrictions."
+                        }
+                    ],
+                    "article_37_name": "Article 37: Request for information",
+                    "article_37": [
+                        {
+                            "question": "What is the main purpose of Article 37(1)?",
+                            "answer": "It empowers the Lead Overseer to request any necessary information from critical ICT third-party service providers so the Lead Overseer can fulfill its oversight duties under DORA."
+                        },
+                        {
+                            "question": "How do simple requests differ from decisions under Article 37(1)?",
+                            "answer": "Simple requests do not obligate the provider to respond, but any voluntary information must be accurate. Decisions carry legally binding force, with penalties for non-compliance."
+                        },
+                        {
+                            "question": "What must be included in a simple request under Article 37(2)?",
+                            "answer": "A reference to Article 37, a statement of the request’s purpose, a description of the required information, a compliance deadline, and a note that replying is voluntary but must be truthful."
+                        },
+                        {
+                            "question": "What additional elements does a decision to supply information require under Article 37(3)?",
+                            "answer": "It must specify Article 37 as the basis, the requested information, the time limit, periodic penalties for delay or incomplete info (Article 35(6)), and details about appeal rights."
+                        },
+                        {
+                            "question": "How does Article 37 link to Article 35(6) regarding penalty payments?",
+                            "answer": "Article 37(3)(e) references possible periodic penalty payments from Article 35(6) if the required information is incomplete or late."
+                        },
+                        {
+                            "question": "Why must critical ICT third-party providers ensure accurate information is supplied under Article 37(4)?",
+                            "answer": "Even if lawyers act on their behalf, the provider remains responsible for incomplete, incorrect, or misleading data."
+                        },
+                        {
+                            "question": "What must happen once a decision to supply information is made under Article 37(5)?",
+                            "answer": "The Lead Overseer must send a copy to both the competent authorities of the financial entities affected and the JON without delay."
+                        },
+                        {
+                            "question": "How does Article 37 cross-reference Article 38’s general investigations?",
+                            "answer": "If a provider’s response is incomplete or raises red flags, the Lead Overseer might escalate to broader investigations under Article 38."
+                        },
+                        {
+                            "question": "What if the provider partially complies by only submitting some of the requested documents?",
+                            "answer": "Partial compliance can lead to periodic penalties under Article 35(6). Authorities may also intensify oversight or consider on-site inspections under Article 39."
+                        },
+                        {
+                            "question": "How does Article 37 intersect with Article 42’s follow-up mechanism?",
+                            "answer": "If a provider ignores a decision or provides misleading information, Article 42 allows public disclosure or suspension measures if the non-compliance threatens financial entities."
+                        },
+                        {
+                            "question": "What is a hypothetical scenario of partial compliance under Article 37?",
+                            "answer": "A provider provides basic operational data but omits third-party subcontracting details. This can be deemed incomplete, prompting potential enforcement or investigation steps."
+                        },
+                        {
+                            "question": "How might escalation proceed if a provider consistently fails to meet Article 37 requirements?",
+                            "answer": "The Lead Overseer could issue repeated decisions with penalty payments. If non-compliance persists, supervisory authorities may use powers under Article 42(6) to suspend or terminate services."
+                        },
+                        {
+                            "question": "Which prior obligations in Article 28 could be relevant if the provider conceals key contractual terms?",
+                            "answer": "Article 28(3) demands a complete register of ICT arrangements. Concealing details violates that obligation, risking oversight actions and potential contract termination."
+                        }
+                    ],
+                    "article_38_name": "Article 38: General investigations",
+                    "article_38": [
+                        {
+                            "question": "What powers does the Lead Overseer have under Article 38(1)?",
+                            "answer": "They can conduct general investigations into critical ICT third-party service providers, assisted by the joint examination team."
+                        },
+                        {
+                            "question": "Which actions can the Lead Overseer perform during investigations according to Article 38(2)?",
+                            "answer": "Examine relevant records and data, make certified copies, summon and interview provider representatives, interview consenting persons, and request telephone or data traffic records."
+                        },
+                        {
+                            "question": "What must the authorisation for investigation include as per Article 38(3)?",
+                            "answer": "It must specify the subject matter, purpose of the investigation, and mention the periodic penalty payments for non-compliance under Article 35(6)."
+                        },
+                        {
+                            "question": "What are the obligations of critical ICT third-party service providers under Article 38(4)?",
+                            "answer": "They must submit to investigations based on the Lead Overseer’s decision, which outlines the investigation’s scope, possible penalties, legal remedies, and the right to appeal."
+                        },
+                        {
+                            "question": "How are relevant competent authorities and the JON informed of an investigation under Article 38(5)?",
+                            "answer": "The Lead Overseer notifies the authorities of the investigation details and the authorized personnel in good time, and also shares that information with the JON."
+                        },
+                        {
+                            "question": "How do general investigations under Article 38 differ from inspections?",
+                            "answer": "Investigations target a broader range of potential issues or risks across a provider’s operations, while inspections often involve onsite checks of specific systems or premises."
+                        },
+                        {
+                            "question": "What must the Lead Overseer consider before initiating an investigation under Article 38(1)?",
+                            "answer": "They must ensure the investigation is necessary for carrying out oversight duties, confirm the relevance of the suspected risk, and coordinate with the joint examination team."
+                        },
+                        {
+                            "question": "What are the main powers granted to the Lead Overseer under Article 38(2)?",
+                            "answer": "They include examining stored records, taking certified copies, summoning provider representatives, interviewing consenting persons, and requesting telephone or data traffic records."
+                        },
+                        {
+                            "question": "How do data protection rules interact with the Lead Overseer’s power to request records of telephone and data traffic under Article 38(2)(e)?",
+                            "answer": "The Lead Overseer must respect EU and Member State data protection laws, ensuring requests are proportionate and necessary for the investigation’s objectives."
+                        },
+                        {
+                            "question": "What if the critical ICT third-party service provider only partially complies with information requests?",
+                            "answer": "Partial compliance can trigger penalties under Article 35(6). The Lead Overseer may intensify scrutiny or request additional evidence to fully verify compliance."
+                        },
+                        {
+                            "question": "How does the Lead Overseer formalize an investigation according to Article 38(3)?",
+                            "answer": "They issue a written authorization specifying the subject matter, purpose, and any applicable periodic penalty payments for incomplete or withheld information."
+                        },
+                        {
+                            "question": "What must the Lead Overseer’s decision under Article 38(4) contain?",
+                            "answer": "It must detail the scope and purpose of the investigation, outline possible penalties, inform about legal remedies, and reference the right to appeal to the Court of Justice."
+                        },
+                        {
+                            "question": "How does Article 38(5) protect the rights of involved financial entities?",
+                            "answer": "Relevant competent authorities are notified in good time about the planned investigation, enabling them to prepare or raise concerns, and ensuring transparency."
+                        },
+                        {
+                            "question": "What happens if local laws in a Member State conflict with an investigation request under Article 38?",
+                            "answer": "The critical provider must still cooperate. The Lead Overseer typically coordinates with the joint examination team and relevant authorities to address legal conflicts or adjust the scope accordingly."
+                        },
+                        {
+                            "question": "How can the Lead Overseer handle requests for additional clarifications from the provider during the investigation?",
+                            "answer": "The Lead Overseer can hold follow-up meetings or request written responses, ensuring the provider’s clarifications are documented and assessed for completeness."
+                        },
+                        {
+                            "question": "What is the purpose of Article 38?",
+                            "answer": "Article 38 grants the Lead Overseer authority to conduct general investigations of critical ICT third-party service providers, ensuring compliance with regulatory obligations and mitigating systemic risks to financial entities."
+                        },
+                        {
+                            "question": "How does Article 38’s investigation power connect to Article 40’s joint examination team structure?",
+                            "answer": "Article 38 allows investigations into critical ICT providers. Article 40 describes how the joint examination team assists the Lead Overseer in those investigations."
+                        },
+                        {
+                            "question": "What is the relationship between Article 38 and Article 42’s follow-up mechanism?",
+                            "answer": "Article 38 investigations may yield findings that trigger Article 42 recommendations. If the provider ignores these, public disclosure or service suspension might follow."
+                        },
+                        {
+                            "question": "What is a partial compliance scenario under Article 38(2) for record examination?",
+                            "answer": "If the provider supplies only a subset of requested documentation or delays releasing key data, that is partial compliance—leading to possible penalties under Article 35(6)."
+                        },
+                        {
+                            "question": "How might partial cooperation with interviews under Article 38(2)(c) impede an investigation?",
+                            "answer": "Providers might be evasive or refuse to clarify certain points. This limits the Lead Overseer’s insight and can prompt stricter measures under the regulation."
+                        },
+                        {
+                            "question": "What escalation step can the Lead Overseer take if a provider obstructs an investigation under Article 38?",
+                            "answer": "They can impose periodic penalties under Article 35(6) or, if critical, coordinate with competent authorities under Article 42 to suspend or terminate contracts."
+                        },
+                        {
+                            "question": "When might an Article 38 investigation escalate into an Article 39 on-site inspection?",
+                            "answer": "If initial document reviews or interviews reveal serious gaps or potential breaches, the Lead Overseer may decide a deeper on-site inspection is required."
+                        }
+                    ],
+                    "article_39_name": "Article 39: Inspections",
+                    "article_39": [
+                        {
+                            "question": "What powers does the Lead Overseer have under Article 39(1)?",
+                            "answer": "It can conduct on-site or off-site inspections at the premises of critical ICT third-party service providers, such as head offices or operational centers, after consulting the JON."
+                        },
+                        {
+                            "question": "How does Article 39(2) empower the officials authorized by the Lead Overseer?",
+                            "answer": "They can enter the provider’s premises and seal business locations, books, or records for the duration necessary to carry out the inspection."
+                        },
+                        {
+                            "question": "When must the Lead Overseer inform relevant competent authorities according to Article 39(3)?",
+                            "answer": "In good time before starting the inspection, the Lead Overseer must notify the competent authorities of financial entities using that ICT third-party service provider."
+                        },
+                        {
+                            "question": "What areas are covered by inspections under Article 39(4)?",
+                            "answer": "They include any ICT systems, networks, devices, information, or data used for providing ICT services to financial entities."
+                        },
+                        {
+                            "question": "Under what circumstances is no prior notice required, as per Article 39(5)?",
+                            "answer": "If an emergency or crisis makes notice impossible, or if advance warning would compromise the effectiveness of the inspection."
+                        },
+                        {
+                            "question": "What must be included in the inspection decision described in Article 39(6)?",
+                            "answer": "The subject matter, purpose, start date, applicable penalty payments, legal remedies, and the right to seek review by the Court of Justice."
+                        },
+                        {
+                            "question": "What is the consequence under Article 39(7) if a critical ICT third-party service provider opposes an inspection?",
+                            "answer": "The Lead Overseer warns the provider that competent authorities may require financial entities to terminate relevant contracts if the provider does not cooperate."
+                        },
+                        {
+                            "question": "What is the purpose of Article 39?",
+                            "answer": "Article 39 empowers the Lead Overseer to conduct inspections of critical ICT third-party service providers, ensuring compliance with regulatory requirements and mitigating risks to financial entities."
+                        },
+                        {
+                            "question": "What is the role of the JON in inspections under Article 39(1)?",
+                            "answer": "The Lead Overseer must consult the Joint Oversight Network (JON) before conducting inspections, ensuring alignment and coordination among relevant authorities."
+                        },
+                        {
+                            "question": "What legal safeguards are in place for critical ICT providers during inspections under Article 39(2)?",
+                            "answer": "Inspectors must present a written authorization specifying the inspection’s purpose and subject matter. Providers are informed of periodic penalty payments under Article 35(6) and their right to legal remedies under Regulations (EU) No 1093/2010, 1094/2010, and 1095/2010."
+                        },
+                        {
+                            "question": "How does Article 39(5) balance the need for inspections with provider rights?",
+                            "answer": "The Lead Overseer must provide reasonable notice before inspections unless: (1) an emergency or crisis prevents notice; or (2) advance notice would compromise the inspection’s effectiveness."
+                        },
+                        {
+                            "question": "What is the significance of the Court of Justice review under Article 39(6)?",
+                            "answer": "Critical ICT providers have the right to challenge inspection decisions through the Court of Justice, ensuring legal recourse and procedural fairness."
+                        },
+                        {
+                            "question": "How does Article 39(7) enforce compliance with inspections?",
+                            "answer": "If a provider opposes an inspection, the Lead Overseer must inform them of potential consequences, including termination of contracts by financial entities, as mandated by competent authorities."
+                        },
+                        {
+                            "question": "What is the scope of ICT systems covered by inspections under Article 39(4)?",
+                            "answer": "Inspections cover all ICT systems, networks, devices, information, and data used for or contributing to the provision of ICT services to financial entities, ensuring comprehensive oversight."
+                        },
+                        {
+                            "question": "How does Article 39’s on-site inspection authority relate to Article 38’s general investigations?",
+                            "answer": "Article 39 is a more direct enforcement tool, letting the Lead Overseer physically inspect the provider’s premises, whereas Article 38 investigations can be broader and remote."
+                        },
+                        {
+                            "question": "How might inspectors use Article 40’s joint examination team assistance during a site visit under Article 39?",
+                            "answer": "The team, composed of ESA and national authority experts, can help review technical systems on-site, ensuring comprehensive oversight of the provider’s ICT environment."
+                        },
+                        {
+                            "question": "What constitutes partial compliance with on-site access requests under Article 39(2)?",
+                            "answer": "For instance, allowing inspectors to enter some premises but blocking access to certain servers or relevant offices could be considered partial compliance."
+                        },
+                        {
+                            "question": "How could partial compliance with data sealing (Article 39(2)(b)) hinder an inspection?",
+                            "answer": "If the provider only allows partial sealing or limits the areas that can be sealed, inspectors cannot fully secure evidence, undermining the integrity of the review."
+                        },
+                        {
+                            "question": "What escalation measures can follow if a provider refuses an on-site inspection altogether?",
+                            "answer": "The Lead Overseer might impose fines under Article 35(6). If non-compliance persists, authorities may order suspension or termination of contracts under Article 42(6)."
+                        },
+                        {
+                            "question": "How does Article 39(7)’s warning relate to Article 42’s enforcement steps?",
+                            "answer": "If a provider opposes inspection, the Lead Overseer cautions them that supervisory authorities can require financial entities to drop the provider’s services, consistent with Article 42(6)."
+                        }
+                    ],
+                    "article_40_name": "Article 40: Ongoing oversight",
+                    "article_40": [
+                        {
+                            "question": "What is the role of the joint examination team under Article 40(1)?",
+                            "answer": "It assists the Lead Overseer in conducting general investigations or inspections of each critical ICT third-party service provider."
+                        },
+                        {
+                            "question": "Who makes up the joint examination team according to Article 40(2)?",
+                            "answer": "Staff from the ESAs, relevant competent authorities supervising affected financial entities, a national competent authority under Article 32(4)(e) (voluntary), and a national competent authority from the provider’s Member State (voluntary)."
+                        },
+                        {
+                            "question": "What expertise must the joint examination team members have under Article 40(2)?",
+                            "answer": "They must be skilled in ICT matters and operational risk."
+                        },
+                        {
+                            "question": "How is the joint examination team coordinated under Article 40(2)?",
+                            "answer": "A designated Lead Overseer staff member acts as the Lead Overseer coordinator."
+                        },
+                        {
+                            "question": "What timeline applies to recommendations after an investigation under Article 40(3)?",
+                            "answer": "The Lead Overseer must adopt recommendations within 3 months of completing an investigation or inspection."
+                        },
+                        {
+                            "question": "Who receives the recommendations under Article 40(4)?",
+                            "answer": "They are sent to the critical ICT third-party service provider and the competent authorities supervising the financial entities using that provider’s services."
+                        },
+                        {
+                            "question": "How does Article 40(4) allow consideration of certifications and audit reports?",
+                            "answer": "The Lead Overseer may use relevant third-party certifications and internal or external audit reports provided by the critical ICT third-party service provider to support its oversight."
+                        },
+                        {
+                            "question": "What is the purpose of Article 40?",
+                            "answer": "Article 40 establishes the framework for ongoing oversight of critical ICT third-party service providers, ensuring their compliance with regulatory requirements and mitigating risks to financial entities."
+                        },
+                        {
+                            "question": "What is the role of the Lead Overseer coordinator in the joint examination team?",
+                            "answer": "The Lead Overseer coordinator, a designated staff member, oversees and coordinates the joint examination team’s activities during investigations or inspections."
+                        },
+                        {
+                            "question": "What is the significance of voluntary participation by national competent authorities under Article 40(2)?",
+                            "answer": "Voluntary participation allows flexibility and ensures that relevant authorities, such as those from the provider’s home Member State, can contribute expertise without mandatory obligations."
+                        },
+                        {
+                            "question": "How does Article 40(3) ensure accountability in oversight activities?",
+                            "answer": "By requiring the Lead Overseer to adopt recommendations within 3 months and consult the Oversight Forum, Article 40 ensures timely, transparent, and collaborative oversight outcomes."
+                        },
+                        {
+                            "question": "What is the purpose of communicating recommendations to competent authorities under Article 40(4)?",
+                            "answer": "This ensures that financial entities and their supervisors are aware of risks and can take appropriate measures to mitigate them, enhancing overall digital operational resilience."
+                        }
+                    ],
+                    "article_41_name": "Article 41: Harmonisation of conditions enabling the conduct of the oversight activities",
+                    "article_41": [
+                        {
+                            "question": "What does Article 41(1)(a) require regarding a voluntary request for critical status?",
+                            "answer": "ICT providers must include specific information in their application under Article 31(11)."
+                        },
+                        {
+                            "question": "How does Article 41(1)(b) outline documentation standards?",
+                            "answer": "It details the format and content for reporting and disclosure by ICT providers, including the subcontracting template."
+                        },
+                        {
+                            "question": "What is covered by Article 41(1)(c)?",
+                            "answer": "It specifies how to determine a joint examination team’s composition, tasks, and working arrangements."
+                        },
+                        {
+                            "question": "What must the ESAs include under Article 41(1)(d)?",
+                            "answer": "They must define how competent authorities assess measures taken by critical providers in response to recommendations under Article 42(3)."
+                        },
+                        {
+                            "question": "What is the timeline for the ESAs to submit these draft regulatory technical standards?",
+                            "answer": "They must submit them to the Commission by 17 July 2024."
+                        },
+                        {
+                            "question": "What delegated power does Article 41(2) grant the Commission?",
+                            "answer": "It can adopt the regulatory technical standards, following procedures in Articles 10–14 of Regulations (EU) No 1093/2010, 1094/2010, and 1095/2010."
+                        }
+                    ],
+                    "article_42_name": "Article 42: Follow-up by competent authorities",
+                    "article_42": [
+                        {
+                            "question": "What obligations do critical ICT third-party service providers have under Article 42(1) after receiving recommendations from the Lead Overseer?",
+                            "answer": "Within 60 days of receiving recommendations under Article 35(1)(d), critical ICT third-party providers must either (1) notify the Lead Overseer of their intent to follow the recommendations or (2) provide a reasoned explanation for rejecting them. The Lead Overseer must immediately share this response with the competent authorities of affected financial entities."
+                        },
+                        {
+                            "question": "What does Article 42(2) require if a critical ICT third-party service provider does not comply with recommendations?",
+                            "answer": "The Lead Overseer must publicly disclose the provider’s identity and nature of non-compliance, unless disclosure would (a) disproportionately harm involved parties or (b) jeopardize financial market integrity/stability. The provider must be notified of this disclosure."
+                        },
+                        {
+                            "question": "How do competent authorities inform financial entities about risks under Article 42(3)?",
+                            "answer": "Competent authorities must notify financial entities of risks identified in the Lead Overseer’s recommendations. Financial entities are legally obligated to integrate these risks into their ICT third-party risk management frameworks."
+                        },
+                        {
+                            "question": "What happens if a financial entity fails to address risks under Article 42(4)?",
+                            "answer": "The competent authority must notify the financial entity of potential enforcement action under Article 42(6). If the entity fails to implement adequate contractual safeguards within 60 days, authorities may suspend or terminate the use of the non-compliant ICT service."
+                        },
+                        {
+                            "question": "How does Article 42(5) facilitate coordination with authorities under Directive (EU) 2022/2555?",
+                            "answer": "Before taking enforcement action, competent authorities may voluntarily consult authorities supervising essential/important entities (e.g., critical ICT providers) under Directive (EU) 2022/2555 to align oversight of systemic risks."
+                        },
+                        {
+                            "question": "What last-resort measure may be imposed under Article 42(6)?",
+                            "answer": "After prior notification and consultation, competent authorities may: (1) temporarily suspend or (2) require termination of contracts with non-compliant critical ICT providers until risks are resolved. This applies only if financial entities fail to act."
+                        },
+                        {
+                            "question": "What can the Lead Overseer do if a provider's refusal to follow recommendations risks financial stability under Article 42(7)?",
+                            "answer": "If a provider’s divergent approach threatens financial stability and individual warnings fail, the Lead Overseer (after consulting the Oversight Forum) may issue non-public opinions to competent authorities to promote consistent supervisory actions."
+                        },
+                        {
+                            "question": "What criteria must competent authorities consider under Article 42(8) when deciding to suspend or terminate ICT service contracts?",
+                            "answer": "Competent authorities must evaluate: (a) gravity/duration of non-compliance; (b) systemic weaknesses in the provider’s controls; (c) links to financial crime; (d) intent/negligence; (e) risks to business continuity post-suspension; (f) opinions from authorities under Directive (EU) 2022/2555. Financial entities must also be granted time to adjust contracts and deploy exit strategies under Article 28 to maintain digital resilience."
+                        },
+                        {
+                            "question": "Who must be notified of enforcement decisions under Article 42(6) per Article 42(9)?",
+                            "answer": "Decisions to suspend/terminate contracts must be notified to: (1) members of the Oversight Forum (Article 32(4)(a-c)); (2) the JON. Affected ICT providers must cooperate fully with financial entities during contract transitions."
+                        },
+                        {
+                            "question": "What cooperation is required from critical ICT third-party service providers under Article 42(9)?",
+                            "answer": "Providers must fully assist financial entities during suspension/termination processes, including facilitating data recovery, service transitions, and minimizing operational disruptions."
+                        },
+                        {
+                            "question": "How does Article 42(10) ensure transparency between competent authorities and the Lead Overseer?",
+                            "answer": "Competent authorities must regularly update the Lead Overseer on: (1) supervisory measures taken against financial entities; (2) contractual arrangements where critical ICT providers partially or fully rejected recommendations. This ensures alignment in systemic risk oversight."
+                        },
+                        {
+                            "question": "What role does the Lead Overseer play in clarifying recommendations under Article 42(11)?",
+                            "answer": "Upon request, the Lead Overseer provides additional guidance to competent authorities on implementing recommendations, ensuring consistent interpretation and enforcement across jurisdictions."
+                        },
+                        {
+                            "question": "How does Article 42(8)(e) balance enforcement actions with business continuity risks?",
+                            "answer": "Authorities must assess whether suspending/terminating contracts would disrupt financial entities’ operations despite mitigation efforts. This prevents enforcement from exacerbating operational risks."
+                        },
+                        {
+                            "question": "What is the significance of Directive (EU) 2022/2555 in Article 42(8)(f)?",
+                            "answer": "Competent authorities may consider input from authorities overseeing essential/important entities under Directive (EU) 2022/2555 to ensure cross-sectoral alignment in addressing systemic ICT risks."
+                        }
+                    ],
+                    "article_43_name": "Article 43: Oversight fees",
+                    "article_43": [
+                        {
+                            "question": "What fees must be paid by critical ICT third-party service providers under Article 43(1)?",
+                            "answer": "They must pay fees covering the Lead Overseer’s oversight costs, including joint examination team work and independent expert advice."
+                        },
+                        {
+                            "question": "How does Article 43(1) ensure proportionality in fee assessment?",
+                            "answer": "The fees charged must be proportionate to the critical ICT provider’s turnover, reflecting its size."
+                        },
+                        {
+                            "question": "Which expenses are covered by the fees described in Article 43(1)?",
+                            "answer": "All necessary expenditures for direct oversight, such as the Lead Overseer’s tasks and costs linked to the joint examination team or independent experts."
+                        },
+                        {
+                            "question": "What does Article 43(2) empower the Commission to do?",
+                            "answer": "It empowers the Commission to adopt a delegated act by 17 July 2024 that specifies the fee amounts and payment procedures."
+                        },
+                        {
+                            "question": "How does Article 43 promote accountability in ICT third-party oversight?",
+                            "answer": "By requiring critical ICT third-party providers to fund oversight costs, ensuring sustained resources for effective regulation and supervision."
+                        },
+                        {
+                            "question": "How do the fees described in Article 43 interact with Article 40’s joint examination team costs?",
+                            "answer": "Critical providers must cover oversight costs, including those of the joint examination team assigned in Article 40 to investigate or inspect them."
+                        },
+                        {
+                            "question": "Where does Article 43 link with Article 42 if a provider refuses to pay oversight fees?",
+                            "answer": "Article 42 allows enforcement if the provider’s non-payment compromises the oversight process. In extreme cases, services could be suspended or terminated."
+                        },
+                        {
+                            "question": "What is a partial compliance scenario regarding fee payment?",
+                            "answer": "A provider may pay some costs but dispute or withhold certain oversight expenses, leading to financial shortfalls for the Lead Overseer’s tasks."
+                        },
+                        {
+                            "question": "How does late or incomplete fee payment affect overall compliance with DORA obligations?",
+                            "answer": "It hinders the Lead Overseer’s capacity to conduct thorough oversight. Persistent shortfalls can trigger penalty payments under Article 35(6) or escalate under Article 42."
+                        },
+                        {
+                            "question": "What escalation path is available if fee disputes persist?",
+                            "answer": "The Lead Overseer might impose recurring penalties and inform competent authorities. If the refusal undermines oversight, suspension or contract termination could follow (Article 42(6))."
+                        },
+                        {
+                            "question": "How might proportionate fees be recalculated if the provider’s turnover changes substantially?",
+                            "answer": "The delegated act under Article 43(2) could adjust fees accordingly. If the provider under-reports turnover to reduce fees, supervisors may investigate and enforce corrective measures."
+                        }
+                    ],
+                    "article_44_name": "Article 44: International cooperation",
+                    "article_44": [
+                        {
+                            "question": "What is the main focus of Article 44(1)?",
+                            "answer": "It enables EBA, ESMA, and EIOPA to conclude administrative arrangements with third-country regulatory and supervisory authorities to foster international cooperation on ICT third-party risk."
+                        },
+                        {
+                            "question": "What does Article 44(1) say about best practices?",
+                            "answer": "Authorities may develop best practices for reviewing ICT risk management, mitigation measures, and incident response across financial sectors."
+                        },
+                        {
+                            "question": "How does Article 44(2) ensure ongoing oversight of international cooperation?",
+                            "answer": "Every five years, the ESAs, via the Joint Committee, must submit a joint confidential report to the European Parliament, Council, and Commission on discussions with third-country authorities."
+                        },
+                        {
+                            "question": "What topics must the five-year report cover under Article 44(2)?",
+                            "answer": "It must focus on the evolution of ICT third-party risk and its effects on financial stability, market integrity, investor protection, and the internal market."
+                        },
+                        {
+                            "question": "How does Article 44 support consistent supervision of ICT third-party risk?",
+                            "answer": "It encourages cross-border regulatory alignment and collaboration, enabling authorities to share practices that enhance ICT resilience and compliance."
+                        },
+                        {
+                            "question": "How does Article 44’s international cooperation intersect with Article 29’s subcontracting considerations?",
+                            "answer": "Cross-border cooperation can address subcontractors in third countries, ensuring aligned best practices for risk management and compliance when multiple jurisdictions are involved."
+                        },
+                        {
+                            "question": "In what way can investigations under Articles 38–40 benefit from the global best practices encouraged by Article 44?",
+                            "answer": "Supervisors may apply internationally recognized standards or coordinate oversight with foreign regulators, enhancing investigations’ thoroughness and consistency."
+                        },
+                        {
+                            "question": "What is a partial compliance scenario regarding international best practices?",
+                            "answer": "A provider may implement local guidelines but omit key elements from global standards, leaving gaps in cross-border incident response or data protection measures."
+                        },
+                        {
+                            "question": "Why might partial acceptance of foreign supervisory recommendations weaken a provider’s resilience?",
+                            "answer": "Inconsistent adoption of global best practices can produce fragmented controls, making it harder for regulators to ensure robust ICT defense across jurisdictions."
+                        },
+                        {
+                            "question": "How can Article 44-based cooperation escalate oversight measures?",
+                            "answer": "International partners might share evidence of repeated non-compliance. This could lead to stronger enforcement by EU authorities under Articles 42 or 39 inspections."
+                        },
+                        {
+                            "question": "What happens if a critical ICT third-party provider repeatedly fails to address concerns raised through international cooperation channels?",
+                            "answer": "EU authorities can adopt stricter approaches, from public disclosures to service suspensions, referencing Articles 42(2) and 42(6) to safeguard financial stability."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "chapter_6_name": "CHAPTER VI: Information-sharing arrangements",
+    "chapter_6": [
+        {
+            "article_45_name": "Article 45: Information-sharing arrangements on cyber threat information and intelligence",
+            "article_45": [
+                {
+                    "question": "What does Article 45(1) allow financial entities to share amongst themselves?",
+                    "answer": "Cyber threat intel, such as indicators of compromise, tactics, techniques, procedures, alerts, and configurations, aiming to enhance digital operational resilience."
+                },
+                {
+                    "question": "Which conditions must be met under Article 45(1)(a)–(c) for information-sharing arrangements?",
+                    "answer": "They must raise awareness of cyber threats, occur within trusted communities of financial entities, and respect confidentiality, data protection, and competition rules."
+                },
+                {
+                    "question": "What does Article 45(2) specify about the nature of these arrangements?",
+                    "answer": "They define participation criteria, detail any public authority involvement, specify possible roles of ICT third-party providers, and set operational rules like IT platforms."
+                },
+                {
+                    "question": "How does Article 45(3) require financial entities to notify authorities?",
+                    "answer": "They must inform competent authorities when they join an information-sharing arrangement or when they end their membership."
+                },
+                {
+                    "question": "What is a partial compliance scenario under Article 45(1)?",
+                    "answer": "A financial entity shares threat intel in a loosely formed group lacking clear confidentiality protocols, risking data protection or competition law breaches."
+                },
+                {
+                    "question": "How does Article 45 relate to broader resilience measures in Articles 24–27?",
+                    "answer": "Information-sharing complements resilience testing and incident response by helping entities learn from real-world threats and reduce attack spread."
+                },
+                {
+                    "question": "What escalation steps might authorities take if shared data breaches confidentiality or GDPR rules?",
+                    "answer": "Competent authorities could investigate under national data protection laws or enforce DORA’s penalty measures if the breach signals systemic risk or ongoing non-compliance."
+                }
+            ]
+        }
+    ]
+}
