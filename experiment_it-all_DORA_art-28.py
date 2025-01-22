@@ -45,14 +45,13 @@ def run_main(
 
     # base. 
 
-    # 1. load in the benchmark documents with formatting.
+    # 1. Load in the benchmark documents with formatting.
 
-    # 2. 
+    # 2. Load the prompts.
 
+    # 3. Do the experiments.
 
-    dialogs = [
-        [RawMessage(role="System", content="Inform yourself of the chapter of the dora regulation"),
-         RawMessage(role="Document", content="""\
+    dora-chapter-V-document = """\
 1. Financial entities shall manage ICT third-party risk as an integral component of ICT risk within their ICT risk  management framework as referred to in Article 6(1), and in accordance with the following principles: 
 (a) financial entities that have in place contractual arrangements for the use of ICT services to run their business operations  shall, at all times, remain fully responsible for compliance with, and the discharge of, all obligations under this  Regulation and applicable financial services law; 
 (b) financial entities’ management of ICT third-party risk shall be implemented in light of the principle of proportionality,  taking into account: 
@@ -101,6 +100,13 @@ EN
 10. The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to further specify the  detailed content of the policy referred to in paragraph 2 in relation to the contractual arrangements on the use of ICT  services supporting critical or important functions provided by ICT third-party service providers. 
 When developing those draft regulatory technical standards, the ESAs shall take into account the size and the overall risk  profile of the financial entity, and the nature, scale and complexity of its services, activities and operations. The ESAs shall  submit those draft regulatory technical standards to the Commission by 17 January 2024. 
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards  referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU)  No 1094/2010 and (EU) No 1095/2010. 
+
+    """
+
+
+    dialogs = [
+        [RawMessage(role="System", content="Inform yourself of the chapter of the dora regulation"),
+         RawMessage(role="Document", content="""\
 """
 ),
 RawMessage(role="System", content="Prepair yourself to scan the provided document for compliance with the regulation and answer the tasks"),
@@ -286,14 +292,16 @@ Review requirements for documenting escalation processes and outcomes. Verify pr
  • Record-keeping requirements
  • Tracking mechanisms
  • Follow-up procedures
- 
+
 Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.
 """),
-RawMessage(role="User", content="""\ """),
-RawMessage(role="User", content="""\ """),
-RawMessage(role="User", content="""\ """),
-RawMessage(role="User", content="""\ """),
-RawMessage(role="User", content="""\ """),
+RawMessage(role="User", content="""\ Review requirements for maintaining comprehensive governance documentation. Look for:
+ • Documentation maintenance requirements
+ • Update procedures
+ • Accessibility requirements
+ • Retention policies
+ ▪ 
+Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes."""),
     ],
 ]
     
