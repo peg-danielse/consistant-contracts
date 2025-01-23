@@ -1,0 +1,133 @@
+Tableau Software, LLC
+Technical Support Policy
+Application: This Technical Support Policy applies to Tableau Software purchases from Salesforce with an Order Start Date prior to April 16, 2024. For purchases of Tableau Software with an Order Start Date on or after April 16, 2024,the Salesforce Success Plans terms here apply. Notwithstanding the foregoing, to the extent a Customer has an active subscription to Tableau Software Premium Support or Tableau Software Extended Support, the terms of this Tableau SoftwareTechnical Support Policy shall apply for purposes of the Premium or Extended Support policies.
+
+I. Overview
+This Technical Support Policy (“Support Policy”) describes the policies and procedures under which Tableau Software, LLC, or its applicable affiliate (“Tableau”), provides Technical Support services (“Technical Support”) for its proprietary Desktop, Server, and Prep software products (“Software”) to its customers (each, a “Customer”).
+Technical Support is provided for the Software pursuant to the separate license agreement under which Customer has purchased Software and Support and Maintenance Services (“License Agreement”) and is subject to the terms and conditions of that License Agreement and the terms of this Support Policy. Technical Support is provided for the term specified in the Ordering Document. All undefined capitalized terms used herein shall have the same meaning as set forth in the License Agreement.
+Technical Support is provided through Tableau’s online web-based supported channels (“Supported Channels”) as indicated on Annex A to this Support Policy.
+This Support Policy sets forth expectations for Technical Support between the Customer and Tableau’s
+
+Technical Support organization, including:
+A. who is authorized to submit issues
+B. how to submit issues
+C. what types of issues are supported
+D. how and when Tableau responds to and closes reported issues
+
+II. Definitions.
+A. Deployment: As described in the Documentation, you may enable your Authorized Users to access the Software or Software packages defined in the Ordering Document by activating the associated Product Keys within a single Production Environment and/or Non-Production Environment of Tableau Server and/or accessing a Tableau Cloud Site with the unique access credentials provided. As applicable to Tableau Server, multiple Product Keys for separate Software or Software packages may be activated simultaneously within a single Production Environment or Non-Production Environment, provided that each licensed Software or Software package has the same License Term. The collection of all Software or Software packages enabled within your Production Environment or Non-Production Environment(s) and/or Tableau Cloud Site, is referred to as a “Deployment”, “Org”, ”Tenant”, or “Instance”.
+B. Incident: Each individual issue with the Software reported to Tableau by a User Contact through a Supported Channel.
+C. Maintenance Release: Generally commercially released code corrections, patches, and updates of the Software as designated by a change in the number to the right of the second decimal in the version number. For example 2018.1.1 is a Maintenance Release of 2018.1; or 10.5.1 is a Maintenance Release of 10.5.
+D. New Versions: Generally commercially released major new releases, modifications or enhancements to the Software as designated by a change in the number to the left of the decimal in the version number. New Versions are normally identified by the first number prior to the first decimal point. New Versions do not include separate or different products marketed by Tableau under a different name even if such products are compatible with the Software.
+Technical Support Policy 1 Effective Date: April 2024
+E. Previous Versions: Upon a commercially available release of a New Version of the Software, any previously released version(s) of the Software shall be deemed a Previous Version. Customer may replace the Previous Version (including all installed copies) with the New Version. Customer shall not use multiple versions of Tableau Server at the same time in a Production Environment.
+F. Production Environment: As it relates to the Server Software, and as further defined in the License Agreement, Customer’s use of the Software for the purpose of creating, sharing, viewing and/or revising visualizations is considered use within a “Production Environment.”
+G. User Contact: Authorized Users of Tableau Desktop, Tableau Server, or Tableau Prep who are proficient in Tableau Desktop, Tableau Server, and Tableau Prep and knowledgeable in the internal build systems, tools, policies, and practices in use by the Customer. User Contacts may only submit Incidents related to Tableau Desktop, Tableau Server, or Tableau Prep.
+
+III. Scope of Technical Support.
+A. What Technical Support Includes: Technical Support is intended to provide assistance to User Contacts for issues and questions beyond what is covered in the Documentation. If Customer is current on payment for (i) Support and Maintenance Services for perpetual Software licenses or, (ii) Customer’s Software license subscription for term-based licenses, Tableau shall use commercially reasonable efforts to provide Customer with Technical Support services consisting of the following: (a) web-based submissions of Incidents submitted by User Contacts; (b) New Versions and Maintenance Releases of the Software; (c) a forum where Customer, partners, and other users of Tableau’s software products can share information and ideas about using the Software; (d) access to Supported Channels; and (e) troubleshooting related to the following Customer activities with respect to the Software:
+1. Installation and Downloads: Support for installation includes providing troubleshooting related to Customer’s downloading and installing of the Software.
+2. Basic Configuration Issues: Support for configuration includes troubleshooting Customer’s configuration settings for existing installations on Supported Platforms (as defined below) to ensure proper operation and connectivity.
+3. Usage Issues: Tableau qualified personnel will answer Customer’s "how to" questions related to standard and intended Software usage.
+4. New Version Issue: Support for issues regarding replacing a Previous Version with a New Version of the Software.
+5. Efforts to Correct the Software: Tableau shall make commercially reasonable efforts to correct defects or other errors in the Software.
+B. What Technical Support Excludes: Tableau has no Technical Support obligations with respect to the issues relating from: (a) Software that is used on or in conjunction with hardware or software other than as specified in the applicable Documentation; (b) use of the Software by Customer in violation of the License Agreement; (c) alterations, add-ons, customizations, or modifications to the Software by any party other than Tableau; (d) defects or failures in the Software due to any factors beyond Tableau’s reasonable control; (e) any version of the Software for which Technical Support has been discontinued by Tableau; (f) Evaluation Versions of the Software or other software provided at no charge; (g) training, customization, integration, and any issues arising from unlicensed use of the Software; and (h) any on-site services or remote access services.
+C. Tableau’s Efforts. While Tableau will make commercially reasonable efforts to correct defects or other errors in the Software and respond to Incidents as described in this Support Policy, Customer acknowledges that it may not be possible for Tableau to correct every or any defect, error, or problem reported by Customer or of which Tableau is otherwise made aware.
+D. Software Versions Covered.
+1. Supported Versions: Tableau will provide Technical Support only for the Software products specified in this Support Policy or as specified at the time of purchase. Tableau’s Technical Support obligations do not cover hardware, operating systems, networks, or third-party software. Customer understands that Tableau may need additional
+Technical Support Policy 2 Effective Date: April 2024
+information as to its use of the Software in order to provide Technical Support and to enhance the Software.
+2. End of Life: Tableau will provide Technical Support services for a New Version or Previous Version for twenty-four (24) months after the version release date. After such time, Tableau will provide limited support for an additional twelve (12) months, consisting solely of clarifying Documentation and assistance in upgrading to the latest New Version. Tableau provides an up-to-date list of supported versions on Tableau’s Support Services Page.
+3. Platforms Supported: Tableau supports use of the Software only on the platforms specified in the Product Technical Specifications (www.tableau.com/techspecs) supplied by Tableau with the Software (the “Supported Platforms”).
+
+IV. Policy Details. Important details of this Support Policy are set forth on Annex A including the business hours during which Tableau provides Technical Support (“Business Hours”), target response times for Incidents, and other details.
+
+V. Incident Submission
+A. How to Submit Incidents. Unless otherwise specified in a supplemental support plan purchased by Customer, Incidents are to be submitted to Tableau by a User Contact through the Supported Channels as indicated on Annex A to this Support Policy.
+B. How to Report an Incident. In order to expedite the resolution of Incidents, Tableau expects that Customer will make every attempt possible to:
+1. Verify that the Incident is reproducible on the Supported Platforms for the Software (as applicable).
+2. Provide information necessary to help Tableau track, prioritize, reproduce, or investigate the Incident, such as: Customer name and organization.
+3. Provide a full description of the issue and expected results.
+4. Categorize issues (general question, defect, feature request, etc.).
+5. List steps to reproduce the issue and relevant data.
+6. Provide any applicable log files or console output (de-identified of sensitive data if appropriate).
+7. Provide exact wording of all issue-related error messages.
+8. Describe any special circumstances surrounding the discovery of the issue, e.g., first occurrence or occurrence after a specific event, Customer’s business impact of problem, and suggested severity for resolution.
+9. Identify Incident number in any ongoing communications with Tableau on an existing Incident.
+C. Customer Cooperation. Customer will provide information and access to Customer resources as reasonably required for Tableau to provide Technical Support. Tableau will be excused from any non-performance of its obligations hereunder to the extent any such non-performance is attributable to Customer’s failure to cooperate as set forth herein.
+
+VII. Incident Response & Closure
+A. Tableau Incident Response. For each Incident reported by Customer in accordance with these procedures, Tableau shall:
+1. Confirm receipt of the reported Incident with an automated electronic acknowledgement.
+2. Set a Severity Level for the Incident in accordance with the terms below.
+3. Upon request of Customer, discuss Severity Level and ongoing communication time frame. Tableau may modify the Incident settings.
+4. Use commercially reasonable efforts to respond to the Incident within the time specified in Annex A to this Support Policy.
+Technical Support Policy 3 Effective Date: April 2024
+5. Analyze the Incident and, as applicable, verify the existence of the problem(s) resulting in the Incident, which may include requesting that Customer provide additional information, logs, and re-execution of commands to help identify the root cause and dependencies of the reported issue.
+6. Give Customer direction and assistance in resolving the Incident.
+7. Keep a record of ongoing communications with Customer.
+
+B. Severity Levels. Tableau Technical Support personnel will assign a severity level (“Severity Level”) to each Incident based on the criteria below:
+Severity #
+Severity Level
+Description
+Severity Level 1
+Critical
+Severity Level 1 - Critical Business stopping and no acceptable workaround. Imminent threat to key business or near-term business milestones posing financial risk
+Severity Level 2
+Urgent
+Severity Level 2 - Urgent Key business impacting, no workaround
+Severity Level 3
+High
+Key business impacting with workaround, OR non-key business impacting no workaround
+Severity Level 4
+Medium
+Non-key business impacting with workaround, OR not business impacting
+
+C. Closure of Incidents. After assigning a Severity Level, Tableau will use commercially reasonable efforts to provide initial responses and updates based on the targets in Annex A. Incidents shall be closed in the following manner:
+1. For solvable issues: Depending on the nature of the issue, the resolution may take the form of an explanation, recommendation, usage instructions, workaround instructions, or advising Customer of an available software fix.
+2. In the event that custom or unsupported plug-ins or modules are used: Tableau may ask, in the course of attempting to resolve the issue, that the Customer remove any unsupported plug-ins or modules. If the problem disappears upon removal of an unsupported plug-in or module, then Tableau may consider the issue to be resolved. Supported plug-ins or modules are defined as those listed and defined as supported in the Documentation.
+3. For issues outside of scope of Technical Support services: Tableau may also close issues by identifying the Incident as outside the scope of Technical Support (pursuant to Section III above) or arising from a version, platform, or usage case which is excluded from this Support Policy.
+4. Dormant Cases: Tableau will consider an open case dormant (and may close the case) if the User Contact has not responded to two (2) attempts or more made by Tableau to collect additional information required to solve the case. Customer may request Incidents be re-opened for up to 10 business days days after case closure. At Tableau’s sole discretion, Incidents will be re-opened for further investigation if the Incident is deemed to be solvable.
+Technical Support Policy 4 Effective Date: April 2024
+Annex A to Technical Support Policy
+SUPPORTED SOFTWARE
+Tableau Prep
+Tableau Desktop
+Supported Software
+Tableau Server
+POLICY TERMS
+Available during local business hours.
+Technical Support
+Limited support during Tableau events and holidays, as posted on the Tableau Support Services
+Effective Coverage Hours
+Page (www.tableau.com/support/services)
+Business Hours (Americas) Business Hours (EMEA)
+Business Hours (APAC)
+6AM to 6PM, Pacific Time, Monday through Friday
+8AM to 5PM, Greenwich Mean Time, Monday through Friday
+8AM to 5PM, Singapore Time, Monday through Friday
+
+Supported Channels
+
+User Contacts
+Salesforce Help Portal (https://help.salesforce.com/s/cases?language=en_US) All User Contacts for Tableau Desktop, Tableau Server, or Tableau Prep Incidents
+
+Escalations
+Cases can be escalated to Technical Support Management via the Salesforce Help Portal
+
+TARGET RESPONSE TIMES DURING BUSINESS HOURS*
+Severity Level 1 – 8 hours
+Severity Level 2 – 24 hours
+
+Target Initial Response Time
+Severity Level 3 – 72 hours
+Severity Level 4 – Weekly
+
+Target Update Frequency
+Severity Level 1 – 24 hours
+Severity Level 2 – 72 hours
+Severity Level 3 – Weekly
+Severity Level 4 – Bi-Weekly
+
+*Tableau provides responses and updates during Business Hours only. Target response times will correspondingly carry into subsequent business days.
