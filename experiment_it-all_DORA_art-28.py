@@ -10,12 +10,79 @@
 
 from typing import Optional
 
-import fire, os
+import fire, os, openpyxl, sys
 
 from llama_models.llama3.api.datatypes import RawMessage, StopReason
-
 from llama_models.llama3.reference_impl.generation import Llama
 
+
+def generateParaphrasePrompt(method, sentence):
+    prompt = f""":
+    Today I want you to learn the ways of paraphrasing a sentence. Below are few methods with examples. Go through
+    them carefully.
+    1. Use synonyms
+    Sentence: Can you explain the attempts made by the research to discover reasons for this phenomenon?
+    Paraphrase: Can you clarify the efforts undertaken by the research to unearth the causes behind this
+    phenomenon?
+    2. Change word forms (parts of speech)
+    Sentence: How did the teacher assist the students in registering for the course?
+    Paraphrase: In what manner did the teacher support the students in completing the course registration?
+    3. Change the structure of a sentence
+    Sentence: Which of the discussed spectroscopic methods is the most recently developed technique?
+    Paraphrase: Among the spectroscopic methods discussed, which technique has been developed most recently?
+    4. Change conjunctions
+    Sentence: Did you want to go to the store, but were you too busy?
+    Paraphrase: Although you were busy, did you still want to go to the store?
+    Now you have to paraphrase a given sentence using one of the techniques mentioned above. I will provide you
+    the number of the technique to use.
+    Technique Number: {method}
+    Sentence: {sentence}
+    Paraphrase (Do not give any preamble, just give the paraphrased text):"""
+
+    return prompt
+
+
+def read_xlsx_to_lists(file_path):
+    questions = []
+    answers = []
+
+    try:
+        workbook = openpyxl.load_workbook(file_path)
+        sheet = workbook.active
+
+        for row in sheet.iter_rows(min_row=1, max_row=sheet.max_row, max_col=2, values_only=True):
+            if row[0] is not None and row[1] is not None:  # Ensure there are at least two columns with data
+                questions.append(row[0])
+                answers.append(row[1])
+
+        return questions, answers
+
+    except FileNotFoundError:
+        print(f"Error: File not found at {file_path}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+
+# def generate_reply(generator, context, prompt, max_gen_len, temperature, top_p):
+
+#     if context:
+#         model_input = [RawMessage(role="system", content=context), RawMessage(role="user", content=prompt)]
+#     else:
+#         model_input = [RawMessage(role="user", content=prompt)]
+
+#     result = generator.chat_completion(model_input, max_gen_len=max_gen_len, temperature=temperature, top_p=top_p)
+    
+#     #print("\n\n=== MODEL PROMPT ===")
+#     #for msg in model_input:
+#     #    print(f"{msg.role.capitalize()}: {msg.content}\n")
+
+#     out_message = result.generation
+#     #print("\n\n=== MODEL OUTPUT ===")
+#     #print(f"> {out_message.role.capitalize()}: {out_message.content}")
+#     #print("\n==================================\n")
+
+#     return out_message.content
+    
 
 def run_main(
     ckpt_dir: str,
@@ -50,7 +117,7 @@ def run_main(
     # 2. Load the prompts.
 
     # 3. Do the experiments.
-    print("the current directory is: ",os.getcwd())
+    print("the current directory is: ", os.getcwd())
 
     context_documents = ["dora-chapter-V-art-28.txt", "dora-chapter-V-art-30.txt", "dora-chapter-V-art-30.txt"] 
     test_documents = ["bench-Atlas-CA.txt","bench-Micro-SA.txt","bench-SG-MSA.txt","bench-TSP.txt","bench-TTSP.txt"]
@@ -63,91 +130,27 @@ def run_main(
         with open(fn, "r") as file:
             test_documents[i] = file.read()
 
+    questions_28, answers_28 = read_xlsx_to_lists("article_28_question_answer_pairs.xlsx")
+    print(questions_28)
+
+    system_add_context_message = "Answer as if you are a compliance officer."
     system_add_context_message = "add the following document to your context."
-    system_add_test_message = "add the following document to your context and only answer questions about this document."
+    system_add_test_message = "add the following document to your context and only answer questions about this document."    
 
-    dialog = [[
-        RawMessage(role="System", content=system_add_context_message),
-        RawMessage(role="Document", content=context_documents[0]),
-        RawMessage(role="System", content=system_add_test_message),
-        RawMessage(role="Document", content=text_documents[0]),
+    experiments = []
 
-RawMessage(role="User", content="""\
-Search for explicit clauses stating that the financial entity retains full responsibility for DORA compliance. Look specifically for:
- • Clear statements of retained responsibility
- • References to DORA obligations
- • Non-transfer of compliance obligations
- • Acknowledgment that outsourcing doesn't diminish entity's responsibility
- 
-Follow-up if Missing: Flag as critical compliance gap and recommend adding explicit responsibility retention clause citing DORA requirements."""),
+    for prompt in questions:
+        exp = [
+            RawMessage(role="System", content=system_add_context_message),
+            RawMessage(role="Document", content=context_documents[0]),
+            RawMessage(role="System", content=system_add_test_message),
+            RawMessage(role="Document", content=test_documents[0]),
+            RawMessage(role="User", content=prompt),
+        ]
 
-RawMessage(role="User", content="""\
-    Review contract for clear statements regarding the financial entity's retained responsibility for all applicable financial services laws. Look for:
- • Comprehensive coverage of all applicable regulations
- • Non-delegation of regulatory responsibilities
- • Clear acknowledgment of ongoing regulatory obligations
- • References to specific financial services laws
- ▪ 
-Follow-up if Missing: Recommend adding explicit clause covering retention of regulatory responsibilities for all applicable financial services laws.
-"""),
-
-RawMessage(role="User", content="""\ 
-Review contract for clear definition of roles and responsibilities in third-party risk management. Verify:
- • Specific role assignments
- • Responsibility matrices
- • Internal accountability structures
- • Reporting lines
-
-Follow-up if Missing: Recommend adding detailed RACI matrix or equivalent responsibility definition structure."""),
-
-RawMessage(role="User", content="""\ Search for provisions requiring senior management or board approval of ICT service agreements. Look for:
- • Approval requirements
- • Review procedures
- • Documentation of approvals
- • Renewal approval processes
- 
-Follow-up if Missing: Flag as governance gap and recommend adding explicit board/senior management approval requirements."""),
-
-RawMessage(role="User", content="""\ 
-Review for provisions requiring ongoing board/senior management monitoring of third-party arrangements. Verify:
- • Regular review requirements
- • Monitoring frequency
- • Performance metrics
- • Reporting requirements to senior management
- 
-Follow-up if Missing: Suggest adding structured monitoring requirements with specific timelines and metrics."""),
-
-RawMessage(role="User", content="""\ 
-Search for documented escalation paths for unresolved third-party risks. Look for:
- • Clear escalation triggers
- • Escalation levels
- • Time frames for escalation
- • Resolution requirements
- • Board notification procedures
-
-Follow-up if Missing: Recommend adding comprehensive escalation framework with specific triggers and procedures."""),
-
-RawMessage(role="User", content="""\ 
-Review requirements for documenting escalation processes and outcomes. Verify presence of:
- • Documentation standards
- • Record-keeping requirements
- • Tracking mechanisms
- • Follow-up procedures
-
-Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.
-"""),
-
-RawMessage(role="User", content="""\ Review requirements for maintaining comprehensive governance documentation. Look for:
- • Documentation maintenance requirements
- • Update procedures
- • Accessibility requirements
- • Retention policies
- ▪ 
-Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes."""),
-    ],
-]
+        experiments.append(exp)
     
-    for dialog in dialogs:
+    for dialog in experiments:
         result = generator.chat_completion(
             dialog,
             max_gen_len=max_gen_len,
