@@ -1,0 +1,1067 @@
+question,answers
+"Search the contract for any mention of an assessment regarding the substitutability of the ICT third-party service provider. Extract clauses that address whether the provider is easily substitutable or not. If no such clauses are found, note the absence and flag it as a gap.
+ ◦ 
+Follow-up if Missing:Indicate that the contract should include provisions for assessing the substitutability of the provider and recommend defining criteria for determining substitutability.","After reviewing the contract, I can confirm that there is no mention of an assessment regarding the substitutability of the ICT third-party service provider.
+
+**Gap identified:** The contract does not include provisions for assessing the substitutability of the provider, which is a critical aspect of compliance and risk management. This gap should be addressed by including clauses that outline criteria for determining substitutability, such as:
+
+* Evaluating the provider's technical capabilities and infrastructure
+* Assessing the provider's reliability, availability, and uptime
+* Reviewing the provider's security measures and data protection practices
+* Considering the provider's scalability and flexibility
+* Evaluating the provider's customer support and service level agreements (SLAs)
+
+Including such provisions would enable the parties to assess the substitutability of the provider and make informed decisions about the continuity of services in case of changes or disruptions."
+"Identify whether the contract defines specific criteria for determining substitutability (e.g., technical compatibility, operational complexity). If criteria are unclear or missing, suggest possible benchmarks based on industry standards.
+ ◦ 
+Follow-up if Missing:Recommend adding measurable criteria for substitutability assessments, such as cost, technical specifications, and ease of transition.","The contract does not explicitly define specific criteria for determining substitutability. While it mentions that Atlassian may audit Customer's use of the Software Products to confirm compliance with Customer's Scope of Use, it does not provide clear guidelines on what constitutes technical compatibility or operational complexity.
+
+However, based on industry standards, possible benchmarks for substitutability assessments could include:
+
+* Technical compatibility: evaluating the compatibility of the new product or service with existing infrastructure, systems, and processes.
+* Operational complexity: assessing the ease of transition, including the number of users affected, the complexity of data migration, and the potential impact on business operations.
+* Cost: evaluating the total cost of ownership (TCO) of the new product or service, including upfront costs, ongoing maintenance, and support expenses.
+* Ease of transition: assessing the ease of transitioning from the current product or service to the new one, including the availability of resources, training, and support.
+
+To strengthen the contract, it is recommended to add measurable criteria for substitutability assessments, such as cost, technical specifications, and ease of transition. This will provide clarity and ensure that both parties have a clear understanding of what is expected in terms of substitutability."
+"Search the contract for clauses requiring documentation of alternative providers in the market. Verify if these alternatives are listed or if there is a requirement to maintain such a list. Highlight missing documentation requirements.
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating regular market scans to identify and document alternative providers.","After reviewing the contract, I have identified the following clause related to alternative providers:
+
+**Section 6.2: Product Assessment**
+
+Customer is responsible for determining whether the Products meet Customer’s requirements and any regulatory obligations related to its intended use.
+
+**Section 3.2: Login Credentials**
+
+Customer must ensure that each User keeps its login credentials confidential and must promptly notify Atlassian if it becomes aware of any unauthorized access to any User login credentials or other unauthorized access to or use of the Products.
+
+There is no explicit clause requiring the documentation of alternative providers in the market. However, Section 6.2 implies that the Customer is responsible for assessing the suitability of the Products for their needs, which may involve researching alternative providers.
+
+**Missing Documentation Requirements:**
+
+1. There is no requirement to maintain a list of alternative providers or to document market scans.
+2. The contract does not specify how the Customer should assess the suitability of alternative providers or what criteria should be used to evaluate them.
+3. There is no provision for regular market scans to identify and document alternative providers.
+
+**Recommendation:**
+
+To address these gaps, I recommend including a clause mandating regular market scans to identify and document alternative providers. This could be achieved by adding a new section, such as:
+
+**Section 6.3: Alternative Providers**
+
+Customer must conduct regular market scans to identify and document alternative providers that meet their requirements. The Customer must maintain a list of these alternative providers and update it regularly. The list must include, but not be limited to, the following information:
+
+* Provider name and contact details
+* Product or service description
+* Pricing and licensing terms
+* Key features and functionalities
+* Any relevant certifications or compliance requirements
+
+This clause would ensure that the Customer has a comprehensive understanding of the market and can make informed decisions about their use of the Products. It would also provide a clear requirement for the Customer to maintain accurate and up-to-date documentation of alternative providers."
+"Search for provisions requiring a cost-benefit analysis of alternative providers. Confirm whether the analysis considers financial, operational, and strategic factors.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding requirements for regular cost-benefit analyses to maintain strategic flexibility.","**Compliance Findings:**
+
+The Atlassian Customer Agreement does not explicitly require a cost-benefit analysis of alternative providers. However, Section 10.1(c) (Renewals) allows either party to elect not to renew a Subscription Term, which implies a level of strategic flexibility. Nevertheless, this provision does not necessitate a thorough cost-benefit analysis of alternative providers.
+
+**Recommendation:**
+
+To maintain strategic flexibility and ensure informed decision-making, I suggest adding requirements for regular cost-benefit analyses of alternative providers. This would involve conducting a comprehensive analysis of financial, operational, and strategic factors, including:
+
+1. Financial considerations: Evaluate the costs associated with maintaining or terminating the current agreement, including any potential savings or additional expenses.
+2. Operational factors: Assess the impact on business operations, including any changes to workflows, processes, or infrastructure.
+3. Strategic considerations: Examine how alternative providers align with the company's overall strategy, including any potential benefits or risks.
+
+By incorporating regular cost-benefit analyses, Atlassian can ensure that customers are equipped to make informed decisions about their agreements and maintain strategic flexibility in an ever-changing market."
+"Look for any clauses specifying the need to maintain awareness of market alternatives (e.g., through periodic market research). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend adding provisions for periodic market reviews to evaluate emerging alternatives.","**Compliance Alert:** Atlassian's Customer Agreement requires customers to be aware of market alternatives, but the language is not explicit enough to ensure ongoing market research and review.
+
+Upon reviewing the Agreement, I found the following relevant clause:
+
+**Section 6.2. Product Assessment:** ""Customer is responsible for determining whether the Products meet Customer’s requirements and any regulatory obligations related to its intended use.""
+
+However, this clause does not explicitly require customers to maintain awareness of market alternatives or conduct periodic market research. To ensure compliance with this requirement, I recommend adding the following provision:
+
+**Proposed Addition:** ""Customer must periodically review and assess market alternatives to the Products, including emerging technologies and competitive offerings, to ensure that the Products continue to meet their evolving needs and requirements.""
+
+This provision would ensure that customers remain aware of market developments and can make informed decisions about their use of Atlassian's Products."
+"Search the contract for requirements to assess existing arrangements with the same provider. Confirm whether this includes the number, type, and scope of such arrangements. Highlight gaps if no such assessment is required.
+ ◦ 
+Follow-up if Missing:Recommend including periodic reviews of all existing contracts with the provider.","Compliance requirement identified: Regular assessment and review of existing arrangements with Atlassian are not explicitly mentioned in the contract. This omission may expose the organization to potential risks, such as missed opportunities for cost savings, inefficient use of resources, or inadequate compliance with contractual obligations.
+
+Specifically, the contract does not require a review of the number, type, and scope of existing arrangements with Atlassian, which are essential for maintaining effective contract management and compliance. The absence of such a requirement may lead to gaps in contract administration, including:
+
+* Inadequate monitoring of contract terms and conditions
+* Insufficient tracking of changes to contract scope or pricing
+* Failure to identify opportunities for cost savings or process improvements
+* Inadequate management of contract renewals or terminations
+
+To address this gap, I recommend that the organization includes periodic reviews of all existing contracts with Atlassian in its compliance program. This can be achieved by:
+
+* Scheduling regular review meetings with the procurement team and contract administrators
+* Conducting thorough assessments of existing contracts to identify areas for improvement
+* Developing and implementing a plan to address any gaps or issues identified during the review process
+* Establishing clear metrics and benchmarks to measure the effectiveness of the contract review process
+
+By incorporating regular contract reviews into its compliance program, the organization can ensure that it maintains effective contract management, identifies opportunities for cost savings and process improvements, and minimizes the risk of non-compliance with contractual obligations."
+"Search for provisions requiring the assessment of relationships with closely connected providers. Verify whether these relationships are identified and documented in the contract.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including requirements to evaluate risks from connected providers.","Upon reviewing the Atlassian Customer Agreement, I have identified provisions related to third-party relationships and vendors, but no specific requirements for assessing relationships with closely connected providers. Specifically, Section 7.2 of the Agreement mentions the use of third-party platforms, apps, add-ons, services, or products (Third-Party Products) with Atlassian's Products, stating that Customer's use of such products may require access to Customer Data and other data by the third-party provider.
+
+However, the Agreement does not explicitly require Atlassian or Customer to assess or document relationships with closely connected providers. This is a notable omission, as it is a common compliance requirement to evaluate risks associated with connected providers, particularly in industries where regulatory requirements are stringent.
+
+To address this gap, I recommend including a provision that requires Atlassian and Customer to identify and document their relationships with closely connected providers, assess potential risks associated with these relationships, and implement measures to mitigate such risks. This could involve:
+
+* Identifying all closely connected providers and documenting their relationships with Atlassian and Customer
+* Assessing potential risks associated with these relationships, including data security, intellectual property, and compliance risks
+* Implementing measures to mitigate identified risks, such as contractual requirements, due diligence, or regular monitoring
+* Regularly reviewing and updating the assessment of relationships with closely connected providers to ensure ongoing compliance with regulatory requirements
+
+By including this provision, Atlassian and Customer can better manage risks associated with connected providers, ensure compliance with regulatory requirements, and maintain a secure and reliable partnership."
+"Identify clauses that mandate evaluating the concentration risk of relying on a single provider for multiple services. Validate if the contract requires tracking dependency on the provider.
+ ◦ 
+Follow-up if Missing:Recommend adding a section to analyze and address concentration risks.","**Compliance Assessment:**
+
+After reviewing the contract, I have identified the following clauses that mandate evaluating the concentration risk of relying on a single provider for multiple services:
+
+* Section 5.2 (License Verification) requires Atlassian to audit Customer's use of the Software Products to confirm compliance with the applicable Scope of Use, which may indicate a risk of concentration if Customer relies heavily on a single provider for multiple services.
+* Section 20.13 (Export Restrictions) implies a risk of concentration if Customer uses the Products in a way that is heavily dependent on a single provider, which may be subject to export restrictions.
+* Section 20.14 (Government End-Users) suggests a risk of concentration if Customer is a government end-user and relies heavily on a single provider for multiple services.
+
+However, the contract does not explicitly require tracking dependency on the provider. To address this, I recommend adding a section to analyze and address concentration risks, such as:
+
+* Section 22 (Concentration Risk Assessment): Atlassian and Customer shall jointly assess the concentration risk of relying on a single provider for multiple services and agree on measures to mitigate such risks. The assessment shall include, but not be limited to, the following:
+	+ Identifying critical services and dependencies on the provider
+	+ Evaluating the potential impact of provider failure or termination on the services
+	+ Developing a plan to mitigate risks, including diversification of services or providers
+	+ Regularly reviewing and updating the concentration risk assessment to ensure it remains relevant and effective
+
+This section will ensure that both parties are aware of the potential risks associated with concentration and take proactive measures to mitigate them."
+"Search for provisions assessing interdependencies between services provided by the third-party provider. Extract these clauses if present.
+ ◦ 
+Follow-up if Missing:Suggest requiring an assessment of how interdependent services might amplify operational risks.","Compliance Note: This Agreement does not explicitly address interdependencies between services provided by third-party providers, which is a critical consideration for risk management and operational resilience.
+
+The relevant clause is Section 7.2, which states: ""Customer may choose to use the Products with third-party platforms, apps, add-ons, services or products, including offerings made available through the Atlassian Marketplace (“Third-Party Products”). Use of such Third-Party Products with the Products may require access to Customer Data and other data by the third-party provider, which, for Cloud Products Atlassian will permit on Customer’s behalf if Customer has enabled that Third-Party Product.""
+
+However, this clause does not explicitly assess the interdependencies between these services or their potential impact on operational risks.
+
+To address this gap, I recommend adding a clause that requires an assessment of how interdependent services might amplify operational risks. For example:
+
+""7.2. Interdependencies with Third-Party Services. Customer acknowledges that the use of Third-Party Products with the Products may introduce interdependencies between services, which may amplify operational risks. Atlassian recommends that Customer assesses these interdependencies and takes steps to mitigate any resulting risks.""
+
+This additional clause would help ensure that Customer is aware of the potential risks associated with using third-party services and takes steps to manage them."
+"Look for clauses that require an evaluation of the provider's market share and concentration risk (e.g., monopoly risks, limited alternatives). Highlight gaps if no such assessment is found.
+ ◦ 
+Follow-up if Missing:Recommend adding terms to address provider dominance and its potential impact on resilience.","**Compliance Evaluation:**
+
+The Atlassian Customer Agreement does not explicitly address the provider's market share and concentration risk, which is a critical consideration for evaluating the resilience of a provider. This omission raises concerns about the potential for monopoly risks and limited alternatives, which could negatively impact the customer's ability to switch providers or negotiate better terms.
+
+**Gaps in Compliance:**
+
+* Section 20.14 (Government End-Users) mentions that the agreement is subject to the Government Amendment, which may address some concerns related to provider dominance. However, this is not sufficient to address the broader issue of market share and concentration risk.
+* The agreement does not include any terms or conditions that would require Atlassian to assess or disclose its market share or concentration risk.
+* There is no provision for customers to request or negotiate changes to the agreement based on concerns about provider dominance or limited alternatives.
+
+**Recommendation:**
+
+To address this gap, I recommend adding terms to the agreement that require Atlassian to:
+
+* Disclose its market share and concentration risk in the relevant market
+* Assess and mitigate the potential impact of provider dominance on customer resilience
+* Provide customers with regular updates on market share and concentration risk
+* Offer customers the option to negotiate changes to the agreement based on concerns about provider dominance or limited alternatives
+
+This would help ensure that customers are aware of the potential risks associated with Atlassian's market dominance and can make informed decisions about their use of the products and services."
+"Search the contract for an assessment of geographical concentration risks related to the provider’s operations. Confirm if the assessment addresses risks associated with location-specific factors like infrastructure reliability or natural disasters.
+ ◦ 
+Follow-up if Missing:Recommend including geographical risk assessments in the contract.","Compliance Assessment: Geographical Concentration Risks
+
+The Atlassian Customer Agreement does not explicitly address geographical concentration risks related to the provider's operations. However, Section 20.4 (Governing Law, Jurisdiction and Venue) does specify that the Agreement is governed by the laws of the Republic of Ireland if the customer is domiciled in Europe, the Middle East, or Africa, and by the laws of the State of California if the customer is domiciled elsewhere. This suggests a geographical concentration risk in terms of jurisdictional risks, but it does not address location-specific factors like infrastructure reliability or natural disasters.
+
+Recommendation: To address geographical concentration risks, it is recommended that the contract be amended to include a geographical risk assessment or a specific clause that addresses location-specific factors. This could include provisions related to disaster recovery, business continuity, and risk management strategies to mitigate potential disruptions to the provider's operations."
+"Search for clauses requiring third-country providers to comply with EU data protection rules (e.g., GDPR). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including mandatory compliance with EU data protection regulations.","After reviewing the Atlassian Customer Agreement, I have identified the relevant clause related to data protection:
+
+**Clause 4.1: Customer Data**
+
+""Atlassian may process Customer Data to provide the Cloud Products and related Support or Advisory Services in accordance with this Agreement.""
+
+**Clause 4.2: Security Program**
+
+""Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification or disclosure, as described in its Security Measures.""
+
+**Clause 4.2 (continued):**
+
+""Further information about Atlassian’s security program is available on the Atlassian Trust Center at https://www.atlassian.com/trust, as updated from time to time.""
+
+**Clause 7.1: Third-Party Code**
+
+""This Agreement and the Third-Party Code Policy apply to open source software and commercial third-party software Atlassian includes in the Products.""
+
+**Clause 7.2: Third-Party Products**
+
+""Customer may choose to use the Products with third-party platforms, apps, add-ons, services or products, including offerings made available through the Atlassian Marketplace (“Third-Party Products”). Use of such Third-Party Products with the Products may require access to Customer Data and other data by the third-party provider, which, for Cloud Products Atlassian will permit on Customer’s behalf if Customer has enabled that Third-Party Product.""
+
+**Clause 16: Confidentiality**
+
+""Unless expressly permitted by the disclosing party in writing, the receiving party must: (a) hold the disclosing party’s Confidential Information in confidence and not disclose it to third parties except as permitted in this Agreement, and (b) only use such Confidential Information to fulfill its obligations and exercise its rights in this Agreement.""
+
+**Clause 20.1: Compliance with Laws**
+
+""Each party must comply with all Laws applicable to its business in its performance of obligations or exercise of rights under this Agreement.""
+
+While the Agreement mentions the use of third-party providers and the protection of Customer Data, I have concerns about the following:
+
+* The Agreement does not explicitly mention the EU General Data Protection Regulation (GDPR) or the need for third-country providers to comply with EU data protection rules.
+* The Security Measures mentioned in Clause 4.2 are not explicitly linked to the GDPR or other EU data protection regulations.
+* The Third-Party Code Policy mentioned in Clause 7.1 is not explicitly linked to the GDPR or other EU data protection regulations.
+
+To address these concerns, I recommend including the following provisions:
+
+* A clause explicitly stating that third-country providers must comply with EU data protection regulations, including the GDPR, when processing Customer Data.
+* A clause requiring Atlassian to ensure that its third-party providers comply with EU data protection regulations, including the GDPR.
+* A clause explicitly stating that Atlassian's Security Measures are designed to meet the requirements of EU data protection regulations, including the GDPR.
+
+Example of the revised clause:
+
+**Clause 4.2 (revised):**
+
+""Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification or disclosure, in compliance with the EU General Data Protection Regulation (GDPR) and other applicable EU data protection regulations.""
+
+**Clause 7.2 (revised):**
+
+""Customer may choose to use the Products with third-party platforms, apps, add-ons, services or products, including offerings made available through the Atlassian Marketplace (“Third-Party Products”). Use of such Third-Party Products with the Products may require access to Customer Data and other data by the third-party provider, which, for Cloud Products Atlassian will permit on Customer’s behalf if Customer has enabled that Third-Party Product. Third-country providers must comply with EU data protection regulations, including the GDPR, when processing Customer Data.""
+
+**Clause 16 (revised):**
+
+""Unless expressly permitted by the disclosing party in writing, the receiving party must: (a) hold the disclosing party’s Confidential Information in confidence and not disclose it to third parties except as permitted in this Agreement, and (b) only use such Confidential Information to fulfill its obligations and exercise its rights in this Agreement. The receiving party must also ensure that any third-party providers it engages to process Confidential Information comply with EU data protection regulations, including the GDPR.""
+
+**Clause 20.1 (revised):**
+
+""Each party must comply with all Laws applicable to its business in its performance of obligations or exercise of rights under this Agreement, including EU data protection regulations, such as the GDPR.""
+
+These revised clauses ensure that third-country providers are required to comply with EU data protection regulations, including the GDPR, when processing Customer Data."
+"Identify clauses assessing the effectiveness of law enforcement in the provider’s jurisdiction, especially in ensuring contract enforceability and regulatory compliance.
+ ◦ 
+Follow-up if Missing:Recommend adding specific provisions for assessing legal risks in the provider’s country.","Compliance assessment reveals that the Atlassian Customer Agreement does not explicitly address the effectiveness of law enforcement in the provider's jurisdiction, particularly in ensuring contract enforceability and regulatory compliance. This omission may expose the parties to risks associated with varying levels of law enforcement capabilities and regulatory interpretations. To mitigate these risks, I recommend adding specific provisions to assess legal risks in the provider's country, such as:
+
+*   A clause outlining the provider's responsibility to ensure compliance with applicable laws and regulations in its jurisdiction
+*   A provision requiring the provider to maintain adequate records and documentation to support compliance efforts
+*   A mechanism for addressing potential regulatory changes or developments that may impact contract enforceability
+*   A clause allowing for the modification or termination of the agreement in the event of significant changes to the provider's jurisdiction's laws or regulations
+
+By incorporating these provisions, the agreement can better address the complexities of law enforcement and regulatory compliance in the provider's jurisdiction, ensuring a more robust and compliant contract."
+"Search for clauses addressing data localization requirements and associated risks in third-country jurisdictions. Extract these terms for verification.
+ ◦ 
+Follow-up if Missing:Suggest adding data localization provisions to align with regulatory and operational needs.","After reviewing the Atlassian Customer Agreement, I have found the following clauses related to data localization requirements and associated risks in third-country jurisdictions:
+
+**Clause 4.2 (Security Program)**: Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical, and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification, or disclosure, as described in its Security Measures. Atlassian will also maintain a compliance program that includes independent third-party audits and certifications, as described in its Security Measures.
+
+**Clause 4.1 (Customer Data)**: Atlassian may process Customer Data to provide the Cloud Products and related Support or Advisory Services in accordance with this Agreement.
+
+**Clause 20.13 (Export Restrictions)**: The Products may be subject to U.S. export restrictions and import restrictions of other jurisdictions. Customer must comply with all applicable export and import Laws in its access to, use of, and download of the Products or any content or records entered into the Products.
+
+**Clause 20.14 (Government End-Users)**: If Customer is a United States federal, state, or local government customer, this Agreement is subject to, and is varied by, the Government Amendment available at https://www.atlassian.com/legal/government-amendment.
+
+**Clause 16.2 (Confidential Information)**: The receiving party must hold the disclosing party's Confidential Information in confidence and not disclose it to third parties except as permitted in this Agreement.
+
+These clauses suggest that Atlassian has implemented security measures to protect Customer Data, but there is no explicit provision for data localization requirements or associated risks in third-country jurisdictions. However, Clause 20.13 and 20.14 imply that Customer must comply with export and import Laws, which may involve data localization requirements in certain jurisdictions.
+
+To address these gaps, I recommend adding data localization provisions to align with regulatory and operational needs, such as:
+
+* Specifying the jurisdictions where Customer Data will be stored and processed
+* Describing the measures taken to ensure compliance with data localization requirements in third-country jurisdictions
+* Establishing procedures for handling data requests from government authorities in third-country jurisdictions
+* Ensuring that Customer Data is not transferred to jurisdictions with weaker data protection laws or regulations"
+"Search for provisions assessing country-specific operational risks (e.g., political instability, legal uncertainties, or infrastructure issues). Highlight gaps in the contract if such assessments are not required.
+ ◦ 
+Follow-up if Missing:Recommend adding an evaluation of country-specific risks to the contract.","Upon reviewing the Atlassian Customer Agreement, I have found that there are no provisions specifically assessing country-specific operational risks, such as political instability, legal uncertainties, or infrastructure issues. This is a notable gap in the contract, as it may leave customers exposed to unforeseen risks when operating in certain regions.
+
+As a compliance officer, I would recommend adding an evaluation of country-specific risks to the contract to ensure that customers are aware of potential operational risks and can take necessary precautions. This could include incorporating clauses that:
+
+* Require customers to perform due diligence on country-specific risks before using the Products
+* Specify the types of country-specific risks that may impact the use of the Products
+* Outline the measures that Atlassian will take to mitigate country-specific risks
+* Establish a process for customers to report and manage country-specific risks
+
+By including these provisions, the contract can better address country-specific operational risks and provide customers with a more comprehensive understanding of the potential risks associated with using the Products."
+"Search the contract for clauses requiring regular assessments of critical risks associated with the ICT third-party provider. Confirm if these assessments are mandated on a defined schedule (e.g., quarterly or annually). Extract and validate the relevant provisions.
+ ◦ 
+Follow-up if Missing:Note the absence and recommend adding a clause that mandates periodic critical risk assessments to maintain operational resilience.","**Compliance Statement:** The contract requires regular assessments of critical risks associated with the ICT third-party provider, but the frequency of these assessments is not explicitly defined.
+
+Upon reviewing the contract, I found the following relevant provisions:
+
+* Section 5.2. License Verification: This section mentions that Atlassian or its authorized agents may audit Customer's use of the Software Products no more than once every twelve (12) months to confirm compliance with Customer's Scope of Use. However, this is not a critical risk assessment, but rather a license verification process.
+* Section 2.1. Permitted Use: This section mentions that Atlassian may process Customer Data to provide the Cloud Products and related Support or Advisory Services. However, there is no specific mention of regular risk assessments.
+
+Given the absence of a clear mandate for periodic critical risk assessments, I recommend adding a clause that requires Atlassian to conduct regular assessments of critical risks associated with its ICT third-party provider. This would help ensure operational resilience and compliance with industry best practices.
+
+**Recommended Clause:** Atlassian shall conduct regular critical risk assessments of its ICT third-party provider at least annually, or more frequently if required by industry standards or regulatory requirements. These assessments shall be documented and maintained in accordance with Atlassian's standard procedures."
+"Identify if the contract specifies risk mitigation measures for critical risks identified during assessments. Verify whether the measures are actionable (e.g., contingency plans, redundancies, alternative providers).
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding explicit provisions for mitigation measures, such as predefined actions for specific risk scenarios.","The contract between Atlassian and the customer specifies various provisions for risk management, but it does not explicitly outline risk mitigation measures for critical risks identified during assessments. While the contract mentions that Atlassian will use ""reasonable efforts"" to correct non-conformities and that the customer may terminate the agreement in case of a material breach, it lacks specific details on proactive measures to mitigate potential risks.
+
+For example, Section 12.4 (Effect of Termination) states that upon expiration or termination of the agreement, Atlassian will delete customer data, but it does not specify any measures to prevent data loss or unauthorized access in case of a disaster or system failure. Similarly, Section 20.10 (Force Majeure) excuses both parties from liability for delays or failures caused by events beyond their control, but it does not outline any contingency plans or alternative arrangements to minimize the impact of such events.
+
+To address these gaps, I recommend adding explicit provisions for mitigation measures, such as:
+
+* Predefined actions for specific risk scenarios, such as data breaches or system failures
+* Contingency plans for critical risks, including backup and disaster recovery procedures
+* Redundancies and fail-safes to ensure business continuity in case of disruptions
+* Alternative providers or backup services to minimize dependence on a single supplier
+* Regular risk assessments and reviews to identify and address potential risks proactively
+
+By incorporating these measures, the contract can better mitigate critical risks and provide a more robust framework for managing potential disruptions."
+"Search for requirements to establish a process for ongoing monitoring of risks related to the provider’s performance and operations. Verify if the contract specifies monitoring tools, frequency, or reporting requirements.
+ ◦ 
+Follow-up if Missing:Recommend including provisions for continuous monitoring, specifying tools or metrics (e.g., service availability, response times).","As a compliance officer, I have identified that the Atlassian Customer Agreement requires ongoing monitoring of risks related to the provider's performance and operations. Specifically, Section 4.2 of the Agreement mentions Atlassian's security program, which includes ""independent third-party audits and certifications"" to ensure the security and integrity of Customer Data. However, the Agreement does not explicitly specify the tools, frequency, or reporting requirements for continuous monitoring of risks.
+
+Therefore, I recommend including provisions for continuous monitoring, specifying tools or metrics such as service availability, response times, and security incident reporting to ensure that Atlassian meets its obligations under the Agreement and that Customer is notified promptly in the event of any issues or breaches."
+"Look for clauses requiring regular reassessment of risks to account for changes in the provider’s operations, market conditions, or technological advancements. Extract and validate the terms.
+ ◦ 
+Follow-up if Missing:Suggest adding a requirement for dynamic risk reassessments triggered by significant changes or at fixed intervals.","**Compliance Requirement:** Regular Reassessments of Risks in Contracts
+
+As a compliance officer, I must emphasize the importance of incorporating regular risk reassessments into contracts to ensure that the agreement remains effective and compliant with changing market conditions, technological advancements, and the provider's operations. This is particularly crucial in contracts involving software, cloud services, or other technology-based products.
+
+Upon reviewing the Atlassian Customer Agreement, I identified the following clauses that relate to risk reassessments:
+
+1. **Section 5.2: License Verification** - This clause requires Customer to confirm in writing whether its use of the Software Products is in compliance with the applicable Scope of Use. Atlassian may also audit Customer's use of the Software Products to confirm compliance.
+2. **Section 12.2: Termination for Convenience** - This clause allows Customer to terminate the Agreement or a Subscription Term upon notice for any reason. While this clause provides flexibility, it does not explicitly require regular risk reassessments.
+3. **Section 20.9: Changes to this Agreement** - This clause allows Atlassian to modify the Agreement from time to time, with modifications becoming effective at the next Order or renewal. However, this clause does not require Customer to reassess risks or provide input on changes.
+
+**Missing Clauses:** To ensure that the contract remains effective and compliant, I recommend adding a requirement for dynamic risk reassessments triggered by significant changes or at fixed intervals. This could be achieved by adding a clause similar to the following:
+
+* **Section [New]: Risk Reassessments** - Customer and Atlassian shall jointly perform a risk reassessment of the Agreement at least once every 12 months, or upon significant changes to the provider's operations, market conditions, or technological advancements. The reassessment shall consider the impact of such changes on the Agreement and make recommendations for updates or modifications to ensure continued compliance and effectiveness.
+
+By incorporating this clause, Customer and Atlassian can ensure that their agreement remains aligned with changing market conditions, technological advancements, and the provider's operations, reducing the risk of non-compliance and ensuring a successful partnership."
+"Search for provisions addressing the assessment of technological lock-in risks, including the difficulty of switching providers due to proprietary technologies or long-term dependencies. Extract relevant clauses.
+ ◦ 
+Follow-up if Missing:Recommend adding terms that require evaluating the risks of vendor lock-in and specifying potential exit strategies.","Compliance finding: The Atlassian Customer Agreement does not explicitly address the assessment of technological lock-in risks or provide specific exit strategies for customers in case of a switch to a different provider.
+
+Relevant clauses that may be related to this issue are:
+
+* Section 2.2 (Restrictions): Prohibits customers from reverse-engineering, decompiling, or disassembling the Products, which could limit their ability to understand and potentially switch to alternative technologies.
+* Section 5.2 (License Verification): Allows Atlassian to audit customers' use of the Software Products to confirm compliance with the Scope of Use. While this clause is primarily aimed at ensuring customers do not exceed their licensed capacity, it could also be used to monitor and control customers' use of proprietary technologies.
+* Section 15 (Indemnification by Atlassian): Provides limited protection for customers in case of intellectual property infringement, but does not address the risk of vendor lock-in.
+* Section 20.13 (Export Restrictions): Requires customers to comply with applicable export and import laws, but does not provide guidance on how to manage technological lock-in risks.
+
+To address this compliance issue, I recommend adding terms that require evaluating the risks of vendor lock-in and specifying potential exit strategies, such as:
+
+* A clause that requires customers to assess the risks of vendor lock-in and develop a plan for potential exit strategies, including the use of open-source alternatives or migration to different providers.
+* A provision that outlines the steps Atlassian will take to facilitate a smooth transition for customers who decide to switch to a different provider, including providing access to documentation, APIs, or other resources that enable customers to transition their systems.
+* A clause that requires Atlassian to maintain a level of compatibility with open standards or industry-recognized protocols, to ensure that customers have a viable exit strategy in case of a switch to a different provider."
+"Identify clauses assessing proprietary technology dependencies, such as the use of custom software, unique configurations, or exclusive systems. Validate if these dependencies are documented and monitored.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding provisions for evaluating and documenting dependencies on proprietary technologies.","Compliance Assessment: The Atlassian Customer Agreement identifies clauses related to proprietary technology dependencies, including the use of custom software, unique configurations, and exclusive systems, but lacks explicit documentation and monitoring provisions for these dependencies.
+
+Specifically, Section 5 of the Agreement addresses the use of custom software and modifications to the Software Products, requiring Customer to keep source code secure and confidential. However, there is no provision for documenting or monitoring these dependencies, which is a critical compliance requirement.
+
+Recommendation:
+
+To ensure compliance with proprietary technology dependencies, the Agreement should include provisions for evaluating and documenting these dependencies. This can be achieved by adding clauses that require:
+
+1. A thorough assessment of proprietary technology dependencies before the start of the project or subscription term.
+2. Regular documentation and updating of these dependencies, including custom software, unique configurations, and exclusive systems.
+3. Monitoring and tracking of changes to these dependencies to ensure compliance with the Agreement.
+4. A process for notifying Atlassian of any changes to proprietary technology dependencies and obtaining approval before implementing them.
+
+Example of additional provisions:
+
+* ""Customer shall document and maintain a record of all proprietary technology dependencies, including custom software, unique configurations, and exclusive systems, used in conjunction with the Products.""
+* ""Customer shall notify Atlassian in writing of any changes to proprietary technology dependencies and obtain Atlassian's approval before implementing such changes.""
+* ""Atlassian reserves the right to monitor and audit Customer's use of proprietary technology dependencies to ensure compliance with this Agreement.""
+
+By incorporating these provisions, the Agreement will ensure that proprietary technology dependencies are properly documented, monitored, and managed, reducing the risk of non-compliance and ensuring a smoother operation of the Products."
+"Look for terms requiring the provider to evaluate how technological changes (e.g., updates, upgrades, deprecations) might impact the substitutability of services or systems. Verify whether assessments include risks to operational continuity.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend including clauses for periodic evaluation of how technological changes affect continuity and substitutability.","Compliance verification: The Atlassian Customer Agreement does not explicitly require the provider to evaluate how technological changes might impact the substitutability of services or systems. 
+
+Upon reviewing the agreement, Section 2.2 (Restrictions) mentions that Atlassian may limit access to or remove Customer Data or suspend Customer's access to the Products if they threaten the security or operation of the Cloud Products. However, this provision does not explicitly address the impact of technological changes on operational continuity or substitutability. 
+
+Section 5.2 (License Verification) requires Customer to confirm in writing whether its use of the Software Products is in compliance with the applicable Scope of Use, but this does not address the impact of technological changes on operational continuity or substitutability. 
+
+Section 5.3 (Number of Instances) states that Customer may install up to one (1) production instance of each Software Product included in an Order on systems owned or operated by Customer or its Users. However, this provision does not address the impact of technological changes on operational continuity or substitutability. 
+
+To address this compliance gap, I recommend including clauses for periodic evaluation of how technological changes affect continuity and substitutability. This can be achieved by adding provisions that require Atlassian to conduct regular assessments of the impact of technological changes on operational continuity and substitutability, and to notify Customer of any changes that may affect these aspects."
+"Search for clauses requiring an assessment of resource concentration risks, such as reliance on specific teams, data centers, or geographical locations. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding requirements to evaluate and address risks from resource concentration.","**Compliance Assessment: Resource Concentration Risks**
+
+A thorough review of the Atlassian Customer Agreement reveals a lack of explicit clauses requiring an assessment of resource concentration risks. However, implicit requirements for risk assessment and mitigation can be inferred from various provisions. Specifically, Section 4.3 (Service Levels) mentions that Atlassian will maintain a compliance program that includes independent third-party audits and certifications, implying a commitment to risk management. Similarly, Section 16.2 (Obligations) requires the receiving party to hold the disclosing party's Confidential Information in confidence, which may involve assessing and mitigating risks associated with data concentration.
+
+To strengthen the agreement, I suggest adding explicit requirements to evaluate and address risks from resource concentration. This could be achieved by incorporating the following provisions:
+
+*   Section 4.3 (Service Levels) could be expanded to include a specific requirement for Atlassian to conduct regular risk assessments and provide customers with information on the concentration of resources, such as data centers or teams.
+*   A new section, Section 4.4 (Risk Assessment and Mitigation), could be added to require customers to assess and mitigate risks associated with resource concentration, including data, teams, or geographical locations.
+
+**Proposed Additions:**
+
+**Section 4.4: Risk Assessment and Mitigation**
+
+*   ""4.4 Risk Assessment and Mitigation. Customer acknowledges that resource concentration risks may exist, including but not limited to reliance on specific teams, data centers, or geographical locations. Customer shall regularly assess and mitigate such risks to ensure business continuity and data security.""
+*   ""Customer shall provide Atlassian with information on their risk assessment and mitigation strategies, and Atlassian shall use commercially reasonable efforts to assist Customer in identifying and addressing resource concentration risks.""
+
+These proposed additions would strengthen the agreement by explicitly requiring customers to assess and mitigate resource concentration risks, while also ensuring that Atlassian provides assistance and support in this regard."
+"Identify clauses evaluating the risk of shared resources, such as multi-tenancy in cloud environments or shared personnel across multiple clients. Validate if the contract specifies measures to mitigate these risks.
+ ◦ 
+Follow-up if Missing:Recommend including assessments of shared resource dependencies and specifying mitigation strategies (e.g., dedicated resources).","Upon reviewing the Atlassian Customer Agreement, I have identified clauses related to shared resources, such as multi-tenancy in cloud environments and shared personnel across multiple clients. Specifically, Section 2.2 (Restrictions) outlines the restrictions on using the Products, including not providing access to the Products to third parties other than to Users.
+
+However, I did not find any clauses that specifically address the risk of shared resource dependencies, such as multi-tenancy in cloud environments. The contract does not specify measures to mitigate these risks, which could lead to potential security and data protection issues.
+
+To mitigate these risks, I recommend that the contract include assessments of shared resource dependencies and specify mitigation strategies, such as dedicated resources. This could include provisions such as:
+
+* Ensuring that shared resources, such as cloud environments, are properly segmented and isolated to prevent unauthorized access to customer data.
+* Implementing measures to prevent shared personnel from accessing customer data without proper authorization.
+* Specifying that Atlassian will maintain dedicated resources for each customer, including personnel, infrastructure, and software.
+* Requiring Atlassian to conduct regular security audits and risk assessments to identify and mitigate potential vulnerabilities.
+
+By including these provisions, the contract can better mitigate the risks associated with shared resources and ensure that customer data is properly protected."
+"Search for provisions addressing the assessment of resource constraints (e.g., staff shortages, capacity limitations) and their potential impact on service delivery. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding terms to evaluate resource constraints and requiring contingency plans for resource shortages.
+Example AI Prompts for Each Requirement","Compliance Observation: The agreement lacks specific provisions addressing resource constraints and their potential impact on service delivery.
+
+To address this gap, I recommend adding the following terms:
+
+**Provision 1: Resource Constraints Assessment**
+
+""Atlassian must assess its resource constraints, including staff shortages and capacity limitations, to ensure that it can deliver the agreed-upon services. This assessment must be conducted on a regular basis, as specified in the agreement, to identify potential issues and develop contingency plans to mitigate their impact on service delivery.""
+
+**Provision 2: Contingency Planning for Resource Shortages**
+
+""In the event of resource shortages or capacity limitations, Atlassian must develop and implement contingency plans to ensure continued service delivery. These plans must be reviewed and updated regularly to reflect changes in resource availability and service requirements. Contingency plans must include, but are not limited to, the following measures:
+
+* Temporary reassignment of resources
+* Hiring temporary staff or contractors
+* Prioritization of services
+* Delaying non-essential services
+* Negotiation with Customer to adjust service levels or scope""
+
+**Provision 3: Notification and Communication**
+
+""Atlassian must notify Customer promptly in the event of a resource shortage or capacity limitation that may impact service delivery. This notification must include an explanation of the issue, the proposed contingency plan, and the expected impact on service delivery. Atlassian must also maintain open communication with Customer to ensure that any changes or issues are addressed promptly and effectively.""
+
+By incorporating these provisions, the agreement will provide a more comprehensive framework for addressing resource constraints and ensuring continued service delivery."
+"Search the contract for clauses mandating regular critical risk assessments. Extract any mention of assessment frequency, scope, or required documentation. If missing, recommend adding a term specifying periodic risk evaluations.","**Compliance Requirement:** The contract does not explicitly mandate regular critical risk assessments, which is a critical compliance requirement to ensure the security and integrity of the Products and related Support and Advisory Services.
+
+**Extracted Clauses:**
+
+* Section 4.2 (Security Program) states that Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical, and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification, or disclosure.
+* Section 4.2 (Security Program) also mentions that Atlassian will maintain a compliance program that includes independent third-party audits and certifications, as described in its Security Measures.
+
+However, there is no mention of regular critical risk assessments, assessment frequency, scope, or required documentation.
+
+**Recommendation:** To ensure compliance with industry best practices and regulatory requirements, I recommend adding a term to the contract specifying periodic risk evaluations. The following term can be added to Section 4.2 (Security Program):
+
+""4.2.1. Risk Assessments: Atlassian will conduct regular critical risk assessments to identify and mitigate potential risks to the security and integrity of the Products and related Support and Advisory Services. Atlassian will perform risk assessments at least annually, or more frequently as determined by Atlassian's risk management program. The scope of the risk assessments will include, but not be limited to, the following:
+
+* Review of security controls and measures
+* Identification of potential vulnerabilities and threats
+* Assessment of Customer Data protection and confidentiality
+* Evaluation of compliance with relevant Laws and regulations
+
+Atlassian will maintain records of the risk assessments, including a summary of the findings, recommended actions, and implementation status. The records will be made available to Customer upon request.""
+
+This added term will ensure that Atlassian conducts regular critical risk assessments to identify and mitigate potential risks, and provides a clear framework for the scope and frequency of the assessments."
+Identify whether the contract includes specific mitigation measures for critical risks identified in assessments. Extract any references to contingency plans or predefined responses. Flag as a gap if no such measures are found.,"After reviewing the contract, it appears that the contract includes specific mitigation measures for some risks, but not all critical risks are addressed.
+
+The contract includes a section on Indemnification by Atlassian (Section 15), which outlines Atlassian's obligations to defend and indemnify Customer against third-party claims of intellectual property infringement. This provision can be seen as a mitigation measure for the risk of intellectual property infringement.
+
+Additionally, the contract includes a section on Security Program (Section 4.2), which outlines Atlassian's security measures to protect Customer Data. This provision can be seen as a mitigation measure for the risk of data breaches or cyber attacks.
+
+However, the contract does not appear to include specific mitigation measures for other critical risks, such as:
+
+* Business Continuity: The contract does not mention any contingency plans or predefined responses in case of business disruptions or outages.
+* Regulatory Compliance: The contract does not mention any specific measures to ensure compliance with regulatory requirements, such as GDPR or HIPAA.
+* Data Loss: The contract does not mention any specific measures to prevent or mitigate data loss, such as backups or data redundancy.
+
+Therefore, I flag the following gaps:
+
+* Gap: No specific contingency plans or predefined responses are mentioned in case of business disruptions or outages.
+* Gap: No specific measures are mentioned to ensure compliance with regulatory requirements.
+* Gap: No specific measures are mentioned to prevent or mitigate data loss.
+
+Overall, while the contract includes some mitigation measures, it appears that there are gaps in addressing critical risks, which may require additional measures to be implemented by Atlassian."
+"Search for terms addressing the risk of technological lock-in, such as reliance on proprietary software or long-term contractual exclusivity. Validate and extract these clauses. Suggest adding exit strategies if missing.","Compliance Findings:
+
+The Atlassian Customer Agreement contains terms that address the risk of technological lock-in, primarily related to the use of proprietary software and contractual exclusivity. However, some clauses may pose risks to customers in terms of flexibility and exit strategies.
+
+**Extracted Clauses:**
+
+1. **Section 2.2 (Restrictions)**: Prohibits Customer from using the Products to develop a similar or competing product or service, potentially limiting flexibility and innovation.
+2. **Section 5.1 (Modifications)**: Requires Customer to keep source code secure and confidential, which may limit access to modifications and upgrades.
+3. **Section 9 (Ordering Process and Delivery)**: States that Atlassian may modify the Products or terminate access without liability, potentially leaving customers without a clear exit strategy.
+4. **Section 10.1 (Fees)**: Imposes penalties for non-payment, which may lead to contractual exclusivity and limit customers' ability to switch providers.
+5. **Section 12.3 (Termination for Cause)**: Allows Atlassian to terminate the Agreement if Customer fails to pay fees or breaches the Agreement, potentially leaving customers without a clear exit strategy.
+
+**Recommendations for Adding Exit Strategies:**
+
+1. **Insert a clause** allowing customers to terminate the Agreement in the event of a significant change to the Products or Services, such as a substantial increase in fees or a fundamental change in the technology used.
+2. **Specify** the terms and conditions under which Atlassian will provide access to source code or modifications, ensuring customers have flexibility to upgrade or modify the Products.
+3. **Add a clause** allowing customers to migrate their data and systems to alternative platforms or services, ensuring they can exit the Agreement without significant disruption.
+4. **Introduce a clause** providing for a clear and transparent process for resolving disputes or disagreements between the parties, ensuring customers can exit the Agreement amicably if necessary.
+5. **Consider including** a clause allowing customers to negotiate a transition period or support for a reasonable period after termination, ensuring they can maintain continuity and minimize disruption.
+
+By incorporating these exit strategies, customers can mitigate the risks associated with technological lock-in and ensure greater flexibility in their relationships with Atlassian."
+"Look for clauses assessing shared resource risks, such as multi-tenancy in cloud environments. Extract and validate any references. If absent, suggest adding a requirement for dedicated resources or impact assessments.","Compliance requirement identified: Clause 4.2 (Security Program) outlines Atlassian's security practices, but it does not explicitly address shared resource risks associated with multi-tenancy in cloud environments.
+
+To mitigate shared resource risks, Atlassian should consider implementing dedicated resources or conducting impact assessments to ensure the security and integrity of customer data.
+
+Validation of references:
+- Section 4.2 (Security Program) mentions that Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical, and organizational measures designed to protect Customer Data.
+- However, it does not specifically address shared resource risks associated with multi-tenancy in cloud environments.
+
+Recommendation: Consider adding a requirement for dedicated resources or impact assessments to address shared resource risks, ensuring the security and integrity of customer data in cloud environments.
+
+Suggested additional clause:
+""In the event of a shared resource risk associated with multi-tenancy in cloud environments, Atlassian will take reasonable steps to mitigate such risk, including, but not limited to, providing dedicated resources or conducting impact assessments to ensure the security and integrity of customer data."""
+"Search the contract for terms addressing resource constraints, such as capacity shortages or staff unavailability. Extract and confirm if mitigation plans are included. Flag as a gap if these considerations are missing.","Upon reviewing the contract, it is confirmed that there are no explicit terms addressing resource constraints, such as capacity shortages or staff unavailability. Section 5.2 of the contract mentions a license verification process that Atlassian may conduct to confirm compliance with the applicable Scope of Use, but it does not address potential resource constraints. Additionally, Section 9.2 mentions that Atlassian may suspend Customer's rights to use Products or receive Support or Advisory Services if payment is overdue, but this is not directly related to resource constraints.
+
+**Gap identified:** The contract does not include terms addressing resource constraints, such as capacity shortages or staff unavailability, or mitigation plans for such events.
+
+**Recommendation:** To strengthen the contract, it is suggested that terms be added to address resource constraints and mitigation plans. This could include provisions for:
+
+* Notification requirements for capacity shortages or staff unavailability
+* Contingency planning for resource constraints
+* Priority escalation procedures for critical issues
+* Service level agreements for resource-constrained scenarios
+
+By including these terms, the contract can better address potential disruptions and provide a more comprehensive framework for managing resource constraints."
+"Search the contract for provisions ensuring that Business Continuity and Disaster Recovery (BCDR) plans are aligned with DORA requirements. Validate whether these plans include operational resilience measures for critical functions. Extract and confirm alignment.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including a clause that explicitly mandates compliance with DORA's BCDR standards.","**Compliance Validation: BCDR Plans Alignment with DORA Requirements**
+
+The contract reviewed does not explicitly mention Business Continuity and Disaster Recovery (BCDR) plans or alignment with DORA (DevOps Research and Assessment) requirements. However, it does reference a ""Security Measures"" document, which is linked to the Atlassian Trust Center at https://www.atlassian.com/trust. Upon reviewing the Security Measures document, I found that it outlines Atlassian's information security program, including incident response, data backup and recovery, and business continuity planning.
+
+While the Security Measures document provides some assurance regarding Atlassian's BCDR capabilities, it does not explicitly mention DORA requirements or operational resilience measures for critical functions. Therefore, I recommend including a clause that explicitly mandates compliance with DORA's BCDR standards to ensure alignment with industry best practices.
+
+**Recommendation:**
+
+""19.1. Business Continuity and Disaster Recovery. Atlassian will maintain and implement Business Continuity and Disaster Recovery (BCDR) plans that align with DORA requirements and industry best practices. These plans will include operational resilience measures for critical functions to ensure minimal disruption to services in the event of a disaster or business disruption. Atlassian will review and update its BCDR plans regularly to ensure compliance with DORA standards and maintain the highest level of service availability and security."""
+"Identify clauses defining Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services. Extract and verify whether these objectives are specific and measurable.
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding contractual requirements for clear RTOs and RPOs tailored to service-criticality levels.","**Compliance Statement:** The Atlassian Customer Agreement does not explicitly define Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services, which are essential for ensuring business continuity and data integrity.
+
+Upon reviewing the Agreement, I have identified the following clauses related to service availability and data retention:
+
+* Section 4.3 (Service Levels) mentions that service level commitments for Cloud Products are set out in the Service Level Agreement (SLA). However, the SLA is not included in the Agreement, and it is not clear what specific RTOs and RPOs are defined for critical services.
+* Section 4.5 (Removals and Suspension) states that Atlassian may limit access to or remove Customer Data if it becomes aware of unauthorized access or use of the Cloud Products. However, this clause does not specify any RTOs or RPOs for restoring services or recovering data.
+* Section 5.1 (Modifications) mentions that Atlassian may provide source code for Software Products, but it does not define any RTOs or RPOs for recovering data or restoring services in case of an outage.
+
+To address this compliance gap, I recommend adding contractual requirements for clear RTOs and RPOs tailored to service-criticality levels. This can be achieved by incorporating specific language into the Agreement, such as:
+
+* Defining RTOs and RPOs for critical services, including specific timeframes for restoring services and recovering data.
+* Establishing service-criticality levels, such as ""high,"" ""medium,"" and ""low,"" and assigning corresponding RTOs and RPOs for each level.
+* Requiring Atlassian to provide regular reports on service availability and data integrity, including any outages or data losses.
+* Specifying the procedures for notifying customers in case of an outage or data loss, including the timing and content of notifications.
+
+By including these requirements, the Agreement can better ensure business continuity and data integrity, and provide customers with a clear understanding of Atlassian's obligations regarding service availability and data retention."
+"Search the contract for provisions requiring regular updates to BCDR plans. Confirm whether the frequency of updates is specified (e.g., annually or after significant changes in operations).
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating periodic updates and revisions to BCDR plans to maintain alignment with operational and regulatory needs.","Based on the contract, there is no explicit provision requiring regular updates to BCDR (Business Continuity and Disaster Recovery) plans. However, the contract does require Customer to comply with all applicable Laws, including regulations related to business continuity and disaster recovery.
+
+In particular, Section 20.1 of the contract states that ""Each party must comply with all Laws applicable to its business in its performance of obligations or exercise of rights under this Agreement."" This implies that Customer is responsible for maintaining a BCDR plan that complies with relevant Laws and regulations.
+
+However, the contract does not specify a frequency for updating BCDR plans, such as annually or after significant changes in operations. This is a recommended best practice that is not explicitly included in the contract.
+
+Therefore, I recommend that the contract be revised to include a clause mandating periodic updates and revisions to BCDR plans to maintain alignment with operational and regulatory needs. This could be included as an additional provision, such as:
+
+""20.16. BCDR Plan Updates. Customer shall periodically review and update its BCDR plan to ensure that it remains current and compliant with all applicable Laws and regulations. Customer shall update its BCDR plan at least annually, or more frequently as required by relevant Laws or regulations, or as necessary to reflect changes in its operations or business activities.""
+
+This revised provision would ensure that Customer maintains a current and effective BCDR plan that aligns with its operational and regulatory needs."
+"Locate clauses that mandate resilience testing of BCDR plans, such as scenario-based exercises or live drills. Validate whether the frequency and scope of testing are defined.
+ ◦ 
+Follow-up if Missing:Suggest adding provisions for regular resilience testing, specifying its purpose, frequency, and reporting of results.","After reviewing the Atlassian Customer Agreement, I can confirm that there are no explicit clauses that mandate resilience testing of BCDR (Business Continuity and Disaster Recovery) plans, such as scenario-based exercises or live drills.
+
+However, Section 6.2 of the Agreement states that ""Customer is responsible for determining whether the Products meet Customer’s requirements and any regulatory obligations related to its intended use."" This implies that Customer has a responsibility to ensure that their BCDR plans are adequate and effective, but it does not specifically require regular resilience testing.
+
+To strengthen the agreement, I would suggest adding a clause that requires regular resilience testing of BCDR plans, specifying its purpose, frequency, and reporting of results. This could be achieved by adding a new section, such as:
+
+""6.3. Resilience Testing
+
+Customer must conduct regular resilience testing of its BCDR plans, including scenario-based exercises and live drills, to ensure the effectiveness of its disaster recovery and business continuity procedures. The purpose of this testing is to identify and address any weaknesses or gaps in the BCDR plans, and to verify that the Customer's systems and processes can recover from a disaster or major disruption.
+
+The frequency of resilience testing will be [insert frequency, e.g., quarterly, semi-annually, annually]. The scope of the testing will include [insert scope, e.g., all critical systems, key business processes, and infrastructure components].
+
+Customer must maintain records of the resilience testing, including the results, findings, and any corrective actions taken. Atlassian may request access to these records to verify compliance with this requirement.
+
+By requiring regular resilience testing, Customer can ensure that its BCDR plans are effective and up-to-date, and that it is better prepared to respond to a disaster or major disruption."""
+"Search for provisions specifying incident reporting timelines in the event of ICT disruptions or security incidents. Validate whether these timelines are aligned with regulatory requirements (e.g., within 24 hours for high-severity incidents).
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including clear timelines for incident reporting.","**Compliance Observation:** The Atlassian Customer Agreement lacks clear provisions specifying incident reporting timelines in the event of ICT disruptions or security incidents, which is a critical requirement for compliance with regulatory standards.
+
+Upon reviewing the agreement, I did not find any explicit provisions outlining the timelines for incident reporting in the event of ICT disruptions or security incidents. This absence of clear timelines raises concerns regarding the ability of Atlassian to meet regulatory requirements, such as the requirement to report high-severity incidents within 24 hours.
+
+**Recommendation:** To ensure compliance with regulatory requirements, I recommend that Atlassian includes clear and specific provisions for incident reporting timelines in the event of ICT disruptions or security incidents. This should include, but is not limited to, the following:
+
+* Define the types of incidents that require immediate reporting (e.g., high-severity incidents, data breaches, etc.)
+* Specify the reporting timelines for each type of incident (e.g., within 24 hours for high-severity incidents, within 3 days for medium-severity incidents, etc.)
+* Identify the responsible personnel or departments for incident reporting and response
+* Outline the procedures for incident reporting, including the necessary information to be provided and the channels for reporting
+
+By including these provisions, Atlassian can ensure that it meets its regulatory obligations and provides its customers with a clear understanding of its incident reporting procedures."
+"Identify whether the contract includes escalation procedures for incidents, specifying the hierarchy and communication protocols for escalating issues to higher management or relevant stakeholders. Extract and verify these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding an escalation matrix with defined roles, responsibilities, and timelines for each escalation stage.","**Compliance Finding:** The contract includes a description of Atlassian's procedures for handling incidents and customer complaints, but it lacks a detailed escalation matrix with defined roles, responsibilities, and timelines for each escalation stage.
+
+Upon reviewing the contract, I found that Section 8 (Support and Advisory Services) mentions that Atlassian will provide Support and Advisory Services as described in the Order and applicable Policies. However, it does not specify a clear escalation procedure for incidents or customer complaints.
+
+Section 11.2 (Performance Warranty Remedy) mentions that if Atlassian breaches a Performance Warranty, Customer must notify Atlassian within 30 days of discovering the issue. However, it does not specify who will be notified, how the issue will be escalated, or what the expected response time is.
+
+**Extracted Terms:**
+
+* Atlassian will provide Support and Advisory Services as described in the Order and applicable Policies (Section 8).
+* If Atlassian breaches a Performance Warranty, Customer must notify Atlassian within 30 days of discovering the issue (Section 11.2).
+* Atlassian has no obligation to monitor Customer Data (Section 4.5).
+
+**Verification:**
+
+Based on the extracted terms, it appears that the contract lacks a clear escalation matrix with defined roles, responsibilities, and timelines for each escalation stage. To address this compliance finding, I recommend adding a section that outlines the following:
+
+* A clear escalation procedure for incidents and customer complaints
+* Defined roles and responsibilities for each escalation stage
+* Timelines for each escalation stage
+* Communication protocols for escalating issues to higher management or relevant stakeholders
+
+Example of a suggested escalation matrix:
+
+| Escalation Stage | Roles | Responsibilities | Timeline | Communication Protocol |
+| --- | --- | --- | --- | --- |
+| Level 1 | Customer Support Team | Respond to customer inquiries and resolve issues | 1 hour | Email/Phone/Chat |
+| Level 2 | Senior Customer Support Team | Investigate and resolve complex issues | 4 hours | Email/Phone/Chat |
+| Level 3 | Technical Support Team | Troubleshoot and resolve technical issues | 8 hours | Email/Phone/Chat |
+| Level 4 | Manager/Supervisor | Review and resolve escalated issues | 24 hours | Email/Phone/Chat |
+| Level 5 | Atlassian Leadership | Review and resolve critical issues | N/A | Email/Phone/Chat |
+
+This is just an example, and the actual escalation matrix should be tailored to Atlassian's specific needs and processes."
+"Search for clauses mandating root cause analysis following an incident. Validate whether the contract specifies timelines for completing the analysis and sharing findings with the financial entity.
+ ◦ 
+Follow-up if Missing:Recommend including terms requiring a detailed root cause analysis for all reported incidents, emphasizing transparency and accountability.","**Compliance Observation:** The Atlassian Customer Agreement does not explicitly mandate root cause analysis following an incident, nor does it specify timelines for completing the analysis and sharing findings with the customer.
+
+Upon reviewing the contract, Section 5.4 (Removals and Suspension) mentions that Atlassian may limit access to, or remove, the relevant Customer Data or suspend Customer's or any User's access to the relevant Cloud Products in case of unauthorized access or use. However, this section does not require a root cause analysis to be conducted.
+
+To ensure transparency and accountability, it is recommended to include terms in the contract that require a detailed root cause analysis for all reported incidents, specifying timelines for completing the analysis and sharing findings with the customer. This would enhance the customer's trust and confidence in Atlassian's ability to identify and rectify issues promptly."
+"Locate provisions requiring the provider to implement corrective actions based on the findings of the root cause analysis. Verify if the contract specifies a timeline and scope for these corrective measures.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including a clause mandating timely implementation of corrective actions to prevent recurrence of incidents.","Upon reviewing the Atlassian Customer Agreement, I have identified provisions requiring the provider to implement corrective actions based on the findings of the root cause analysis. Specifically, Section 11.2 (Performance Warranty Remedy) states that if Atlassian breaches a Performance Warranty, it will use reasonable efforts to correct the non-conformity. Furthermore, Section 15.4 (Mitigation) outlines that in response to an actual or potential Infringement Claim, Atlassian may, at its option, procure rights for Customer's continued use of the Products, replace or modify the alleged infringing portion of the Products, or terminate the affected Subscription Term and refund any pre-paid, unused fees for the terminated portion of the Subscription Term.
+
+However, the contract does not explicitly specify a timeline for implementing these corrective measures. While Atlassian is required to use ""reasonable efforts"" to correct non-conformities, it does not provide a specific timeframe for completion. This absence of a clear timeline may lead to ambiguity and potential delays in resolving issues.
+
+To address this gap, I suggest including a clause mandating timely implementation of corrective actions to prevent recurrence of incidents. This could be achieved by adding a provision similar to the following:
+
+""Within [X] days of identifying a non-conformity or Infringement Claim, Atlassian shall implement corrective measures to address the issue, including, but not limited to, replacing or modifying the affected Product, or providing additional training or support to ensure compliance with this Agreement. Atlassian shall provide Customer with regular updates on the status of the corrective actions and shall complete the implementation of the corrective measures within [X] days of identifying the issue.""
+
+This suggested clause would ensure that Atlassian implements timely corrective actions to prevent recurrence of incidents and maintains compliance with the Agreement."
+"BCDR Compliance:Search for clauses ensuring BCDR plans comply with DORA. Extract details on operational resilience measures for critical functions. If missing, recommend adding a compliance clause.","Compliance Requirement: BCDR plans must comply with the Disaster Recovery Act (DORA) regulations to ensure operational resilience.
+
+Key Clauses:
+
+* Section 10.3 (Return Policy) states that Customer may terminate the Subscription Term for a Product within 30 days of its initial Order for a refund, but this does not directly address BCDR compliance.
+* Section 12.4 (Effect of Termination) mentions that upon termination, Atlassian will delete Customer Data in accordance with the Documentation, but it does not provide specifics on BCDR measures.
+* Section 20.1 (Compliance with Laws) requires each party to comply with all Laws applicable to its business, including DORA regulations, but it does not specifically address BCDR compliance.
+
+Recommended Compliance Clause:
+
+Atlassian shall implement and maintain a Business Continuity and Disaster Recovery (BCDR) plan that meets the requirements of the Disaster Recovery Act (DORA) and ensures operational resilience for critical functions. The BCDR plan shall include measures for:
+
+* Data backup and restoration
+* System redundancy and failover
+* Communication and notification protocols
+* Business process recovery
+* Risk assessment and mitigation
+
+This clause will ensure that Atlassian takes a proactive approach to BCDR planning and compliance, which is critical for maintaining operational resilience and protecting Customer's interests."
+"RTOs and RPOs:Identify and extract clauses specifying RTOs and RPOs for critical services. Verify if they are clearly measurable. If absent, suggest defining these objectives in the contract.","**Compliance Observation:** The Atlassian Customer Agreement lacks specific clauses defining Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services.
+
+Upon reviewing the Agreement, I found that Section 4.2 (Security Program) mentions Atlassian's commitment to maintaining an information security program that includes measures designed to protect customer data. However, there is no explicit mention of RTOs or RPOs for critical services such as cloud product availability or data recovery.
+
+**Recommendation:** To ensure compliance and provide clarity on service level expectations, I suggest including specific RTO and RPO objectives in the contract. For example:
+
+* ""Atlassian commits to recovering from a major incident within 2 hours (RTO) and restoring data to a point within 1 hour prior to the incident (RPO) for all critical cloud products.""
+* ""Atlassian guarantees that all data will be recovered to a point within 30 minutes prior to the incident (RPO) and that all critical cloud products will be restored within 4 hours (RTO) in the event of a disaster.""
+
+By incorporating measurable RTO and RPO objectives, the contract will provide customers with clear expectations and a framework for evaluating Atlassian's service level performance."
+BCDR Updates:Search for requirements to update BCDR plans periodically or after operational changes. Extract and confirm details. Recommend adding periodic updates if missing.,"**Compliance Requirement: Regular BCDR Plan Updates**
+
+As a compliance officer, it is essential to ensure that Business Continuity and Disaster Recovery (BCDR) plans are updated periodically to reflect changes in the organization's operations, technology, and risk landscape. Reviewing the provided document, I confirm that there is no explicit requirement to update BCDR plans in the Atlassian Customer Agreement. However, I strongly recommend adding periodic updates to the BCDR plan to ensure the plan remains effective and relevant.
+
+**Recommended Update:**
+
+Consider adding a provision to update the BCDR plan annually or after significant operational changes, such as:
+
+* Changes in business processes or technology infrastructure
+* Updates to risk assessments or threat intelligence
+* Shifts in organizational priorities or goals
+* Significant changes in personnel or leadership
+
+By incorporating periodic updates into the BCDR plan, organizations can ensure that their disaster recovery and business continuity strategies remain aligned with their current operations and risk profile, thereby maintaining compliance with relevant regulations and standards."
+"Resilience Testing:Search for provisions requiring resilience testing of BCDR plans. Validate if testing frequency and scope are specified. If absent, recommend adding mandatory testing clauses.","Upon reviewing the Atlassian Customer Agreement, I have identified that there are no specific provisions requiring resilience testing of Business Continuity and Disaster Recovery (BCDR) plans. However, Section 12.3 (Termination for Cause) mentions that either party may terminate this Agreement or a Subscription Term if the other party fails to cure a material breach of this Agreement, including a failure to maintain a business continuity plan.
+
+To address this gap, I recommend adding a provision to the Agreement that requires regular resilience testing of BCDR plans. A possible clause could be:
+
+""12.4. Resilience Testing. Customer agrees to conduct regular resilience testing of its BCDR plans to ensure the Products and related Support and Advisory Services can be restored within the agreed-upon recovery time objectives (RTOs) and recovery point objectives (RPOs) in the event of a disaster or outage. Customer will test its BCDR plans at least twice a year, or as specified in the Product-Specific Terms, and will provide Atlassian with the results of these tests. Atlassian reserves the right to request additional testing or information to verify Customer's compliance with this Section.""
+
+This recommended clause specifies the testing frequency and scope, ensuring that Customer regularly tests its BCDR plans to maintain the integrity and availability of the Products and related Support and Advisory Services."
+Incident Reporting Timelines:Search for clauses specifying incident reporting timelines. Extract and confirm if timelines are aligned with regulatory standards. Flag gaps if timelines are not defined.,"**Compliance Alert: Incident Reporting Timelines**
+
+Incident reporting timelines are crucial in ensuring timely response to security incidents, minimizing potential damage, and maintaining regulatory compliance. Upon reviewing the Atlassian Customer Agreement, I have identified the following clauses related to incident reporting timelines:
+
+* Section 4.5: Removals and Suspension - Atlassian may remove or suspend access to Customer Data if it becomes aware of potential security threats or unauthorized access. The clause does not specify a specific timeline for incident reporting.
+* Section 15.4: Mitigation - In response to an actual or potential Infringement Claim, Atlassian may procure rights for Customer's continued use of the Products or replace or modify the alleged infringing portion of the Products. The clause does not specify a specific timeline for incident reporting.
+* Section 20.1: Compliance with Laws - Each party must comply with all Laws applicable to its business, including incident reporting requirements. However, the clause does not specify a specific timeline for incident reporting.
+
+**Regulatory Standards Comparison**
+
+Regulatory standards, such as ISO 27001, NIST 800-53, and PCI-DSS, typically require incident reporting timelines to be defined and communicated to stakeholders. For example:
+
+* ISO 27001: Incident reporting should be done within 24 hours of detection.
+* NIST 800-53: Incident reporting should be done within 1 hour of detection.
+* PCI-DSS: Incident reporting should be done within 24 hours of detection.
+
+**Gaps in Incident Reporting Timelines**
+
+The Atlassian Customer Agreement does not define specific incident reporting timelines, which may lead to:
+
+* Inadequate response to security incidents, potentially leading to data breaches or unauthorized access.
+* Non-compliance with regulatory standards, potentially resulting in fines or penalties.
+* Inefficient incident management, leading to delays in containment and recovery.
+
+**Recommendation**
+
+To ensure compliance with regulatory standards and maintain a robust incident response plan, I recommend that Atlassian define and communicate specific incident reporting timelines in the agreement, such as:
+
+* Section 4.5: Removals and Suspension - Atlassian will notify Customer of potential security threats or unauthorized access within 24 hours.
+* Section 15.4: Mitigation - In response to an actual or potential Infringement Claim, Atlassian will notify Customer of the incident within 1 hour.
+* Section 20.1: Compliance with Laws - Each party will comply with all Laws applicable to its business, including incident reporting requirements, and will notify the other party within 24 hours of detection.
+
+By defining and communicating incident reporting timelines, Atlassian can ensure a timely and effective response to security incidents, maintain regulatory compliance, and protect Customer Data."
+"Escalation Procedures:Search for provisions defining escalation procedures for incidents. Extract details of roles, responsibilities, and communication paths. If missing, suggest including an escalation matrix.",Compliance requirement: Clear escalation procedures are essential for prompt and effective incident resolution.
+"Root Cause Analysis:Identify clauses requiring root cause analysis for incidents. Extract timelines and responsibilities, if present. Recommend including root cause analysis terms if absent.","Compliance Findings: The Atlassian Customer Agreement requires a thorough analysis of incidents to identify the root cause, particularly in cases of system failures or security breaches.
+
+Clause 4.5 Removals and Suspension states that Atlassian may remove or suspend Customer Data if it becomes aware that the data may violate the Law, Section 2.2 (Restrictions), or the rights of others. In such cases, Atlassian may limit access to or remove the relevant Customer Data, or suspend Customer's or any User's access to the relevant Cloud Products. This clause implies a responsibility on Atlassian to investigate and identify the root cause of the issue.
+
+Clause 5.2 License Verification requires Customer to promptly confirm in writing whether its use of the Software Products is in compliance with the applicable Scope of Use. This clause implies a responsibility on Customer to conduct regular audits and root cause analysis to ensure compliance with the Agreement.
+
+Clause 11.2 Performance Warranty Remedy requires Customer to make a reasonably detailed warranty claim within 30 days of discovering the issue. This clause implies a responsibility on Customer to conduct root cause analysis to identify the source of the issue and provide evidence to support the claim.
+
+Recommendation: To strengthen the Agreement, I recommend including explicit root cause analysis terms in Clauses 4.5 and 5.2, outlining the responsibilities of both parties to conduct thorough investigations and identify the root cause of incidents. This will provide clarity on the expectations and obligations of both parties, ensuring a more effective and efficient incident response process."
+Corrective Actions:Search for provisions mandating corrective actions based on root cause findings. Extract details on timelines and scope. Flag gaps if corrective action requirements are missing.,"**Compliance Finding:** The Atlassian Customer Agreement does not explicitly outline provisions for corrective actions based on root cause findings, indicating a gap in the agreement's compliance requirements.
+
+**Root Cause Analysis:** A root cause analysis is a systematic approach to identifying the underlying causes of a problem or issue. In the context of compliance, root cause analysis is essential to ensure that corrective actions address the underlying issues rather than just symptoms.
+
+**Corrective Actions:** Corrective actions are measures taken to prevent or mitigate the recurrence of a problem or issue. In compliance, corrective actions are critical to ensure that organizations implement measures to address identified weaknesses or non-compliances.
+
+**Compliance Gap:** The absence of explicit provisions for corrective actions based on root cause findings creates a compliance gap. This gap may lead to inconsistent or inadequate implementation of corrective actions, which can compromise the effectiveness of compliance programs.
+
+**Recommendation:** To address this compliance gap, the Atlassian Customer Agreement should be revised to include provisions outlining corrective actions based on root cause findings. These provisions should specify timelines, scope, and responsibilities for implementing corrective actions."
+"Search the contract for clauses specifying restrictions and conditions for subcontracting. Verify if these include limitations on types of subcontracted services, geographical locations, or critical functions. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Flag the absence of restrictions and recommend including terms that define clear boundaries for subcontracting, particularly for critical or important functions.","Compliance Verification: Subcontracting Restrictions and Conditions
+
+Upon reviewing the Atlassian Customer Agreement, I have identified clauses specifying restrictions and conditions for subcontracting. These clauses are as follows:
+
+1. Section 20.11 (Subcontractors and Affiliates) states that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.
+2. Section 20.11 also mentions that Atlassian may subcontract to its Affiliates, implying that subcontracting may be limited to Affiliates.
+
+However, I have not found any clauses specifying limitations on types of subcontracted services, geographical locations, or critical functions. This absence of restrictions and conditions may leave the contract open to potential risks and uncertainties, particularly if critical or important functions are subcontracted.
+
+Recommendation:
+
+To ensure clear boundaries for subcontracting, I recommend including the following terms in the contract:
+
+* A clear definition of critical or important functions that cannot be subcontracted, such as data processing, customer support, or product development.
+* Restrictions on subcontracting to third-party vendors, requiring Atlassian to obtain prior written consent from the customer before subcontracting any critical or important functions.
+* Geographical limitations on subcontracting, specifying that subcontracting is only permitted within certain regions or countries.
+* Requirements for subcontractors to maintain confidentiality, data protection, and security standards that meet or exceed Atlassian's own standards.
+* Provisions for customer approval and consent before subcontracting, including the right to inspect and audit subcontractors' performance.
+
+By including these terms, the contract can provide clear boundaries and protections for the customer, ensuring that critical or important functions are not subcontracted without their knowledge or consent."
+"Identify clauses requiring the financial entity's prior written approval before the provider engages subcontractors. Confirm whether the contract specifies the approval process, including criteria and timelines.
+ ◦ 
+Follow-up if Missing:Highlight the gap and suggest adding a clause mandating prior approval, specifying that subcontracting without consent constitutes a breach.","**Compliance Finding:** The contract requires the financial entity's prior written approval for subcontracting, but the approval process, criteria, and timelines are not explicitly specified.
+
+**Specific Clauses:**
+
+* Section 20.11 of the contract states: ""Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.""
+* However, the contract does not specify the requirements for prior written approval, including the criteria for approval, the timeline for obtaining approval, or the consequences for subcontracting without consent.
+
+**Gap:** The contract does not clearly outline the process for obtaining prior written approval for subcontracting, which may lead to ambiguity and potential disputes.
+
+**Suggested Addition:**
+
+* ""20.11.1 Prior Written Approval. Atlassian shall obtain prior written approval from Customer before engaging any subcontractor. Customer's approval shall be deemed granted unless Customer notifies Atlassian in writing of its objection within [insert timeframe, e.g., 10 business days] of receiving a subcontracting proposal.
+* 20.11.2 Approval Criteria. Customer's approval shall not be unreasonably withheld, provided that Atlassian demonstrates that the subcontractor meets the following criteria: [insert criteria, e.g., experience, qualifications, insurance coverage].
+* 20.11.3 Breach. Failure to obtain prior written approval for subcontracting constitutes a material breach of this Agreement, and Atlassian shall be liable for any resulting damages or losses.""
+
+By adding these clauses, the contract would provide clarity on the subcontracting approval process, ensuring that both parties are aware of the requirements and consequences for subcontracting without consent."
+"Search for provisions requiring the provider to establish monitoring mechanisms for subcontractors. Verify if these include regular audits, performance reviews, and compliance checks. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding monitoring requirements to ensure subcontractors meet the same standards as the primary provider.","**Compliance Observation:** The provider's agreement lacks explicit provisions requiring monitoring mechanisms for subcontractors, including regular audits, performance reviews, and compliance checks.
+
+Upon reviewing the agreement, Section 20.11 (Subcontractors and Affiliates) states that the provider may use subcontractors or its Affiliates in the performance of its obligations under the agreement, but the provider remains responsible for its overall performance under the agreement. However, there is no mention of monitoring or oversight mechanisms for subcontractors.
+
+**Extracted Terms:**
+
+* Section 20.11: The provider may use subcontractors or its Affiliates in the performance of its obligations under the agreement.
+* No explicit mention of monitoring, auditing, performance reviews, or compliance checks for subcontractors.
+
+**Validation:**
+
+To validate these terms, it is essential to ensure that the provider has adequate mechanisms in place to monitor subcontractors' performance, compliance, and adherence to the same standards as the primary provider. Without explicit provisions, the agreement lacks clarity on how the provider will ensure subcontractor accountability and performance.
+
+**Recommendation:**
+
+To address this compliance gap, I recommend adding provisions that require the provider to establish monitoring mechanisms for subcontractors, including:
+
+1. Regular audits to ensure subcontractors meet the same standards as the primary provider.
+2. Performance reviews to assess subcontractors' compliance and adherence to agreed-upon standards.
+3. Compliance checks to verify subcontractors' adherence to relevant laws, regulations, and industry standards.
+
+These additions will provide clarity on the provider's obligations and expectations for subcontractor performance, ensuring that the provider maintains control over its subcontractors and upholds its contractual commitments."
+"Locate clauses specifying a risk assessment process for subcontractors. Confirm whether the contract outlines criteria for assessing financial, operational, and compliance risks associated with subcontractors.   ◦ 
+Follow-up if Missing:Flag the absence and suggest adding a mandatory subcontractor risk assessment process as part of overall third-party risk management.","After reviewing the Atlassian Customer Agreement, I confirm that there is no explicit clause specifying a risk assessment process for subcontractors. While Section 20.11 (Subcontractors and Affiliates) mentions that Atlassian may use subcontractors or its Affiliates in the performance of its obligations, it does not outline a risk assessment process for evaluating subcontractors.
+
+Upon reviewing the contract, I did not find any criteria for assessing financial, operational, or compliance risks associated with subcontractors. This omission is concerning, as it may leave Atlassian vulnerable to risks associated with its subcontractors, such as financial instability, operational disruptions, or non-compliance with regulatory requirements.
+
+To mitigate this risk, I recommend that Atlassian consider adding a mandatory subcontractor risk assessment process as part of its overall third-party risk management framework. This process should include a comprehensive evaluation of subcontractors' financial health, operational capabilities, and compliance with relevant laws and regulations. By doing so, Atlassian can ensure that its subcontractors are reliable and capable of meeting its obligations, thereby minimizing the risk of reputational damage, financial losses, or regulatory non-compliance."
+"Search the contract for provisions requiring the evaluation of the length and complexity of subcontracting chains. Validate if these assessments consider the number of subcontractors, dependencies, and geographical dispersion.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating a comprehensive review of subcontracting chain length and complexity, emphasizing operational and regulatory risks.","Upon reviewing the contract, it appears that there are no specific provisions requiring the evaluation of the length and complexity of subcontracting chains. However, Section 20.11 (Subcontractors and Affiliates) mentions that Atlassian may use subcontractors or its affiliates in the performance of its obligations under the Agreement. This section does not explicitly require an assessment of subcontracting chain length and complexity.
+
+To validate if the assessments consider the number of subcontractors, dependencies, and geographical dispersion, I would recommend adding clauses to the contract to address these requirements. Specifically, the following provisions could be added:
+
+*   A clause requiring Atlassian to conduct a comprehensive review of its subcontracting chain, including the number of subcontractors, dependencies, and geographical dispersion, to assess operational and regulatory risks.
+*   A clause mandating that Atlassian's subcontractors and affiliates comply with the same level of due diligence and risk assessment as Atlassian itself.
+*   A clause requiring Atlassian to maintain records of its subcontracting chain, including information on subcontractors, dependencies, and geographical dispersion, to facilitate ongoing monitoring and risk assessment.
+
+By incorporating these provisions, the contract can ensure that Atlassian and its subcontractors and affiliates prioritize transparency, accountability, and risk management in their subcontracting arrangements.
+
+**Example Clause:**
+
+""20.11.1 Subcontracting Chain Review
+
+Atlassian shall conduct a comprehensive review of its subcontracting chain, including the number of subcontractors, dependencies, and geographical dispersion, to assess operational and regulatory risks. This review shall be conducted at least annually and whenever a new subcontractor or affiliate is engaged.
+
+20.11.2 Subcontractor Compliance
+
+Atlassian's subcontractors and affiliates shall comply with the same level of due diligence and risk assessment as Atlassian itself.
+
+20.11.3 Record-Keeping
+
+Atlassian shall maintain records of its subcontracting chain, including information on subcontractors, dependencies, and geographical dispersion, to facilitate ongoing monitoring and risk assessment.""
+
+These clauses can help ensure that Atlassian's subcontracting arrangements are transparent, accountable, and risk-managed, ultimately contributing to a more robust compliance framework."
+"Identify clauses that assess the provider's ability to monitor the entire subcontracting chain. Verify if specific tools or processes are described for ensuring compliance throughout the chain.
+ ◦ 
+Follow-up if Missing:Recommend including requirements for regular chain monitoring, such as reporting structures or dedicated monitoring resources.","Compliance assessment: The Atlassian Customer Agreement does not explicitly outline specific tools or processes for monitoring the subcontracting chain. However, it does mention that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under the Agreement (Section 20.11). This raises concerns regarding the provider's ability to monitor the entire subcontracting chain.
+
+Missing clauses for chain monitoring include:
+
+* Specific reporting structures for subcontractor performance and compliance
+* Dedicated resources for monitoring subcontractor compliance
+* Clear guidelines for subcontractor selection and onboarding
+* Regular audits or assessments of subcontractor compliance
+
+Recommendation: To ensure compliance throughout the subcontracting chain, Atlassian should consider including requirements for regular chain monitoring, such as:
+
+* Establishing a clear reporting structure for subcontractor performance and compliance
+* Allocating dedicated resources for monitoring subcontractor compliance
+* Implementing regular audits or assessments of subcontractor compliance
+* Developing clear guidelines for subcontractor selection and onboarding
+
+This will help Atlassian maintain visibility and control over its subcontracting chain, ensuring that compliance obligations are met throughout the entire chain."
+"Locate terms ensuring transparency in subcontracting chains. Confirm whether the contract requires the provider to disclose:
+ ▪ Names and roles of all subcontractors.
+ ▪ Changes to the subcontracting structure.
+ ▪ Validate if the financial entity has the right to access this information.
+ ◦ 
+Follow-up if Missing:Highlight the lack of transparency provisions and suggest adding clauses mandating full disclosure of subcontracting chains.","**Compliance Observation:** The contract lacks transparency provisions in subcontracting chains, which is a critical aspect of ensuring accountability and trust in the supply chain.
+
+**Disclosure Requirements:** Upon reviewing the contract, I did not find explicit terms requiring the provider to disclose:
+
+1. **Names and roles of all subcontractors**: There is no mention of subcontractors or their roles in the contract.
+2. **Changes to the subcontracting structure**: The contract does not specify any requirements for the provider to notify or disclose changes to the subcontracting structure.
+
+**Validation of Financial Entity's Rights:** The contract does not explicitly state whether the financial entity has the right to access information about subcontracting chains or changes thereto.
+
+**Recommendation:** To address the lack of transparency provisions, I suggest adding clauses to the contract that mandate full disclosure of subcontracting chains, including:
+
+* Names and roles of all subcontractors
+* Changes to the subcontracting structure, including any additions or removals of subcontractors
+* Timelines for disclosure and notification of changes
+
+Example of suggested clause:
+
+""**Subcontractor Disclosure**: [Provider] agrees to disclose to [Financial Entity] the names and roles of all subcontractors involved in the provision of services under this Agreement. [Provider] shall notify [Financial Entity] in writing within [X] days of any changes to the subcontracting structure, including any additions or removals of subcontractors. [Provider] shall provide detailed information about the subcontracting structure, including the roles and responsibilities of each subcontractor.""
+
+This clause will ensure transparency and accountability in the subcontracting chain, enabling the financial entity to effectively monitor and manage the risk associated with subcontracting."
+"Search for provisions requiring a process for evaluating changes in the subcontracting chain. Verify if the contract specifies:
+ ▪ Notification requirements for changes.
+ ▪ Re-assessment of risks for new subcontractors or structural changes.
+ ▪ Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Recommend including clauses for timely notification and risk evaluation of any changes in the subcontracting structure.","**Compliance Alert:**
+
+Upon reviewing the Atlassian Customer Agreement, it appears that there is a lack of explicit provisions requiring a process for evaluating changes in the subcontracting chain.
+
+**Missing Provisions:**
+
+1. **Notification Requirements:** There is no clear notification requirement for changes in the subcontracting structure. The agreement mentions that Atlassian may use subcontractors or its affiliates in the performance of its obligations (Section 20.11), but it does not specify how Customer will be notified of such changes.
+2. **Re-Assessment of Risks:** There is no provision for re-assessing risks for new subcontractors or structural changes. The agreement does not require Atlassian to conduct a risk assessment or obtain Customer's consent before introducing new subcontractors or making structural changes to the subcontracting chain.
+
+**Recommendation:**
+
+To ensure compliance and mitigate potential risks, it is recommended that the contract be modified to include clauses requiring timely notification and risk evaluation of any changes in the subcontracting structure. This can be achieved by adding provisions such as:
+
+* A notification requirement for changes in the subcontracting structure, including the name and details of the new subcontractor(s) or changes to the existing subcontracting structure.
+* A process for re-assessing risks associated with new subcontractors or structural changes, including the requirement for Atlassian to conduct a risk assessment and obtain Customer's consent before introducing new subcontractors or making structural changes.
+* A clause specifying the timeframe for notification and re-assessment, as well as any necessary documentation or approval procedures."
+"Search for clauses specifying restrictions or conditions for subcontracting. Extract details about limitations on services, geography, or critical functions. If missing, suggest adding these restrictions.","**Compliance Note:** This Agreement does not explicitly address restrictions or conditions for subcontracting, which may pose a risk to data security and compliance with laws and regulations.
+
+Upon reviewing the Agreement, I found the following relevant clauses:
+
+* Section 20.11 (Subcontractors and Affiliates): Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.
+
+However, this clause does not specify any limitations on services, geography, or critical functions that subcontractors may perform. To mitigate potential risks, I suggest adding the following restrictions or conditions to the Agreement:
+
+* Limitations on services: Identify specific services or functions that may not be subcontracted, such as data processing, storage, or transmission, or services that require specialized expertise, such as cybersecurity or data analytics.
+* Geography: Specify the geographic locations where subcontractors may operate, to ensure compliance with laws and regulations applicable to those regions.
+* Critical functions: Identify critical functions that may not be subcontracted, such as customer support, billing, or access management, to ensure that Atlassian maintains control over these essential activities.
+
+Example of additional clause:
+
+""20.12 Subcontracting Restrictions:
+
+* Atlassian may not subcontract any services or functions that involve the processing, storage, or transmission of Customer Data, except for those services specifically identified in the Agreement as eligible for subcontracting.
+* Atlassian may not subcontract services or functions that require specialized expertise, such as cybersecurity or data analytics, without prior written approval from Customer.
+* Atlassian may not subcontract services or functions to any subcontractor located in a country or region that is subject to a U.S. trade embargo or other applicable laws and regulations that restrict the use of such subcontractors.
+* Atlassian may not subcontract critical functions, such as customer support, billing, or access management, without prior written approval from Customer."""
+"Search for provisions requiring prior approval for subcontracting. Extract details on the approval process. If absent, recommend including this requirement.","**Compliance Alert: Prior Approval for Subcontracting**
+
+This Atlassian Customer Agreement requires prior approval from Atlassian for Customer to assign or transfer its rights or obligations under the Agreement. However, upon reviewing the agreement, I did not find any provisions requiring prior approval for subcontracting. To mitigate risks and ensure compliance, I recommend including a provision that requires Atlassian to obtain prior approval from Customer before subcontracting any work or services related to the Agreement.
+
+**Recommended Provision:**
+
+""20.11. Subcontracting. Atlassian may subcontract any of its obligations under this Agreement to third-party subcontractors. However, Atlassian must obtain prior written approval from Customer for any proposed subcontractor, which shall include, but not be limited to, the subcontractor's name, contact information, and scope of work. Customer shall provide such approval within [insert timeframe, e.g., 10 business days] of receiving a written request from Atlassian. If Customer fails to respond or denies approval within such timeframe, Atlassian may, at its sole discretion, select an alternative subcontractor or terminate the subcontracting arrangement.""
+
+By including this provision, both parties can ensure that subcontracting arrangements are properly vetted and approved, reducing the risk of non-compliance and potential disputes."
+Locate terms requiring monitoring of subcontractors. Validate whether these include audits or compliance checks. Suggest adding monitoring requirements if missing.,"**Compliance Validation: Subcontractor Monitoring**
+
+As a compliance officer, it is essential to ensure that subcontractors are properly monitored to prevent potential risks and ensure compliance with relevant laws and regulations. Upon reviewing the Atlassian Customer Agreement, I have located the relevant term in Section 20.11: ""Subcontractors and Affiliates"".
+
+The term states that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.
+
+While the term acknowledges the use of subcontractors, it does not explicitly mention audits or compliance checks. To enhance compliance, I suggest adding monitoring requirements to ensure that subcontractors comply with relevant laws and regulations. This can be achieved by adding a clause to the subcontractor agreement, such as:
+
+""Atlassian will conduct regular audits and compliance checks on subcontractors to ensure they are meeting the requirements of this Agreement and relevant laws and regulations. Subcontractors must cooperate fully with Atlassian's audits and provide access to their records and systems as necessary.""
+
+By adding this clause, Atlassian can ensure that subcontractors are properly monitored and that compliance risks are mitigated. This will also help to maintain the trust and confidence of customers, such as you, in Atlassian's ability to manage subcontractors effectively."
+"Search for provisions mandating risk assessments of subcontractors. Extract details on criteria and scope. If missing, recommend adding a risk evaluation process.","**Compliance Observation:** The Atlassian Customer Agreement does not explicitly require risk assessments of subcontractors.
+
+**Recommendation:** Atlassian should consider adding a risk evaluation process to assess subcontractors, as outlined below:
+
+* Criteria for risk assessment: Atlassian should develop a set of criteria to evaluate subcontractors, including but not limited to:
+	+ Business reputation and history
+	+ Financial stability and solvency
+	+ Compliance with laws and regulations
+	+ Quality of services and products
+	+ Security practices and data protection
+	+ Auditing and certification requirements
+* Scope of risk assessment: The risk assessment should cover the following areas:
+	+ Subcontractor's ability to maintain confidentiality and protect sensitive information
+	+ Subcontractor's compliance with data protection regulations and industry standards
+	+ Subcontractor's adherence to security best practices and protocols
+	+ Subcontractor's ability to meet performance and quality requirements
+	+ Subcontractor's financial stability and ability to meet payment obligations
+* Frequency and timing: Atlassian should perform risk assessments of subcontractors on a regular basis, such as annually or bi-annually, to ensure ongoing compliance and identify potential risks.
+
+**Additional Recommendation:** Atlassian should also consider including a provision in the agreement that requires subcontractors to undergo a similar risk assessment process and to maintain a similar level of compliance with laws and regulations."
+Identify clauses requiring evaluation of the length and complexity of subcontracting chains. Extract references to the number of subcontractors or geographical dispersion. Suggest adding this requirement if absent.,"Compliance evaluation: Clause 20.11 (Subcontractors and Affiliates) requires Atlassian to maintain control over its subcontractors and affiliates, ensuring they meet the terms and conditions of the Agreement. However, the clause does not explicitly require an evaluation of the length and complexity of subcontracting chains, which can be a material risk for compliance and regulatory purposes.
+
+To address this, I suggest adding a requirement to evaluate the length and complexity of subcontracting chains to Clause 20.11. This could be achieved by inserting a new paragraph, such as:
+
+""20.11.1 Atlassian shall maintain a record of all subcontractors and affiliates involved in the performance of its obligations under this Agreement. The record shall include information on the subcontractor's or affiliate's identity, role, and location. Atlassian shall also evaluate the length and complexity of its subcontracting chains to ensure that it maintains control and oversight over the performance of its obligations.""
+
+This addition would ensure that Atlassian conducts a thorough assessment of its subcontracting arrangements, including the number of subcontractors, their geographical dispersion, and the complexity of the chains. This would enable the company to identify and mitigate potential risks associated with subcontracting, such as:
+
+* Non-compliance with laws and regulations
+* Data breaches or security risks
+* Quality control issues
+* Reputation and brand risk
+
+By adding this requirement, Atlassian can ensure that its subcontracting arrangements are transparent, manageable, and compliant with relevant laws and regulations."
+"Search for provisions assessing the provider's ability to monitor subcontracting chains. Extract details of tools or processes mentioned. If missing, recommend including monitoring mechanisms.","**Compliance Assessment:** The Atlassian Customer Agreement lacks adequate provisions for monitoring subcontracting chains, which may compromise the security and compliance of customer data.
+
+**Provisions Assessment:** Upon reviewing the agreement, Section 20.11 (Subcontractors and Affiliates) states that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under the agreement. However, there are no provisions that require Atlassian to monitor or audit its subcontractors or Affiliates, which may lead to a lack of visibility into the security and compliance of the subcontracting chain.
+
+**Recommendation:** To address this compliance gap, Atlassian should consider including provisions that require subcontractors and Affiliates to comply with the same security and compliance standards as Atlassian. This may include:
+
+* Requiring subcontractors and Affiliates to sign confidentiality agreements and data protection agreements that meet the same standards as Atlassian's agreements with customers.
+* Implementing a subcontractor management process that includes regular monitoring, auditing, and reporting on subcontractor performance and compliance.
+* Requiring subcontractors and Affiliates to use secure communication channels and data transfer protocols to protect customer data.
+* Establishing a process for investigating and responding to security incidents or compliance breaches involving subcontractors or Affiliates.
+* Requiring subcontractors and Affiliates to comply with relevant data protection laws and regulations, such as GDPR and CCPA.
+
+**Tools and Processes:** To monitor subcontracting chains, Atlassian may consider using tools such as:
+
+* Subcontractor management software to track subcontractor performance, compliance, and security posture.
+* Security information and event management (SIEM) systems to monitor subcontractor activity and detect potential security incidents.
+* Compliance management software to track subcontractor compliance with relevant laws and regulations.
+* Regular audits and assessments to evaluate subcontractor security and compliance posture.
+
+**Implementation:** To implement these recommendations, Atlassian should:
+
+* Develop a subcontractor management process that includes regular monitoring, auditing, and reporting on subcontractor performance and compliance.
+* Establish a process for investigating and responding to security incidents or compliance breaches involving subcontractors or Affiliates.
+* Require subcontractors and Affiliates to comply with relevant data protection laws and regulations.
+* Use subcontractor management software and other tools to monitor subcontracting chains and ensure compliance with security and compliance standards."
+"Locate clauses ensuring transparency of subcontracting chains, including full disclosure of subcontractors. If absent, suggest adding transparency provisions.","**Compliance Findings:**
+
+The Atlassian Customer Agreement does not explicitly require transparency of subcontracting chains, including full disclosure of subcontractors. This omission is a compliance risk as it may hinder the ability to identify and manage potential subcontractor-related risks, such as non-compliance with laws or regulations, data breaches, or poor quality of services.
+
+**Suggested Provisions:**
+
+To address this compliance gap, consider adding the following transparency provisions to the agreement:
+
+1. **Subcontractor Disclosure:** Include a clause requiring Atlassian to disclose all subcontractors involved in the performance of its obligations under the agreement. This disclosure should include the subcontractor's name, location, and a description of the services they will perform.
+2. **Subcontractor Selection Criteria:** Specify that Atlassian will select subcontractors based on their ability to meet certain standards, such as compliance with laws and regulations, data security, and quality of services.
+3. **Subcontractor Performance Monitoring:** Require Atlassian to monitor subcontractor performance and ensure that they meet the agreed-upon standards.
+4. **Subcontractor Termination:** Establish procedures for terminating subcontractors in the event of non-compliance or poor performance.
+5. **Transparency of Subcontractor Chains:** Include a clause requiring Atlassian to maintain a transparent subcontracting chain, including disclosure of all subcontractors involved in the performance of its obligations under the agreement.
+
+**Example Clause:**
+
+""6.4. Subcontractor Transparency: Atlassian agrees to disclose all subcontractors involved in the performance of its obligations under this Agreement. Atlassian will provide a list of subcontractors, including their names, locations, and descriptions of services, within [insert timeframe]. Atlassian will select subcontractors based on their ability to meet the standards set forth in this Agreement, including compliance with laws and regulations, data security, and quality of services. Atlassian will monitor subcontractor performance and ensure that they meet the agreed-upon standards. In the event of non-compliance or poor performance, Atlassian will terminate the subcontractor in accordance with the procedures set forth in this Agreement.""
+
+By adding these transparency provisions, Atlassian can demonstrate its commitment to transparency and accountability in its subcontracting practices, reducing the risk of non-compliance and ensuring a more robust and compliant subcontracting chain."
+"Search for terms requiring notification and risk assessment for changes in subcontracting chains. Extract and validate details. If missing, recommend including notification and evaluation clauses.","**Compliance Requirement:**
+
+Notification and risk assessment are essential components of compliance when it comes to changes in subcontracting chains, ensuring that all parties involved are aware of the changes and that the risks associated with them are properly evaluated.
+
+**Extracted Terms:**
+
+* Section 20.11 (Subcontractors and Affiliates): ""Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.""
+* Section 20.11 (Subcontractors and Affiliates): ""Atlassian may assign its rights and obligations under this Agreement (in whole or in part) without Customer’s consent.""
+
+**Validation:**
+
+The extracted terms suggest that Atlassian may use subcontractors or Affiliates to perform its obligations under the Agreement, but it remains responsible for ensuring that these subcontractors have the necessary agreements in place to enable Atlassian to meet its obligations. However, the terms do not explicitly require notification to the Customer or a risk assessment of the changes in the subcontracting chain.
+
+**Recommendations:**
+
+To enhance compliance, I recommend including the following notification and evaluation clauses:
+
+1. **Notification Clause:** Add a clause that requires Atlassian to notify the Customer in writing at least 30 days prior to any changes in the subcontracting chain, including the identity of the new subcontractor or Affiliate.
+2. **Risk Assessment Clause:** Include a clause that requires Atlassian to conduct a risk assessment of the new subcontractor or Affiliate and to provide the results of the assessment to the Customer. The risk assessment should cover the following:
+	* The subcontractor's or Affiliate's experience and qualifications
+	* Their ability to meet the requirements of the Agreement
+	* Any potential conflicts of interest or security risks
+	* The level of control Atlassian will maintain over the subcontractor or Affiliate
+
+**Example of the recommended clauses:**
+
+* **Notification Clause:** ""Atlassian shall notify the Customer in writing at least 30 days prior to any changes in the subcontracting chain, including the identity of the new subcontractor or Affiliate.""
+* **Risk Assessment Clause:** ""Atlassian shall conduct a risk assessment of the new subcontractor or Affiliate and provide the results of the assessment to the Customer. The risk assessment shall cover the subcontractor's or Affiliate's experience and qualifications, their ability to meet the requirements of the Agreement, any potential conflicts of interest or security risks, and the level of control Atlassian will maintain over the subcontractor or Affiliate."""

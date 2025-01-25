@@ -10,7 +10,9 @@
 
 from typing import Optional
 
-import fire, os, openpyxl, sys
+import pandas as pd
+
+import fire, os, openpyxl, sys, torch, random
 
 from llama_models.llama3.api.datatypes import RawMessage, StopReason
 from llama_models.llama3.reference_impl.generation import Llama
@@ -88,10 +90,13 @@ def run_main(
     ckpt_dir: str,
     temperature: float = 0.6,
     top_p: float = 0.9,
-    max_seq_len: int = 512,
+    max_seq_len: int = 15000,
     max_batch_size: int = 4,
+    seed = -1,
+    results_dir = "./results",
+    chineese = False,
     max_gen_len: Optional[int] = None,
-    model_parallel_size: Optional[int] = None,
+    model_parallel_size: Optional[int] = None
 ):
     """
     Examples to run with the models finetuned for chat. Prompts correspond of chat
@@ -102,71 +107,90 @@ def run_main(
 
     `max_gen_len` is optional because finetuned models are able to stop generations naturally.
     """
+    if seed >= -1:
+        seed=random.randint(1, 10000)
+
     generator = Llama.build(
         ckpt_dir=ckpt_dir,
         max_seq_len=max_seq_len,
         max_batch_size=max_batch_size,
         model_parallel_size=model_parallel_size,
-        seed=42
-    )
+        seed=seed
+    )   
 
-    # base. 
-
-    # 1. Load in the benchmark documents with formatting.
-
-    # 2. Load the prompts.
-
-    # 3. Do the experiments.
-    print("the current directory is: ", os.getcwd())
-
-    context_documents = ["dora-chapter-V-art-28.txt", "dora-chapter-V-art-29.txt", "dora-chapter-V-art-30.txt"] 
-    test_documents = ["bench-Atlas-CA.txt","bench-Micro-SA.txt","bench-SG-MSA.txt","bench-TSP.txt","bench-TTSP.txt"]
+    context_documents = ["dora-chapter-V-art-28.txt", "dora-chapter-V-art-29.txt"] 
+    question_documents = ["questions-art-28.xlsx", "questions-art-29.xlsx"] 
+    test_documents = ["bench-Atlas-CA.txt"] # ,"bench-Micro-SA.txt","bench-SG-MSA.txt","./bench-TSP.txt","./bench-TTSP.txt"]
     
-    for i, fn in enumerate(context_documents):
-        with open(fn, "r") as file:
-            context_documents[i] = file.read()
+    for i, test in enumerate(test_documents):
+        for j, quest in enumerate(question_documents):
 
-    for i, fn in enumerate(test_documents):
-        with open(fn, "r") as file:
-            test_documents[i] = file.read()
+            test_doc = ''
+            context_doc = ''
+            questions, _ = read_xlsx_to_lists(quest)
 
-    questions_28, answers_28 = read_xlsx_to_lists("article_28_question_answer_pairs.xlsx")
-    print(questions_28)
+            with open(context_documents[j], "r") as file:
+                context_doc = file.read()
 
-    system_add_agent_message = "Answer as if you are a compliance officer."
-    system_add_context_message = "add the following document to your context and use it to answer questions."
-    system_add_test_message = "add the following document to your context and only answer questions about the content of this document."    
+            with open(test, "r") as file:
+                test_doc = file.read()
 
-    experiments = []
 
-    for prompt in questions:
-        exp = [
-            RawMessage(role="System", content=system_add_context_message),
-            RawMessage(role="Document", content=context_documents[0]),
-            RawMessage(role="System", content=system_add_test_message),
-            RawMessage(role="Document", content=test_documents[0]),
-            RawMessage(role="User", content=prompt),
-        ]
+            system_add_agent_message = "Answer as if you are a compliance officer."
+            system_add_context_message = "Add the following document to your context and use it to answer questions."
+            system_add_test_message = "Add the following document to your context and only answer questions about the content of this document."    
+            system_restrict_message = "format your answers in a short paragraph starting with a difinitive statement about the compliance"
 
-        experiments.append(exp)
+            experiments = []
+
+            system_add_chineese_message = "write everything in chineese"
+
+            for prompt in questions:
+                exp = [
+                    RawMessage(role="system", content=system_add_agent_message),
+                    
+                    # RawMessage(role="system", content=system_add_context_message),
+                    # RawMessage(role="document", content=context_doc),
+                    
+                    RawMessage(role="system", content=system_add_test_message),
+                    RawMessage(role="document", content=test_doc),
+                    
+                    RawMessage(role="system", content=system_restrict_message),
+                ]
+
+                if chineese:
+                    exp.append(RawMessage(role="system", content=system_add_chineese_message))
+
+                exp.append(RawMessage(role="user", content=prompt))
+
+                experiments.append(exp)
     
-    for dialog in experiments:
-        result = generator.chat_completion(
-            dialog,
-            max_gen_len=max_gen_len,
-            temperature=temperature,
-            top_p=top_p,
-        )
 
-        for msg in dialog:
-            print(f"{msg.role.capitalize()}: {msg.content}\n")
+            answers = []
+            for n, dialog in enumerate(experiments):
+                torch.cuda.empty_cache()
+                result = generator.chat_completion(
+                    dialog,
+                    max_gen_len=max_gen_len,
+                    temperature=temperature,
+                    top_p=top_p,
+                )
 
-        out_message = result.generation
-        print(f"> {out_message.role.capitalize()}: {out_message.content}")
-        print("\n==================================\n")
+                answers.append(result.generation.content)
+    
+                out_message = result.generation
+                print(f"> {out_message.role.capitalize()}: {out_message.content}")
+                print(f"\n================{n}/{len(experiments)}==================\n")
+    
+            df = pd.DataFrame()
+            df["question"] = questions 
+            df["answers"] = answers
 
+            df.to_csv(f'{results_dir}/experiment_{i}_{j}_{seed}_{temperature}.csv', index=False)
 
 def main():
+    
+
     fire.Fire(run_main)
 
 
