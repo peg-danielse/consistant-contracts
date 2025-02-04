@@ -23,7 +23,7 @@ def calculate_cosine_similarity(embedding1, embedding2):
     cosine_sim = torch.mm(embedding1_norm, embedding2_norm.T).item()  # Single value
     return cosine_sim
 
-def generate_bert_embeddings(input_text, model_name="bert-base-uncased", device="cuda"):
+def generate_bert_embeddings(input_text, model_name="bert-base-uncased", device="cpu"):
     """
     Generate BERT embeddings for a given input text.
     
@@ -40,7 +40,7 @@ def generate_bert_embeddings(input_text, model_name="bert-base-uncased", device=
     model = BertModel.from_pretrained(model_name).to(device)
     
     # Tokenize the input text
-    inputs = tokenizer(input_text, return_tensors="pt", truncation=True, add_special_tokens=True, max_length=512, padding="max_length").to(device)
+    inputs = tokenizer(input_text, return_tensors="pt", truncation=True, max_length=512).to(device)
     
     # Pass the input through the BERT model
     with torch.no_grad():
@@ -50,13 +50,41 @@ def generate_bert_embeddings(input_text, model_name="bert-base-uncased", device=
     embeddings = outputs.last_hidden_state  # Shape: (batch_size, sequence_length, hidden_size)
     
     # Optionally, aggregate embeddings (e.g., mean pooling)
-    sentence_embedding = embeddings.mean(dim=1)  # Shape: (batch_size, hidden_size)
+    sentence_embedding = embeddings.mean(dim=2)  # Shape: (batch_size, hidden_size)
     
     return sentence_embedding
 
 if __name__ == "__main__":
 
+#    csv_files = ["temperature/experiment_0_0_5699_0.8.csv", "temperature/experiment_0_0_721_0.8.csv"]
+#    # csv_files = ["temperature/experiment_0_0_5699_0.8.csv", "temperature/experiment_0_1_5699_0.8.csv"]
+#    #csv_files = ["experiment_0_0_42.csv", "experiment_0_0_43.csv"]
+#    #csv_files = ["experiment_0_0_42.csv", "experiment_0_0_43.csv"]
 
+#    # List to store DataFrame embeddings and cosine similarities
+#    embeddings_per_csv = {}
+
+    # Process each CSV filve
+#    for csv_file in csv_files:
+        
+        # Load the CSV file into a DataFrame
+#        df = pd.read_csv(csv_file)
+        
+        # Calculate BERT embeddings for each entry in the "answer" column
+#        df["embedding"] = df["answers"].apply(lambda x: generate_bert_embeddings(str(x)))
+#        embeddings_per_csv[csv_file] = list(df["embedding"])
+    # print(embeddings_per_csv)
+#    similarities = []
+#    for row_i in range(len(embeddings_per_csv[csv_files[0]])):
+#        row_similarities = []
+#        for column_i in range(len(embeddings_per_csv)):
+#            for column_j in range(len(embeddings_per_csv)):
+#                if column_i < column_j:
+#                    row_similarities.append(calculate_cosine_similarity(embeddings_per_csv[csv_files[column_i]][row_i], embeddings_per_csv[csv_files[column_i]][row_i]))
+#        similarities.append(row_similarities)
+    # print(similarities)               
+    # quit()
+    # Input text
     input_text1 = """**Compliance Verification: Business Continuity and Disaster Recovery Plans**
 
 A comprehensive Business Continuity and Disaster Recovery (BCDR) plan is essential for ensuring organizational resilience and minimizing business disruptions. Our review reveals that the current plan components, alignment with operational needs, update frequency, testing requirements, and documentation standards are insufficient, indicating a significant resilience gap.
@@ -144,7 +172,31 @@ Based on the review findings, I recommend adding comprehensive BCDR requirements
 7. Develop a comprehensive testing strategy, including regular drills and exercises.
 8. Ensure documentation meets industry-standard requirements.
 
-By addressing these gaps, the organization can ensure that its BCDR plans are effective, comprehensive, and aligned with operational needs, ultimately reducing the risk of business disruption and ensuring continuity in the event of a disaster."""
+By addressing these gaps, the organization can ensure that its BCDR plans are effective, comprehensive, and aligned with operational needs, ultimately reducing the risk of business disruption and ensuring continuity in the event of a disaster.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxy1xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"""
     input_text3 = """Compliance Observation: The contract does not explicitly specify a process for evaluating changes in the subcontracting chain.
 
 Upon reviewing the contract, I found that Section 20.11 (Subcontractors and Affiliates) mentions that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but it does not provide any specific requirements for notification or risk evaluation of changes in the subcontracting structure.
@@ -183,62 +235,22 @@ Example of revised clause:
 (c) The following critical functions or services cannot be subcontracted: [list specific functions or services, e.g., product development, security, data protection]."""
 
 
-    baseline = [
-        pd.read_csv("./experiment/baseline/experiment_0_0_4134.csv")["answers"].tolist() + pd.read_csv("./experiment/baseline/experiment_0_1_4134.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/baseline/experiment_0_0_5008.csv")["answers"].tolist() + pd.read_csv("./experiment/baseline/experiment_0_1_5008.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/baseline/experiment_0_0_5143.csv")["answers"].tolist() + pd.read_csv("./experiment/baseline/experiment_0_1_5143.csv")["answers"].tolist(),
-    ]
-
-    chineese = [
-        pd.read_csv("./experiment/chineese/experiment_0_0_137.csv")["answers"].tolist() + pd.read_csv("./experiment/chineese/experiment_0_1_137.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/chineese/experiment_0_0_4496.csv")["answers"].tolist() + pd.read_csv("./experiment/chineese/experiment_0_1_4496.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/chineese/experiment_0_0_9040.csv")["answers"].tolist() + pd.read_csv("./experiment/chineese/experiment_0_1_9040.csv")["answers"].tolist(),
-    ]
-
-    temperature20 = [
-        pd.read_csv("./experiment/temperature/experiment_0_0_1050_0.2.csv")["answers"].tolist() + pd.read_csv("./experiment/temperature/experiment_0_1_1050_0.2.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/temperature/experiment_0_0_6032_0.2.csv")["answers"].tolist() + pd.read_csv("./experiment/temperature/experiment_0_1_6032_0.2.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/temperature/experiment_0_0_6491_0.2.csv")["answers"].tolist() + pd.read_csv("./experiment/temperature/experiment_0_1_6491_0.2.csv")["answers"].tolist(),
-    ]
-
-    temperature80 = [
-        pd.read_csv("./experiment/temperature/experiment_0_0_721_0.8.csv")["answers"].tolist() + pd.read_csv("./experiment/temperature/experiment_0_1_721_0.8.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/temperature/experiment_0_0_5699_0.8.csv")["answers"].tolist() + pd.read_csv("./experiment/temperature/experiment_0_1_5699_0.8.csv")["answers"].tolist(),
-        pd.read_csv("./experiment/temperature/experiment_0_0_9200_0.8.csv")["answers"].tolist() + pd.read_csv("./experiment/temperature/experiment_0_1_9200_0.8.csv")["answers"].tolist(),
-    ]
-
-    # CoG = [
-    #     pd.read_csv("./experiment/chineese/experiment_0_0_137.csv")["answers"].tolist() + pd.read_csv("./experiment/baseline/experiment_0_1_137.csv")["answers"].tolist(),
-    #     pd.read_csv("./experiment/chineese/experiment_0_0_4496.csv")["answers"].tolist() + pd.read_csv("./experiment/baseline/experiment_0_1_4496.csv")["answers"].tolist(),
-    #     pd.read_csv("./experiment/chineese/experiment_0_0_9040.csv")["answers"].tolist() + pd.read_csv("./experiment/baseline/experiment_0_1_9040.csv")["answers"].tolist(),
-    # ]
-
+    input_text4 = "john is good"
+    input_text5 = "john is great"
+    input_text6 = "john is not good"
+    
     # Device configuration
     DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-
-    experiment = temperature80
-    comparison = []
-    for i in range(len(experiment[0])):
-        sim_1 = calculate_cosine_similarity(generate_bert_embeddings(experiment[0][i]), generate_bert_embeddings(experiment[1][i]))
-        sim_2 = calculate_cosine_similarity(generate_bert_embeddings(experiment[1][i]), generate_bert_embeddings(experiment[2][i]))
-        sim_3 = calculate_cosine_similarity(generate_bert_embeddings(experiment[2][i]), generate_bert_embeddings(experiment[0][i]))
-        
-        comparison.append((sim_1 + sim_2 + sim_3) / 3)
-
-
-    # print(comparison)
-    print(sum(comparison)/ len(comparison))
-
-    # Generate BERT embeddings
-    # embeddings1 = generate_bert_embeddings(input_text1)
-    # embeddings2 = generate_bert_embeddings(input_text2)
-    # embeddings3 = generate_bert_embeddings(input_text3)
     
-    # print("BERT Embeddings Shape:", embeddings1.shape)
-    # print("BERT Embeddings Shape:", embeddings2.shape)
-    # print("BERT Embeddings Shape:", embeddings3.shape)
+    # Generate BERT embeddings
+    embeddings1 = generate_bert_embeddings(input_text1, device=DEVICE)
+    embeddings2 = generate_bert_embeddings(input_text2, device=DEVICE)
+    embeddings3 = generate_bert_embeddings(input_text3, device=DEVICE)
+    
+    print("BERT Embeddings Shape:", embeddings1.shape)
+    print("BERT Embeddings Shape:", embeddings2.shape)
+    print("BERT Embeddings Shape:", embeddings3.shape)
 
-    # print(calculate_cosine_similarity(embeddings1, embeddings2))
-    # print(calculate_cosine_similarity(embeddings2, embeddings3))
-    # print(calculate_cosine_similarity(embeddings1, embeddings3))
+    print(calculate_cosine_similarity(embeddings1, embeddings2))
+    print(calculate_cosine_similarity(embeddings1, embeddings3))
 

@@ -1,0 +1,1135 @@
+question,answers
+"Search the contract for any mention of an assessment regarding the substitutability of the ICT third-party service provider. Extract clauses that address whether the provider is easily substitutable or not. If no such clauses are found, note the absence and flag it as a gap.
+ ◦ 
+Follow-up if Missing:Indicate that the contract should include provisions for assessing the substitutability of the provider and recommend defining criteria for determining substitutability.","根據合同，我找到了與ICT第三方服務提供者替代性相關的條款。
+
+第5節“軟體產品”中，第5.2款“授權驗證”中提到：Atlassian或其授權代理人可能對客戶進行軟體產品使用量的審查，確認是否符合客戶的範圍使用。如果客戶超出其範圍使用，Atlassian可能向客戶發出額外費用的帳單。
+
+第10節“計費和付款”中，第10.1款“費用”中提到：Atlassian可以根據客戶的範圍使用收取費用。如果客戶需要增加其範圍使用，Atlassian將根據其當時的費率收取費用。
+
+第2節“產品使用”中，第2.2款“限制”中提到：客戶不得租借、出租、出售、分發或 sublicensing 軟體產品或雲端產品。
+
+這些條款表明，客戶的範圍使用將受到限制和審查，如果客戶超出其範圍使用，Atlassian將收取額外費用。然而，這些條款並未明確指出ICT第三方服務提供者的替代性。
+
+因此，我建議合同應該包含替代性評估的條款，並建議定義替代性評估的標準。
+
+缺失的條款：替代性評估的條款
+
+建議：合同應該包含替代性評估的條款，並建議定義替代性評估的標準。"
+"Identify whether the contract defines specific criteria for determining substitutability (e.g., technical compatibility, operational complexity). If criteria are unclear or missing, suggest possible benchmarks based on industry standards.
+ ◦ 
+Follow-up if Missing:Recommend adding measurable criteria for substitutability assessments, such as cost, technical specifications, and ease of transition.","根據合同文本，雖然沒有明確定義替代性（substitutability）的標準，但可以推測出一些關鍵指標。例如，合同中提到“Customer may increase its Scope of Use by placing a new Order or modifying (by mutual agreement with Atlassian) an existing Order”（客戶可以通過新訂單或與Atlassian達成共識的現有訂單修改來增加其範圍），這表明替代性可能與成本、技術規格和易轉換性相關。
+
+根據業界標準，以下是一些可用的替代性評估指標：
+
+1. 成本：評估替代方案的成本，包括初始投資、運維費用和維護費用。
+2. 技術規格：評估替代方案的技術規格，包括硬件、軟件和系統需求。
+3. 易轉換性：評估替代方案的易轉換性，包括資料遷移、系統整合和人員培訓的難易程度。
+4. 可用性：評估替代方案的可用性，包括可用時間、可靠性和可用性。
+5. 效能：評估替代方案的效能，包括處理能力、記憶體和儲存需求。
+
+如果合同中缺乏明確的替代性評估標準，建議添加以下可測量的評估指標：
+
+* 成本：評估替代方案的總體成本，包括初始投資、運維費用和維護費用。
+* 技術規格：評估替代方案的技術規格，包括硬件、軟件和系統需求。
+* 易轉換性：評估替代方案的易轉換性，包括資料遷移、系統整合和人員培訓的難易程度。
+* 可用性：評估替代方案的可用性，包括可用時間、可靠性和可用性。
+* 效能：評估替代方案的效能，包括處理能力、記憶體和儲存需求。
+
+這些指標可以幫助客戶和Atlassian進行更具體的替代性評估，確保替代方案能夠滿足客戶的需求和預期。"
+"Search the contract for clauses requiring documentation of alternative providers in the market. Verify if these alternatives are listed or if there is a requirement to maintain such a list. Highlight missing documentation requirements.
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating regular market scans to identify and document alternative providers.","根据合同的规定，Customer 必须确保 Atlassian 有足够的信息来与其合作，以便于 Atlassian 在必要时与其他供应商进行商谈或合作。具体来说，合同中提到了以下几点：
+
+* 在第 6.1 条中，Customer 必须确保它已经向 Atlassian 提供了必要的信息，以便 Atlassian 可以使用 Customer 的数据和材料来提供产品和支持服务。
+* 在第 7.1 条中，合同提到了第三方代码的政策，要求 Customer 必须确保它已经向 Atlassian 提供了有关使用第三方代码的信息。
+* 在第 20.11 条中，合同要求 Atlassian 必须确保它已经向 Customer 提供了足够的信息，以便 Customer 可以评估 Atlassian 的产品和服务。
+
+然而，合同中并没有明确要求 Customer 或 Atlassian 必须维护一个第三方供应商的清单。因此，推荐增加一个条款，要求 Customer 和 Atlassian 定期扫描市场，找出和记录第三方供应商的信息。
+
+具体来说，建议增加以下条款：
+
+* Customer 必须定期扫描市场，找出和记录第三方供应商的信息，包括但不限于：
+	+ 供应商的名称和联系信息
+	+ 供应商的产品和服务
+	+ 供应商的价格和条款
+	+ 供应商的服务水平和支持服务
+* Atlassian 必须确保它已经收到了 Customer 提供的第三方供应商信息，并且已经将这些信息纳入到其产品和服务的评估中。
+* Customer 和 Atlassian 必须定期审查第三方供应商的清单，确保清单的准确性和完整性。
+
+通过这样做，Customer 和 Atlassian 可以确保他们有一个清晰的视图，了解第三方供应商的产品和服务，能够做出明智的决策，并且能够维护一个可靠和有效的供应链。"
+"Search for provisions requiring a cost-benefit analysis of alternative providers. Confirm whether the analysis considers financial, operational, and strategic factors.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding requirements for regular cost-benefit analyses to maintain strategic flexibility.","根據協議書，第 10.1.4 段落中提到「Customer 可以選擇增加其 Scope of Use 的方法包括：(d) Refunds。所有費用和費用都是不可退還的，除非另有約定。」這意味著客戶在選擇增加其 Scope of Use 時，並不需要進行成本效益分析。
+
+然而，這也意味著客戶在選擇增加其 Scope of Use 時，可能會缺乏成本效益分析的考量。因此，我建議在協議書中添加規定，要求客戶進行定期的成本效益分析，以維持戰略上的靈活性。
+
+添加的規定可以如下：
+
+「客戶在選擇增加其 Scope of Use 時，必須進行成本效益分析，考慮包括財務、運營和戰略因素。分析結果必須呈交給 Atlassian，供 Atlassian 供參考。」
+
+這樣的規定可以幫助客戶在選擇增加其 Scope of Use 時，進行更全面和系統的成本效益分析，從而維持戰略上的靈活性。"
+"Look for any clauses specifying the need to maintain awareness of market alternatives (e.g., through periodic market research). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend adding provisions for periodic market reviews to evaluate emerging alternatives.","根據本協議的第 2.2 項（限制），Atlassian 須確保 Customer 不會違反市場替代品的相關規定。然而，這一條款並未明確要求 Atlassian 進行市場研究或評估。
+
+未找到相關的市場替代品評估或市場研究的規定。建議添加以下條款：
+
+* Atlassian 須定期評估市場替代品，以確保其產品和服務保持競爭力。
+* Atlassian 須進行市場研究，以了解市場趨勢和競爭對手的變化。
+* Atlassian 須根據市場研究結果進行產品和服務的調整和改進。
+
+這些額外的條款將確保 Atlassian 透過市場研究和評估市場替代品來維護其產品和服務的競爭力。"
+"Search the contract for requirements to assess existing arrangements with the same provider. Confirm whether this includes the number, type, and scope of such arrangements. Highlight gaps if no such assessment is required.
+ ◦ 
+Follow-up if Missing:Recommend including periodic reviews of all existing contracts with the provider.","根據合同的第 20.2 段，Atlassian 必须遵守其 Code of Conduct。在此合同中，Code of Conduct 的定义是 Atlassian 的 Code of Business Conduct & Ethics，位于 https://investors.atlassian.com/governance/governance-documents/default.aspx。
+
+因此，合同要求 Atlassian 遵守其 Code of Conduct，包括 Code of Business Conduct & Ethics。但是，没有明确要求对现有的安排进行评估或审查。
+
+然而，在合同的第 20.3 段中，提到了“Assessment of Existing Arrangements”（现有安排评估），但这不是针对 Atlassian 的，而是针对 Customer 的。Customer 可能需要评估现有的安排，以确保它们符合合同的要求。
+
+因此，合同中没有明确要求对 Atlassian 的现有安排进行评估或审查。但是，Customer 可能需要评估现有的安排，以确保它们符合合同的要求。
+
+如果需要评估现有的安排，建议包括对以下方面的评估：
+
+* 数量（Number）：现有的安排的数量，包括 Cloud Products 和 Software Products。
+* 类型（Type）：现有的安排的类型，包括 Cloud Products 和 Software Products。
+* 范围（Scope）：现有的安排的范围，包括 User 数量、License 数量和其他相关限制。
+
+如果没有明确要求对现有的安排进行评估或审查，建议包括对所有现有的合同进行周期性审查。"
+"Search for provisions requiring the assessment of relationships with closely connected providers. Verify whether these relationships are identified and documented in the contract.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including requirements to evaluate risks from connected providers.","《Atlassian客户协议》中有明确的规定要求客户与其关联供应商进行风险评估。
+
+第 3.1 条“责任”中提到，客户负责确保其用户遵守本协议，并承担其用户的行为责任。同时，第 3.2 条“登录凭证”中要求客户确保每个用户保密其登录凭证，并在发现未经授权的访问或使用时立即通知 Atlassian。
+
+第 7.2 条“第三方产品”中提到，客户可能选择与 Atlassian 市场上提供的第三方平台、应用、插件、服务或产品（第三方产品）一起使用产品。使用第三方产品时，客户需要遵守第三方提供商的条款和条件，而非本协议。
+
+第 15.5 条“免责”中提到，Atlassian 的义务不包括为第三方产品提供任何形式的支持、担保或赔偿。
+
+因此，根据本协议，客户需要与其关联供应商进行风险评估，并确保其用户遵守相关条款和条件。"
+"Identify clauses that mandate evaluating the concentration risk of relying on a single provider for multiple services. Validate if the contract requires tracking dependency on the provider.
+ ◦ 
+Follow-up if Missing:Recommend adding a section to analyze and address concentration risks.","根据合同的内容，以下是相关条款：
+
+条款 20.11（Subcontractors and Affiliates）指出，Atlassian 可以使用子承包商或其附属机构来履行其在合同中的义务。然而，这个条款并没有明确要求 Atlassian 进行集中风险评估。
+
+条款 20.11（Subcontractors and Affiliates）中有一条关于子承包商或附属机构的条款，但并没有明确要求 Atlassian 进行集中风险评估。
+
+因此，建议在合同中添加一节来分析和处理集中风险。"
+"Search for provisions assessing interdependencies between services provided by the third-party provider. Extract these clauses if present.
+ ◦ 
+Follow-up if Missing:Suggest requiring an assessment of how interdependent services might amplify operational risks.","根据提供的文档，我发现有以下相关条款：
+
+第 7.2 条“第三方产品”规定了使用第三方平台、应用、插件、服务或产品（包括通过 Atlassian 市场提供的产品）的条款。该条款指出，使用这些第三方产品可能需要第三方提供商访问客户数据和其他数据，Atlassian 将在客户同意的情况下允许此类访问。
+
+第 7.2 条进一步规定，客户使用第三方产品的行为受该第三方提供商的条款和条件的约束，而不是本协议的约束。因此，Atlassian 对于第三方产品不承担任何责任。
+
+此外，第 7.2 条还规定，客户使用第三方产品可能会增加客户数据和其他数据的风险，因此客户应仔细评估使用第三方产品的潜在风险。
+
+基于上述分析，我认为需要添加一个条款来要求客户对使用第三方产品的潜在风险进行评估和管理。具体来说，可以添加如下条款：
+
+* 客户应对使用第三方产品的潜在风险进行评估和管理，包括但不限于数据安全、数据隐私、商业风险等方面。
+* 客户应确保使用第三方产品时符合本协议的规定和相关法律法规。
+* 客户应承担使用第三方产品带来的所有风险和责任。
+
+此外，我建议将这些条款纳入到第 7.2 条“第三方产品”中，以确保客户对使用第三方产品的潜在风险有足够的了解和准备。"
+"Look for clauses that require an evaluation of the provider's market share and concentration risk (e.g., monopoly risks, limited alternatives). Highlight gaps if no such assessment is found.
+ ◦ 
+Follow-up if Missing:Recommend adding terms to address provider dominance and its potential impact on resilience.","根据合同条款，Atlassian作为产品和服务提供商，其市场份额和集中度风险（例如垄断风险、有限替代品）并未进行评估。这种评估对于确保供应商的可靠性和多样性至关重要。
+
+合同中没有明确的条款要求Atlassian进行市场份额和集中度风险评估。因此，建议在合同中添加条款，以解决供应商主导地位及其潜在对可靠性的影响。
+
+具体来说，建议添加以下条款：
+
+* 评估Atlassian的市场份额和集中度风险，包括其垄断风险和有限替代品的可能性。
+* 确保Atlassian不会利用其市场主导地位以不公平的方式对待客户。
+* 提供替代产品或服务的选择，以确保客户的多样性和可靠性。
+* 定期评估Atlassian的市场份额和集中度风险，并根据需要进行调整。
+
+通过添加这些条款，客户可以更好地保护自己的利益，确保供应商的可靠性和多样性。"
+"Search the contract for an assessment of geographical concentration risks related to the provider’s operations. Confirm if the assessment addresses risks associated with location-specific factors like infrastructure reliability or natural disasters.
+ ◦ 
+Follow-up if Missing:Recommend including geographical risk assessments in the contract.","根据合同，Atlassian 的运营风险评估中没有明确提到地理集中风险。虽然合同中提到“Laws”（法律）和“Government End-Users”（政府客户），但这些条款主要关注政府客户的特定要求和法规，而不是地理风险。
+
+合同中没有明确提到与地理风险相关的具体因素，如基础设施可靠性或自然灾害。虽然合同中提到“Security Measures”（安全措施），但这些措施主要关注数据安全和保密，而不是地理风险。
+
+因此，建议在合同中增加地理风险评估的条款，以确保提供商运营时考虑到地理集中风险。例如，可以增加一条条款，要求提供商在合同中提供地理风险评估报告，包括分析运营区域的基础设施可靠性、自然灾害风险和其他地理相关风险。"
+"Search for clauses requiring third-country providers to comply with EU data protection rules (e.g., GDPR). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including mandatory compliance with EU data protection regulations.","根據《Atlassian Customer Agreement》，以下是與第三國供應商遵守EU資料保護規則相關的條款：
+
+第 4.2 款Security Program：Atlassian已建立並將維持資料安全方案，以保護客戶資料免遭未經授權存取、毀損、使用、修改或披露。資料安全方案將採用適當的物理、技術和組織措施，以確保客戶資料的安全。
+
+第 16.1 款定義：Confidential Information包括客戶提供的資料和材料，以及Atlassian提供的資料和材料。
+
+第 16.2 款義務：Atlassian有義務保護客戶的Confidential Information，並不將其披露給第三方，除非根據本協議或法令允許。
+
+第 16.3 款例外：Atlassian不必遵守第 16.2 款的義務，如果客戶已知或應該已知資料已經成為公開資料，或客戶已經知道或應該已知資料已經被第三方披露。
+
+第 16.4 款補救措施：如果Atlassian違反第 16.2 款的義務，客戶可以要求Atlassian採取適當的補救措施。
+
+根據上述條款，Atlassian已經將遵守EU資料保護規則的義務賦予給第三國供應商。因此，這些條款已經被提取和驗證。
+
+然而，如果缺少這些條款，建議將遵守EU資料保護規則的條款添加到協議中，例如：
+
+* 客戶同意將遵守EU資料保護規則，包括GDPR。
+* Atlassian將在資料安全方案中確保遵守EU資料保護規則。
+* Atlassian將不將客戶資料披露給第三方，除非根據EU資料保護規則允許。
+
+這樣可以確保Atlassian的第三國供應商遵守EU資料保護規則，保護客戶資料的安全。"
+"Identify clauses assessing the effectiveness of law enforcement in the provider’s jurisdiction, especially in ensuring contract enforceability and regulatory compliance.
+ ◦ 
+Follow-up if Missing:Recommend adding specific provisions for assessing legal risks in the provider’s country.","根据该协议，Atlassian有责任确保其产品和服务的合法性和合规性。具体来说，第20.1条“遵守法律”规定了每一方都必须遵守其所在国的法律和法规。然而，这个条款并没有具体规定如何评估法律风险或确保合同的可执行性。
+
+建议在协议中添加以下条款，以评估提供商所在国的法律风险：
+
+1. 评估法律风险：Atlassian必须在协议中明确规定其评估法律风险的程序和方法，包括识别潜在的法律风险、评估这些风险的严重程度和采取相应的措施来降低这些风险。
+2. 合同可执行性：Atlassian必须确保其合同具有可执行性，包括向客户提供必要的信息、保证合同的完整性和可靠性。
+3. 法律顾问：Atlassian必须与法律顾问合作，以确保其产品和服务的合法性和合规性。
+4. 合规性保证：Atlassian必须向客户提供合规性保证，包括保证其产品和服务符合相关法律法规和标准。
+5. 法律风险补偿：Atlassian必须为因其产品和服务的不合法性或不合规性导致的法律风险承担责任，包括法律费用、罚款和其他相关费用。
+
+通过添加这些条款，Atlassian可以更好地评估其所在国的法律风险，确保其产品和服务的合法性和合规性，从而提高客户的信任和满意度。"
+"Search for clauses addressing data localization requirements and associated risks in third-country jurisdictions. Extract these terms for verification.
+ ◦ 
+Follow-up if Missing:Suggest adding data localization provisions to align with regulatory and operational needs.","根据 Atlassian 的客户协议，以下是相关条款：
+
+第 4.2 条（安全计划）：Atlassian 有责任维护信息安全计划，确保客户数据的安全性和保密性。
+
+第 16.1 条（保密信息）：Atlassian 和客户都有责任保密对方的机密信息，包括客户数据和客户材料。
+
+第 16.2 条（保密义务）：双方必须遵守保密义务，禁止泄露对方的机密信息。
+
+第 20.13 条（出口限制）：客户必须遵守出口管制法规，确保不向受限制国家或个人出口产品或服务。
+
+根据这些条款，Atlassian 有责任维护数据安全和保密性，但并未明确规定数据的物理位置或归属。因此，建议添加数据本地化条款，以确保客户数据符合相关法律法规和运营需求。
+
+建议添加的条款：
+
+* 4.3 条（数据本地化）：客户数据必须在 Atlassian 指定的数据中心或受信任的第三方数据中心中存储和处理。
+* 16.3 条（数据归属）：客户数据归客户所有，Atlassian 只是作为数据处理者的责任人。
+
+这些添加的条款将明确客户数据的归属和存储位置，避免潜在的法律风险和数据安全问题。"
+"Search for provisions assessing country-specific operational risks (e.g., political instability, legal uncertainties, or infrastructure issues). Highlight gaps in the contract if such assessments are not required.
+ ◦ 
+Follow-up if Missing:Recommend adding an evaluation of country-specific risks to the contract.","根據本合同，Atlassian 不對任何因政治不穩定、法律不確定性或基礎設施問題而導致的風險負責。然而，該合同並未要求 Atlassian 評估和管理與特定國家相關的風險。
+
+在現有的合同中，Atlassian 將其產品和服務提供給全球各地的客戶，但未對每個國家的政治、法律和基礎設施風險進行評估和管理。這可能會導致客戶面臨不確定的風險和風險管理挑戰。
+
+為了填補這個缺口，我建議將評估和管理與特定國家相關的風險的條款添加到合同中。這樣可以確保Atlassian根據客戶所在國家的風險水平來提供服務和產品，並將風險分擔給客戶。
+
+具體而言，我建議在合同中加入以下條款：
+
+* Atlassian 將根據客戶所在國家的風險水平提供服務和產品。
+* Atlassian 將評估和管理與特定國家相關的風險，包括政治不穩定、法律不確定性和基礎設施問題。
+* 客戶將與Atlassian 共同承擔風險，包括風險評估和風險管理。
+
+通過添加這些條款，Atlassian 可以更好地管理風險並確保客戶的需求得到滿足。"
+"Search the contract for clauses requiring regular assessments of critical risks associated with the ICT third-party provider. Confirm if these assessments are mandated on a defined schedule (e.g., quarterly or annually). Extract and validate the relevant provisions.
+ ◦ 
+Follow-up if Missing:Note the absence and recommend adding a clause that mandates periodic critical risk assessments to maintain operational resilience.","根據合同文本，第 5.2.2 節提到“ Atlassian 或其受其授权的代理人可能在每 12 個月內对 Customer 的使用 Cloud Products 进行一次审查，以确认 Customer 的使用是否符合其 Scope of Use。”这意味着 Atlassian 有义务在每 12 個月內对 Customer 的使用情况进行审查。
+
+然而，合同并没有明确规定这项审查的具体时间表，例如每季度或每年一次。因此，建议添加一项条款，要求 Atlassian 定期（例如每季度或每年）进行关键风险评估，以维持运营的可靠性。
+
+建议添加的条款如下：
+
+“Atlassian 必须定期（例如每季度或每年）对 Customer 的使用情况进行关键风险评估，以确保其使用符合合同的规定，并维持运营的可靠性。这些评估将在合同有效期内进行，具体时间表将由 Atlassian 根据其运营需求确定并通知 Customer。”
+
+这项建议的目的是确保 Atlassian 定期进行关键风险评估，以确保 Customer 的使用情况符合合同的规定，并维持运营的可靠性。"
+"Identify if the contract specifies risk mitigation measures for critical risks identified during assessments. Verify whether the measures are actionable (e.g., contingency plans, redundancies, alternative providers).
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding explicit provisions for mitigation measures, such as predefined actions for specific risk scenarios.","本合同中未明确规定风险减轻措施，特别是在关键风险识别期间。虽然合同中提到了 Atlassian 的安全措施和数据保护协议，但并未明确规定具体的风险减轻措施或应急计划。
+
+合同中关于风险的唯一提及是：
+
+* 5.2. License Verification：Atlassian 或其授权代理可能会对客户使用软件产品进行审计，以确认其是否符合客户的使用范围。
+* 5.3. Number of Instances：客户可以在其所有系统上安装一个生产实例的每个软件产品。
+
+然而，这些措施并未明确规定风险减轻措施或应急计划。因此，建议在合同中添加明确的风险减轻措施和应急计划，例如：
+
+* 为特定风险场景预先定义的行动方案
+* 备份和恢复计划
+* 替代供应商或服务提供商
+* 约束和责任分配
+
+通过添加这些措施，客户可以更好地应对风险和潜在问题，确保业务运营的稳定性和安全性。"
+"Search for requirements to establish a process for ongoing monitoring of risks related to the provider’s performance and operations. Verify if the contract specifies monitoring tools, frequency, or reporting requirements.
+ ◦ 
+Follow-up if Missing:Recommend including provisions for continuous monitoring, specifying tools or metrics (e.g., service availability, response times).","根據合同的要求，我們需要確保為服務提供商的表現和運營建立持續監控的程序。檢查合同是否規定監控工具、頻率或報告要求。如果缺乏相關規定，我們建議加入持續監控的條款，明確指定監控工具或指標（例如服務可用性、響應時間）。
+
+合同中關於持續監控的規定如下：
+
+* 合同第 4.2 節規定了服務提供商的安全措施，包括物理、技術和組織措施以保護客戶資料。
+* 合同第 4.3 節規定了雲服務的服務水平承諾，包括服務可用性和響應時間。
+* 合同第 9 節規定了訂單的處理和交付程序，包括提供登入指南或授權碼。
+
+然而，合同中缺乏明確的監控工具、頻率或報告要求。因此，我們建議加入以下條款：
+
+* 合同第 4.2 節應增加監控工具的規定，包括服務提供商必須使用的監控工具和指標。
+* 合同第 4.3 節應增加服務水平承諾的監控頻率和報告要求，包括定期報告服務可用性和響應時間。
+* 合同第 9 節應增加登入指南和授權碼的交付時間和方式。
+
+通過加入這些條款，客戶可以確保服務提供商的表現和運營得到持續監控，從而提高服務的可靠性和效率。"
+"Look for clauses requiring regular reassessment of risks to account for changes in the provider’s operations, market conditions, or technological advancements. Extract and validate the terms.
+ ◦ 
+Follow-up if Missing:Suggest adding a requirement for dynamic risk reassessments triggered by significant changes or at fixed intervals.","根据合同条款，Atlassian有义务定期评估和更新其安全措施，以确保保护客户数据的能力。具体来说，条款 4.2（安全程序）规定：
+
+“Atlassian有义务维持和更新其信息安全计划，以确保保护客户数据免受未经授权访问、破坏、修改或泄露的风险。”
+
+此外，条款 4.3（服务水平）要求Atlassian在一定时间内提供服务水平承诺，包括安全措施的评估和更新。
+
+然而，合同中缺乏明确的规定，要求Atlassian在特定时间间隔内或在出现重大变化时进行动态风险评估。因此，建议添加一个条款，要求Atlassian在以下情况下进行动态风险评估：
+
+* 在出现重大变化时（例如，技术进步、市场变化或业务模式的变化）
+* 在固定时间间隔内（例如，每年或每两年）
+
+此外，建议添加一个条款，要求Atlassian在评估和更新其安全措施时，必须考虑以下因素：
+
+* 最新技术和最佳实践
+* 市场和行业的变化
+* 业务模式和运营的变化
+* 法律和法规的变化
+
+通过添加这些条款，Atlassian可以确保其安全措施始终符合客户的需求，并能够应对不断变化的风险和挑战。"
+"Search for provisions addressing the assessment of technological lock-in risks, including the difficulty of switching providers due to proprietary technologies or long-term dependencies. Extract relevant clauses.
+ ◦ 
+Follow-up if Missing:Recommend adding terms that require evaluating the risks of vendor lock-in and specifying potential exit strategies.","**技术锁定风险评估**
+
+本协议中关于技术锁定风险评估的条款如下：
+
+*   5.2.2. **技术锁定风险评估**：Atlassian 有义务评估其产品或服务对客户的技术锁定风险，并提供清晰的退出策略。具体要求如下：
+
+    *   在产品或服务的使用说明中，Atlassian 必须提供关于技术锁定风险的警告和注意事项。
+    *   Atlassian 必须提供客户在不使用 Atlassian 产品或服务的情况下，能够轻松切换到其他供应商的技术支持和资源。
+    *   Atlassian 必须在产品或服务的更新和升级过程中，尽量减少对客户的技术锁定风险。
+    *   Atlassian 必须提供客户在退出 Atlassian 产品或服务后，能够轻松迁移数据和应用程序的技术支持和资源。
+
+**退出策略**
+
+本协议中关于退出策略的条款如下：
+
+*   10.3. **退订政策**：客户有权在订阅期限内退订 Atlassian 产品或服务。退订后，Atlassian 必须提供清晰的退出策略和技术支持，以帮助客户在不使用 Atlassian 产品或服务的情况下，能够轻松切换到其他供应商。
+*   12.4. **协议终止**：在协议终止后，Atlassian 必须提供清晰的退出策略和技术支持，以帮助客户在不使用 Atlassian 产品或服务的情况下，能够轻松切换到其他供应商。
+
+**建议**
+
+为了进一步减少技术锁定风险，建议在协议中添加以下条款：
+
+*   在产品或服务的使用说明中，Atlassian 必须提供关于技术锁定风险的警告和注意事项。
+*   Atlassian 必须提供客户在不使用 Atlassian 产品或服务的情况下，能够轻松切换到其他供应商的技术支持和资源。
+*   Atlassian 必须在产品或服务的更新和升级过程中，尽量减少对客户的技术锁定风险。
+*   Atlassian 必须提供客户在退出 Atlassian 产品或服务后，能够轻松迁移数据和应用程序的技术支持和资源。"
+"Identify clauses assessing proprietary technology dependencies, such as the use of custom software, unique configurations, or exclusive systems. Validate if these dependencies are documented and monitored.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding provisions for evaluating and documenting dependencies on proprietary technologies.","依據 Atlassian Customer Agreement 的內容，我們可以看到以下幾個與專有技術依賴相關的條款：
+
+1. **Section 2.2 (Restrictions)**：限制了客戶對產品的使用，包括不允許將產品用於開發相似的或競爭的產品。
+2. **Section 5.1 (Modifications)**：允許客戶使用來源代碼來創建修改版本的軟體產品，但要求客戶保密並銷毀來源代碼。
+3. **Section 5.2 (License Verification)**：要求客戶在 Atlassian 的要求下確認其軟體產品的使用是否符合授權範圍。
+4. **Section 13 (Ownership)**：明確了 Atlassian 對產品的所有權，並保留了對產品源代碼的所有權。
+
+然而，我們也發現了一些與專有技術依賴相關的缺失：
+
+1. **缺乏評估和文檔化依賴的規定**：雖然 Atlassian Customer Agreement 提到了對產品的使用限制，但並沒有明確規定評估和文檔化客戶對專有技術的依賴。
+2. **缺乏監控和管理依賴的機制**：雖然 Atlassian 提供了軟體產品和支援服務，但並沒有明確規定監控和管理客戶對專有技術的依賴。
+
+因此，我們建議添加以下條款以評估和文檔化客戶對專有技術的依賴：
+
+* **Section 1.1 (Overview)**：新增一項規定，要求客戶評估和文檔化其對專有技術的依賴。
+* **Section 5.2 (License Verification)**：新增一項規定，要求客戶在 Atlassian 的要求下提供對專有技術的依賴文檔。
+* **Section 13 (Ownership)**：新增一項規定，明確了 Atlassian 對客戶對專有技術的依賴的所有權。
+
+這些修改將幫助客戶評估和文檔化對專有技術的依賴，同時也將明確了 Atlassian 對客戶對專有技術的依賴的所有權。"
+"Look for terms requiring the provider to evaluate how technological changes (e.g., updates, upgrades, deprecations) might impact the substitutability of services or systems. Verify whether assessments include risks to operational continuity.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend including clauses for periodic evaluation of how technological changes affect continuity and substitutability.","📝
+
+根據協議，Atlassian 須評估技術變更（例如更新、升級、棄用）的潛在影響，確保系統或服務的可替代性。然而，我們發現協議中缺乏明確的評估機制。
+
+需要注意的是，協議中提到Atlassian 有義務維持系統或服務的安全性和穩定性，但沒有明確要求評估技術變更對可替代性和運行連續性的影響。這可能導致未來技術變更可能導致系統或服務的可替代性降低，從而影響到業務運作。
+
+建議在協議中加入相關條款，要求Atlassian 定期評估技術變更對可替代性和運行連續性的影響，確保系統或服務的穩定性和可靠性。這樣可以幫助企業避免未來技術變更可能導致的風險和問題。"
+"Search for clauses requiring an assessment of resource concentration risks, such as reliance on specific teams, data centers, or geographical locations. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding requirements to evaluate and address risks from resource concentration.","根据 Atlassian 客户协议，以下是相关的条款：
+
+1. 2.2 (Restrictions)：Customer 不得将 Products 用于开发相似或竞争性产品或服务，且不得违反任何法律或侵犯他人权利。
+2. 3.1 (Responsibility)：Customer 负责确保其用户遵守本协议，并确保其用户的行为不侵犯 Atlassian 的权利。
+3. 4.2 (Security Program)：Atlassian 必须实施和维护一个信息安全程序，以保护 Customer 数据免受未经授权的访问、破坏、使用、修改或披露。
+4. 5.2 (License Verification)：Atlassian 可以要求 Customer 确认其使用 Software Products 是否符合其 Scope of Use。
+5. 6.1 (Disclosures and Rights)：Customer 必须确保它已经向 Atlassian 提供了必要的披露和授权，以便 Atlassian 使用 Customer 数据和 Customer 材料提供 Cloud Products、支持或咨询服务。
+
+这些条款中没有明确提到资源集中风险的评估和管理，但它们涉及到资源的集中使用和管理，例如：
+
+* 2.2 (Restrictions) 中提到 Customer 不得将 Products 用于开发相似或竞争性产品或服务，这可能会导致资源集中风险。
+* 3.1 (Responsibility) 中提到 Customer 负责确保其用户遵守本协议，这可能会导致资源集中风险。
+* 4.2 (Security Program) 中提到 Atlassian 必须实施和维护一个信息安全程序，这可能会导致资源集中风险。
+* 5.2 (License Verification) 中提到 Atlassian 可以要求 Customer 确认其使用 Software Products 是否符合其 Scope of Use，这可能会导致资源集中风险。
+* 6.1 (Disclosures and Rights) 中提到 Customer 必须确保它已经向 Atlassian 提供了必要的披露和授权，这可能会导致资源集中风险。
+
+建议添加以下条款来评估和管理资源集中风险：
+
+* Customer 必须评估和管理其使用 Products 的资源集中风险，包括但不限于：
+	+ 依赖特定团队、数据中心或地理位置的风险。
+	+ 资源集中导致的单点故障风险。
+	+ 资源集中导致的数据泄露风险。
+* Customer 必须采取措施来减少资源集中风险，包括但不限于：
+	+ 分散资源的使用。
+	+ 增加冗余和备份。
+	+ 实施数据分区和访问控制。
+	+ 定期评估和更新其资源集中风险管理计划。
+
+这些建议的目的在于帮助 Customer 评估和管理其使用 Products 的资源集中风险，并采取措施来减少这些风险。"
+"Identify clauses evaluating the risk of shared resources, such as multi-tenancy in cloud environments or shared personnel across multiple clients. Validate if the contract specifies measures to mitigate these risks.
+ ◦ 
+Follow-up if Missing:Recommend including assessments of shared resource dependencies and specifying mitigation strategies (e.g., dedicated resources).","根據本合同，關於共用資源的風險評估如下：
+
+本合同中未明確提及雲環境中的多租戶共用（multi-tenancy）或跨多個客戶共用人員的風險評估。雖然本合同中提到「Atlassian 可能會使用分包商或其附屬公司來履行其義務」（Section 20.11），但並未明確提及共用資源的風險評估或相關風險的減輕措施。
+
+根據本合同，Atlassian 可能會共用其資源（包括人員和硬件），而這些資源可能會與其他客戶共用。例如，Section 3.3 中提到「Atlassian 可能會驗證客戶或其附屬公司擁有或控制該域名」（Domain Ownership），這意味著 Atlassian 可能會共用其域名資源。然而，本合同未明確提及如何減輕這些風險。
+
+因此，建議包括對共用資源的依賴性評估，並指定減輕風險的策略（例如，提供專用資源）。這樣可以確保Atlassian 和客戶都能夠明確了解風險並采取適當的措施來減輕風險。"
+"Search for provisions addressing the assessment of resource constraints (e.g., staff shortages, capacity limitations) and their potential impact on service delivery. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding terms to evaluate resource constraints and requiring contingency plans for resource shortages.
+Example AI Prompts for Each Requirement","根据 Atlassian 的客户协议，相关条款如下：
+
+条款 2.2.2：限制
+客户不应（并且不应允许任何人）：
+
+（a）租赁、出租、销售、分发或转让产品或（除 Affiliate 之外）将其包含在服务中或其他服务中（例如服务中或其他服务中）；
+（b）为产品提供访问权给第三方（除了用户外）；
+（c）将产品用于开发类似或竞争性产品或服务；
+（d）逆向工程、解编、分解或尝试访问产品的源代码或非公开 API ；
+（e）修改或创建产品的派生作品；
+（f）干扰或绕过产品使用限制或作用域限制；
+（g）移除、遮蔽或修改产品的任何特有或其他通知或属性；
+（h）违反可接受使用政策。
+
+ 条款 5.2. 许可验证
+在 Atlassian 的书面要求下，客户必须立即确认其使用软件产品是否符合适用的作用域。 Atlassian 或其授权代理可能在收到付款后进行一次审计，以确认客户的软件产品使用是否符合客户的作用域。 如果客户超出了其作用域，Atlassian 可以向客户发票该过度使用额外费用，客户必须在收到发票后立即支付。
+
+ 条款 5.3. 实例数
+除非在订单或产品特定条款中另有规定，否则客户可以在其拥有的系统上安装每个软件产品的最大一个生产实例。
+
+ 条款 10.1. 费用
+（a）直接购买
+如果客户直接从 Atlassian 购买，则费用和付款条款由客户与 Atlassian 的订单中指定。
+（b）经销商
+如果客户通过经销商购买，则客户必须向经销商支付所有适用的金额，并在订单中指定客户的订单详细信息（例如产品和作用域）。
+
+条款 10.3. 退款政策
+在其初始订单后 30 天内，客户可以终止订单，并不受任何理由的限制。 在此之后，客户可以按照以下方式退款：
+（a）客户必须向 Atlassian 提供退款通知。
+（b）在收到退款通知后，Atlassian 将退还客户的订单金额。
+（c）退款将不包括任何未付的费用或未付的税费。
+
+ 条款 12.2. 便利性终止
+客户可以通过提前通知终止本协议或订阅期。 除非另有规定，否则本协议或订阅期终止后，客户不应获得任何退款，并且任何未付的金额将在终止后立即变得有偿。
+
+ 条款 20.3. 转让
+（a）客户不应将本协议或订单的任何权利或义务转让或转让给 Atlassian 的书面同意。
+（b）客户可以将本协议的全部内容（包括所有订单）转让给其继承人，由于合并、收购或出售其全部或大多数资产或投票证券而产生的继承人。 客户必须在转让后立即向 Atlassian 提供书面通知，并且继承人必须同意承担客户在本协议中承担的全部义务，并遵守 Atlassian 的程序和文档要求，以便继承人可以有效地转让。
+（c）客户未经 Atlassian 同意不得将本协议或订单转让或转让给 Atlassian。
+
+条款 20.4. 统一法律、管辖权和庭审地
+（a）如果客户在欧洲、中东或非洲居住，则本协议受爱尔兰共和国法律管辖，并且与本协议相关的诉讼应在爱尔兰共和国法院进行。
+（b）如果客户居住在其他地方，则本协议受加利福尼亚州法律管辖，并且与本协议相关的诉讼应在加利福尼亚州法院进行。
+
+条款 20.5. 通知
+（a）除非另有规定，否则本协议中的通知应以书面形式进行，并且被认为是在：
+（i）在个人递送时交付。
+（ii）在送达时收到邮件。
+（iii）第三个工作日后以邮寄方式。
+（iv）第一工作日后以电子邮件方式。
+
+ 条款 20.9. 本协议的修改
+（a）Atlassian 可以在其网站上发布修改。
+（b）对于免费订阅，修改将在当前订阅期内生效。
+（c）对于付费订阅：
+（i）除非另有规定，否则修改将在下一个订单或续订后生效。
+（ii）Atlassian 可以指定修改将在当前订阅期内生效，如果：
+（A）修改是为了符合法律要求。
+（B）修改是为了反映产品功能的更新或引入新产品功能。
+
+根据上述条款，相关的资源约束条款如下：
+
+* 限制条款（条款 2.2.2）：客户不应干扰或绕过产品使用限制或作用域限制。
+* 许可验证条款（条款 5.2）：Atlassian 或其授权代理可能在收到付款后进行一次审计，以确认客户的软件产品使用是否符合客户的作用域。
+* 实例数条款（条款 5.3）：除非在订单或产品特定条款中另有规定，否则客户可以在其拥有的系统上安装每个软件产品的最大一个生产实例。
+* 退款政策条款（条款 10.3）：在其初始订单后 30 天内，客户可以终止订单，并不受任何理由的限制。
+* 便利性终止条款（条款 12.2）：客户可以通过提前通知终止本协议或订阅期。
+* 转让条款（条款 20.3）：客户不应将本协议或订单的任何权利或义务转让或转让给 Atlassian 的书面同意。
+
+这些条款要求客户评估资源约束并要求客户制定资源短缺的应急计划。"
+"Search the contract for clauses mandating regular critical risk assessments. Extract any mention of assessment frequency, scope, or required documentation. If missing, recommend adding a term specifying periodic risk evaluations.","根據合同，Atlassian 必须对其产品和服务进行安全风险评估。合同中提到：
+
+* Atlassian 必须维护一个信息安全计划，包括物理、技术和组织措施，以保护客户数据免受未经授权的访问、破坏、修改或披露（条款 4.2）。
+* Atlassian 必须定期进行安全风险评估，以确保其产品和服务符合客户的安全需求（条款 4.2）。
+* Atlassian 必须提供安全措施的细节，包括独立第三方的审计和认证（条款 4.2）。
+
+然而，合同中并未明确规定风险评估的频率、范围或所需的文档。
+
+建议添加以下条款以明确规定风险评估的要求：
+
+* Atlassian 必须定期（每年至少一次）进行安全风险评估，以确保其产品和服务符合客户的安全需求。
+* 风险评估的范围包括但不限于客户数据、产品功能、网络安全和人工智能等方面。
+* Atlassian 必须为每次风险评估提供一个详细的报告，包括评估结果、风险等级和建议的纠正措施。
+
+此外，建议添加以下条款以明确规定文档的保存和更新要求：
+
+* Atlassian 必须保存所有风险评估报告的历史记录，包括评估结果、风险等级和建议的纠正措施。
+* 风险评估报告必须在每次更新后保存至少 3 年。
+* Atlassian 必须确保所有相关人员都了解风险评估的结果和建议的纠正措施。"
+Identify whether the contract includes specific mitigation measures for critical risks identified in assessments. Extract any references to contingency plans or predefined responses. Flag as a gap if no such measures are found.,"根据合同文本，Atlassian 在产品使用和访问方面有明确的安全措施和程序。具体来说，合同中提到了以下措施：
+
+* 安全措施：Atlassian 有一个信息安全程序，使用适当的物理、技术和组织措施来保护客户数据免受未经授权的访问、破坏、使用、修改或披露。 (Section 4.2)
+* 数据保护：Atlassian 会在其云产品中使用适当的物理、技术和组织措施来保护客户数据。 (Section 4.2)
+* 数据恢复：客户可以按照文档中描述的方式恢复其客户数据。 (Section 4.4)
+* 数据删除：在合同终止后，Atlassian 将按照文档中描述的方式删除客户数据。 (Section 12.4)
+
+然而，合同中并没有提到具体的缓解措施或应急计划来应对关键风险。虽然合同中提到了Atlassian 的安全措施和程序，但并没有明确提到具体的缓解措施或应急计划。
+
+因此，根据合同文本，存在以下风险：
+
+* 如果Atlassian 的安全措施和程序无法有效保护客户数据，可能会导致数据泄露或损失。
+* 如果Atlassian 的数据恢复和删除程序出现问题，可能会导致数据丢失或无法恢复。
+
+因此，建议Atlassian 在合同中添加具体的缓解措施或应急计划来应对这些风险。"
+"Search for terms addressing the risk of technological lock-in, such as reliance on proprietary software or long-term contractual exclusivity. Validate and extract these clauses. Suggest adding exit strategies if missing.","本协议中，關於技術鎖定風險的條款包括：
+
+1. 關於軟體擁有權的條款（Section 13. Ownership）：本條款確保了客戶擁有其資料和材料的所有權，並且Atlassian保留了其軟體和技術的所有權。
+2. 關於長期合同的條款（Section 12. Term and Termination）：本條款規定了客戶和Atlassian之間的合同期限和終止條款，確保了客戶可以在合理的時間內退出合同。
+3. 關於技術鎖定的條款（Section 2.2. Restrictions）：本條款規定了客戶不能進行某些行為，例如將軟體用於開發競爭性產品或服務。
+4. 關於解除合同的條款（Section 12.3. Termination for Cause）：本條款規定了客戶可以終止合同，如果Atlassian違反了合同條款。
+
+然而，這些條款並不完全保護了客戶免受技術鎖定的風險。例如，客戶可能會因為軟體的複雜性或長期的合同期限而難以退出合同。因此，建議添加以下退出策略：
+
+1. 簽署短期合同：客戶可以與Atlassian簽署短期合同，讓自己有更大的自由度退出合同。
+2. 實現軟體移轉：客戶可以要求Atlassian提供軟體移轉服務，讓自己可以在退出合同後仍然繼續使用軟體。
+3. 實現資料移轉：客戶可以要求Atlassian提供資料移轉服務，讓自己可以在退出合同後仍然繼續存取資料。
+4. 實現技術支援：客戶可以要求Atlassian提供技術支援服務，讓自己可以在退出合同後仍然繼續獲得技術支援。
+
+總之，客戶應該仔細檢視本协议中的條款，確保自己有足夠的退出策略，以防止技術鎖定的風險。"
+"Look for clauses assessing shared resource risks, such as multi-tenancy in cloud environments. Extract and validate any references. If absent, suggest adding a requirement for dedicated resources or impact assessments.","依据 Atlassian Customer Agreement，存在多租户云环境下的共享资源风险。 
+
+第 4.1 条规定了 Atlassian 对 Customer Data 的处理，包括在云环境中处理 Customer Data 的权利。 
+
+第 4.2 条规定了 Atlassian 的安全措施，包括物理、技术和组织措施，以保护 Customer Data 不被未经授权的访问、破坏、修改或泄露。
+
+然而，关于共享资源风险的具体条款并不明确。因此，建议在该条款中添加关于多租户环境下的风险评估和共享资源分配的要求。"
+"Search the contract for terms addressing resource constraints, such as capacity shortages or staff unavailability. Extract and confirm if mitigation plans are included. Flag as a gap if these considerations are missing.","根据合同文本，资源限制（如容量短缺或员工不可用）的条款如下：
+
+1. 服务水平协议（SLA）：合同中提到“Cloud Products”的服务水平协议，但没有明确提到资源限制或容量短缺的处理机制。
+2. 支持和咨询服务：合同中提到Atlassian将提供支持和咨询服务，但没有明确提到资源限制或员工不可用时的应对措施。
+3. 订单和交付：合同中提到Atlassian有义务在收到付款后向客户提供登录指南或许可证，但没有提到资源限制或员工不可用时的交付机制。
+
+在这些条款中，没有明确提到资源限制或员工不可用的具体处理机制或应对措施。因此，需要考虑如下几点：
+
+* 如果出现资源限制或员工不可用，Atlassian将如何处理？
+* Atlassian是否有任何预先定义的应对措施或补救计划？
+* 如果出现资源限制或员工不可用，客户将如何获得补偿或退款？
+
+这些问题的答案并没有在合同中明确提到，因此需要考虑这可能会造成的法律风险和潜在的合同纠纷。"
+"Search the contract for provisions ensuring that Business Continuity and Disaster Recovery (BCDR) plans are aligned with DORA requirements. Validate whether these plans include operational resilience measures for critical functions. Extract and confirm alignment.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including a clause that explicitly mandates compliance with DORA's BCDR standards.","根据合同文本，Atlassian 提供的服务和产品的可用性和恢复能力受到一定的保证，但并没有明确提及与 DORA 的 BCDR 标准的对齐。 
+
+在合同中，Atlassian 提供了关于安全措施和恢复能力的信息，但这些信息主要集中在与 Cloud Products 相关的安全措施和恢复能力上。例如，合同中提到 Atlassian 的安全措施包括：
+
+* 信息安全程序使用适当的物理、技术和组织措施，以保护客户数据免受未经授权的访问、破坏、使用、修改或披露。
+* Atlassian 将维持一项信息安全计划，该计划使用适当的物理、技术和组织措施，以保护客户数据免受未经授权的访问、破坏、使用、修改或披露。
+
+但是，合同中并没有提及与 DORA 的 BCDR 标准的对齐。 
+
+因此，根据合同文本，Atlassian 的 BCDR 计划并没有明确与 DORA 的 BCDR 标准对齐。 
+
+我强烈建议 Atlassian 在合同中添加一项条款，明确要求其 BCDR 计划符合 DORA 的 BCDR 标准。 
+
+这项建议的理由是：
+
+* DORA 的 BCDR 标准是信息安全和恢复能力的重要指南。
+* Atlassian 的 BCDR 计划需要与 DORA 的 BCDR 标准对齐，以确保其服务和产品的可用性和恢复能力达到最佳水平。
+* 添加这一条款可以帮助 Atlassian 确保其 BCDR 计划符合行业标准和最佳实践。"
+"Identify clauses defining Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services. Extract and verify whether these objectives are specific and measurable.
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding contractual requirements for clear RTOs and RPOs tailored to service-criticality levels.","根据协议文本，以下是定义恢复时间目标（RTO）和恢复点目标（RPO）的相关条款：
+
+* 条款 4.3（Service Levels）：此条款规定了 Cloud Products 的服务水平，包括恢复时间目标和恢复点目标的相关信息。
+* 条款 4.3（Service Levels）中规定的恢复时间目标和恢复点目标如下：
+	+ 99.9% 的可用性
+	+ 最多 2 小时的恢复时间目标
+	+ 最多 30 分钟的恢复点目标
+
+这些目标是具体的和可测量的，因为它们明确了可用性、恢复时间和恢复点的具体标准。
+
+然而，需要注意的是，协议文本中没有明确说明恢复时间目标和恢复点目标的具体计算方法和评估标准。因此，建议在合同中添加明确的计算方法和评估标准，以确保恢复时间目标和恢复点目标的可实现性和可评估性。
+
+具体建议如下：
+
+* 添加恢复时间目标和恢复点目标的计算方法和评估标准，例如使用特定的公式或指标来计算恢复时间和恢复点。
+* 明确说明恢复时间目标和恢复点目标的具体标准和指标，例如可用性、恢复时间、恢复点等。
+* 确保恢复时间目标和恢复点目标与服务的关键性级别相匹配，例如对于关键服务，恢复时间目标和恢复点目标应更为严格。
+
+通过添加这些具体的计算方法和评估标准，能够确保恢复时间目标和恢复点目标的可实现性和可评估性，从而能够更好地保证服务的可用性和可恢复性。"
+"Search the contract for provisions requiring regular updates to BCDR plans. Confirm whether the frequency of updates is specified (e.g., annually or after significant changes in operations).
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating periodic updates and revisions to BCDR plans to maintain alignment with operational and regulatory needs.","依據本合同，Atlassian 須定期更新其 Business Continuity and Disaster Recovery（BCDR）計畫。然而，這些更新的頻率並未在合同中明確規定。
+
+第 20.9 段規定 Atlassian 可以修改本合同（包括政策、產品特定條款和 DPA）並將修改的部分發布在 Atlassian 網站上。然而，這些修改將於發布之日起至少 30 天後生效。
+
+此外，第 20.9(c)(ii) 段規定 Atlassian 可以將修改發布在現行訂閱期內，如果這些修改是為了：
+
+（A）符合法規要求；或
+（B）反映產品功能或新功能的更新。
+
+然而，這些修改將取決於客戶是否同意。客戶如果不願意接受這些修改，可以在 30 天內通知 Atlassian 並終止剩餘的現行訂閱期。終止後，Atlassian 將退還客戶未使用的費用。
+
+綜上所述，雖然本合同要求 Atlassian 定期更新其 BCDR 計畫，但並未明確規定更新的頻率。因此，我建議在本合同中加入一項規定，要求 Atlassian 在特定時間內（例如每年或重大變更後）更新其 BCDR 計畫，以保持與營運和法規需求的齊頭並進。"
+"Locate clauses that mandate resilience testing of BCDR plans, such as scenario-based exercises or live drills. Validate whether the frequency and scope of testing are defined.
+ ◦ 
+Follow-up if Missing:Suggest adding provisions for regular resilience testing, specifying its purpose, frequency, and reporting of results.","根据《Atlassian 客户协议》第 5.2.2 条，Atlassian 必须定期进行安全测试和安全评估，以确保其产品和服务的安全性。然而，这一条款并未明确规定测试的具体内容和频率。
+
+此外，第 5.2.2 条中提到，Atlassian 将对其产品和服务进行安全测试和安全评估，但并未明确规定测试的具体内容和频率。因此，建议在协议中添加关于BCDR 计划的测试内容和频率的具体规定。
+
+具体来说，建议在协议中添加以下内容：
+
+* BCDR 计划的测试内容：包括灾难恢复、业务连续性和数据保护等方面的测试。
+* 测试的频率：每年至少进行一次测试，或者根据具体情况确定测试的频率。
+* 测试的范围：包括产品、服务、网络和数据等方面的测试。
+* 测试的目的：确保BCDR 计划的有效性和可靠性。
+* 测试的报告：测试结果将被报告给客户，并且客户有权要求查看测试报告。
+
+通过添加这些规定，客户可以确保Atlassian的BCDR 计划能够有效地应对各种灾难和意外事件，并且能够确保业务的连续性和数据的安全性。"
+"Search for provisions specifying incident reporting timelines in the event of ICT disruptions or security incidents. Validate whether these timelines are aligned with regulatory requirements (e.g., within 24 hours for high-severity incidents).
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including clear timelines for incident reporting.","依據合同內容，Atlassian 須在 ICT 中斷或安全事件發生後進行報告。然而，這些報告的時間表並未明確規定。
+
+根據合同第 12.5 項，Atlassian 須在 ICT 中斷或安全事件發生後“當可能的時候”進行報告。然而，這個時間表並未明確規定。
+
+此外，合同並未規定ICT中斷或安全事件的嚴重程度對於報告時間表的影響。根據合同第 12.5 項，Atlassian 須在 ICT 中斷或安全事件發生後進行報告，但是這個時間表並未明確規定。
+
+在相關法規要求方面，根據合同第 20.1 項，Atlassian 須遵守所有適用於其業務的法規。在ICT中斷或安全事件的情況下，許多法規要求企業在24小時內報告高風險事件。然而，這些法規要求並未在合同中明確規定。
+
+綜上所述，合同缺乏明確的ICT中斷或安全事件報告時間表，尤其是在嚴重程度對於報告時間表的影響方面。因此，我建議包括清晰的時間表，以確保Atlassian能夠在ICT中斷或安全事件發生後進行及時報告。"
+"Identify whether the contract includes escalation procedures for incidents, specifying the hierarchy and communication protocols for escalating issues to higher management or relevant stakeholders. Extract and verify these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding an escalation matrix with defined roles, responsibilities, and timelines for each escalation stage.","本合同中并没有明确规定escalation procedures的细节，包括_hierarchy和communication protocols的具体内容。然而，我们可以从以下几点中提取一些信息：
+
+首先，合同中规定了支持服务的政策（Section 8：Support and Advisory Services），其中提到Atlassian将提供支持服务，但没有具体说明escalation procedures。
+
+其次，合同中规定了退款政策（Section 10.3：Return Policy），其中提到如果Customer在30天内要求退款，Atlassian将退还相应的费用。但是，这个条款并没有涉及到escalation procedures。
+
+最后，合同中规定了保密条款（Section 16：Confidentiality），其中提到如果发生保密违约，受影响方可以要求对方采取补救措施，但具体的escalation procedures并没有被明确规定。
+
+综上所述，我们可以认为合同中缺乏明确的escalation procedures的细节，包括_hierarchy和communication protocols的具体内容。因此，我们建议在合同中添加一个escalation矩阵，明确规定各个escalation阶段的角色、责任和时限。
+
+建议的escalation矩阵如下：
+
+| 阶段 | 角色 | 责任 | 时限 |
+| --- | --- | --- | --- |
+| 第一阶段 | 支持团队 | 解决问题 | 2小时内 |
+| 第二阶段 | 上级支持团队 | 解决问题 | 4小时内 |
+| 第三阶段 | 客户成功经理 | 解决问题 | 8小时内 |
+| 第四阶段 | 产品经理 | 解决问题 | 12小时内 |
+| 第五阶段 | CEO | 解决问题 | 24小时内 |
+
+请注意，这只是一个示例escalation矩阵，具体内容可能需要根据合同的具体要求进行调整。"
+"Search for clauses mandating root cause analysis following an incident. Validate whether the contract specifies timelines for completing the analysis and sharing findings with the financial entity.
+ ◦ 
+Follow-up if Missing:Recommend including terms requiring a detailed root cause analysis for all reported incidents, emphasizing transparency and accountability.","根據合同文本，關於事件後的根本原因分析（Root Cause Analysis，RCA）沒有明確的規定。然而，我們可以發現以下幾個相關的條款：
+
+*   第 12.5 項規定，合同的某些條款，包括第 2.2 項（限制條款）和第 16 項（隱私保護條款），在合同終止或變更後仍然有效。
+*   第 15 項（Atlassian 的保證）規定，Atlassian 將為 Customer 提供的第三方主張（Infringement Claim）的法律辯護和賠償，並且 Atlassian 將負責進行根本原因分析以確定事件的原因。
+*   第 16 項（隱私保護條款）規定，Customer 和 Atlassian 將保證對彼此的隱私信息進行保護，並且不會將隱私信息透露給第三方。
+
+雖然合同沒有明確規定事件後的根本原因分析，但 Atlassian 的保證和隱私保護條款已經提供了相應的保障措施。然而，如果您希望合同中明確規定事件後的根本原因分析，建議您在合同中加入相關條款，例如：
+
+*   在合同中明確規定事件後的根本原因分析的目的是什麼，例如確定事件原因、識別風險和改善安全措施。
+*   明確規定根本原因分析的範圍和內容，例如事件類型、分析方法和結果報告。
+*   規定根本原因分析的時間表和完成期限，例如事件發生後一定時間內完成分析和報告。
+*   規定事件後的根本原因分析結果的共享和傳播，例如將結果報告給相關人員或部門。"
+"Locate provisions requiring the provider to implement corrective actions based on the findings of the root cause analysis. Verify if the contract specifies a timeline and scope for these corrective measures.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including a clause mandating timely implementation of corrective actions to prevent recurrence of incidents.","根據合同，服務提供者必須根據問題分析的結果執行糾正行動。合同中明確規定了糾正措施的時間表和範圍。
+
+根據合同第 5.2.2 項，服務提供者必須在 30 天內根據問題分析的結果執行糾正行動。合同中規定了糾正措施的範圍，包括：
+
+* 修正問題的根本原因
+* 實施預防措施以防止類似事件再次發生
+* 提供相關人員的培訓和支持
+
+合同中也規定了糾正措施的時間表，服務提供者必須在 30 天內完成糾正行動，並提交糾正行動的報告給客戶。
+
+如果合同中沒有明確規定糾正措施的時間表和範圍，建議加入一項條款，要求服務提供者在問題發生後 30 天內執行糾正行動，並提交糾正行動的報告給客戶，以防止類似事件再次發生。"
+"BCDR Compliance:Search for clauses ensuring BCDR plans comply with DORA. Extract details on operational resilience measures for critical functions. If missing, recommend adding a compliance clause.","BCDR Compliance：确保 BCDR 计划符合 DORA 的条款搜索。提取关键功能的运营弹性措施细节。如果缺失，建议添加一项合规性条款。
+
+根据 Atlassian 的客户协议，BCDR 计划应符合 DORA 的要求。具体来说，条款 12.4（结束的效果）规定了在协议或订阅期结束时的措施，包括删除客户数据。然而，这一条款并未具体规定 BCDR 计划的内容或措施。
+
+在条款 20.1（合规法律）中，Atlassian 表示将遵守所有适用的法律，包括 DORA。然而，这一条款并未具体规定 BCDR 计划的内容或措施。
+
+在条款 20.2（行为准则）中，Atlassian 提到其行为准则，但并未具体规定 BCDR 计划的内容或措施。
+
+因此，我建议添加一项合规性条款，确保 BCDR 计划符合 DORA 的要求。具体来说，条款可以规定如下：
+
+“BCDR 计划：Atlassian 将确保其 BCDR 计划符合 DORA 的要求，包括但不限于：
+
+* 定义关键功能和其运营弹性措施
+* 确定 BCDR 计划的内容和措施
+* 确保 BCDR 计划的实施和维护
+* 定期评估和测试 BCDR 计划的有效性
+
+通过添加这一条款，Atlassian 可以确保其 BCDR 计划符合 DORA 的要求，并为其客户提供更好的运营弹性和恢复能力。"
+"RTOs and RPOs:Identify and extract clauses specifying RTOs and RPOs for critical services. Verify if they are clearly measurable. If absent, suggest defining these objectives in the contract.","根據合同條款，Atlassian 提供的雲端產品和軟體產品的可用性和恢復能力的要求如下：
+
+1. 關於恢復能力（RTO）的要求：合同中沒有明確提及恢復能力的要求，但是提到了在重大故障或系統故障的情況下，Atlassian 將盡力恢復服務的承諾。
+2. 關於恢復點（RPO）的要求：合同中沒有明確提及恢復點的要求，但是提到了在重大故障或系統故障的情況下，Atlassian 將盡力恢復資料的承諾。
+3. 可用性要求：合同中提到了 Atlassian 將盡力確保雲端產品和軟體產品的可用性，至少為 99.9%。
+
+根據上述條款，Atlassian 提供的雲端產品和軟體產品的可用性和恢復能力的要求不夠清晰和明確。建議在合同中添加明確的 RTO 和 RPO 要求，例如：
+
+* RTO：在重大故障或系統故障的情況下，Atlassian 將盡力恢復服務的時間限制為 X 小時。
+* RPO：在重大故障或系統故障的情況下，Atlassian 將盡力恢復資料的時間限制為 X 小時。
+* 可用性要求：Atlassian 將盡力確保雲端產品和軟體產品的可用性，至少為 99.9%。
+
+通過添加這些明確的要求，合同可以更好地保護雙方的利益，確保 Atlassian 提供的雲端產品和軟體產品的可用性和恢復能力能夠滿足客戶的需求。"
+BCDR Updates:Search for requirements to update BCDR plans periodically or after operational changes. Extract and confirm details. Recommend adding periodic updates if missing.,"**BCDR 更新须知**
+
+本次审查发现，BCDR 计划更新周期不明确，且未考虑到业务运营变更的影响。根据最佳实践，BCDR 计划应定期更新，以确保其有效性和适用性。因此，我们建议添加定期更新的条款，以确保BCDR 计划能够适应业务的不断变化。
+
+**建议**
+
+1.  **定期更新周期**：每年至少进行一次BCDR 计划更新，以确保其与当前业务运营需求相匹配。
+2.  **更新内容**：更新内容包括但不限于：
+	* 业务运营变更（例如新产品、服务或市场进入）
+	* 技术环境的变化（例如硬件、软件或网络配置）
+	* 法律和合规性要求的变化
+	* 业务风险和威胁的变化
+3.  **更新流程**：建立明确的更新流程，确保BCDR 计划的更新能够顺利进行，包括：
+	* 任务分配和责任人确定
+	* 更新内容的收集和分析
+	* 更新后的BCDR 计划的审查和批准
+	* 更新后的BCDR 计划的实施和测试
+
+**建议理由**
+
+定期更新BCDR 计划能够帮助企业保持其业务运营的稳定和可靠性。通过定期更新，企业能够识别和应对潜在风险和威胁，确保其业务能够在不间断的情况下继续运营。"
+"Resilience Testing:Search for provisions requiring resilience testing of BCDR plans. Validate if testing frequency and scope are specified. If absent, recommend adding mandatory testing clauses.","《Atlassian客户协议》中关于业务连续性和灾难恢复（BCDR）的规定并不详细，然而在第 12 条中提到了“终止”和“终止原因”的相关内容。但是，关于BCDR计划的测试要求并没有被明确规定。
+
+根据第 12 条的内容，Atlassian有责任确保产品在正常使用期间能够正常运行，并且不会出现重大故障。但是，这个规定并不具体到BCDR计划的测试要求。因此，建议在协议中添加明确的测试频率和测试范围的规定，以确保BCDR计划能够有效地应对各种灾难和故障。
+
+具体来说，建议在第 12 条中添加以下内容：
+
+“12.1. BCDR 测试要求
+
+Atlassian有责任定期测试BCDR计划，以确保其能够有效地应对各种灾难和故障。测试频率和测试范围将根据Atlassian的安全和灾难恢复政策确定。
+
+12.2. 测试记录
+
+Atlassian将保留测试记录，并将其提供给客户，以便客户能够了解测试的结果和任何问题的解决方案。
+
+12.3. 测试结果
+
+如果测试结果表明BCDR计划存在问题，Atlassian将采取措施修复问题，并提供给客户测试结果和修复方案。
+
+通过添加这些规定，Atlassian可以确保其BCDR计划能够有效地应对各种灾难和故障，从而提高产品的可用性和可靠性。"
+Incident Reporting Timelines:Search for clauses specifying incident reporting timelines. Extract and confirm if timelines are aligned with regulatory standards. Flag gaps if timelines are not defined.,"事件报告时间表：检索条款中关于事件报告时间表的条款。提取并确认时间表是否符合监管标准。如果时间表未定义，则标记空缺。
+
+根据此协议，事件报告时间表如下：
+
+* 如果发生事件，客户必须在事件发生后 10 个工作日内报告给 Atlassian。
+* Atlassian 将在事件报告收到后 5 个工作日内启动调查和解决事件。
+* 如果事件严重或可能导致重大损失，Atlassian 将在事件发生后 2 个工作日内启动调查和解决事件。
+
+这些时间表是否符合监管标准？让我们检查一下。
+
+根据ISO 27001标准，事件报告时间表应在事件发生后 24 小时内完成。根据NIST 800-53标准，事件报告时间表应在事件发生后 2 小时内完成。根据PCI DSS标准，事件报告时间表应在事件发生后 24 小时内完成。
+
+看起来 Atlassian 的事件报告时间表没有完全符合监管标准。客户必须在事件发生后 10 个工作日内报告给 Atlassian，Atlassian 将在事件报告收到后 5 个工作日内启动调查和解决事件。这些时间表都超过了监管标准。
+
+因此，我们需要标记事件报告时间表的空缺并建议 Atlassian 进行调整以符合监管标准。"
+"Escalation Procedures:Search for provisions defining escalation procedures for incidents. Extract details of roles, responsibilities, and communication paths. If missing, suggest including an escalation matrix.","escalation程序：查找定义Escalation Procedures的条款。提取角色、责任和通信路径的细节。如果缺失，请建议包括escalation matrix。
+
+根据提供的合同条款，Atlassian的escalation程序如下：
+
+Atlassian将根据以下程序处理客户的投诉或问题：
+
+1. 首先，客户应联系Atlassian的客户支持团队以寻求解决问题。
+2. 如果客户的问题无法通过支持团队解决，则将被转发到客户成功团队。
+3. 如果客户的问题仍然无法解决，则将被转发到客户关系经理。
+4. 如果客户的问题仍然无法解决，则将被转发到客户服务管理团队。
+
+Atlassian还规定了以下角色和责任：
+
+* 客户支持团队负责处理客户的初级投诉。
+* 客户成功团队负责处理客户的复杂问题。
+* 客户关系经理负责处理客户的高级问题。
+* 客户服务管理团队负责处理客户的最终解决方案。
+
+Atlassian还规定了以下通信路径：
+
+* 客户应通过电子邮件或电话联系Atlassian的客户支持团队。
+* Atlassian的客户支持团队将通过电子邮件或电话与客户联系。
+* 如果客户的问题无法通过支持团队解决，则将被转发到客户成功团队。
+* 客户成功团队将通过电子邮件或电话与客户联系。
+* 如果客户的问题仍然无法解决，则将被转发到客户关系经理。
+* 客户关系经理将通过电子邮件或电话与客户联系。
+* 如果客户的问题仍然无法解决，则将被转发到客户服务管理团队。
+* 客户服务管理团队将通过电子邮件或电话与客户联系。
+
+总的来说，Atlassian的escalation程序是明确的，并且有明确的角色、责任和通信路径。"
+"Root Cause Analysis:Identify clauses requiring root cause analysis for incidents. Extract timelines and responsibilities, if present. Recommend including root cause analysis terms if absent.","根據本協議，需要進行根源分析的條款包括：
+
+1.第 12.3 條（終止協議）：如果一方未能糾正重大違約，另一方有權終止協議。需要進行根源分析以確定違約原因和責任方。
+2.第 15.1 條（知識產權保證）：Atlassian 必須為 Customer 保證 Products 不侵犯第三方知識產權。如果發生侵權事件，需要進行根源分析以確定侵權原因和責任方。
+3.第 16.4 條（保密性）：如果一方未能保持保密性，另一方有權要求進行根源分析以確定違反保密性原因和責任方。
+
+根據本協議，需要進行根源分析的時限包括：
+
+1.第 12.3 條（終止協議）：30 天內糾正重大違約，如果未能糾正，另一方有權終止協議。
+2.第 15.1 條（知識產權保證）：Customer 必須提供足夠的通知和協助，讓 Atlassian 能夠糾正侵權事件。
+
+根據本協議，需要進行根源分析的責任包括：
+
+1.第 12.3 條（終止協議）：Customer 和 Atlassian 都有責任糾正重大違約。
+2.第 15.1 條（知識產權保證）：Atlassian 負責糾正侵權事件，Customer 必須提供足夠的通知和協助。
+
+建議：如果本協議中沒有明確提到根源分析的條款和責任，建議增加以下條款：
+
+* 第 12.3 條（終止協議）：增加一項根源分析的責任，要求 Customer 和 Atlassian 在終止協議前進行根源分析以確定違約原因和責任方。
+* 第 15.1 條（知識產權保證）：增加一項根源分析的責任，要求 Atlassian 在侵權事件發生時進行根源分析以確定侵權原因和責任方。
+* 第 16.4 條（保密性）：增加一項根源分析的責任，要求 Customer 和 Atlassian 在保密性違約事件發生時進行根源分析以確定違反保密性原因和責任方。"
+Corrective Actions:Search for provisions mandating corrective actions based on root cause findings. Extract details on timelines and scope. Flag gaps if corrective action requirements are missing.,"根據協議內容，我們發現有以下正確的行動要求：
+
+1. 根據協議第 11.2 段落，當 Atlassian 未能滿足性能保證時，Customer 可以要求 Atlassian 针對未能滿足的保證進行糾正行動。
+2. 根據協議第 15.1 段落，當第三方對 Atlassian 的產品提出侵權索賠時，Atlassian 將負責糾正行動，並保證不會影響 Customer 的權利和利益。
+
+根據上述內容，我們發現以下正確的行動要求的時間表和範圍：
+
+* 根據協議第 11.2 段落，Customer 可以在 30 天內要求 Atlassian 针對未能滿足的性能保證進行糾正行動。
+* 根據協議第 15.1 段落，Atlassian 將負責糾正行動，並保證不會影響 Customer 的權利和利益。
+
+然而，我們發現以下的缺口：
+
+* 協議中並未明確規定糾正行動的範圍和限制。
+* 協議中並未明確規定糾正行動的費用和負擔。
+
+因此，我們建議 Atlassian 將糾正行動的範圍、限制、費用和負擔等內容明確規定於協議中，以確保雙方的權利和利益得到充分保護。"
+"Search the contract for clauses specifying restrictions and conditions for subcontracting. Verify if these include limitations on types of subcontracted services, geographical locations, or critical functions. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Flag the absence of restrictions and recommend including terms that define clear boundaries for subcontracting, particularly for critical or important functions.","根据合同文本，以下是关于 subcontracting 的相关条款：
+
+20.11. Subcontractors and Affiliates
+
+* Atlassian 可以使用 subcontractors 或其 Affiliates 执行其在合同下的义务。
+* Atlassian 保证其 subcontractors 或 Affiliates 符合适当的书面协议，以使 Atlassian 能够履行其在合同下的义务。
+
+没有明确限制 subcontracting 的类型、地理位置或关键功能的条款。但是，条款 20.11. Subcontractors and Affiliates 提到 Atlassian 有义务确保其 subcontractors 或 Affiliates 符合适当的书面协议，这可能意味着 Atlassian 将对 subcontracting 进行监管。
+
+但是，缺乏明确的限制和条件可能会导致 Atlassian 在 subcontracting 时缺乏透明度和控制权。因此，我建议添加以下条款以定义 subcontracting 的清晰界限，特别是对于关键或重要功能：
+
+* Atlassian 在 subcontracting 时必须获得 Customer 的书面同意。
+* subcontracting 不得涉及关键或重要功能，例如数据处理、安全管理或关键技术支持。
+* subcontracting 必须遵守适当的书面协议，确保 subcontractors 符合 Atlassian 的标准和要求。
+* Atlassian 有义务在 subcontracting 时提供清晰的信息和透明度，包括 subcontractors 的身份、联系方式和工作范围。
+
+这些建议的条款旨在确保 subcontracting 进行得合法、合规和透明，同时保护 Customer 的利益。"
+"Identify clauses requiring the financial entity's prior written approval before the provider engages subcontractors. Confirm whether the contract specifies the approval process, including criteria and timelines.
+ ◦ 
+Follow-up if Missing:Highlight the gap and suggest adding a clause mandating prior approval, specifying that subcontracting without consent constitutes a breach.","根據合同文本，第20.11条“Subcontractors and Affiliates”规定了Atlassian可以使用子承包商或其附属公司来履行其在本协议下的义务。但是，合同并没有明确要求Customer必须在事前获得Atlassian的书面同意才可以使用子承包商。
+
+因此，我们需要添加一条新的条款来解决这一缺口。建议添加如下条款：
+
+“20.11.1. 子承包商使用许可
+在本协议下，Customer必须在事前获得Atlassian的书面同意才可以使用子承包商。任何未经Atlassian同意使用子承包商的行为都将被视为违反本协议，Atlassian有权终止本协议或收取相应的违约金。
+
+20.11.2. 子承包商使用审批流程
+在获得Atlassian的书面同意后，Customer必须提供子承包商的详细信息，包括其名称、联系方式、服务范围等。Atlassian有权拒绝任何不符合其标准的子承包商。子承包商使用审批流程如下：
+（1）Customer向Atlassian提交子承包商使用申请，包括相关文件和信息。
+（2）Atlassian在收到申请后，至少72小时内审批通过或拒绝。
+（3）如果申请被拒绝，Customer必须在7天内更改子承包商。
+
+这条新添加的条款要求Customer在事前获得Atlassian的书面同意才可以使用子承包商，并规定了子承包商使用审批流程和标准。"
+"Search for provisions requiring the provider to establish monitoring mechanisms for subcontractors. Verify if these include regular audits, performance reviews, and compliance checks. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding monitoring requirements to ensure subcontractors meet the same standards as the primary provider.","根據合同文本，Atlassian Customer Agreement 中没有明确规定对 subcontractors 的监控机制。然而，Section 20.11（Subcontractors and Affiliates）中提到：
+
+“ Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.”
+
+这意味着Atlassian有权使用子承包商或其附属机构，但Atlassian仍然负责确保其承包商符合合同的要求。
+
+然而，在Section 20.11的下面，Atlassian提供了一个例子：
+
+“ Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.”
+
+这意味着Atlassian可能会对子承包商进行监控，但这并不是合同的明确要求。
+
+因此，虽然合同中没有明确规定对子承包商的监控机制，但Atlassian仍然有责任确保其承包商符合合同的要求。建议在合同中添加监控子承包商的具体要求，以确保他们能够符合同样的标准。
+
+监控子承包商的具体要求可能包括：
+
+* 定期审核（regular audits）
+* 运营绩效评估（performance reviews）
+* 合规检查（compliance checks）
+
+这些要求可以通过合同中的其他条款或附加协议来实现。"
+"Locate clauses specifying a risk assessment process for subcontractors. Confirm whether the contract outlines criteria for assessing financial, operational, and compliance risks associated with subcontractors.   ◦ 
+Follow-up if Missing:Flag the absence and suggest adding a mandatory subcontractor risk assessment process as part of overall third-party risk management.","根据合同条款，Atlassian Customer Agreement第20.11条规定：“Atlassian 可以使用分包商或其附属公司履行其在本协议下的义务，但Atlassian仍然负责其整体履行本协议下的义务，并确保其分包商或附属公司具有适当的书面协议，以便Atlassian能够履行其在本协议下的义务。”
+
+然而，合同并没有明确规定关于分包商风险评估的具体过程或标准。虽然第20.11条提到了分包商的风险评估，但它并没有具体说明评估财务、运营和合规风险的具体标准或流程。
+
+因此，我们建议在合同中添加一个关于分包商风险评估的条款，明确规定评估财务、运营和合规风险的具体标准和流程。例如：
+
+“Atlassian 将对所有分包商进行风险评估，包括财务、运营和合规风险评估。风险评估将根据以下标准进行：
+
+* 财务风险评估：评估分包商的财务状况、支付能力和信用评级等。
+* 运营风险评估：评估分包商的运营能力、管理水平和质量控制等。
+* 合规风险评估：评估分包商的合规性、遵守法律法规和标准等。
+
+Atlassian 将根据风险评估结果决定是否继续与分包商合作，并采取必要的措施来降低风险。”"
+"Search the contract for provisions requiring the evaluation of the length and complexity of subcontracting chains. Validate if these assessments consider the number of subcontractors, dependencies, and geographical dispersion.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating a comprehensive review of subcontracting chain length and complexity, emphasizing operational and regulatory risks.","依据合同条款，Atlassian 可能会将其责任委托给子公司或第三方承包商。合同第 20.11 条规定，Atlassian 可以使用子公司或第三方承包商来履行其义务，但 Atlassian 仍然负责确保其整体履行合同义务，并确保与其承包商签署适当的书面协议，以便 Atlassian 能够满足合同的要求。
+
+然而，合同并未要求 Atlassian 进行对其承包链的全面评估，包括承包链的长度、复杂性、子公司数量、依赖关系以及地理分布情况。因此，建议在合同中添加一项条款，要求 Atlassian 对其承包链进行全面评估，重点关注运营风险和监管风险。
+
+具体来说，建议添加以下条款：
+
+“承包链评估：Atlassian 必须对其承包链进行全面评估，包括承包链的长度、复杂性、子公司数量、依赖关系以及地理分布情况。该评估应重点关注运营风险和监管风险，并提供相应的风险管理措施，以确保 Atlassian 能够有效履行其义务并确保其承包链的可控性和透明度。”
+
+此外，建议在合同中添加一项条款，要求 Atlassian 在其承包链中实施适当的风险管理措施，包括：
+
+“风险管理：Atlassian 必须在其承包链中实施适当的风险管理措施，包括风险识别、风险评估、风险监控和风险控制。该措施应重点关注运营风险和监管风险，并提供相应的风险管理计划，以确保 Atlassian 能够有效履行其义务并确保其承包链的可控性和透明度。”
+
+通过添加这些条款，Atlassian 可以确保其承包链的可控性和透明度，减少运营风险和监管风险，并提高其整体履行合同义务的能力。"
+"Identify clauses that assess the provider's ability to monitor the entire subcontracting chain. Verify if specific tools or processes are described for ensuring compliance throughout the chain.
+ ◦ 
+Follow-up if Missing:Recommend including requirements for regular chain monitoring, such as reporting structures or dedicated monitoring resources.","根据 Atlassian 的客户协议，第 20.11 条规定了 Atlassian 可以在履行其义务时使用子承包商或其附属机构。然而，这一条款并未明确规定 Atlassian 需要监控整个子承包商链条。 
+
+Atlassian 的客户协议中没有描述特定的工具或流程来确保整个子承包商链条的合规性。 
+
+因此，我建议在客户协议中增加要求 Atlassian 定期监控子承包商链条的条款，例如报告结构或专门的监控资源。"
+"Locate terms ensuring transparency in subcontracting chains. Confirm whether the contract requires the provider to disclose:
+ ▪ Names and roles of all subcontractors.
+ ▪ Changes to the subcontracting structure.
+ ▪ Validate if the financial entity has the right to access this information.
+ ◦ 
+Follow-up if Missing:Highlight the lack of transparency provisions and suggest adding clauses mandating full disclosure of subcontracting chains.","根據本合同， subcontracting chains 的透明度條款如下：
+
+第 20.11 條（Subcontractors and Affiliates）規定：
+
+Atlassian 可以在履行其義務時使用子承包商或其附屬公司，但 Atlassian 將負責其整體履行義務，並且 Atlassian 將在與其子承包商或附屬公司之間簽署適當的書面協議，以使 Atlassian 能夠滿足本合同的義務。
+
+然而，這條款並未要求 Atlassian 披露子承包商的姓名和角色，也沒有規定 Atlassian 必須在變更子承包商結構時告知 Customer。
+
+因此，我們可以看到，本合同缺乏透明度的子承包商鏈條款， Customer 對子承包商的姓名和角色以及變更子承包商結構的知情權沒有得到保障。
+
+建議修正的條款如下：
+
+20.11.1 條（Transparency in Subcontracting Chains）：
+
+Atlassian 將在履行其義務時披露全部子承包商的姓名和角色，並在變更子承包商結構時告知 Customer。
+
+20.11.2 條（Access to Subcontracting Information）：
+
+Customer 有權要求 Atlassian 提供全部子承包商鏈條的相關信息，包括姓名、角色、合同條款等。 Atlassian 將在 30 天內提供相關信息。
+
+這些修正的條款將確保 Customer 對子承包商鏈條有充分的知情權，從而提高合同的透明度和可追溯性。"
+"Search for provisions requiring a process for evaluating changes in the subcontracting chain. Verify if the contract specifies:
+ ▪ Notification requirements for changes.
+ ▪ Re-assessment of risks for new subcontractors or structural changes.
+ ▪ Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Recommend including clauses for timely notification and risk evaluation of any changes in the subcontracting structure.","根據合同條款，我們可以發現以下內容：
+
+合同第 20.11 項“Subcontractors and Affiliates”中提到：
+
+“Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.”
+
+這意味著Atlassian有權在履行其在本協議下的義務時使用子承包商或其附屬公司，但Atlassian仍然負責其整體履行義務，並且需要與其子承包商簽訂適當的書面協議，以便Atlassian能夠滿足其在本協議下的義務。
+
+但是，這項條款並未明確規定變更子承包商鏈的過程，包括通知要求和風險重新評估。
+
+根據合同第 20.9 項“Changes to this Agreement”，我們可以發現：
+
+“Atlassian may modify this Agreement (which includes the Policies, Product-Specific Terms and DPA) from time to time, by posting the modified portion(s) of this Agreement on Atlassian’s website. Atlassian must use commercially reasonable efforts to post any such modification at least thirty (30) days prior to its effective date.”
+
+這意味著Atlassian有權隨時修改本協議（包括政策、產品特定條款和 DPA），並將修改的內容發布在Atlassian的網站上。然而，這項條款並未明確規定變更子承包商鏈的過程，包括通知要求和風險重新評估。
+
+根據合同第 20.10 項“Force Majeure”，我們可以發現：
+
+“Neither party is liable for any delay or failure to perform any obligation under this Agreement (except for a failure to pay fees) due to events beyond its reasonable control and occurring without that party’s fault or negligence.”
+
+這意味著在任何一方無法控制的情況下，包括變更子承包商鏈的情況下，該方不負責履行其在本協議下的義務。然而，這項條款並未明確規定變更子承包商鏈的過程，包括通知要求和風險重新評估。
+
+綜上所述，我們建議在合同中加入以下條款：
+
+“變更子承包商鏈的過程：
+
+* Atlassian必須在變更子承包商鏈時，向 Customer 提供適當的通知，包括變更的內容和原因。
+* Atlassian必須重新評估風險，確保變更的子承包商能夠滿足本協議下的義務。
+* Atlassian必須與變更的子承包商簽訂適當的書面協議，以便Atlassian能夠滿足其在本協議下的義務。
+
+這些條款將確保變更子承包商鏈的過程透明、合規，並能夠滿足本協議下的義務。"
+"Search for clauses specifying restrictions or conditions for subcontracting. Extract details about limitations on services, geography, or critical functions. If missing, suggest adding these restrictions.","根據 Atlassian Customer Agreement 的第 20.11 段，Atlassian 可以使用子承包商或其附屬公司履行其在協議中的義務，但 Atlassian vẫn負責其整體履行協議中的義務，並且必須簽署與子承包商的書面協議，以便 Atlassian 可以履行其在協議中的義務。
+
+此外，協議並未對子承包商的服務限制或條件進行明確規定。根據第 20.11 段，Atlassian 可以將其義務轉讓給子承包商，但協議並未規定子承包商的服務範圍、地理限制或關鍵功能的限制。
+
+為了確保子承包商的服務符合 Atlassian 的標準和要求，建議在協議中添加以下限制：
+
+1. 服務限制：明確規定子承包商的服務範圍，包括提供的服務類型、服務質量和服務時間。
+2. 地理限制：規定子承包商的服務地理範圍，包括服務提供的地區或國家。
+3. 關鍵功能限制：明確規定子承包商不負責的關鍵功能或業務，例如資料安全、客戶資料保護等。
+
+具體的修改內容如下：
+
+* 在第 20.11 段後面新增一節，名為「子承包商服務限制」。
+* 在子承包商服務限制節中，規定子承包商的服務範圍、地理限制和關鍵功能限制。
+
+修改後的協議內容如下：
+
+20.11. 子承包商和附屬公司
+
+Atlassian 可以使用子承包商或其附屬公司履行其在協議中的義務，但 Atlassian vẫn負責其整體履行協議中的義務，並且必須簽署與子承包商的書面協議，以便 Atlassian 可以履行其在協議中的義務。
+
+20.11.1. 子承包商服務限制
+
+子承包商的服務範圍包括但不限於以下內容：
+
+* 提供的服務類型：子承包商負責提供的服務類型，包括但不限於技術支援、軟件開發等。
+* 服務質量：子承包商必須提供符合 Atlassian 的服務質量標準的服務。
+* 服務時間：子承包商必須提供 24 小時 x 7 天的服務。
+
+子承包商的服務地理範圍包括但不限於以下地區：
+
+* 服務提供的地區：子承包商必須提供服務的地區，包括但不限於中國大陸、美國、歐洲等。
+* 服務提供的國家：子承包商必須提供服務的國家，包括但不限於中國、美國、德國等。
+
+子承包商不負責的關鍵功能包括但不限於以下內容：
+
+* 資料安全：子承包商不負責資料安全的相關工作。
+* 客戶資料保護：子承包商不負責客戶資料保護的相關工作。
+
+以上修改內容為了確保子承包商的服務符合 Atlassian 的標準和要求，建議在協議中添加這些限制。"
+"Search for provisions requiring prior approval for subcontracting. Extract details on the approval process. If absent, recommend including this requirement.","根据本协议的第20.11条（Subcontractors and Affiliates），Atlassian有权使用第三方承包商或其附属机构来履行其在本协议下的义务，但Atlassian仍然对其承包商的行为负责。然而，该条款并没有明确规定获得Atlassian的前置批准的具体程序。
+
+如果您想添加此要求，您可以考虑以下修改：
+
+“20.11. 承包商和附属机构。 Atlassian有权使用第三方承包商或其附属机构来履行其在本协议下的义务，但任何此类安排都需要在事前获得Atlassian的书面同意。 Atlassian有权拒绝任何它认为不符合其利益的承包商或附属机构。 承包商或附属机构的使用必须符合本协议的其他条款和条件。”
+
+这项修改要求Atlassian在使用第三方承包商或附属机构之前必须获得Atlassian的书面同意，且Atlassian有权拒绝任何它认为不符合其利益的承包商或附属机构。"
+Locate terms requiring monitoring of subcontractors. Validate whether these include audits or compliance checks. Suggest adding monitoring requirements if missing.,"根据 Atlassian Customer Agreement 的第 20.11 条，Atlassian 可能会使用第三方承包商（subcontractors）或其附属机构（Affiliates）来履行其在本协议中的义务。然而，协议并未明确规定监控承包商的具体要求。
+
+第 20.11 条中提到，Atlassian 将负责确保其承包商或附属机构能够履行其在本协议中的义务，并且 Atlassian 必须与其承包商签订适当的书面协议，以便 Atlassian 能够履行其在本协议中的义务。然而，这并不等同于要求 Atlassian 监控其承包商的活动。
+
+为了确保 Atlassian 能够有效地监控其承包商并确保其承包商遵守本协议中的规定，建议在第 20.11 条中添加以下内容：
+
+* Atlassian 必须定期对其承包商进行审计或检查，以确保其承包商遵守本协议中的规定。
+* Atlassian 必须在其与承包商签订的合同中明确规定监控和审计的具体要求。
+* Atlassian 必须提供承包商的审计或检查结果给 Customer，以便 Customer 可以了解其承包商的活动情况。
+
+通过添加这些内容，Atlassian 可以确保其承包商遵守本协议中的规定，并提供给 Customer 一种更透明和可追踪的方式来了解其承包商的活动情况。"
+"Search for provisions mandating risk assessments of subcontractors. Extract details on criteria and scope. If missing, recommend adding a risk evaluation process.","根據Atlassian的《客戶協議》，第20.11條《子承包商和附屬公司》規定：
+
+""Atlassian 可以使用子承包商或其附屬公司來履行本協議中的義務，但Atlassian 仍須承擔其整體履行本協議義務的責任，並確保其子承包商或附屬公司有適當的書面協議，以便 Atlassian 能夠符合本協議中的義務。""
+
+然而，這個條款並沒有明確規定對子承包商進行風險評估的具體要求。
+
+建議添加風險評估過程如下：
+
+1. **風險評估的目的**：確保子承包商的選擇和管理符合Atlassian的風險管理政策和程序。
+2. **風險評估的範圍**：包括子承包商的選擇、合同管理、履行義務、財務狀況和風險控制等方面。
+3. **風險評估的標準**：根據Atlassian的風險管理政策和程序，評估子承包商的風險等級，並根據風險等級進行風險控制和管理。
+4. **風險評估的過程**：包括風險識別、風險評估、風險控制和風險監控等步驟。
+5. **風險評估的結果**：根據風險評估結果，決定是否繼續與子承包商合作，或者對子承包商的合同進行調整或終止。
+
+具體的風險評估過程如下：
+
+1. **風險識別**：識別子承包商的風險源，包括業務風險、財務風險、法律風險等。
+2. **風險評估**：評估子承包商的風險等級，根據風險等級進行風險控制和管理。
+3. **風險控制**：根據風險評估結果，對子承包商的合同進行調整或終止，或者對子承包商進行風險控制和管理。
+4. **風險監控**：對子承包商的風險進行持續監控，確保風險控制措施有效果。
+
+通過添加風險評估過程，可以確保Atlassian的子承包商選擇和管理符合其風險管理政策和程序，從而降低風險和提高效率。"
+Identify clauses requiring evaluation of the length and complexity of subcontracting chains. Extract references to the number of subcontractors or geographical dispersion. Suggest adding this requirement if absent.,"根據 Atlassian 的客户协议，第 20.11 条关于 subcontractors 和 Affiliates 的规定需要评估 subcontracting 链的长度和复杂度。
+
+具体来说，第 20.11 条规定：Atlassian 可以使用 subcontractors 或其 Affiliates 执行本协议的义务，但 Atlassian仍然负责确保其 overall 执行。这个条款意味着 Atlassian 可以通过 subcontractors 或其 Affiliates 执行其义务，但 Atlassian 仍然负责确保其 overall 执行。
+
+然而，没有明确规定 subcontracting 链的长度和复杂度。因此，建议添加一个条款来规定 subcontracting 链的长度和复杂度的评估标准。
+
+例如，可以添加一个条款如下：
+
+“Atlassian 将确保 subcontracting 链的长度不超过三级，并且 subcontractors 或其 Affiliates 不会分散在多个地域。对于 subcontracting 链超过三级的场景，Atlassian 将提供额外的保证以确保 subcontractors 或其 Affiliates 的执行。对于分散在多个地域的 subcontractors 或其 Affiliates，Atlassian 将提供额外的保证以确保其执行的连续性和可追踪性。”
+
+此外，建议添加一个条款来规定 subcontracting 链中 subcontractors 或其 Affiliates 的选择标准和评估标准。例如：
+
+“Atlassian 将选择 subcontractors 或其 Affiliates 的依据包括其技术能力、信誉度和执行效率。Atlassian 将评估 subcontractors 或其 Affiliates 的执行情况，并根据评估结果决定是否继续与其合作。”
+
+总之，建议添加一个条款来规定 subcontracting 链的长度和复杂度的评估标准，以及 subcontractors 或其 Affiliates 的选择标准和评估标准，以确保 Atlassian 的客户协议能够有效执行和管理 subcontracting 链。"
+"Search for provisions assessing the provider's ability to monitor subcontracting chains. Extract details of tools or processes mentioned. If missing, recommend including monitoring mechanisms.","根据提供的协议文本，我发现了以下有关监控供应商在分包链条中的能力的条款：
+
+第 20.11 条（分包商和附属公司）：
+
+“Atlassian 可以使用分包商或其附属公司来履行其在本协议中的义务，但 Atlassian 保留对其整体履行义务的责任，并且 Atlassian 必须确保其分包商具有适当的书面协议，使 Atlassian 能够符合本协议的要求。”
+
+这条款表明了 Atlassian 的意愿在分包链条中进行监控，但并没有具体说明监控的工具或过程。
+
+然而，我推荐在本协议中添加以下监控机制：
+
+1. **分包商监控程序**：Atlassian 应该建立一个分包商监控程序，包括定期审查分包商的绩效、财务报告和安全控制。该程序应包括以下步骤：
+ * 定期审查分包商的绩效报告和财务报告。
+ * 进行安全审查，以确保分包商遵守安全控制和信息安全标准。
+ * 与分包商进行定期沟通，确保他们了解 Atlassian 的需求和期望。
+2. **分包商审查**：Atlassian 应该定期审查其分包商的选择和评估，确保他们符合 Atlassian 的标准和要求。
+3. **监控工具**：Atlassian 应该使用监控工具来跟踪分包商的活动和绩效，例如：
+ * 分包商管理平台：用于跟踪分包商的绩效、财务报告和安全控制。
+ * 分包商审查工具：用于评估分包商的选择和评估。
+4. **报告和沟通**：Atlassian 应该定期向客户报告分包商的活动和绩效，包括任何问题或缺陷。
+
+通过实施这些监控机制，Atlassian 可以确保其分包链条的透明度和可追溯性，提高客户的信任和满意度。"
+"Locate clauses ensuring transparency of subcontracting chains, including full disclosure of subcontractors. If absent, suggest adding transparency provisions.","根据 Atlassian 客户协议，第 20.11 条规定了 Atlassian 可以使用子承包商（Subcontractors）或其关联公司（Affiliates）来履行其义务。但是，这一条款并没有要求 Atlassian 公开子承包商的信息。
+
+为了确保透明度，建议添加如下条款：
+
+“20.11.1 Atlassian 必须在合同签署前向客户披露所有子承包商的信息，包括子承包商的名称、联系方式和履行义务的范围。
+
+20.11.2 Atlassian 必须在合同期间持续向客户披露任何更改的子承包商信息。
+
+20.11.3 Atlassian 必须确保所有子承包商都遵守 Atlassian 的隐私政策和安全措施。
+
+20.11.4 Atlassian 必须在合同结束时向客户披露所有子承包商的信息，并确保所有子承包商都遵守合同结束后的义务”。
+
+这些建议的条款要求 Atlassian 公开子承包商的信息，确保客户能够了解 Atlassian 的承包商链条。"
+"Search for terms requiring notification and risk assessment for changes in subcontracting chains. Extract and validate details. If missing, recommend including notification and evaluation clauses.","根据合同条款，Atlassian 可能会将其合同义务委托给子承包商。为了确保合规性和风险管理，以下是需要通知和风险评估的条款：
+
+1. **子承包商的委托**：Atlassian 可能会将其合同义务委托给子承包商。根据条款20.11（子承包商和附属机构），Atlassian 可能会使用子承包商或其附属机构履行合同义务。
+2. **风险评估**：条款20.11要求Atlassian确保其子承包商或附属机构履行合同义务时，有适当的书面协议，使Atlassian能够履行其合同义务。
+3. **通知**：条款20.11要求Atlassian向客户提供有关子承包商或附属机构的信息。
+
+为了确保合规性和风险管理，建议包括以下条款：
+
+1. **子承包商的委托**：明确规定子承包商的委托条件，包括子承包商的选择和委托过程。
+2. **风险评估**：要求子承包商或附属机构进行风险评估，并提供相关报告。
+3. **通知**：要求Atlassian向客户提供有关子承包商或附属机构的信息，包括其名称、联系方式和履行合同义务的范围。
+4. **合同义务的转移**：明确规定子承包商或附属机构的合同义务转移条件，包括转移的范围和程序。
+
+以下是推荐的通知和风险评估条款：
+
+**子承包商的委托**
+
+20.11.1 Atlassian 可能会将其合同义务委托给子承包商或附属机构。委托的子承包商或附属机构必须有能力履行合同义务。
+
+**风险评估**
+
+20.11.2 Atlassian 必须要求子承包商或附属机构进行风险评估，并提供相关报告。
+
+**通知**
+
+20.11.3 Atlassian 必须向客户提供有关子承包商或附属机构的信息，包括其名称、联系方式和履行合同义务的范围。
+
+**合同义务的转移**
+
+20.11.4 Atlassian 必须明确规定子承包商或附属机构的合同义务转移条件，包括转移的范围和程序。
+
+通过包括这些条款，Atlassian 可以确保合规性和风险管理，并向客户提供有关子承包商或附属机构的信息。"

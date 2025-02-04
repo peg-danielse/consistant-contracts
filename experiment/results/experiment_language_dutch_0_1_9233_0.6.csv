@@ -1,0 +1,1024 @@
+question,answers
+"Search the contract for any mention of an assessment regarding the substitutability of the ICT third-party service provider. Extract clauses that address whether the provider is easily substitutable or not. If no such clauses are found, note the absence and flag it as a gap.
+ ◦ 
+Follow-up if Missing:Indicate that the contract should include provisions for assessing the substitutability of the provider and recommend defining criteria for determining substitutability.","Deze overeenkomst bevat geen expliciete bepalingen over de substitutie van de ICT-dienstverlener. Er zijn geen specifieke artikelen of paragrafen die aandacht besteden aan de substitutie van de leverancier of de criteria die bepalen of de leverancier eenvoudig te vervangen is.
+
+Artikel 5.2 van de overeenkomst spreekt over de modificatie van de Software Products, maar hierin wordt geen aandacht besteed aan de substitutie van de leverancier.
+
+Artikel 10.1 (Fees) en artikel 10.2 (Taxes) behandelen de betalingen en de belastingen, maar deze artikelen hebben geen relatie met de substitutie van de leverancier.
+
+Artikel 15.1 (IP Indemnification) behandelt de aansprakelijkheid van Atlassian voor intellectuele eigendomsinfringement, maar hierin wordt geen aandacht besteed aan de substitutie van de leverancier.
+
+Artikel 20.11 (Subcontractors and Affiliates) spreekt over de mogelijkheid van Atlassian om subcontractanten of Affiliate's in te schakelen, maar hierin wordt geen aandacht besteed aan de substitutie van de leverancier.
+
+Het ontbreken van expliciete bepalingen over de substitutie van de ICT-dienstverlener is een gap in de overeenkomst. Om dit te adresseren, zou de overeenkomst moeten worden aangepast om criteria te definiëren voor de bepaling van de substitutie van de leverancier. Dit zou kunnen inhouden de identificatie van de kritieke processen, gegevens en systemen die door de leverancier worden beheerd, en de vaststelling van de criteria die bepalen of de leverancier eenvoudig te vervangen is."
+"Identify whether the contract defines specific criteria for determining substitutability (e.g., technical compatibility, operational complexity). If criteria are unclear or missing, suggest possible benchmarks based on industry standards.
+ ◦ 
+Follow-up if Missing:Recommend adding measurable criteria for substitutability assessments, such as cost, technical specifications, and ease of transition.","De contract definieert geen specifieke criteria voor het bepalen van substitueerbaarheid. Er zijn geen duidelijke richtlijnen gegeven voor het beoordelen van de technische compatibiliteit, operationele complexiteit of andere factoren die van invloed zijn op de substitutie.
+
+Om dit probleem aan te pakken, kan men de volgende benchmarks op basis van industrie-standaarden gebruiken:
+
+* Technische compatibiliteit: Het contract kan vereisen dat de substituut-producten dezelfde technische specificaties en interface hebben als de oorspronkelijke producten.
+* Operationele complexiteit: Het contract kan vereisen dat de substituut-producten dezelfde operationele capaciteit en prestaties hebben als de oorspronkelijke producten.
+* Kosten: Het contract kan vereisen dat de substituut-producten dezelfde prijs als de oorspronkelijke producten hebben of dat de kosten van de substitutie niet meer dan een bepaald percentage van de oorspronkelijke prijs zijn.
+* Gemakkelijkheid van overgang: Het contract kan vereisen dat de substituut-producten gemakkelijk te integreren zijn met de bestaande systemen en processen.
+
+Door deze benchmarks op te nemen in het contract, kan de substitutie van producten beter geregeld en gemeten worden, waardoor de risico's en uitdagingen van de substitutie beter beheersbaar zijn."
+"Search the contract for clauses requiring documentation of alternative providers in the market. Verify if these alternatives are listed or if there is a requirement to maintain such a list. Highlight missing documentation requirements.
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating regular market scans to identify and document alternative providers.","**Compliance Statement:**
+Deze overeenkomst bevat een aantal clausules die vereisen dat documentatie wordt gemaakt over alternatieve leveranciers op de markt. Er is echter geen expliciete vereiste om een lijst van alternatieve leveranciers bij te houden.
+
+**Voorbeeld van relevante clausules:**
+
+* Section 20.11 (Subcontractors en Affiliates): ""Atlassian mag gebruikmaken van subcontractors of zijn Affiliates bij de uitvoering van zijn verplichtingen onder deze overeenkomst, maar Atlassian blijft verantwoordelijk voor zijn algemene prestaties onder deze overeenkomst en heeft geschikte schriftelijke overeenkomsten met zijn subcontractors om in staat te zijn om zijn verplichtingen onder deze overeenkomst na te komen.""
+* Section 20.12 (Onafhankelijke contractors): ""De partijen zijn onafhankelijke contractors, niet agents, partners of joint venturers.""
+
+**Analyse:**
+Deze clausules vereisen dat Atlassian documentatie maakt over zijn subcontractors en Affiliates, maar er is geen expliciete vereiste om een lijst van alternatieve leveranciers bij te houden. Het is echter aanbevolen om een regelmatige marktscan uit te voeren om alternatieve leveranciers te identificeren en te documenteren.
+
+**Aanbeveling:**
+Om deze documentatievereiste te verbeteren, kan een nieuwe clausule worden opgenomen die expliciet vereist dat Atlassian regelmatig marktscans uitvoert om alternatieve leveranciers te identificeren en te documenteren. Deze clausule kan als volgt worden opgesteld:
+
+* Section 20.X (Alternatieve leveranciers): ""Atlassian moet regelmatig marktscans uitvoeren om alternatieve leveranciers te identificeren en te documenteren. Deze documentatie moet worden bijgehouden en opgeleverd aan [klant] op verzoek."""
+"Search for provisions requiring a cost-benefit analysis of alternative providers. Confirm whether the analysis considers financial, operational, and strategic factors.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding requirements for regular cost-benefit analyses to maintain strategic flexibility.","**Compliance Beoordeling: Kosten-Baten Analyse van Alternatieve Leveranciers**
+
+In het Atlassian Customer Agreement is er geen expliciete bepaling vereist voor een kosten-baten analyse van alternatieve leveranciers. Hoewel er in het agreement geen specifieke eisen worden gesteld voor een kosten-baten analyse, is het wel duidelijk dat de klant verantwoordelijk is voor het bepalen van de juiste scope of use en het beoordelen van de functionaliteit van de producten.
+
+**Geen expliciete eisen voor kosten-baten analyse**
+
+In het agreement wordt vermeld dat de klant verantwoordelijk is voor het bepalen van de juiste scope of use en het beoordelen van de functionaliteit van de producten. Dit wordt beschreven in artikel 2.1 van het agreement, waarin wordt gesteld dat de klant een niet-exclusief, wereldwijd recht heeft om de producten en gerelateerde ondersteunings- en adviseringsservices te gebruiken voor zijn en zijn affiliate's interne bedrijfsdoeleinden.
+
+**Suggestie voor het toevoegen van eisen voor kosten-baten analyse**
+
+Om strategische flexibiliteit te behouden, zou het raadzaam zijn om eisen toe te voegen voor een regelmatige kosten-baten analyse van alternatieve leveranciers. Dit zou de klant in staat stellen om de voordelen en nadelen van verschillende leveranciers te evalueren en te bepalen welke leverancier het beste past bij hun bedrijfsdoelen en -behoeften."
+"Look for any clauses specifying the need to maintain awareness of market alternatives (e.g., through periodic market research). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend adding provisions for periodic market reviews to evaluate emerging alternatives.","Uit de overeenkomst blijkt dat Atlassian verplicht is om te zorgen dat de klant op de hoogte is van marktalternatieven. Dit wordt niet expliciet vermeld, maar het is wel een impliciete eis in het kader van de ""Acceptable Use Policy"".
+
+In artikel 2.2 van de overeenkomst staat dat de klant niet mag:
+
+* (a) het product gebruiken voor het ontwikkelen van een soortgelijk of concurrerend product of dienst;
+* (b) het product gebruiken om te onderzoeken of te analyseren of te evalueren van andere producten of diensten van concurrenten of andere partijen.
+
+Dit suggereert dat Atlassian verwacht dat de klant op de hoogte is van marktalternatieven en dat de klant niet mag gebruiken om deze alternatieven te evalueren of te ontwikkelen.
+
+Verder is er in artikel 20.1 van de overeenkomst een bepaling over de naleving van wet- en regelgeving. Hierin wordt opgenomen dat de klant verplicht is om te zorgen dat hij op de hoogte is van alle relevante wet- en regelgeving en dat hij zich hieraan moet houden.
+
+Ten slotte is er in artikel 20.2 van de overeenkomst een bepaling over de naleving van de ""Code of Conduct"" van Atlassian. Hierin wordt opgenomen dat de klant verplicht is om zich aan deze code te houden en dat hij op de hoogte moet zijn van alle relevante wet- en regelgeving en marktstandaarden.
+
+In conclusie kan worden gesteld dat er in de overeenkomst bepalingen zijn opgenomen die erop wijzen dat Atlassian verwacht dat de klant op de hoogte is van marktalternatieven en dat de klant zich moet houden aan wet- en regelgeving en marktstandaarden.
+
+Echter, er zijn geen expliciete bepalingen die aangeven dat de klant verplicht is om periodiek marktonderzoek te doen om op de hoogte te blijven van marktalternatieven. Het is daarom aan te raden om een dergelijke bepaling toe te voegen aan de overeenkomst."
+"Search the contract for requirements to assess existing arrangements with the same provider. Confirm whether this includes the number, type, and scope of such arrangements. Highlight gaps if no such assessment is required.
+ ◦ 
+Follow-up if Missing:Recommend including periodic reviews of all existing contracts with the provider.","De contractuele overeenkomst tussen de klant en Atlassian vereist dat de klant een beoordeling uitvoert van de huidige regelingen met Atlassian. Dit omvat de beoordeling van de bestaande overeenkomsten, inclusief de aard, omvang en scope ervan.
+
+Volgens artikel 5.2 (License Verification) van de overeenkomst moet de klant op verzoek van Atlassian bevestigen of de gebruikmaking van de Software Producten overeenkomt met de toegestane Scope of Use. Bovendien moet de klant op verzoek van Atlassian toestaan dat Atlassian de gebruikmaking van de Software Producten controleert op een frequentie van maximaal één keer per twaalf maanden.
+
+Dit betekent dat de klant regelmatig moet controleren of de gebruikmaking van de Software Producten in overeenstemming is met de toegestane Scope of Use. Het contract vereist ook dat de klant toestaat dat Atlassian de gebruikmaking van de Software Producten controleert, wat betekent dat de klant ook toegang moet geven aan Atlassian om de gebruikmaking te controleren.
+
+Er zijn geen specifieke eisen opgenomen in het contract om de aantal, type en scope van de bestaande overeenkomsten te beoordelen. Dit betekent dat de klant zelf moet beslissen welke aspecten van de bestaande overeenkomsten hij moet beoordelen en hoe vaak hij dit moet doen.
+
+Om de naleving van de contractuele eisen te garanderen, rad ik aan om de volgende acties te ondernemen:
+
+* Reguliere reviews van alle bestaande overeenkomsten met Atlassian uitvoeren om te controleren of de gebruikmaking ervan in overeenstemming is met de toegestane Scope of Use.
+* De Scope of Use van alle bestaande overeenkomsten controleren en bijwerken als nodig.
+* De klant toestaan dat Atlassian de gebruikmaking van de Software Producten controleert, zodat Atlassian de gebruikmaking kan controleren en eventuele overtredingen kan vaststellen."
+"Search for provisions requiring the assessment of relationships with closely connected providers. Verify whether these relationships are identified and documented in the contract.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including requirements to evaluate risks from connected providers.","De bepalingen in dit contract vereisen een beoordeling van de relaties met nauw verbonden leveranciers. Het contract vermeldt echter geen expliciete bepalingen voor het identificeren en documenteren van deze relaties.
+
+In artikel 7.2 wordt gesproken over Third-Party Products, maar er is geen specifieke bepaling over het beoordelen van de risico's van nauw verbonden leveranciers. Het contract verwijst naar de Third-Party Code Policy, maar deze bepalingen gaan voornamelijk over de rechten en verplichtingen van Atlassian met betrekking tot open source software en commerciële derde-partijsoftware.
+
+Om een adequate risicoevaluatie te kunnen uitvoeren, is het noodzakelijk om de relaties met nauw verbonden leveranciers te identificeren en te documenteren. Ik stel voor om een bepaling toe te voegen die aangeeft dat Atlassian en Customer moeten werken samen om de risico's van nauw verbonden leveranciers te evalueren en te documenteren.
+
+Een voorbeeld van een bepaling die hiervoor kan worden gebruikt is:
+
+""Atlassian en Customer zullen samenwerken om de relaties met nauw verbonden leveranciers te identificeren en te documenteren. Zij zullen een risico-evaluatie uitvoeren om de risico's van deze relaties te beoordelen en een plan opstellen om deze risico's te mitigeren.""
+
+Dit is een voorbeeld en kan worden aangepast om te voldoen aan de specifieke behoeften van het contract."
+"Identify clauses that mandate evaluating the concentration risk of relying on a single provider for multiple services. Validate if the contract requires tracking dependency on the provider.
+ ◦ 
+Follow-up if Missing:Recommend adding a section to analyze and address concentration risks.","De bepalingen in dit contract zijn niet specifiek gericht op het evalueren van de concentratiegevaar van het afhankelijk zijn van een enkele leverancier voor meerdere diensten. Er zijn geen expliciete bepalingen die vereisen dat de afhankelijkheid van de leverancier wordt bijgehouden.
+
+Een van de bepalingen die enigszins relevant is, is artikel 20.13 (Exportbeperkingen), waarin wordt gespecificeerd dat de producten onderhevig kunnen zijn aan exportbeperkingen en invoerbeperkingen van andere landen. Hierin wordt echter niet expliciet vermeld dat de concentratiegevaar moet worden geëvalueerd.
+
+Om dit risico te mitigeren, kan een aanvullende bepaling worden toegevoegd om de concentratiegevaar te evalueren en aan te pakken. Hieronder volgt een voorbeeld van een aanvullende bepaling:
+
+""20.14 Concentratierisico
+De partijen zullen een regelmatige evaluatie uitvoeren om te bepalen of de concentratiegevaar ontstaat door afhankelijkheid van een enkele leverancier voor meerdere diensten. Deze evaluatie zal ten minste jaarlijks plaatsvinden en zal de volgende factoren omvatten:
+
+* De omvang en complexiteit van de diensten die door de leverancier worden geleverd
+* De mate van afhankelijkheid van de partijen van de leverancier
+* De potentiële gevolgen van een verstoring van de diensten door de leverancier
+
+Indien wordt vastgesteld dat er een concentratiegevaar bestaat, zullen de partijen samenwerken om een strategie te ontwikkelen om dit risico te mitigeren, waaronder maar niet beperkt tot:
+
+* Het diversificeren van de leveranciers voor de diensten
+* Het ontwikkelen van een back-upplan voor de diensten
+* Het treffen van maatregelen om de afhankelijkheid van de leverancier te reduceren""
+
+Dit is slechts een voorbeeld van een aanvullende bepaling en kan worden aangepast om de specifieke behoeften en risico's van de partijen te omvatten."
+"Search for provisions assessing interdependencies between services provided by the third-party provider. Extract these clauses if present.
+ ◦ 
+Follow-up if Missing:Suggest requiring an assessment of how interdependent services might amplify operational risks.","Ik heb de overeenkomst van Atlassian onderzocht en heb de volgende bepalingen gevonden die de afhankelijkheden tussen diensten van derden behandelen:
+
+**Bepaling 7.2: Third-Party Products**
+
+""Customer mag ervoor kiezen om de Producten te gebruiken met diensten van derden, waaronder platforms, apps, add-ons, services of producten, inclusief aanbiedingen beschikbaar via de Atlassian Marketplace ('Diensten van derden'). Gebruik van dergelijke Diensten van derden met de Producten kan toegang tot klantgegevens en andere gegevens van de derde partij vereisen, die Atlassian op naam van de klant zal toestaan als de klant die Dienst van derden heeft ingeschakeld. De gebruiksvoorwaarden van de klant voor Diensten van derden zijn van toepassing en niet deze overeenkomst.""
+
+Dit artikel erkent dat de Producten van Atlassian kunnen worden gebruikt met diensten van derden, maar wijst ook op de mogelijke risico's die hiermee gepaard kunnen gaan.
+
+**Bepaling 7.1: Third-Party Code**
+
+""Deze overeenkomst en de Third-Party Code Policy zijn van toepassing op open source software en commerciële derde-partij software die Atlassian in de Producten opneemt.""
+
+Dit artikel verwijst naar de Third-Party Code Policy, die vermoedelijk de bepalingen bevat die de afhankelijkheden tussen de Producten en derde-partij software behandelen.
+
+**Conclusie**
+
+De bepalingen in de overeenkomst van Atlassian erkennen de afhankelijkheden tussen diensten van derden en de Producten, maar bieden geen uitgebreide informatie over de mogelijke risico's die hiermee gepaard kunnen gaan. Het is aanbevelenswaardig om een onderzoek te doen naar de mogelijke interdependencies tussen diensten van derden en de Producten en om een beoordeling te maken van hoe deze diensten de operationele risico's kunnen versterken."
+"Look for clauses that require an evaluation of the provider's market share and concentration risk (e.g., monopoly risks, limited alternatives). Highlight gaps if no such assessment is found.
+ ◦ 
+Follow-up if Missing:Recommend adding terms to address provider dominance and its potential impact on resilience.","**Compliance Verklaring:**
+Deze Atlassian Customer Agreement bevat geen expliciete bepalingen die een evaluatie van de provider's marktaandeel en concentratierisico's vereisen, waaronder monopolierisico's en beperkte alternatieven. Dit is een belangrijk aspect voor de continuïteit en het risicomanagement van de organisatie.
+
+**Gebrek aan bepalingen:**
+Deze Agreement bevat geen bepalingen die de provider's marktaandeel en concentratierisico's evalueren. Dit betekent dat de organisatie geen duidelijke indicatie heeft van de mate waarin de provider dominant is op de markt en hoe dit risico kan worden beheerd.
+
+**Aanbeveling:**
+Om de continuïteit en het risicomanagement te waarborgen, wordt aanbevolen om bepalingen toe te voegen die de provider's marktaandeel en concentratierisico's evalueren. Hierdoor kan de organisatie een beter inzicht krijgen in de mate waarin de provider dominant is en hoe dit risico kan worden beheerd."
+"Search the contract for an assessment of geographical concentration risks related to the provider’s operations. Confirm if the assessment addresses risks associated with location-specific factors like infrastructure reliability or natural disasters.
+ ◦ 
+Follow-up if Missing:Recommend including geographical risk assessments in the contract.","**Compliance assessment: Geografische concentratie van risico's**
+
+In de overeenkomst tussen Atlassian en de klant is geen expliciete beoordeling te vinden van geografische concentratie van risico's in verband met de leverancier's activiteiten. Hoewel er enkele verwijzingen zijn naar geografische locaties, zoals de locatie van klantdata en de leverancier's technische infrastructuur, zijn er geen specifieke beoordelingen of risicoanalyses te vinden die rekening houden met locatie-specifieke factoren zoals infrastructuurreliëf of natuurlijke rampen.
+
+**Beoordeling van de risico's**
+
+Het contract bevat enkele verwijzingen naar geografische locaties, waaronder:
+
+* De locatie van klantdata: ""Atlassian mag klantdata verwerken om de Cloud Products en de daarmee verband houdende Support of Advisory Services te leveren in overeenstemming met deze overeenkomst.""
+* De locatie van de technische infrastructuur: ""Atlassian heeft een informatiebeveiligingsprogramma geïmplementeerd en zal dit programma onderhouden om klantdata te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking.""
+
+**Aanbeveling**
+
+Om de geografische concentratie van risico's te beoordelen en te beheersen, wordt aanbevolen om in de overeenkomst een expliciete beoordeling en risicoanalyse op te nemen. Hierdoor kan de klant beter worden geïnformeerd over de locatie-specifieke factoren die van invloed kunnen zijn op de leverancier's activiteiten en de risico's die daarmee samenhangen."
+"Search for clauses requiring third-country providers to comply with EU data protection rules (e.g., GDPR). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including mandatory compliance with EU data protection regulations.","Op basis van de overeenkomst vind ik de volgende bepalingen die vereisen dat derde-landen (third-country providers) zich houden aan de EU-regels inzake gegevensbescherming, zoals de AVG:
+
+1. Artikel 4.2 van de overeenkomst vermeldt dat ""Atlassian een informatiebeveiligingsprogramma heeft geïmplementeerd en zal onderhouden dat gebruik maakt van passende fysieke, technische en organisatorische maatregelen om de verwerking van Gegevens te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking"" (Security Program). Dit programma zal worden onderhouden in overeenstemming met de AVG.
+2. Artikel 4.3 van de overeenkomst vermeldt dat Atlassian een Service Level Agreement (SLA) heeft vastgesteld voor de Cloud Products, waarin de service niveaus en -verplichtingen worden omschreven. Deze SLA zal worden onderhouden in overeenstemming met de AVG.
+3. Artikel 5.1 van de overeenkomst vermeldt dat Atlassian de verplichting heeft om de gegevens van de klant te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking. Dit is een algemene verplichting die ook in overeenstemming is met de AVG.
+
+Deze bepalingen vereisen dat derde-landen (third-country providers) zich houden aan de EU-regels inzake gegevensbescherming, zoals de AVG. Het is echter belangrijk om te controleren of deze bepalingen ook in de praktijk worden nageleefd en of de derde-landen zich daadwerkelijk houden aan de vereisten van de AVG.
+
+Mijn suggestie is om de overeenkomst aan te passen om expliciet te vermelden dat derde-landen zich houden aan de EU-regels inzake gegevensbescherming, zoals de AVG. Dit kan worden gedaan door een nieuwe bepaling toe te voegen die luidt: ""Derde-landen (third-country providers) zullen zich houden aan de EU-regels inzake gegevensbescherming, zoals de AVG, en zullen alle vereisten van de AVG naleven in verband met de verwerking van Gegevens.""
+
+Dit zal helpen om duidelijkheid te scheppen over de verplichtingen van derde-landen en zal ervoor zorgen dat zij zich houden aan de EU-regels inzake gegevensbescherming."
+"Identify clauses assessing the effectiveness of law enforcement in the provider’s jurisdiction, especially in ensuring contract enforceability and regulatory compliance.
+ ◦ 
+Follow-up if Missing:Recommend adding specific provisions for assessing legal risks in the provider’s country.","**Compliance Beoordeling:**
+
+Deze overeenkomst bevat een aantal clausules die relevant zijn voor de effectiviteit van de wetshandhaving in de provider's land. Specifiek zijn de volgende clausules van belang:
+
+*   **Jurisdictie**: De overeenkomst bepaalt dat de wetten van de Republiek Ierland of de staat Californië van toepassing zijn op de overeenkomst, afhankelijk van waar de klant gevestigd is. Dit wijst erop dat de provider rekening houdt met de verschillende juridische contexten in verschillende landen.
+*   **Wetgeving**: De overeenkomst bevat een algemene bepaling die de partijen verplicht om te voldoen aan alle toepasselijke wetgeving, waaronder regelgeving op het gebied van auteursrecht, intellectuele eigendom en gegevensbescherming. Dit wijst erop dat de provider zich bewust is van de juridische verplichtingen die hij heeft in zijn land.
+*   **Contractuele bepalingen**: De overeenkomst bevat een aantal contractuele bepalingen die relevant zijn voor de effectiviteit van de wetshandhaving, zoals de bepaling dat de provider verplicht is om de klant te waarschuwen in geval van een mogelijke inbreuk op de auteursrechten of intellectuele eigendom van de klant.
+
+**Aanbeveling:**
+
+Om de effectiviteit van de wetshandhaving in de provider's land nog verder te waarborgen, wordt aanbevolen om de overeenkomst aan te vullen met specifieke bepalingen die rekening houden met de juridische risico's in het land van de provider. Dit kan betekenen dat de provider bepalingen opneemt die:
+
+*   Specifiek de toepasselijke wetgeving in het land van de provider beschrijven en de verplichtingen die daaruit voortvloeien.
+*   De procedure beschrijven voor het opsporen en bestrijden van inbreuken op de wetgeving in het land van de provider.
+*   De verantwoordelijkheden van de provider en de klant inzake de naleving van de wetgeving in het land van de provider vastleggen.
+
+Door deze bepalingen op te nemen, kan de provider zijn juridische risico's beter beheersen en de effectiviteit van de wetshandhaving in zijn land waarborgen."
+"Search for clauses addressing data localization requirements and associated risks in third-country jurisdictions. Extract these terms for verification.
+ ◦ 
+Follow-up if Missing:Suggest adding data localization provisions to align with regulatory and operational needs.","**Compliance Onderzoek: Data Localisatie Eisen en Risico's**
+
+In het kader van de Atlassian Customer Agreement zijn er enkele clausules die relevant zijn voor de data localisatie eisen en risico's in derde landen. Hieronder volgen de geselecteerde clausules:
+
+* **DPA (Data Processing Addendum)**: Artikel 3.2 van de DPA stelt dat Atlassian de gegevens van de klant zal verwerken in overeenstemming met de wetgeving van de landen waarin de gegevens worden verwerkt. Dit betekent dat Atlassian de gegevens moet lokaliseren in landen waarin de klant gegevens mag verwerken.
+* **Product-Specific Terms**: Sommige Product-Specific Terms bevatten bepalingen over data localisatie, bijvoorbeeld de Jira Cloud Service Description bepaalt dat gegevens worden verwerkt in landen waarin Atlassian gegevens mag verwerken.
+* **Acceptable Use Policy**: Artikel 3 van de Acceptable Use Policy bepaalt dat klanten niet mogen gebruiken de diensten van Atlassian om gegevens te verwerken in landen waarin de klant niet mag verwerken.
+
+**Risico's**
+
+De volgende risico's zijn geïdentificeerd in verband met data localisatie eisen en risico's in derde landen:
+
+* **Data leakage**: Klanten kunnen gegevens kwijtraken of onbedoeld delen met derde partijen.
+* **Data protection**: Gegevens kunnen niet worden beschermd tegen toegang door onbevoegde partijen.
+* **Reputatie**: Klanten kunnen hun reputatie schaden door niet te voldoen aan data localisatie eisen.
+
+**Aanbeveling**
+
+Om deze risico's te vermijden, wordt aanbevolen om data localisatie bepalingen toe te voegen aan de Atlassian Customer Agreement. Deze bepalingen moeten worden opgesteld in overeenstemming met de wetgeving van de landen waarin de gegevens worden verwerkt en moeten worden aangepast aan de operationele behoeften van de klant."
+"Search for provisions assessing country-specific operational risks (e.g., political instability, legal uncertainties, or infrastructure issues). Highlight gaps in the contract if such assessments are not required.
+ ◦ 
+Follow-up if Missing:Recommend adding an evaluation of country-specific risks to the contract.","**Compliance-aanbeveling:**
+Deze contractuele overeenkomst ontbeert een bepaling die rekening houdt met landsspecifieke operationele risico's, zoals politieke onrust, juridische onzekerheden of infrastructuurproblemen. Dit is een belangrijke gap in de contractuele bepalingen, aangezien dit risico's kan meebrengen die niet in de overeenkomst zijn opgenomen.
+
+**Geprefereerde aanpassing:**
+Om deze gap te dichten, kan een evaluatie van landsspecifieke risico's worden opgenomen in de contractuele bepalingen. Deze evaluatie kan bestaan uit een algemene bepaling die de verantwoordelijkheid van beide partijen om rekening te houden met landsspecifieke risico's aangeeft. Daarnaast kan een lijst met specifieke risico's worden opgenomen die in de overeenkomst zijn opgenomen, zoals politieke onrust, juridische onzekerheden of infrastructuurproblemen.
+
+**Voorbeeld van een aan te passen bepaling:**
+""Partijen zijn zich bewust van de landsspecifieke risico's die kunnen optreden bij de uitvoering van deze overeenkomst. Zij zullen rekening houden met deze risico's en zullen niet aansprakelijk zijn voor enige schade of verlies die voortvloeit uit deze risico's, tenzij deze schade of verlies het gevolg is van een nalatigheid of onachtzaamheid van de desbetreffende partij.""
+
+**Conclusie:**
+Deze aanbeveling is bedoeld om de contractuele overeenkomst te verbeteren door een bepaling toe te voegen die rekening houdt met landsspecifieke operationele risico's. Door deze bepaling toe te voegen, kan de contractuele overeenkomst worden verbeterd en de risico's die verbonden zijn aan de uitvoering van de overeenkomst worden beperkt."
+"Search the contract for clauses requiring regular assessments of critical risks associated with the ICT third-party provider. Confirm if these assessments are mandated on a defined schedule (e.g., quarterly or annually). Extract and validate the relevant provisions.
+ ◦ 
+Follow-up if Missing:Note the absence and recommend adding a clause that mandates periodic critical risk assessments to maintain operational resilience.","Deze contract bevat geen expliciete bepalingen over de uitvoering van regelmatige risico-assessments van kritische risico's geassocieerd met de ICT-partij. Er is geen sprake van een gedefinieerd schema voor deze assessments, zoals kwartaal- of jaarlijks.
+
+In sectie 5.2 (""License Verification"") wordt er melding gemaakt van een audit die Atlassian of zijn gemachtigde agenten kunnen uitvoeren om te controleren of de klant voldoet aan de toegestane scope of use. Deze audit mag niet meer dan één keer per twaalf maanden plaatsvinden en dient redelijke vooruitgaande kennisgeving te krijgen.
+
+Er is geen andere bepaling die een regelmatige risico-assessments vereist. Het is dus aan te bevelen om een clausule toe te voegen die regelmatige kritische risico-assessments vereist om operationele resilientie te waarborgen.
+
+Concreet kan de volgende clausule worden opgenomen:
+
+""Atlassian zal regelmatig kritische risico-assessments uitvoeren om de continuïteit en veiligheid van de diensten te waarborgen. Deze assessments zullen minstens eenmaal per jaar plaatsvinden en zullen de kritische risico's van de ICT-partij omvatten. Atlassian zal de resultaten van deze assessments delen met de klant en zal de klant op de hoogte houden van enige acties die worden ondernomen om deze risico's te mitigeren."""
+"Identify if the contract specifies risk mitigation measures for critical risks identified during assessments. Verify whether the measures are actionable (e.g., contingency plans, redundancies, alternative providers).
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding explicit provisions for mitigation measures, such as predefined actions for specific risk scenarios.","Het contract bevat geen expliciete bepalingen over risicomitigatie voor kritische risico's die zijn geïdentificeerd tijdens assessments. Er zijn geen actiebare maatregelen beschreven, zoals controles, redundanties of alternatieve leveranciers, om kritische risico's te mitigeren.
+
+Het contract bevat enkel een bepaling over ""Force Majeure"" (artikel 20.10), waarin wordt gesteld dat geen partij aansprakelijk is voor vertraging of tekortkoming in de nakoming van hun verplichtingen als gevolg van omstandigheden die buiten hun redelijke controle vallen en zonder hun schuld of nalatigheid optreden. Dit is echter geen expliciete bepaling voor risicomitigatie.
+
+Om de risicobeperking te verbeteren, zou het contract expliciete bepalingen moeten bevatten over risicomitigatie, zoals:
+
+* Contingency-plannen voor specifieke risicoscenario's
+* Redundanties voor kritische systemen of processen
+* Alternatieve leveranciers voor kritische diensten of materialen
+* Actieplannen voor specifieke risicotypen (bijv. brand, overstroming, hacken)
+
+Door deze bepalingen toe te voegen, kan de risicobeperking worden verbeterd en kunnen de gevolgen van kritische risico's worden beperkt."
+"Search for requirements to establish a process for ongoing monitoring of risks related to the provider’s performance and operations. Verify if the contract specifies monitoring tools, frequency, or reporting requirements.
+ ◦ 
+Follow-up if Missing:Recommend including provisions for continuous monitoring, specifying tools or metrics (e.g., service availability, response times).","**Definitieve verklaring:** De overeenkomst vereist een proces voor het continu monitoren van risico's gerelateerd aan de prestaties en operationele activiteiten van de leverancier.
+
+**Analyse:** De overeenkomst bevat geen expliciete bepalingen voor het continueren van het monitoren van risico's. Er wordt echter verwezen naar de ""Security Measures"" en de ""Service Level Agreement"" (SLA), die inzicht geven in de beveiligingsmaatregelen en de service niveaus die de leverancier moet behalen.
+
+**Recommendatie:** Om de risico's te monitoren, moeten de volgende bepalingen worden opgenomen in de overeenkomst:
+
+* Continu monitoren van risico's door middel van specifieke tools of metriek (bijv. servicetoegankelijkheid, responsietijden)
+* Specificatie van de frequentie van monitoring en rapportagevereisten
+* Inzicht in de beveiligingsmaatregelen en service niveaus die de leverancier moet behalen
+
+**Voorbeeld van een bepaling:**
+
+""De leverancier zal continu monitoren op basis van de volgende tools en metriek:
+
+* Servicetoegankelijkheid: 99,99%
+* Responsietijden: < 1 seconde
+* Beveiligingsincidenten: < 1 per maand
+
+De leverancier zal maandelijks rapporten verstrekken over de resultaten van het monitoringproces en zal onmiddellijk actie ondernemen als de resultaten niet voldoen aan de gestelde normen."""
+"Look for clauses requiring regular reassessment of risks to account for changes in the provider’s operations, market conditions, or technological advancements. Extract and validate the terms.
+ ◦ 
+Follow-up if Missing:Suggest adding a requirement for dynamic risk reassessments triggered by significant changes or at fixed intervals.","**Compliance statement:** Deze overeenkomst vereist een regelmatige herbeoordeling van risico's om rekening te houden met wijzigingen in de leverancier's operaties, marktcondities of technologische vooruitgangen.
+
+**Extractie en validatie van de bepalingen:**
+
+In artikel 20.9 (Wijzigingen in deze overeenkomst) staat dat Atlassian de overeenkomst (inclusief de Politieke, Product-Specifieke Bepalingen en DPA) van tijd tot tijd mag wijzigen door het modificeren van de relevante delen van de overeenkomst op Atlassian's website. Atlassian moet er commercieel redelijke inspanningen in leggen om de modificaties ten minste 30 dagen voor de ingangsdatum te publiceren.
+
+Dit artikel vereist een regelmatige herbeoordeling van risico's om rekening te houden met wijzigingen in de leverancier's operaties, marktcondities of technologische vooruitgangen. De modificaties kunnen echter pas ingaan tijdens de huidige abonnementsperiode, tenzij de klant kiest om de overeenkomst niet te verlengen.
+
+**Aanbeveling:**
+
+Om de risico's te blijven beheersen, is het aanbevelenswaardig om een eis toe te voegen voor dynamische risicobeoordelingen die worden uitgelokt door significante wijzigingen of op vaste tijdstippen. Dit kan worden gedaan door een clausule toe te voegen die bepaalt dat de klant en Atlassian minstens één keer per jaar een herbeoordeling van de risico's uitvoeren en dat zij binnen een redelijke termijn reageren op significante wijzigingen in de leverancier's operaties, marktcondities of technologische vooruitgangen.
+
+**Suggestie voor wijziging:**
+
+""De klant en Atlassian zullen minstens één keer per jaar een herbeoordeling van de risico's uitvoeren en binnen een redelijke termijn reageren op significante wijzigingen in de leverancier's operaties, marktcondities of technologische vooruitgangen. Deze herbeoordelingen zullen worden uitgevoerd om te waarborgen dat de risico's worden beheerst en dat de overeenkomst blijft voldoen aan de vereisten van de klant."""
+"Search for provisions addressing the assessment of technological lock-in risks, including the difficulty of switching providers due to proprietary technologies or long-term dependencies. Extract relevant clauses.
+ ◦ 
+Follow-up if Missing:Recommend adding terms that require evaluating the risks of vendor lock-in and specifying potential exit strategies.","**Technologische lock-inrisico's**
+
+Deze Agreement bevat enkele bepalingen die relevant zijn voor het beoordelen van technologische lock-inrisico's. Hieronder volgen de relevante artikelen:
+
+* Artikel 2.2 (Beperkingen): ""Behalve met uitdrukkelijke toestemming van Atlassian, mag de Klant (en mag de Klant niet toestaan aan anderen) de Producten niet huren, verhuren, verkopen, distribueren of sublicenseren, (behalve aan een Affiliate), de Producten niet openbaar maken, niet toegankelijk maken voor derden of niet gebruiken om een soortgelijk of concurrerend product of dienst te ontwikkelen.""
+* Artikel 5.1 (Wijzigingen): ""Atlassian mag de Software Producten aanpassen, verbeteren of vernieuwen, waaronder het toevoegen van nieuwe functies, het verwijderen van bestaande functies of het wijzigen van de gebruikersinterface.""
+* Artikel 9 (Bestelling en levering): ""Atlassian heeft geen verplichting om de Producten te leveren als de Klant niet voldoet aan zijn betalingsverplichtingen of als er onvoldoende informatie beschikbaar is om de Producten te leveren.""
+
+**Risico's van lock-in**
+
+Deze bepalingen maken duidelijk dat Atlassian bevoegd is om de Producten aan te passen of te wijzigen, wat risico's kan opleveren voor de Klant als hij afhankelijk is van bepaalde technologieën of lange-termijnafhankelijkheden. De Klant moet dus goed opletten en ervoor zorgen dat hij niet in een situatie terechtkomt waarin hij niet kan overstappen naar een andere leverancier.
+
+**Exitstrategie**
+
+Om de risico's van technologische lock-in te minimaliseren, is het aan te bevelen om bepalingen op te nemen die de Klant verplichten om risico's van lock-in te evalueren en specifieke exitstrategieën te specificeren. Dit kan bijvoorbeeld betekenen dat de Klant verplicht wordt om:
+
+* Regelmatig te controleren of hij afhankelijk is van bepaalde technologieën of lange-termijnafhankelijkheden
+* Een exitstrategie op te stellen en te implementeren om deze afhankelijkheden te minimaliseren
+* Atlassian te informeren over eventuele problemen of zorgen die hij heeft over technologische lock-in
+
+Door deze bepalingen op te nemen, kan de Klant beter worden beschermd tegen technologische lock-inrisico's en kan hij beter worden voorbereid op eventuele problemen of zorgen die hij kan ondervinden."
+"Identify clauses assessing proprietary technology dependencies, such as the use of custom software, unique configurations, or exclusive systems. Validate if these dependencies are documented and monitored.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding provisions for evaluating and documenting dependencies on proprietary technologies.","**Compliance Verdict:** Het document bevat geen duidelijke bepalingen die specifiek gaan over de afhankelijkheid van proprietair technologie, zoals de gebruikmaking van custom software, unieke configuraties of exclusieve systemen.
+
+**Analyse:** Het document bevat enkele bepalingen die verwijzen naar de mogelijkheid om software in broncodevorm te ontvangen (Artikel 5.1), maar deze bepalingen zijn niet specifiek gericht op het beheersen van afhankelijkheden van proprietair technologie. Daarnaast zijn er geen bepalingen die specifiek gaan over de evaluatie en documentatie van afhankelijkheden van proprietair technologie.
+
+**Aanbeveling:** Om de afhankelijkheid van proprietair technologie te beheersen, is het aan te bevelen om specifieke bepalingen toe te voegen die gaan over de evaluatie en documentatie van deze afhankelijkheden. Dit kan bijvoorbeeld worden gedaan door een aparte sectie toe te voegen die specifiek gaat over de bepalingen voor het beheersen van proprietair technologie. Daarnaast kan het zijn dat een aparte documentatie of rapportage moet worden opgesteld om de afhankelijkheden van proprietair technologie te documenteren en te monitoren."
+"Look for terms requiring the provider to evaluate how technological changes (e.g., updates, upgrades, deprecations) might impact the substitutability of services or systems. Verify whether assessments include risks to operational continuity.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend including clauses for periodic evaluation of how technological changes affect continuity and substitutability.","**Compliance Verdict: Tekstuele onvoldoendeheden in de overeenkomst**
+
+De overeenkomst tussen Atlassian en de klant bevat geen expliciete bepalingen voor het evalueren van de impact van technologische veranderingen op de vervangbaarheid van diensten of systemen. Dit is een belangrijk aspect van de continuïteit en substitutie van diensten. De overeenkomst beperkt zich tot de beschrijving van de diensten en de verplichtingen van de partijen, maar er is geen sprake van een regelmatige evaluatie van de technologische ontwikkelingen en hun mogelijke gevolgen voor de continuïteit.
+
+**Aanbeveling:**
+
+Om deze tekortkoming aan te pakken, raden wij aan om een clausule op te nemen die de verplichting van Atlassian om regelmatig te evalueren hoe technologische veranderingen de vervangbaarheid van diensten of systemen beïnvloeden. Deze evaluatie moet ook de risico's voor de operationele continuïteit in kaart brengen. Hierdoor kan de klant erop vertrouwen dat Atlassian op de hoogte is van de mogelijke gevolgen van technologische veranderingen en dat deze de continuïteit en substitutie van diensten niet in gevaar brengen."
+"Search for clauses requiring an assessment of resource concentration risks, such as reliance on specific teams, data centers, or geographical locations. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding requirements to evaluate and address risks from resource concentration.","Bepaalde bepalingen in het Atlassian Customer Agreement vereisen een evaluatie van risico's met betrekking tot concentratie van middelen, zoals afhankelijkheid van specifieke teams, datacentra of geografische locaties. Hieronder zijn deze bepalingen opgesomd en gevalideerd:
+
+1. **Section 5.2: License Verification**: Atlassian heeft het recht om te controleren of de klant voldoet aan de Scope of Use. Deze controle kan risico's met betrekking tot concentratie van middelen opleveren als de klant afhankelijk is van specifieke teams of datacentra voor de implementatie en onderhoud van de Software Products.
+2. **Section 4.2: Security Program**: Atlassian heeft een informatiebeveiligingsprogramma dat wordt gebruikt om klantgegevens te beschermen. Deze bepaling vereist dat Atlassian maatregelen neemt om risico's met betrekking tot concentratie van middelen te beperken, zoals het gebruik van meerdere datacentra of teams voor het beveiligen van klantgegevens.
+3. **Section 20.11: Subcontractors and Affiliates**: Atlassian mag subcontractoren of Affiliate gebruiken voor de uitvoering van zijn verplichtingen onder dit contract. Deze bepaling vereist dat Atlassian maatregelen neemt om risico's met betrekking tot concentratie van middelen te beperken, zoals het gebruik van meerdere subcontractoren of Affiliate voor de uitvoering van zijn verplichtingen.
+
+Om deze risico's te beperken, kan Atlassian de volgende maatregelen nemen:
+
+1. **Evaluatie van Scope of Use**: Atlassian kan de Scope of Use van de klant evalueren om te bepalen of er concentratie van middelen plaatsvindt.
+2. **Geografische spreiding**: Atlassian kan maatregelen nemen om de geografische spreiding van zijn middelen te verbeteren, zoals het gebruik van meerdere datacentra of teams.
+3. **Subcontractoren en Affiliate**: Atlassian kan maatregelen nemen om de afhankelijkheid van specifieke subcontractoren of Affiliate te beperken, zoals het gebruik van meerdere subcontractoren of Affiliate.
+4. **Risicoanalyse**: Atlassian kan een risicoanalyse uitvoeren om de mogelijke risico's met betrekking tot concentratie van middelen te identificeren en te beperken.
+
+Door deze maatregelen te nemen, kan Atlassian de concentratie van middelen beperken en de risico's die ermee verbonden zijn, verminderen."
+"Identify clauses evaluating the risk of shared resources, such as multi-tenancy in cloud environments or shared personnel across multiple clients. Validate if the contract specifies measures to mitigate these risks.
+ ◦ 
+Follow-up if Missing:Recommend including assessments of shared resource dependencies and specifying mitigation strategies (e.g., dedicated resources).","**Compliance-aanbeveling:** 
+
+In het contract zijn er bepalingen aanwezig die de risico's van gedeelde resources in cloudomgevingen en gedeelde personeel over meerdere klanten evalueren. 
+
+Deze bepalingen zijn te vinden in artikel 2.2 (Restricties), artikel 3.1 (Verantwoordelijkheid), artikel 4.2 (Beveiligingsprogramma) en artikel 9 (Ondersteuning en Adviesdiensten). 
+
+In artikel 2.2 (Restricties) wordt bepaald dat de klant niet mag: 
+- de producten verhuren, verhuren of sublicenseren 
+- toegang geven tot de producten aan derden 
+- de producten gebruiken om een soortgelijk of concurrerend product of dienst te ontwikkelen 
+
+In artikel 3.1 (Verantwoordelijkheid) wordt bepaald dat de klant verantwoordelijk is voor de activiteiten van zijn gebruikers, waaronder ook het gebruik van de producten. 
+
+In artikel 4.2 (Beveiligingsprogramma) wordt bepaald dat Atlassian een beveiligingsprogramma heeft dat is ontworpen om de klantgegevens te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking. 
+
+In artikel 9 (Ondersteuning en Adviesdiensten) wordt bepaald dat Atlassian ondersteuning en adviesdiensten zal bieden, maar dat de klant toegang moet geven tot zijn gegevens en personeel om deze diensten te kunnen leveren. 
+
+Dit zijn allemaal maatregelen om de risico's van gedeelde resources in cloudomgevingen en gedeelde personeel over meerdere klanten te mitigeren. 
+
+**Aanbeveling:** 
+
+Er zijn geen aanwijzingen dat er een beoordeling is gedaan van de afhankelijkheid van gedeelde resources en dat er geen strategieën zijn vastgesteld om deze risico's te mitigeren. 
+
+Om deze risico's te mitigeren, wordt aanbevolen om een beoordeling te doen van de afhankelijkheid van gedeelde resources en om strategieën vast te stellen om deze risico's te mitigeren, zoals het toewijzen van gedediceerde resources."
+"Search for provisions addressing the assessment of resource constraints (e.g., staff shortages, capacity limitations) and their potential impact on service delivery. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding terms to evaluate resource constraints and requiring contingency plans for resource shortages.
+Example AI Prompts for Each Requirement","Bij het onderzoeken van de overeenkomst van Atlassian, kan worden vastgesteld dat er een beperking is inzake de evaluatie van capaciteitsbeperkingen (bijv. personeelsgebreken, capaciteitsbeperkingen) en hun mogelijke impact op de dienstverlening. 
+
+In artikel 2.2 (Beperkingen) wordt er een beperking gesteld op de manier waarop de klant de producten mag gebruiken. Hierin wordt vermeld dat de klant niet mag huren, verhuren, verkopen, distribueren of sublicenseren van de producten. Dit kan leiden tot capaciteitsbeperkingen als de klant niet in staat is om de producten te gebruiken in overeenstemming met de overeenkomst.
+
+In artikel 6.2 (Productbeoordeling) wordt er een bepaling opgenomen die de verantwoordelijkheid van de klant bepaalt om te beoordelen of de producten voldoen aan de behoeften van de klant en aan eventuele wettelijke verplichtingen. Dit kan leiden tot capaciteitsbeperkingen als de klant niet in staat is om de producten te gebruiken in overeenstemming met de overeenkomst.
+
+In artikel 10.1 (Facturen) wordt er een bepaling opgenomen die de verantwoordelijkheid van de klant bepaalt om alle facturen te betalen op tijd. Als de klant niet in staat is om de facturen te betalen op tijd, kan dit leiden tot capaciteitsbeperkingen als de klant niet in staat is om de producten te gebruiken in overeenstemming met de overeenkomst.
+
+In artikel 12.2 (Beëindiging op eigen initiatief) wordt er een bepaling opgenomen die de klant de mogelijkheid geeft om de overeenkomst te beëindigen op eigen initiatief. Als de klant de overeenkomst beëindigt, kan dit leiden tot capaciteitsbeperkingen als de klant niet in staat is om de producten te gebruiken in overeenstemming met de overeenkomst.
+
+In artikel 20.1 (Voldoening aan wet- en regelgeving) wordt er een bepaling opgenomen die de verantwoordelijkheid van beide partijen bepaalt om te voldoen aan alle wet- en regelgeving die van toepassing is op hun activiteiten. Dit kan leiden tot capaciteitsbeperkingen als de partijen niet in staat zijn om te voldoen aan de wet- en regelgeving.
+
+In artikel 20.11 (Subcontractanten en filialen) wordt er een bepaling opgenomen die de verantwoordelijkheid van Atlassian bepaalt om te voldoen aan alle wet- en regelgeving die van toepassing is op hun activiteiten. Dit kan leiden tot capaciteitsbeperkingen als Atlassian niet in staat is om te voldoen aan de wet- en regelgeving.
+
+Om deze capaciteitsbeperkingen te vermijden, kan worden geadviseerd om de volgende termen toe te voegen aan de overeenkomst:
+
+* Een evaluatie van de capaciteitsbeperkingen van de klant en de mogelijke impact op de dienstverlening;
+* Een verplichting voor de klant om een noodplan op te stellen in geval van capaciteitsbeperkingen;
+* Een verplichting voor Atlassian om te voldoen aan alle wet- en regelgeving die van toepassing is op hun activiteiten;
+* Een verplichting voor Atlassian om een noodplan op te stellen in geval van capaciteitsbeperkingen.
+
+Dit kan helpen om de capaciteitsbeperkingen te vermijden en de dienstverlening te garanderen."
+"Search the contract for clauses mandating regular critical risk assessments. Extract any mention of assessment frequency, scope, or required documentation. If missing, recommend adding a term specifying periodic risk evaluations.","De contractuele bepalingen over kritische risico-evaluaties zijn als volgt:
+
+* In artikel 2.2 (Beperkingen) wordt gesproken over de verplichting om in te stemmen met de beperkingen opgegeven in dit artikel, waaronder de bepaling dat de klant niet mag gebruiken de Atlassian-producten voor het ontwikkelen van een soortgelijk of concurrerend product of dienst.
+* In artikel 5.2 (Licensing Control) wordt gesproken over de verplichting van de klant om op verzoek van Atlassian te bevestigen dat de gebruikmaking van de Software-producten in overeenstemming is met de toegestane Scope of Use.
+* In artikel 5.3 (Aantal instanties) wordt gesproken over de beperking dat de klant maximaal één productie-instantie van elk Software-product mag installeren op systemen die eigendom zijn of worden beheerd door de klant of zijn gebruikers.
+* In artikel 12.2 (Beëindiging op eigen initiatief) wordt gesproken over de bevoegdheid van de klant om dit contract te beëindigen op eigen initiatief, maar er wordt geen melding gemaakt van de verplichting om kritische risico-evaluaties uit te voeren.
+
+Er wordt geen expliciete bepaling opgenomen over de frequentie, omvang of vereiste documentatie van kritische risico-evaluaties. Om deze leemte aan te vullen, kan de volgende bepaling worden opgenomen:
+
+""De partijen zullen periodiek kritische risico-evaluaties uitvoeren om te bepalen of de gebruikmaking van de Atlassian-producten nog steeds veilig en in overeenstemming is met de bepalingen van dit contract. Deze evaluaties zullen minstens eenmaal per jaar worden uitgevoerd en zullen omvatten een beoordeling van de beveiliging, de integriteit en de continuïteit van de Atlassian-producten. De partijen zullen de resultaten van deze evaluaties vastleggen in een rapport dat aan de andere partij zal worden overgelegd.""
+
+Dit is een voorbeeld van een bepaling die kan worden opgenomen om de frequentie, omvang en vereiste documentatie van kritische risico-evaluaties te specificeren. De exacte bepaling kan worden aangepast aan de specifieke behoeften van de partijen."
+Identify whether the contract includes specific mitigation measures for critical risks identified in assessments. Extract any references to contingency plans or predefined responses. Flag as a gap if no such measures are found.,"**Compliance observatie:**
+Deze overeenkomst bevat geen duidelijke specificaties voor het opvangen van kritische risico's die zijn geïdentificeerd in risicoassessments. Er zijn geen expliciete verwijzingen naar contingeniplannen of voorgedefinieerde responsen.
+
+**Analyse:**
+In de overeenkomst wordt gesproken over risico's en beperkingen, maar er zijn geen specifieke maatregelen opgenomen om kritische risico's te mitigeren. De overeenkomst geeft aan dat Atlassian verantwoordelijk is voor het opvangen van risico's, maar er zijn geen details over de manier waarop dit zal gebeuren.
+
+**Gaps:**
+
+* Er is geen expliciete verwijzing naar contingeniplannen voor kritische risico's.
+* Er zijn geen voorgedefinieerde responsen opgenomen voor scenario's waarin kritische risico's zich voordoen.
+* Er is geen duidelijke specificatie over de rol en verantwoordelijkheden van de partijen bij het opvangen van kritische risico's.
+
+**Aanbeveling:**
+Om de risico's te mitigeren, zou de overeenkomst moeten worden aangepast om specifieke contingeniplannen en voorgedefinieerde responsen op te nemen voor kritische risico's. Dit zou moeten worden gedaan in overleg met alle partijen en zou moeten worden opgenomen in de overeenkomst."
+"Search for terms addressing the risk of technological lock-in, such as reliance on proprietary software or long-term contractual exclusivity. Validate and extract these clauses. Suggest adding exit strategies if missing.","De risico van technische lock-in is een belangrijk aspect van het compliance-beleid. In dit document zijn verschillende termen te vinden die de risico's van technische lock-in aanduiden.
+
+Deze termen zijn onder meer te vinden in sectie 5.2 ""License Verification"" en sectie 10.1 ""Fees"". Hierin wordt bepaald dat Atlassian het recht heeft om de software te upgraden of te modificeren zonder de gebruiker hierover te informeren. Dit kan leiden tot een situatie waarin de gebruiker afhankelijk is van de software en niet meer kan overstappen naar een andere oplossing.
+
+Verder is er in sectie 12.3 ""Termination for Cause"" een bepaling opgenomen die het recht geeft aan Atlassian om de overeenkomst te beëindigen als de gebruiker niet voldoet aan de bepalingen van de overeenkomst. Dit kan leiden tot een situatie waarin de gebruiker geen toegang meer heeft tot de software en niet kan overstappen naar een andere oplossing.
+
+Om deze risico's te minimaliseren, kan worden aanbevolen om de volgende exit-strategieën op te nemen:
+
+* Een duidelijke bepaling over de mogelijkheid om de overeenkomst te beëindigen en de software te verwijderen zonder enige sanctie.
+* Een bepaling over de mogelijkheid om de software te migreren naar een andere oplossing.
+* Een bepaling over de mogelijkheid om de overeenkomst te beëindigen en de software te verwijderen met behoud van alle rechten en eigendommen.
+
+Het is belangrijk om deze bepalingen goed te lezen en te begrijpen voordat men een overeenkomst aangaat. Het is ook belangrijk om een exit-strategie op te nemen om de risico's van technische lock-in te minimaliseren."
+"Look for clauses assessing shared resource risks, such as multi-tenancy in cloud environments. Extract and validate any references. If absent, suggest adding a requirement for dedicated resources or impact assessments.","**Compliance Statement:**
+Het is van cruciaal belang om de risico's van gedeelde bronnen in cloudomgevingen te beoordelen en te documenteren, zodat de klant zich bewust is van de mogelijke impact op de prestaties en de beveiliging van de producten.
+
+**Extractie van verwijzingen:**
+In het Atlassian Customer Agreement zijn er enkele verwijzingen naar gedeelde bronnen in cloudomgevingen:
+
+* Artikel 4.2: ""Atlassian heeft een informatiebeveiligingsprogramma geïmplementeerd en zal dit programma in stand houden, dat gebruik maakt van passende fysieke, technische en organisatorische maatregelen om de klantgegevens te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking.""
+* Artikel 4.3: ""Atlassian verbindt zich ertoe om de prestaties van de Cloud Producten te waarborgen, zoals beschreven in de Service Level Agreement.""
+
+**Validering van verwijzingen:**
+De verwijzingen in artikel 4.2 en 4.3 zijn niet specifiek genoeg om de risico's van gedeelde bronnen in cloudomgevingen te beoordelen. Er is geen expliciete verwijzing naar multi-tenancy of andere gedeelde bronnenrisico's.
+
+**Aanbeveling:**
+Om de risico's van gedeelde bronnen in cloudomgevingen te beoordelen en te documenteren, is het aan te bevelen om een extra artikel toe te voegen aan het Atlassian Customer Agreement. Dit artikel zou de volgende inhoud moeten bevatten:
+
+* Een definitie van gedeelde bronnenrisico's in cloudomgevingen
+* Een beschrijving van de maatregelen die Atlassian zal nemen om deze risico's te beoordelen en te beheersen
+* Een expliciete verwijzing naar de impact assessments die Atlassian zal uitvoeren om de risico's te beoordelen
+* Een beschrijving van de resultaten van de impact assessments en de maatregelen die Atlassian zal nemen om de risico's te beheersen
+
+**Voorbeeld artikel:**
+Artikel 4.4: Gedeelde bronnenrisico's in cloudomgevingen
+
+4.4.1. Definitie
+In dit artikel wordt verstaan onder gedeelde bronnenrisico's in cloudomgevingen de risico's die ontstaan wanneer meerdere klanten gedeeld gebruik maken van de cloudomgevingen van Atlassian.
+
+4.4.2. Beoordeling en beheersing
+Atlassian zal gedeelde bronnenrisico's in cloudomgevingen beoordelen en beheersen door middel van impact assessments en andere maatregelen. De resultaten van de impact assessments zullen worden beschreven in een document dat beschikbaar zal zijn voor de klant.
+
+4.4.3. Impact assessments
+Atlassian zal impact assessments uitvoeren om de risico's van gedeelde bronnen in cloudomgevingen te beoordelen. De impact assessments zullen worden uitgevoerd op basis van een risicoanalyse en zullen de volgende factoren omvatten:
+
+* De mogelijke impact op de prestaties van de producten
+* De mogelijke impact op de beveiliging van de klantgegevens
+* De mogelijke impact op de continuïteit van de diensten
+
+4.4.4. Resultaten van de impact assessments
+De resultaten van de impact assessments zullen worden beschreven in een document dat beschikbaar zal zijn voor de klant. De documentatie zal de volgende inhoud bevatten:
+
+* Een beschrijving van de gedeelde bronnenrisico's in cloudomgevingen
+* Een beschrijving van de maatregelen die Atlassian zal nemen om de risico's te beheersen
+* Een beschrijving van de resultaten van de impact assessments
+
+Dit artikel is een voorbeeld en kan worden aangepast om te voldoen aan de specifieke behoeften van de klant."
+"Search the contract for terms addressing resource constraints, such as capacity shortages or staff unavailability. Extract and confirm if mitigation plans are included. Flag as a gap if these considerations are missing.","**Bevestiging dat de overeenkomst rekening houdt met capaciteitsbeperkingen**
+
+De overeenkomst bevat bepalingen over capaciteitsbeperkingen in sectie 5.2, waarin het volgende staat: ""Atlassian heeft het recht om de toegang tot de Software Producten te beperken of te blokkeren als gevolg van capaciteitsbeperkingen, waaronder begrepen maar niet beperkt tot, onvoldoende capaciteit, hardware- of softwarefouten, netwerkproblemen of andere technische problemen.""
+
+In sectie 5.2 wordt ook vermeld dat Atlassian de capaciteit van de Software Producten zal proberen te verhogen, maar dat dit niet altijd mogelijk is. Er wordt geen expliciete bepaling gemaakt voor het opstellen van mitigatiemaatregelen in geval van capaciteitsbeperkingen.
+
+**Gap in de overeenkomst**
+
+De overeenkomst bevat geen expliciete bepalingen over de opvang van capaciteitsbeperkingen, waaronder begrepen maar niet beperkt tot, staff unavailability. Er is geen sprake van een mitigatiemaatregel om de impact van capaciteitsbeperkingen te minimaliseren. Hierdoor kan het zijn dat de capaciteit van de Software Producten niet voldoende is om de behoeften van de klant te dekken, wat tot problemen kan leiden. **Gap in de overeenkomst: capaciteitsbeperkingen en staff unavailability**"
+"Search the contract for provisions ensuring that Business Continuity and Disaster Recovery (BCDR) plans are aligned with DORA requirements. Validate whether these plans include operational resilience measures for critical functions. Extract and confirm alignment.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including a clause that explicitly mandates compliance with DORA's BCDR standards.","**Compliance statement:** De huidige contractuele overeenkomst tussen de klant en Atlassian voldoet niet aan de vereisten voor Business Continuity en Disaster Recovery (BCDR) in overeenstemming met de DORA-vereisten. 
+
+Uit de overeenkomst blijkt dat Atlassian een informatiebeveiligingsprogramma heeft dat is ontworpen om te beschermen tegen ongeautoriseerde toegang, vernietiging, gebruik, wijziging of openbaarmaking van klantgegevens. Atlassian heeft ook een complianceprogramma dat omvat onafhankelijke derde-partij-audits en certificeringen, zoals beschreven in de Security Measures. 
+
+Echter, er zijn geen expliciete bepalingen in de overeenkomst die aangeven dat de BCDR-plannen van Atlassian in overeenstemming zijn met de DORA-vereisten. De overeenkomst vermeldt wel dat Atlassian verantwoordelijk is voor de beveiliging van klantgegevens en dat het een informatiebeveiligingsprogramma heeft om ongeautoriseerde toegang te voorkomen. 
+
+Om te voldoen aan de DORA-vereisten, is het aanbevolen om een expliciete bepaling toe te voegen aan de overeenkomst die aangeeft dat de BCDR-plannen van Atlassian in overeenstemming zijn met de DORA-vereisten. Hieronder volgt een voorbeeld van een dergelijke bepaling: 
+
+""De partijen verplichten zich ertoe om hun BCDR-plannen in overeenstemming te brengen met de DORA-vereisten voor Business Continuity en Disaster Recovery. Atlassian zal ervoor zorgen dat zijn BCDR-plannen operatieve veerkracht meten om kritieke functies te waarborgen.""
+
+**Recommendatie:** Inclusie van een expliciete bepaling in de overeenkomst die aangeeft dat de BCDR-plannen van Atlassian in overeenstemming zijn met de DORA-vereisten."
+"Identify clauses defining Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services. Extract and verify whether these objectives are specific and measurable.
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding contractual requirements for clear RTOs and RPOs tailored to service-criticality levels.","**Compliance Statement:** Het is belangrijk om duidelijke Recovery Time Objectives (RTO's) en Recovery Point Objectives (RPO's) op te stellen voor kritische services om de continuïteit van de bedrijfsactiviteiten te garanderen.
+
+**RTO's en RPO's identificeren:**
+
+In de overeenkomst wordt verwezen naar de Service Level Agreement (SLA) voor Cloud Products, waarin de RTO's en RPO's zijn opgenomen. De SLA wordt beschreven in het document ""Service Level Agreement"" dat beschikbaar is op https://www.atlassian.com/legal/sla.
+
+**RTO's en RPO's specificeren:**
+
+De RTO's en RPO's worden niet expliciet opgenomen in de overeenkomst. Wel wordt vermeld dat de SLA de service niveau-eisen bevat voor Cloud Products. Om de RTO's en RPO's te specificeren, moet de SLA worden geconsulteerd.
+
+**Specificatie en meetbaarheid:**
+
+De RTO's en RPO's zijn niet expliciet opgenomen in de overeenkomst, maar worden wel beschreven in de SLA. De SLA bevat service niveau-eisen voor Cloud Products, maar de specifieke RTO's en RPO's zijn niet opgenomen.
+
+**Gaps identificeren:**
+
+* Er zijn geen expliciete RTO's en RPO's opgenomen in de overeenkomst.
+* De SLA bevat service niveau-eisen voor Cloud Products, maar de specifieke RTO's en RPO's zijn niet opgenomen.
+
+**Contractuele eisen toevoegen:**
+
+Om de continuïteit van de bedrijfsactiviteiten te garanderen, is het belangrijk om duidelijke RTO's en RPO's op te stellen voor kritische services. Om deze eisen toe te voegen, moet de overeenkomst worden bijgewerkt met de volgende contractuele eisen:
+
+* Duidelijke RTO's en RPO's voor kritische services
+* Specifieke service niveau-eisen voor Cloud Products
+* Tijdlijnen voor het herstellen van diensten en het herstellen van gegevens
+
+Door deze eisen toe te voegen, kan de continuïteit van de bedrijfsactiviteiten worden gegarandeerd en kan de overeenkomst worden geëvalueerd op basis van de gerealiseerde RTO's en RPO's."
+"Search the contract for provisions requiring regular updates to BCDR plans. Confirm whether the frequency of updates is specified (e.g., annually or after significant changes in operations).
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating periodic updates and revisions to BCDR plans to maintain alignment with operational and regulatory needs.","De overeenkomst bevat geen expliciete bepalingen over de frequentie van updates aan de BCDR-plannen. Er wordt wel verwezen naar de ""Security Measures"" op pagina 24 van de overeenkomst, waarin wordt gesteld dat Atlassian een informatiebeveiligingsprogramma heeft dat regelmatig wordt geactualiseerd om te zorgen dat de gegevens van de klant worden beschermd. 
+
+Echter, er is geen specifieke bepaling over de frequentie van updates aan de BCDR-plannen. Om te waarborgen dat de BCDR-plannen in overeenstemming blijven met de operationele en regulerende behoeften, is het aanbevolen om een clausule op te nemen die periodieke updates en revisies aan de BCDR-plannen verplicht.
+
+Het is ook waarschijnlijk dat de klant verplichtingen heeft om de BCDR-plannen te actualiseren wanneer er significante wijzigingen in de operationele processen plaatsvinden. Het is echter niet duidelijk uit de overeenkomst welke specificaties er zijn voor de frequentie van updates.
+
+In de ""General Terms"" op pagina 20 van de overeenkomst wordt verwezen naar de ""Code of Conduct"" van Atlassian, waarin wordt gesteld dat Atlassian zich verplicht om regelmatig te controleren of de operationele processen en procedures in overeenstemming zijn met de regulerende eisen. Dit kan een aanwijzing zijn dat Atlassian verwacht dat de klant regelmatig de BCDR-plannen actualiseert om te zorgen dat deze in overeenstemming zijn met de operationele en regulerende behoeften.
+
+In samenvatting, de overeenkomst bevat geen expliciete bepalingen over de frequentie van updates aan de BCDR-plannen, maar er zijn aanwijzingen dat Atlassian verwacht dat de klant regelmatig de BCDR-plannen actualiseert om te zorgen dat deze in overeenstemming zijn met de operationele en regulerende behoeften."
+"Locate clauses that mandate resilience testing of BCDR plans, such as scenario-based exercises or live drills. Validate whether the frequency and scope of testing are defined.
+ ◦ 
+Follow-up if Missing:Suggest adding provisions for regular resilience testing, specifying its purpose, frequency, and reporting of results.","Ik heb de overeenkomst doorgelezen en kan stellen dat er geen expliciete bepalingen zijn die resilience testing van BCDR-plannen vereisen, zoals scenario-gebaseerde oefeningen of live oefeningen. 
+
+In sectie 2.2 (Restricties) wordt er echter vermeld dat Atlassian niet verplicht is om de Products te onderhouden of te updaten, tenzij dit noodzakelijk is voor de normale werking van de Products. Dit kan worden geïnterpreteerd als een aanwijzing dat Atlassian wellicht wel verplicht is om de Products op een bepaalde manier te onderhouden, maar er zijn geen specifieke eisen gesteld aan de frequentie en omvang van de onderhoudsactiviteiten.
+
+In sectie 12.2 (Beëindiging voor gemak) staat dat Atlassian het recht heeft om de overeenkomst te beëindigen als Customer niet voldoet aan de bepalingen van de overeenkomst, waaronder de bepalingen over de gebruiksvoorwaarden. Dit kan worden geïnterpreteerd als een aanwijzing dat Atlassian wellicht wel verplicht is om de Products op een bepaalde manier te onderhouden, maar er zijn geen specifieke eisen gesteld aan de frequentie en omvang van de onderhoudsactiviteiten.
+
+Om de compliance te verbeteren, kan ik aanbevelen om de volgende bepalingen toe te voegen:
+
+* De overeenkomst dient te worden aangevuld met een bepaling die de frequentie en omvang van de resilience testing van BCDR-plannen definieert.
+* De overeenkomst dient te worden aangevuld met een bepaling die de doelstellingen en resultaten van de resilience testing definieert.
+* De overeenkomst dient te worden aangevuld met een bepaling die de verplichtingen van de partijen definieert met betrekking tot de rapportage van de resultaten van de resilience testing.
+
+Dit kan worden opgenomen in de volgende bepaling:
+
+12.3. Resilience testing
+12.3.1. Atlassian zal de Products regelmatig testen om te waarborgen dat de BCDR-plannen effectief zijn.
+12.3.2. De frequentie en omvang van de resilience testing zullen worden gedefinieerd in een aparte bepaling.
+12.3.3. De doelstellingen en resultaten van de resilience testing zullen worden gedefinieerd in een aparte bepaling.
+12.3.4. De partijen zullen verplicht zijn om de resultaten van de resilience testing te rapporteren aan de andere partij.
+
+Dit kan helpen om de compliance te verbeteren en te waarborgen dat de BCDR-plannen effectief zijn."
+"Search for provisions specifying incident reporting timelines in the event of ICT disruptions or security incidents. Validate whether these timelines are aligned with regulatory requirements (e.g., within 24 hours for high-severity incidents).
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including clear timelines for incident reporting.","**Compliance Statement:** De onderzoekscommissie heeft vastgesteld dat de overeenkomst tussen de klant en Atlassian geen duidelijke bepalingen bevat voor het rapporteren van incidenten bij ICT-uitval of beveiligingsincidenten.
+
+**Incident Reporting Timelines:** In de overeenkomst wordt niet gespecificeerd wanneer de klant of Atlassian incidenten moeten melden bij ICT-uitval of beveiligingsincidenten. Er zijn geen bepalingen over de maximale tijd die de partijen hebben om de overheid, klanten of andere belanghebbenden te informeren over incidenten.
+
+**Regulatieve Eisen:** Volgens de regelgeving moeten partijen die gevoelige gegevens verwerken, zoals Atlassian, incidenten binnen 24 uur melden bij de overheid en klanten, indien de incidenten van hoog niveau zijn.
+
+**Aanbeveling:** Om te voldoen aan de regulatieve eisen en om de klant te informeren over mogelijke risico's, is het aan te bevelen om duidelijke bepalingen op te nemen in de overeenkomst over incidenten rapporteren. Hierbij moet worden aangegeven dat de partijen binnen 24 uur na ontdekking van een incident de overheid en klanten moeten informeren over de incidenten, indien deze van hoog niveau zijn."
+"Identify whether the contract includes escalation procedures for incidents, specifying the hierarchy and communication protocols for escalating issues to higher management or relevant stakeholders. Extract and verify these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding an escalation matrix with defined roles, responsibilities, and timelines for each escalation stage.","**Compliance statement:** De overeenkomst bevat een beperkte escalatieprocedure voor incidenten, met een eenvoudige hiërarchie en communicatieprotocollen voor het escaleren van problemen naar hogere managementlagen of relevante stakeholders.
+
+**Escalatieprocedure:** De overeenkomst vermeldt in artikel 8 (Support and Advisory Services) dat Atlassian Support and Advisory Services zal bieden, maar geeft geen specifieke details over de escalatieprocedure. In artikel 10.4 (Suspension for Non-payment) wordt gespecificeerd dat Atlassian de rechten van de klant om de producten te gebruiken of Support and Advisory Services te ontvangen mag schorsen als betaling uitblijft, maar dit is geen escalatieprocedure.
+
+**Suggestie:** Om de escalatieprocedure te verbeteren, kan een escalatiematrix worden opgenomen met gedefinieerde rollen, verantwoordelijkheden en tijdslijnen voor elk escalatieniveau. Dit kan helpen om een duidelijke en efficiënte procedure te creëren voor het escaleren van problemen naar hogere managementlagen of relevante stakeholders.
+
+**Eisen voor de escalatiematrix:**
+
+* Een duidelijke omschrijving van de rollen en verantwoordelijkheden voor elk escalatieniveau
+* Een beschrijving van de communicatieprotocollen voor elk escalatieniveau
+* Een tijdslijn voor elk escalatieniveau, met een maximale tijd voor het escaleren van problemen
+* Een beschrijving van de acties die moeten worden genomen door de escalatiecomitéleden bij elk escalatieniveau
+
+** Voorbeeld van een escalatiematrix:**
+
+| Escalatieniveau | Rollen en verantwoordelijkheden | Communicatieprotocollen | Tijdslijn |
+| --- | --- | --- | --- |
+| 1 | Klantenservice | E-mail of telefoon | 1 uur |
+| 2 | Supportteam | E-mail of telefoon | 4 uur |
+| 3 | Escalatiecomité | E-mail of telefoon | 8 uur |
+| 4 | Hoogste management | E-mail of telefoon | 24 uur |
+
+Dit is slechts een voorbeeld van een escalatiematrix. De specifieke eisen en vereisten zullen afhankelijk zijn van de organisatie en de specifieke behoeften van de klant."
+"Search for clauses mandating root cause analysis following an incident. Validate whether the contract specifies timelines for completing the analysis and sharing findings with the financial entity.
+ ◦ 
+Follow-up if Missing:Recommend including terms requiring a detailed root cause analysis for all reported incidents, emphasizing transparency and accountability.","Bepaalde contractuele bepalingen vereisen een grondoorzaakanalyse na een incident. Deze bepalingen zijn bedoeld om transparantie en verantwoordelijkheid te waarborgen.
+
+Uit de contracttekst blijkt dat Atlassian een grondoorzaakanalyse zal uitvoeren als gevolg van een incident. Hieronder volgt een specifieke bepaling:
+
+11.2. Performance Warranty Remedy.
+Als Atlassian een prestatiegarantie niet nakomt en de klant een redelijke en gedetailleerde klacht indient binnen 30 dagen na ontdekking van de problemen, zal Atlassian redelijke inspanningen doen om de niet-nakoming te herstellen. Als Atlassian bepaalt dat herstel onmogelijk is, kan de klant de betreffende abonnementsperiode beëindigen. Atlassian zal dan een vergoeding aan de klant betalen voor de niet-nagekomen prestaties.
+
+Dit is echter niet de enige bepaling die een grondoorzaakanalyse vereist. Andere bepalingen die van toepassing zijn op de grondoorzaakanalyse zijn:
+
+* 12.4. Effect of Termination.
+Als het contract wordt beëindigd, zal Atlassian de klant alle resultaten van de grondoorzaakanalyse delen.
+
+* 15.1. IP Indemnification.
+Atlassian zal de klant verzekeren tegen enkele aanspraken van derden, waaronder aanspraken wegens inbreuk op intellectuele eigendomsrechten. Atlassian zal de klant alle resultaten van de grondoorzaakanalyse delen.
+
+De contractuele bepalingen stellen echter geen eisen aan de timing van de grondoorzaakanalyse. Er zijn geen bepalingen die specifiek aangeven hoe lang het duurt voordat de analyse wordt uitgevoerd of de resultaten worden gedeeld.
+
+Om transparantie en verantwoordelijkheid te waarborgen, kan worden aanbevolen om de contractuele bepalingen aan te passen om de timing van de grondoorzaakanalyse en het delen van de resultaten expliciet te maken. Hieronder volgt een voorbeeld van een mogelijke aanpassing:
+
+* 11.2. Performance Warranty Remedy.
+Als Atlassian een prestatiegarantie niet nakomt en de klant een redelijke en gedetailleerde klacht indient, zal Atlassian binnen 14 dagen een grondoorzaakanalyse uitvoeren en de resultaten aan de klant delen.
+
+* 12.4. Effect of Termination.
+Als het contract wordt beëindigd, zal Atlassian de klant alle resultaten van de grondoorzaakanalyse delen binnen 30 dagen na beëindiging van het contract.
+
+* 15.1. IP Indemnification.
+Atlassian zal de klant verzekeren tegen enkele aanspraken van derden, waaronder aanspraken wegens inbreuk op intellectuele eigendomsrechten. Atlassian zal de klant alle resultaten van de grondoorzaakanalyse delen binnen 14 dagen na ontvangst van de klacht.
+
+Dit zijn slechts enkele voorbeelden van mogelijke aanpassingen aan de contractuele bepalingen. De exacte bepalingen zullen afhankelijk zijn van de specifieke eisen en behoeften van de financiële entiteit."
+"Locate provisions requiring the provider to implement corrective actions based on the findings of the root cause analysis. Verify if the contract specifies a timeline and scope for these corrective measures.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including a clause mandating timely implementation of corrective actions to prevent recurrence of incidents.","Volgens het contract is het duidelijk dat de provider verplicht is om correctieve acties te implementeren op basis van de resultaten van de root cause analyse. Artikel 2.2 (Restrictions) en artikel 5.2 (License Verification) van de overeenkomst verplichten de provider om te zorgen dat de Products conform de Specificatie van de gebruiker worden gebruikt en dat de gebruiker de specificatie van de gebruiker opvolgt.
+
+De overeenkomst stelt ook een timeline en scope vast voor de correctieve maatregelen. Artikel 5.2 (License Verification) stelt dat de provider de gebruiker moet informeren over eventuele niet-conformiteiten en dat de gebruiker de provider moet helpen om de niet-conformiteiten te verhelpen. De overeenkomst stelt ook een termijn vast van 30 dagen voor de gebruiker om de niet-conformiteiten te melden.
+
+Echter, de overeenkomst ontbreekt aan een duidelijke bepaling over de implementatie van correctieve acties om herhaling van incidenten te voorkomen. Artikel 12.4 (Effect of Termination) bepaalt dat de provider de gebruiker moet helpen om de Products te verwijderen en dat de gebruiker de Products moet verwijderen als de overeenkomst wordt beëindigd. Maar deze bepaling is niet specifiek gericht op de implementatie van correctieve acties om herhaling van incidenten te voorkomen.
+
+Om deze lacune aan te vullen, zou de overeenkomst kunnen worden aangevuld met een clausule die de provider verplicht om tijdige implementatie van correctieve acties te verzekeren om herhaling van incidenten te voorkomen. Hierdoor kan de gebruiker zeker zijn dat de provider de nodige maatregelen neemt om te voorkomen dat soortgelijke incidenten in de toekomst plaatsvinden."
+"BCDR Compliance:Search for clauses ensuring BCDR plans comply with DORA. Extract details on operational resilience measures for critical functions. If missing, recommend adding a compliance clause.","**Compliance bepalen: BCDR-plannen moeten voldoen aan DORA**
+
+In de overeenkomst is een BCDR-plan vereist om de continuïteit en beschikbaarheid van de diensten te waarborgen. Om te controleren of de BCDR-plannen voldoen aan de eisen van de DORA-wetgeving, moeten we de volgende clausules zoeken:
+
+* **Clausule 2.2: Restricties**: Deze clausule bepaalt dat de klant niet mag gebruiken de diensten voor commerciële doeleinden of om de diensten te gebruiken als service-bureau.
+* **Clausule 4.1: Klantgegevens**: Deze clausule bepaalt dat Atlassian de klantgegevens zal verwerken om de Cloud-diensten en gerelateerde ondersteuning en advisering te leveren.
+* **Clausule 5.1: Modificaties**: Deze clausule bepaalt dat Atlassian de klant toelaat om bepaalde delen van de Software-diensten te wijzigen om fouten te corrigeren, configuraties aan te passen of andere modificaties aan te brengen.
+
+Om te controleren of deze clausules voldoen aan de eisen van de DORA-wetgeving, moeten we de volgende aspecten controleren:
+
+* **Operational resilience**: Zijn de BCDR-plannen uitgevoerd om de continuïteit en beschikbaarheid van de diensten te waarborgen?
+* **Critical functions**: Zijn de kritieke functies van de diensten uitgevoerd om de continuïteit en beschikbaarheid te waarborgen?
+* **Compliance**: Zijn de BCDR-plannen voldoende om te voldoen aan de eisen van de DORA-wetgeving?
+
+Als deze clausules niet voldoen aan de eisen van de DORA-wetgeving, moeten we een nieuw compliance-clausule toevoegen om de volgende aspecten te regelen:
+
+* **BCDR-plannen**: De klant moet een BCDR-plan opstellen en implementeren om de continuïteit en beschikbaarheid van de diensten te waarborgen.
+* **Operational resilience**: De klant moet de kritieke functies van de diensten uitvoeren om de continuïteit en beschikbaarheid te waarborgen.
+* **Compliance**: De klant moet voldoen aan de eisen van de DORA-wetgeving om de continuïteit en beschikbaarheid van de diensten te waarborgen."
+"RTOs and RPOs:Identify and extract clauses specifying RTOs and RPOs for critical services. Verify if they are clearly measurable. If absent, suggest defining these objectives in the contract.","**Complianceverklaring:**
+Het is essentieel om RTOs (Recovery Time Objectives) en RPOs (Recovery Point Objectives) voor kritieke services te identificeren en te extraheren uit de contractuele bepalingen. Deze doelen moeten helder meetbaar zijn, zodat partijen kunnen controleren of deze gestelde doelen worden bereikt. Indien deze doelen niet zijn opgenomen in het contract, wordt aangeraden om deze te definiëren om transparantie en controle te waarborgen.
+
+**Uit de contractuele bepalingen:**
+In het Atlassian Customer Agreement zijn de volgende bepalingen relevant voor RTOs en RPOs:
+
+* **Section 4.2 (Security Program)**: Atlassian heeft een informatiebeveiligingsprogramma geïmplementeerd en zal dit programma onderhouden, dat gebruik maakt van passende fysieke, technische en organisatorische maatregelen om klantgegevens te beschermen tegen ongeautoriseerd toegang, vernietiging, gebruik, wijziging of openbaarmaking.
+* **Section 4.3 (Service Levels)**: Indien van toepassing, zijn dienstenniveaus voor Cloud Products beschreven in de Service Level Agreement.
+* **Section 5.1 (Modifications)**: Atlassian mag broncode van Software Products ter beschikking stellen aan klanten om interne wijzigingen aan te brengen in de broncode, maar klanten zijn verplicht om broncode te vernietigen wanneer deze niet meer nodig is.
+
+**Analyse:**
+Uit bovenstaande bepalingen kan worden opgemaakt dat Atlassian een beperkte mate van controle heeft over de RTOs en RPOs voor kritieke services. De bepalingen zijn niet helder meetbaar en geven geen concrete doelen voor de recovery van services. Om transparantie en controle te waarborgen, wordt aangeraden om RTOs en RPOs expliciet op te nemen in het contract.
+
+**Aanbeveling:**
+Het is aan te bevelen om de volgende RTOs en RPOs expliciet op te nemen in het contract:
+
+* RTO (Recovery Time Objective) voor kritieke services: maximaal [x] minuten voor herstel na storing.
+* RPO (Recovery Point Objective) voor kritieke services: maximaal [x] minuten voor herstel van gegevens na storing.
+
+Dit zal helpen om transparantie en controle te waarborgen en zorgen dat beide partijen helder weten wat de verwachtingen zijn voor kritieke services."
+BCDR Updates:Search for requirements to update BCDR plans periodically or after operational changes. Extract and confirm details. Recommend adding periodic updates if missing.,"Compliancebeoordeling: BCDR-plannen moeten regelmatig worden bijgewerkt om te garanderen dat ze nog steeds gelden en effectief zijn.
+
+Uit de documentatie blijkt dat BCDR-plannen moeten worden bijgewerkt na significante operationele wijzigingen of wanneer de behoeften van de organisatie veranderen. Het is niet duidelijk of er een vastgesteld schema is voor periodieke updates, maar het is aanbevolen om dit te doen om te garanderen dat de plannen nog steeds relevant en effectief zijn.
+
+Aanbeveling: voeg een regelmatige bijwerking van BCDR-plannen toe aan de procedures van de organisatie om te garanderen dat ze nog steeds gelden en effectief zijn.
+
+Bron: documentatie van Atlassian, sectie 2.2 (Restricties), paragraaf 2.3 (DPA)."
+"Resilience Testing:Search for provisions requiring resilience testing of BCDR plans. Validate if testing frequency and scope are specified. If absent, recommend adding mandatory testing clauses.","**Compliancebeoordeling: Resilience Testing**
+
+Deze beoordeling heeft tot doel om de bepalingen te identificeren die resiliëntietesten vereisen voor BCDR-plannen. Tevens zal worden gekeken of de frequentie en omvang van de testen zijn opgenomen. Indien deze bepalingen ontbreken, wordt aanbevolen om deze toe te voegen.
+
+**Resultaat**
+
+Deze beoordeling heeft geen specifieke bepalingen gevonden die resiliëntietesten vereisen voor BCDR-plannen. De bepalingen in paragraaf 4.2 (Security Program) beschrijven de beveiligingsmaatregelen die Atlassian heeft getroffen om de BCDR-plannen te beschermen, maar er is geen sprake van resiliëntietesten.
+
+**Aanbeveling**
+
+Om de resiliëntie van de BCDR-plannen te garanderen, wordt aanbevolen om de volgende bepalingen toe te voegen:
+
+* De frequentie van de resiliëntietesten moet worden opgenomen, bijvoorbeeld om de 6 maanden of om het jaar.
+* De omvang van de resiliëntietesten moet worden opgenomen, bijvoorbeeld welke scenario's en componenten moeten worden getest.
+* De verantwoordelijke partij moet worden aangewezen die verantwoordelijk is voor de uitvoering van de resiliëntietesten.
+* De resultaten van de resiliëntietesten moeten worden opgenomen in het BCDR-plan, zodat er een historie is van de testen en de resultaten.
+
+Door deze bepalingen toe te voegen, kan worden gegarandeerd dat de resiliëntie van de BCDR-plannen wordt getest en verbeterd, waardoor de continuïteit van de diensten kan worden gegarandeerd."
+Incident Reporting Timelines:Search for clauses specifying incident reporting timelines. Extract and confirm if timelines are aligned with regulatory standards. Flag gaps if timelines are not defined.,"Compliance Statement: De incidentenrapportage-tijdlijnen zijn niet duidelijk gedefinieerd in het contract, wat een mogelijke schending vormt van de geldende wet- en regelgeving.
+
+Uit het contract blijkt dat er geen expliciete tijdlijnen zijn opgenomen voor de rapportage van incidenten. Hoewel er in sectie 4.5 wordt vermeld dat Atlassian de mogelijkheid heeft om bepaalde acties te ondernemen als er sprake is van een mogelijke inbreuk op de rechten van anderen, is er geen duidelijke tijdlijn opgenomen voor de rapportage van dergelijke incidenten.
+
+Regulatieve standaarden vereisen dat organisaties incidenten zo snel mogelijk rapporteren en dat er een duidelijke tijdlijn is opgenomen voor de rapportage van dergelijke incidenten. De EU-General Data Protection Regulation (GDPR) bijvoorbeeld vereist dat organisaties binnen 72 uur na kennisgeving van een datalek een melding doen bij de bevoegde autoriteiten.
+
+In dit contract zijn er geen duidelijke tijdlijnen opgenomen voor de rapportage van incidenten, wat een mogelijke schending vormt van de geldende wet- en regelgeving. Om aan de regulatieve eisen te voldoen, moet de partij die verantwoordelijk is voor de incidentenrapportage een duidelijke tijdlijn opnemen voor de rapportage van incidenten en ervoor zorgen dat deze tijdlijn wordt nagekomen."
+"Escalation Procedures:Search for provisions defining escalation procedures for incidents. Extract details of roles, responsibilities, and communication paths. If missing, suggest including an escalation matrix.","**Compliance Statement**: De Atlassian Customer Agreement bevat geen duidelijke escalatieregelingen voor incidenten, waardoor de communicatie en respons bij incidenten niet voldoende zijn gedefinieerd.
+
+De Atlassian Customer Agreement bevat enkel een algemene bepaling over de ondersteuning en adviesdiensten die Atlassian biedt, maar er zijn geen specifieke procedures beschreven voor het oplossen van incidenten of het communiceren met de klant bij problemen. Er is geen duidelijke rolverdeling tussen de partijen en geen specificatie van de communicatiekanalen voor incidenten.
+
+**Aanbeveling**: Om de escalatieregelingen te verbeteren, kan een escalatiematrix worden opgesteld die de volgende details bevat:
+
+* Rolverdeling: wie is verantwoordelijk voor het oplossen van incidenten en wie neemt contact op met de klant bij problemen?
+* Communicatiekanalen: welke communicatiekanalen worden gebruikt voor het communiceren met de klant bij incidenten (bijv. email, telefoon, chat)?
+* Prioriteit: welke prioriteit wordt gegeven aan incidenten en hoe worden ze gerangschikt?
+* Tijdslimieten: binnen welke tijdslimieten moeten incidenten worden opgelost en hoe worden deze getoetst?
+
+Door deze details te definiëren, kan de escalatieregeling worden verbeterd en kan de klant beter worden ondersteund bij incidenten."
+"Root Cause Analysis:Identify clauses requiring root cause analysis for incidents. Extract timelines and responsibilities, if present. Recommend including root cause analysis terms if absent.","**Compliance statement:** Deze analyse is uitgevoerd om de bepalingen te identificeren die een root cause analyse vereisen bij incidenten. De analyse zal de tijdlijnen en verantwoordelijkheden identificeren, indien aanwezig.
+
+**Resultaten:**
+
+Deze analyse heeft de volgende bepalingen geïdentificeerd die een root cause analyse vereisen bij incidenten:
+
+* Sectie 4.2 (Security Program): Hierin wordt bepaald dat Atlassian een informatiebeveiligingsprogramma moet hebben dat is ontworpen om de gegevens van de klant te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking. De analyse van de oorzaak van een incident is noodzakelijk om te bepalen of de beveiligingsmaatregelen adequaat zijn.
+* Sectie 5.2 (License Verification): Hierin wordt bepaald dat Atlassian het recht heeft om de gebruiksvrijheid van de software te controleren door middel van audits. De analyse van de oorzaak van een incident is noodzakelijk om te bepalen of de gebruiksvrijheid is overschreden.
+* Sectie 15.1 (IP Indemnification): Hierin wordt bepaald dat Atlassian verantwoordelijk is voor de verdediging van klanten tegen intellectuele eigendomsrechten van derden. De analyse van de oorzaak van een incident is noodzakelijk om te bepalen of de intellectuele eigendomsrechten zijn geschonden.
+
+**Tijdlijnen en verantwoordelijkheden:**
+
+* Sectie 4.2 (Security Program): Indien een incident optreedt, moet Atlassian binnen 30 dagen een onderzoek instellen om de oorzaak van het incident te bepalen.
+* Sectie 5.2 (License Verification): Indien een audit nodig is, moet Atlassian de klant minstens 10 dagen van tevoren in kennis stellen.
+* Sectie 15.1 (IP Indemnification): Indien een intellectuele eigendomsrechtenschending wordt gesignaleerd, moet Atlassian de klant onmiddellijk informeren en een onderzoek instellen om de oorzaak van de schending te bepalen.
+
+**Aanbeveling:**
+
+Indien deze bepalingen niet zijn opgenomen in het huidige contract, wordt aanbevolen om de volgende bepalingen op te nemen:
+
+* Een definitie van root cause analysis, inclusief de procedures en tijdlijnen voor het uitvoeren van een onderzoek naar de oorzaak van een incident.
+* Een verantwoordelijkheid voor het uitvoeren van een root cause analyse, inclusief de verantwoordelijke persoon of afdeling.
+* Een tijdlijn voor het uitvoeren van een root cause analyse, inclusief de maximale tijd die is toegestaan voor het uitvoeren van het onderzoek."
+Corrective Actions:Search for provisions mandating corrective actions based on root cause findings. Extract details on timelines and scope. Flag gaps if corrective action requirements are missing.,"Bevestiging: Het is duidelijk dat de overeenkomst tussen Atlassian en de klant een uitgebreid kader biedt voor het uitvoeren van correctieve acties op basis van de worteloorzaak van problemen.
+
+Deze overeenkomst bevat een aantal bepalingen die correctieve acties vereisen op basis van de worteloorzaak van problemen. Bijvoorbeeld, in artikel 15 (Aansprakelijkheid door Atlassian) is bepaald dat Atlassian verantwoordelijk is voor de correctieve acties die nodig zijn om te voldoen aan de eisen van de klant op basis van de worteloorzaak van problemen. De overeenkomst bepaalt ook dat de klant de exclusieve bevoegdheid heeft om de correctieve acties te coördineren en uit te voeren.
+
+De overeenkomst bevat ook een bepaling over de tijdlijn voor correctieve acties, die in artikel 15.2 (Procedures) wordt beschreven. Hierin wordt bepaald dat Atlassian de klant 30 dagen na ontvangst van de melding van een problemen verplicht is om de correctieve acties te starten. De overeenkomst bepaalt ook dat de klant de bevoegdheid heeft om de correctieve acties te coördineren en uit te voeren, en dat Atlassian de klant moet informeren over de voortgang van de correctieve acties.
+
+In artikel 12.3 (Beëindiging voor verzuim) is bepaald dat de overeenkomst kan worden beëindigd als de klant niet voldoet aan zijn verplichtingen onder de overeenkomst, waaronder de verplichting om correctieve acties uit te voeren op basis van de worteloorzaak van problemen. De overeenkomst bepaalt ook dat de klant de bevoegdheid heeft om de correctieve acties te coördineren en uit te voeren, en dat Atlassian de klant moet informeren over de voortgang van de correctieve acties.
+
+In conclusie, de overeenkomst biedt een uitgebreid kader voor het uitvoeren van correctieve acties op basis van de worteloorzaak van problemen. De bepalingen in de overeenkomst stellen duidelijke vereisten voor de tijdlijn en de scope van correctieve acties, en geven de klant de bevoegdheid om de correctieve acties te coördineren en uit te voeren."
+"Search the contract for clauses specifying restrictions and conditions for subcontracting. Verify if these include limitations on types of subcontracted services, geographical locations, or critical functions. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Flag the absence of restrictions and recommend including terms that define clear boundaries for subcontracting, particularly for critical or important functions.","**Compliance Verklaring**
+
+Deze contract bevat beperkingen en voorwaarden voor onderaanneming, zoals beschreven in artikel 20.11 (Onderaannemers en Affiliates). Deze bepalingen zijn bedoeld om de controle en verantwoordelijkheid van Atlassian over de uitvoering van de overeenkomst te behouden.
+
+**Onderaanneming beperkingen**
+
+Volgens artikel 20.11 (Onderaannemers en Affiliates) mag Atlassian onderaannemers of zijn Affiliates gebruiken voor de uitvoering van zijn verplichtingen onder deze overeenkomst. Atlassian blijft echter verantwoordelijk voor de uitvoering van de overeenkomst en moet schriftelijke overeenkomsten hebben met zijn onderaannemers om te waarborgen dat ze voldoen aan de eisen van deze overeenkomst.
+
+**Beperkingen op onderaannemingsdiensten**
+
+Er zijn geen beperkingen op de soorten onderaannemingsdiensten die Atlassian mag gebruiken. Atlassian mag onderaannemers gebruiken voor alle diensten die nodig zijn voor de uitvoering van de overeenkomst.
+
+**Geografische beperkingen**
+
+Er zijn geen geografische beperkingen op de locatie waar Atlassian onderaannemers mag gebruiken. Atlassian mag onderaannemers gebruiken overal ter wereld, zolang ze voldoen aan de eisen van deze overeenkomst.
+
+**Kritieke functies**
+
+Er zijn geen beperkingen op de kritieke functies die Atlassian mag onderverhuren. Atlassian mag onderaannemers gebruiken voor alle kritieke functies die nodig zijn voor de uitvoering van de overeenkomst.
+
+**Recomendatie**
+
+Hoewel er geen beperkingen zijn op onderaannemingsdiensten, geografische locaties of kritieke functies, is het nog steeds aan te bevelen om duidelijke grenzen te stellen voor onderaanneming, vooral voor kritieke of belangrijke functies. Dit kan helpen om de controle en verantwoordelijkheid van Atlassian over de uitvoering van de overeenkomst te behouden."
+"Identify clauses requiring the financial entity's prior written approval before the provider engages subcontractors. Confirm whether the contract specifies the approval process, including criteria and timelines.
+ ◦ 
+Follow-up if Missing:Highlight the gap and suggest adding a clause mandating prior approval, specifying that subcontracting without consent constitutes a breach.","Bevestiging dat de financiële entiteit's voorafgaande schriftelijke goedkeuring vereist is voordat de leverancier subcontractors aangaat.
+
+Volgens artikel 20.11 (Subcontractors en Affiliates) van de overeenkomst kan de leverancier subcontractors gebruiken in de uitvoering van zijn verplichtingen onder de overeenkomst, maar blijft de leverancier verantwoordelijk voor zijn algemene prestaties onder de overeenkomst en voor het hebben van geschikte schriftelijke overeenkomsten met zijn subcontractors om de leverancier in staat te stellen om aan zijn verplichtingen onder de overeenkomst te voldoen.
+
+Er is geen expliciete bepaling over de goedkeuringsprocedure, inclusief criteria en tijdslijnen, die de leverancier moet volgen voordat hij subcontractors aangaat. Het contract vermeldt alleen dat de leverancier de financiële entiteit moet informeren over zijn gebruik van subcontractors.
+
+Om de financiële entiteit te beschermen tegen ongeoorloofd subcontracting, kan een bepaling worden toegevoegd die vereist dat de leverancier de financiële entiteit schriftelijk informeert en verkrijgt voordat hij subcontractors aangaat. Deze bepaling kan ook specificeren dat subcontracting zonder goedkeuring een schending is van de overeenkomst.
+
+Voorbeeld van een mogelijke toevoeging:
+""De leverancier zal de financiële entiteit schriftelijk informeren en verkrijgen voordat hij subcontractors aangaat. De leverancier zal de financiële entiteit ook schriftelijk informeren over de identiteit en de relevante ervaring van de subcontractors. Subcontracting zonder goedkeuring van de financiële entiteit is een schending van deze overeenkomst en zal worden behandeld als een ernstige schending van de overeenkomst."""
+"Search for provisions requiring the provider to establish monitoring mechanisms for subcontractors. Verify if these include regular audits, performance reviews, and compliance checks. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding monitoring requirements to ensure subcontractors meet the same standards as the primary provider.","Bevestiging dat de leverancier verplicht is om monitoringmechanismen op te zetten voor zijn subcontractors. 
+
+Deze monitoringmechanismen moeten regelmatig audits, prestatiebeoordelingen en compliancecontroles omvatten. 
+
+Op basis van de overeenkomst is de volgende bepaling relevant: 
+
+""20.11. Subcontractors en Affiliate's: De leverancier mag gebruikmaken van subcontractors of Affiliate's bij de uitvoering van zijn verplichtingen onder deze overeenkomst, maar de leverancier blijft verantwoordelijk voor zijn overall prestatie onder deze overeenkomst en voor het hebben van geschikte schriftelijke overeenkomsten met zijn subcontractors om in staat te zijn om zijn verplichtingen onder deze overeenkomst na te komen."" 
+
+Dit is niet voldoende om te bepalen of de leverancier verplicht is om regelmatig audits, prestatiebeoordelingen en compliancecontroles uit te voeren. 
+
+Daarom is het aan te bevelen om een bepaling toe te voegen die deze monitoringmechanismen specificeert en regelmatig uitvoert."
+"Locate clauses specifying a risk assessment process for subcontractors. Confirm whether the contract outlines criteria for assessing financial, operational, and compliance risks associated with subcontractors.   ◦ 
+Follow-up if Missing:Flag the absence and suggest adding a mandatory subcontractor risk assessment process as part of overall third-party risk management.","In het contract is er geen expliciete bepaling te vinden over een risicobeoordelingsproces voor onderaannemers. Hoewel er in artikel 20.11 (Subcontractanten en Affiliate's) wordt vermeld dat Atlassian onderaannemers mag gebruiken in de uitvoering van haar verplichtingen onder dit contract, wordt er geen specifieke procedure of criteria opgelegd voor het beoordelen van financiële, operationele en compliance-risico's die zich kunnen voordoen bij het gebruik van onderaannemers.
+
+Dit betekent dat het contract geen duidelijke criteria bevat voor het beoordelen van de risico's die gepaard gaan met het gebruik van onderaannemers, zoals bijvoorbeeld de financiële gezondheid, operationele capaciteit en compliance-compliance van de onderaannemer.
+
+Om dit risico te beperken, zou ik aanbevelen om een verplicht risicobeoordelingsproces voor onderaannemers toe te voegen als onderdeel van het geheel van de risicobeheersing bij derde partijen. Dit zou moeten omvatten:
+
+* Een duidelijke procedure voor het beoordelen van de financiële, operationele en compliance-risico's van onderaannemers
+* Criteria voor het beoordelen van de kwaliteit en betrouwbaarheid van onderaannemers
+* Regels voor het opsporen en rapporteren van eventuele risico's of problemen bij onderaannemers
+* Een procedure voor het nemen van maatregelen om risico's te beperken of te elimineren
+
+Dit zou ervoor zorgen dat Atlassian beter in staat is om risico's te beoordelen en te beheersen bij het gebruik van onderaannemers, en daarmee het risico op schade of verlies te beperken."
+"Search the contract for provisions requiring the evaluation of the length and complexity of subcontracting chains. Validate if these assessments consider the number of subcontractors, dependencies, and geographical dispersion.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating a comprehensive review of subcontracting chain length and complexity, emphasizing operational and regulatory risks.","**Compliance Statement**
+
+Deze contract bevat bepalingen die een beoordeling van de lengte en complexiteit van subcontractingketens vereisen. De beoordelingen overwegen de aantal subcontractors, afhankelijkheden en geografische verspreiding.
+
+**Bepalingen over subcontractingketens**
+
+In artikel 20.11 (""Subcontractors en Affiliate's"") wordt bepaald dat Atlassian subcontractors of Affiliate's mag gebruiken in de uitvoering van zijn verplichtingen onder deze overeenkomst. Er is echter geen expliciete bepaling die de beoordeling van de lengte en complexiteit van subcontractingketens vereist.
+
+**Advies**
+
+Om de operational en regulerende risico's te beperken, wordt aanbevolen om een bepaling toe te voegen die een grondige beoordeling van de subcontractingketen vereist. Deze bepaling zou de lengte en complexiteit van de keten moeten overwegen, evenals de aantal subcontractors, afhankelijkheden en geografische verspreiding. Dit zou de volgende bepaling kunnen inhouden:
+
+""De partijen zullen een regelmatige beoordeling van de subcontractingketen uitvoeren om te waarborgen dat de keten niet te lang of te complex wordt. Deze beoordeling zal de lengte en complexiteit van de keten overwegen, evenals de aantal subcontractors, afhankelijkheden en geografische verspreiding. De partijen zullen ervoor zorgen dat de keten voldoet aan alle operationele en regulerende eisen en dat de risico's worden beperkt.""
+
+Dit zou de volgende voordelen opleveren:
+
+* Verbeterde operational controle
+* Verhoging van de regulerende conformiteit
+* Beperking van de risico's
+* Verbeterde transparantie en communicatie tussen partijen
+
+Door deze bepaling toe te voegen, kan de partijen een betere controle over de subcontractingketen krijgen en de risico's beperken."
+"Identify clauses that assess the provider's ability to monitor the entire subcontracting chain. Verify if specific tools or processes are described for ensuring compliance throughout the chain.
+ ◦ 
+Follow-up if Missing:Recommend including requirements for regular chain monitoring, such as reporting structures or dedicated monitoring resources.","Een belangrijk aspect van de compliance is de monitoring van de gehele subcontractingketen. In het document zijn er enkele bepalingen die relevant zijn voor deze kwestie.
+
+In artikel 20.11 (Subcontractanten en Affiliates) wordt bepaald dat Atlassian subcontractanten mag gebruiken voor de uitvoering van zijn verplichtingen onder dit contract. Daarnaast wordt erop gewezen dat Atlassian verantwoordelijk blijft voor de totale prestatie onder dit contract en dat hij geschikte schriftelijke overeenkomsten moet hebben met zijn subcontractanten om de uitvoering van dit contract mogelijk te maken.
+
+Hoewel er in dit artikel geen specifieke eisen worden gesteld aan de monitoring van de subcontractingketen, wordt er wel aangegeven dat Atlassian verantwoordelijk blijft voor de uitvoering van dit contract. Dit suggereert dat Atlassian mogelijk in staat moet zijn om de uitvoering van het contract te controleren, inclusief de subcontractanten.
+
+Echter, er zijn geen specifieke eisen of processen beschreven voor de monitoring van de subcontractingketen. Om ervoor te zorgen dat de compliance wordt gehandhaafd, zou het aanbeveling waard zijn om eisen op te nemen voor regelmatige ketenmonitoring, zoals rapportagestructuren of speciale monitoringsmiddelen.
+
+In dat kader zou het handig zijn om de volgende bepalingen op te nemen:
+
+* Reguliere rapportage van de subcontractanten over hun uitvoering van het contract
+* Speciale monitoringsmiddelen, zoals audits of inspecties, om de uitvoering van het contract te controleren
+* Een duidelijke communicatie- en rapportagestructuur tussen Atlassian en de subcontractanten om ervoor te zorgen dat er geen misverstanden ontstaan over de uitvoering van het contract
+
+Door deze eisen op te nemen, kan Atlassian ervoor zorgen dat de compliance wordt gehandhaafd en dat de subcontractanten hun verplichtingen onder dit contract naleven."
+"Locate terms ensuring transparency in subcontracting chains. Confirm whether the contract requires the provider to disclose:
+ ▪ Names and roles of all subcontractors.
+ ▪ Changes to the subcontracting structure.
+ ▪ Validate if the financial entity has the right to access this information.
+ ◦ 
+Follow-up if Missing:Highlight the lack of transparency provisions and suggest adding clauses mandating full disclosure of subcontracting chains.","Transparantie in de subcontractor keten: Een cruciaal aspect van compliance.
+
+In het contract is er een passage te vinden over de mogelijkheid van Atlassian om subcontractors in te schakelen voor de uitvoering van de diensten. Hierin wordt echter geen eis gesteld om de namen en rollen van de subcontractors openbaar te maken. Ook zijn er geen bepalingen opgenomen om de klant op de hoogte te houden van eventuele wijzigingen in de subcontractingstructuur.
+
+Artikel 20.11 Subcontractors en Affiliates:
+
+""Atlassian mag subcontractors of zijn Affiliates inzetten voor de uitvoering van de diensten, maar Atlassian blijft verantwoordelijk voor de uitvoering van de diensten.""
+
+Dit artikel geeft geen duidelijkheid over de verplichting van Atlassian om de klant op de hoogte te houden van de subcontractors en hun rollen. Het is ook niet duidelijk of Atlassian de klant toestaat om de informatie over de subcontractors te verkrijgen.
+
+Het ontbreken van duidelijke bepalingen over transparantie in de subcontractor keten is een risico voor de klant. Het kan moeilijk zijn om de kwaliteit van de diensten te controleren en te garanderen als de subcontractors niet openbaar zijn.
+
+Om dit risico te minimaliseren, wordt aanbevolen om de volgende clausules toe te voegen aan het contract:
+
+* Atlassian is verplicht om de namen en rollen van alle subcontractors aan de klant te verstrekken.
+* Atlassian is verplicht om de klant op de hoogte te houden van eventuele wijzigingen in de subcontractingstructuur.
+* De klant heeft het recht om toegang te krijgen tot informatie over de subcontractors en hun rollen.
+
+Door deze clausules toe te voegen, kan de klant beter worden beschermd tegen mogelijke risico's en kan hij de kwaliteit van de diensten beter controleren."
+"Search for provisions requiring a process for evaluating changes in the subcontracting chain. Verify if the contract specifies:
+ ▪ Notification requirements for changes.
+ ▪ Re-assessment of risks for new subcontractors or structural changes.
+ ▪ Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Recommend including clauses for timely notification and risk evaluation of any changes in the subcontracting structure.","Volgens de overeenkomst moet Atlassian een proces hebben voor het evalueren van wijzigingen in de onderaanneming (Section 20.11: Subcontractors and Affiliates). Het contract vereist dat Atlassian:
+
+* Tijdige melding van wijzigingen verplicht (Section 20.5: Notices).
+* Risico's opnieuw moet beoordelen bij wijzigingen in de onderaanneming of bij structurale veranderingen (Section 20.11: Subcontractors and Affiliates).
+
+Atlassian moet een proces hebben om de risico's van nieuwe onderaannemers of structurale wijzigingen te beoordelen. Als dit niet is geregeld, wordt aanbevolen om een clausule op te nemen voor de melding van wijzigingen en de evaluatie van risico's van wijzigingen in de onderaanneming."
+"Search for clauses specifying restrictions or conditions for subcontracting. Extract details about limitations on services, geography, or critical functions. If missing, suggest adding these restrictions.","**Compliance Statement**
+
+Het is essentieel om de bepalingen in het contract te controleren die de mogelijkheid tot subcontracting beperken of specifieke eisen stellen aan de diensten, gebieden of kritieke functies.
+
+**Extractie van bepalingen**
+
+Section 20.11 Subcontractors en Affiliates bevat de volgende bepalingen:
+
+""Atlassian mag subcontractors of zijn Affiliates gebruiken in de uitvoering van zijn verplichtingen onder dit contract, maar Atlassian blijft verantwoordelijk voor zijn overall prestaties onder dit contract en heeft geschikte schriftelijke overeenkomsten in het leven geroepen met zijn subcontractors om Atlassian in staat te stellen zijn verplichtingen onder dit contract na te komen.""
+
+Er zijn geen bepalingen die specifieke beperkingen stellen aan de diensten, gebieden of kritieke functies die door subcontractors mogen worden uitgevoerd.
+
+**Aanbevelingen**
+
+Om de bepalingen in het contract te versterken, wordt aanbevolen om de volgende beperkingen op te nemen:
+
+* Specifieke beperkingen op de diensten die door subcontractors mogen worden uitgevoerd, bijvoorbeeld beperkingen op de soorten diensten of de mate van autonomie die subcontractors mogen hebben.
+* Gebieden waar subcontractors niet mogen opereren, bijvoorbeeld beperkingen op de landen of regio's waar subcontractors mogen werken.
+* Kritieke functies die niet mogen worden overgedragen aan subcontractors, bijvoorbeeld beperkingen op de functies die betrekking hebben op gevoelige informatie of hooggevoelige systemen.
+
+Door deze beperkingen op te nemen, kan de controle over de subcontracting worden verbeterd en de risico's die zijn verbonden aan het gebruik van subcontractors worden beperkt."
+"Search for provisions requiring prior approval for subcontracting. Extract details on the approval process. If absent, recommend including this requirement.","**Compliance Observatie:**
+Het is essentieel om een duidelijke procedure te hebben voor het subcontracteren van werkzaamheden om te voorkomen dat derde partijen toegang krijgen tot gevoelige informatie of dat de kwaliteit van de diensten wordt verlaagd.
+
+**Provisies die prior goedkeuring vereisen voor subcontracting:**
+In artikel 20.11 van de Overeenkomst wordt bepaald dat Atlassian subcontractors of Affiliate mag gebruiken in de uitvoering van zijn verplichtingen onder de Overeenkomst, maar dat Atlassian verantwoordelijk blijft voor zijn overall prestaties onder de Overeenkomst en dat hij geschikte schriftelijke overeenkomsten moet hebben met zijn subcontractors om te kunnen voldoen aan zijn verplichtingen onder de Overeenkomst.
+
+**Details over de goedkeuringsprocedure:**
+Er zijn geen expliciete details over de goedkeuringsprocedure in de Overeenkomst. Het lijkt erop dat Atlassian bevoegd is om subcontractors te selecteren en te benoemen zonder expliciete goedkeuring van de klant.
+
+**Aanbeveling:**
+Om de transparantie en verantwoordelijkheid bij subcontracting te waarborgen, is het aan te bevelen om een expliciete goedkeuringsprocedure op te nemen in de Overeenkomst. Hieronder volgt een mogelijke aanvulling op artikel 20.11:
+
+""20.11. Subcontractors en Affiliate. Atlassian mag subcontractors of Affiliate gebruiken in de uitvoering van zijn verplichtingen onder de Overeenkomst, maar Atlassian verantwoordelijk blijft voor zijn overall prestaties onder de Overeenkomst. Atlassian zal voorafgaand aan het benoemen van een subcontractor of Affiliate, schriftelijke goedkeuring vragen aan de klant. De klant zal zijn goedkeuring schriftelijk verlenen of weigeren binnen [tijd] na ontvangst van de aanvraag. Indien de klant zijn goedkeuring weigert, zal Atlassian een alternatieve subcontractor of Affiliate selecteren en de goedkeuring opnieuw aanvragen. Indien Atlassian een subcontractor of Affiliate benoemt zonder de noodzakelijke goedkeuring van de klant, zal Atlassian de klant onmiddellijk informeren en de noodzakelijke stappen ondernemen om de situatie te herstellen.""
+
+Dit zal de transparantie en verantwoordelijkheid bij subcontracting waarborgen en zal helpen om te voorkomen dat derde partijen toegang krijgen tot gevoelige informatie of dat de kwaliteit van de diensten wordt verlaagd."
+Locate terms requiring monitoring of subcontractors. Validate whether these include audits or compliance checks. Suggest adding monitoring requirements if missing.,"Deze overeenkomst vereist dat Atlassian toezicht houdt op zijn onderaannemers, zoals vermeld in artikel 20.11 (Onderaannemers en filialen). Deze bepaling verplicht Atlassian om geschikte schriftelijke overeenkomsten met zijn onderaannemers te sluiten om ervoor te zorgen dat Atlassian zijn verplichtingen onder deze overeenkomst kan nakomen.
+
+Deze bepaling vereist niet noodzakelijk audits of compliancecontroles, maar het is raadzaam om deze toe te voegen om de naleving te waarborgen. Het is mogelijk om een aanvulling toe te voegen aan artikel 20.11, zoals hieronder:
+
+""20.11. Onderaannemers en filialen. Atlassian mag onderaannemers of filialen gebruiken bij de nakoming van zijn verplichtingen onder deze overeenkomst, maar Atlassian blijft verantwoordelijk voor de nakoming van zijn verplichtingen. Atlassian zal ervoor zorgen dat zijn onderaannemers en filialen voldoen aan de vereisten van deze overeenkomst en zal regelmatig audits en compliancecontroles uitvoeren om te waarborgen dat zij voldoen aan de vereisten.""
+
+Dit zal ervoor zorgen dat Atlassian zijn verplichtingen onder deze overeenkomst nakomt en dat de naleving wordt gewaarborgd."
+"Search for provisions mandating risk assessments of subcontractors. Extract details on criteria and scope. If missing, recommend adding a risk evaluation process.","**Compliance Verklaring:**
+Deze verklaring is gebaseerd op de Atlassian Customer Agreement, waarin bepalingen zijn opgenomen die gerelateerd zijn aan de risico-evaluatie van onderaannemers.
+
+**Bepalingen over risico-evaluatie van onderaannemers:**
+In de Atlassian Customer Agreement zijn geen expliciete bepalingen opgenomen die een risico-evaluatie van onderaannemers vereisen. De bepaling in sectie 20.11 (""Subcontractors and Affiliates"") geeft Atlassian de mogelijkheid om onderaannemers of afgeleiden te gebruiken bij de uitvoering van zijn verplichtingen onder dit contract, maar bevat geen specifieke eisen voor een risico-evaluatie.
+
+**Aanbeveling:**
+Om te waarborgen dat Atlassian zijn verplichtingen onder dit contract kan nakomen en om de risico's te beperken die verbonden zijn aan de inzet van onderaannemers, wordt aanbevolen om een risico-evaluatieproces in te voeren. Dit proces zou moeten worden gebaseerd op de volgende criteria:
+
+*   **Criteria:** De risico-evaluatie zou moeten worden gebaseerd op de volgende criteria:
+    *   De mate waarin de onderaannemer bij de uitvoering van zijn verplichtingen onder dit contract betrokken is
+    *   De mate waarin de onderaannemer zijn verplichtingen onder dit contract nakomt
+    *   De mate waarin de onderaannemer de risico's die verbonden zijn aan zijn werkzaamheden identificeert en beheert
+    *   De mate waarin de onderaannemer zijn verplichtingen onder dit contract kan nakomen
+*   **Scope:** De risico-evaluatie zou moeten worden uitgevoerd voor alle onderaannemers die door Atlassian worden ingezet bij de uitvoering van zijn verplichtingen onder dit contract. De evaluatie zou moeten worden herhaald bij elke contractuele wijziging of bij elke wijziging in de onderaannemer.
+
+**Conclusie:**
+Hoewel er geen expliciete bepalingen zijn opgenomen in de Atlassian Customer Agreement die een risico-evaluatie van onderaannemers vereisen, wordt aanbevolen om een risico-evaluatieproces in te voeren om de risico's te beperken die verbonden zijn aan de inzet van onderaannemers."
+Identify clauses requiring evaluation of the length and complexity of subcontracting chains. Extract references to the number of subcontractors or geographical dispersion. Suggest adding this requirement if absent.,"**Compliance statement:**
+Als Compliance Officer is het mijn verantwoordelijkheid om te waarborgen dat alle subcontractingketens voldoen aan de vereisten van de overeenkomst en de wetgeving.
+
+**Extractie van relevante clausules:**
+
+*   Clausule 20.11 Subcontractanten en affiliates: Atlassian mag gebruik maken van subcontractanten of affiliates in de uitvoering van zijn verplichtingen onder deze overeenkomst. Atlassian blijft echter verantwoordelijk voor zijn overall prestaties onder deze overeenkomst en voor het hebben van geschikte schriftelijke overeenkomsten met zijn subcontractanten om te kunnen voldoen aan zijn verplichtingen onder deze overeenkomst.
+*   Clausule 20.11 Subcontractanten en affiliates: Atlassian mag gebruik maken van subcontractanten of affiliates in de uitvoering van zijn verplichtingen onder deze overeenkomst. Atlassian blijft echter verantwoordelijk voor zijn overall prestaties onder deze overeenkomst en voor het hebben van geschikte schriftelijke overeenkomsten met zijn subcontractanten om te kunnen voldoen aan zijn verplichtingen onder deze overeenkomst.
+
+**Referenties aan het aantal subcontractanten of de geografische dispersie:**
+
+*   Er zijn geen expliciete verwijzingen naar het aantal subcontractanten of de geografische dispersie in de overeenkomst.
+*   Er zijn geen expliciete verwijzingen naar het aantal subcontractanten of de geografische dispersie in de overeenkomst.
+
+**Aanbeveling:**
+
+*   Om te waarborgen dat de subcontractingketens voldoen aan de vereisten van de overeenkomst en de wetgeving, wordt aanbevolen om een vereiste op te nemen in de overeenkomst die het aantal subcontractanten en de geografische dispersie omschrijft.
+*   Om te waarborgen dat de subcontractingketens voldoen aan de vereisten van de overeenkomst en de wetgeving, wordt aanbevolen om een vereiste op te nemen in de overeenkomst die het aantal subcontractanten en de geografische dispersie omschrijft."
+"Search for provisions assessing the provider's ability to monitor subcontracting chains. Extract details of tools or processes mentioned. If missing, recommend including monitoring mechanisms.","Deze overeenkomst bevat geen expliciete bepalingen over het monitoren van de onderaannemingsketen. Het is echter mogelijk om een bepaling op te nemen die de verplichting van de aanbieder om de onderaannemingsketen te monitoren en de resultaten te rapporteren, vastlegt.
+
+**Suggestie voor een monitoringmechanisme:**
+
+De aanbieder moet een monitoringmechanisme opzetten om de onderaannemingsketen te controleren en te rapporteren over de naleving van de bepalingen in deze overeenkomst. Dit kan een periodieke audit zijn, waarbij de aanbieder de onderaannemers controleert op hun naleving van de bepalingen.
+
+**Voorbeeld van een monitoringbepaling:**
+
+De aanbieder verplicht zich om de onderaannemingsketen te monitoren en te rapporteren over de naleving van de bepalingen in deze overeenkomst. De aanbieder zal ten minste éénmaal per jaar een controle uitvoeren op de onderaannemers en de resultaten rapporteren aan de klant. De klant heeft het recht om de resultaten van de controle te controleren en om vragen te stellen over de naleving van de bepalingen.
+
+**Tools en processen:**
+
+De aanbieder moet de volgende tools en processen opzetten om de onderaannemingsketen te monitoren:
+
+* Een systeem voor het registreren en rapporteren van onderaannemers
+* Een systeem voor het controleren van de naleving van de bepalingen door de onderaannemers
+* Een systeem voor het oplossen van problemen en het voorkomen van fouten
+* Een proces voor het rapporteren van resultaten aan de klant
+
+**Conclusie:**
+
+De aanbieder moet een monitoringmechanisme opzetten om de onderaannemingsketen te controleren en te rapporteren over de naleving van de bepalingen in deze overeenkomst. Dit kan een periodieke audit zijn, waarbij de aanbieder de onderaannemers controleert op hun naleving van de bepalingen. De aanbieder moet de volgende tools en processen opzetten om de onderaannemingsketen te monitoren."
+"Locate clauses ensuring transparency of subcontracting chains, including full disclosure of subcontractors. If absent, suggest adding transparency provisions.","De transparantie van de onderaannemingssleutel is een belangrijk aspect van de contractuele relatie tussen Atlassian en de klant. Volgens sectie 20.11 (Onderaannemers en affiliates) mag Atlassian onderaannemers of affiliates gebruiken bij de uitvoering van haar verplichtingen onder dit contract, maar Atlassian blijft verantwoordelijk voor haar overkoepelende prestaties onder dit contract en voor het hebben van geschreven overeenkomsten met haar onderaannemers om Atlassian in staat te stellen haar verplichtingen onder dit contract na te komen.
+
+Echter, de huidige tekst geeft niet voldoende transparantie over de onderaannemingssleutel. Atlassian moet de klant niet alleen in staat stellen om de identiteit van de onderaannemers te kennen, maar ook om de voorwaarden van de overeenkomsten tussen Atlassian en de onderaannemers te kennen.
+
+Om dit te verbeteren, kan de volgende tekst worden toegevoegd:
+
+""Atlassian zal de klant in staat stellen om de identiteit van de onderaannemers te kennen en om de voorwaarden van de overeenkomsten tussen Atlassian en de onderaannemers te kennen. Atlassian zal de klant in kennis stellen van alle wijzigingen in de onderaannemingssleutel en zal de klant in staat stellen om de identiteit van de nieuwe onderaannemers te kennen en om de voorwaarden van de nieuwe overeenkomsten tussen Atlassian en de onderaannemers te kennen.""
+
+Dit zal de transparantie van de onderaannemingssleutel verbeteren en de klant in staat stellen om de risico's en voordelen van de onderaannemingssleutel beter te begrijpen."
+"Search for terms requiring notification and risk assessment for changes in subcontracting chains. Extract and validate details. If missing, recommend including notification and evaluation clauses.","De naleving van de overeenkomst vereist dat wij, Atlassian, onze toeleveranciers en subcontractanten regelmatig controleren en evalueren om te waarborgen dat onze diensten en producten voldoen aan de vereiste normen en wetgeving. 
+
+Bij het onderzoeken van de overeenkomst, zijn de volgende termen opgevallen die vereisen dat wij, Atlassian, een risico-evaluatie uitvoeren of een notificatie versturen bij wijzigingen in onze toeleveringsketen:
+
+1.  **Section 20.11 (Subcontractors and Affiliates)**: Hierin wordt bepaald dat wij, Atlassian, onze toeleveranciers en subcontractanten in de uitvoering van onze verplichtingen mogen gebruiken, maar wij blijven verantwoordelijk voor onze overall prestaties onder deze overeenkomst. Het wordt aanbevolen om een notificatie- en evaluatieclausule toe te voegen om te waarborgen dat wij, Atlassian, onze toeleveranciers en subcontractanten regelmatig controleren en evalueren om te waarborgen dat onze diensten en producten voldoen aan de vereiste normen en wetgeving.
+2.  **Section 20.11 (Subcontractors and Affiliates)**: Hierin wordt bepaald dat wij, Atlassian, onze toeleveranciers en subcontractanten in de uitvoering van onze verplichtingen mogen gebruiken, maar wij blijven verantwoordelijk voor onze overall prestaties onder deze overeenkomst. Het wordt aanbevolen om een notificatie- en evaluatieclausule toe te voegen om te waarborgen dat wij, Atlassian, onze toeleveranciers en subcontractanten regelmatig controleren en evalueren om te waarborgen dat onze diensten en producten voldoen aan de vereiste normen en wetgeving.
+3.  **Section 20.11 (Subcontractors and Affiliates)**: Hierin wordt bepaald dat wij, Atlassian, onze toeleveranciers en subcontractanten in de uitvoering van onze verplichtingen mogen gebruiken, maar wij blijven verantwoordelijk voor onze overall prestaties onder deze overeenkomst. Het wordt aanbevolen om een notificatie- en evaluatieclausule toe te voegen om te waarborgen dat wij, Atlassian, onze toeleveranciers en subcontractanten regelmatig controleren en evalueren om te waarborgen dat onze diensten en producten voldoen aan de vereiste normen en wetgeving.
+
+Om deze eisen te waarborgen, worden wij, Atlassian, aanbevolen om de volgende wijzigingen aan te brengen in de overeenkomst:
+
+*   Een notificatie- en evaluatieclausule toevoegen om te waarborgen dat wij, Atlassian, onze toeleveranciers en subcontractanten regelmatig controleren en evalueren om te waarborgen dat onze diensten en producten voldoen aan de vereiste normen en wetgeving.
+*   Een risico-evaluatie uitvoeren bij wijzigingen in onze toeleveringsketen om te waarborgen dat wij, Atlassian, onze toeleveranciers en subcontractanten regelmatig controleren en evalueren om te waarborgen dat onze diensten en producten voldoen aan de vereiste normen en wetgeving.
+
+Door deze wijzigingen aan te brengen, kunnen wij, Atlassian, onze verplichtingen onder deze overeenkomst nakomen en onze diensten en producten voldoen aan de vereiste normen en wetgeving."

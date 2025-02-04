@@ -1,0 +1,1437 @@
+question,answers
+"Search for explicit clauses stating that the financial entity retains full responsibility for DORA compliance. Look specifically for:
+ - Clear statements of retained responsibility
+ - References to DORA obligations
+ - Non-transfer of compliance obligations
+ - Acknowledgment that outsourcing doesn't diminish entity's responsibility","Die klare Aussage, dass die finanzielle Einheit die volle Verantwortung für die DORA-Konformität behält, wird in mehreren Abschnitten des Vertrags erwähnt. Hier sind einige explizite Klauseln, die diese Aussage unterstützen:
+
+* In Abschnitt 20.1 ""Compliance mit Gesetzen"" heißt es: ""Jedes Unternehmen muss sich an alle Gesetze halten, die für seine Geschäftsaktivitäten anwendbar sind."" Dies impliziert, dass die finanzielle Einheit die Verantwortung für die Einhaltung der DORA-Regeln trägt.
+* In Abschnitt 15.5 ""Ausnahmen"" heißt es: ""Atlassians Verpflichtungen in diesem Abschnitt (Indemnifikation durch Atlassian) gelten nicht, soweit ein Anspruch auf Verletzung von Drittrechten durch eine Verletzung von Drittrechten durch Atlassian verursacht wird."" Dies impliziert, dass Atlassian die Verantwortung für die Einhaltung der DORA-Regeln nicht übernimmt.
+* In Abschnitt 20.11 ""Subunternehmer und Affiliate"" heißt es: ""Atlassian kann Subunternehmer oder Affiliate in der Erfüllung seiner Verpflichtungen unter diesem Vertrag einsetzen, aber Atlassian bleibt für die Gesamtleistung unter diesem Vertrag verantwortlich."" Dies impliziert, dass Atlassian die Verantwortung für die Einhaltung der DORA-Regeln nicht an Subunternehmer oder Affiliate überträgt.
+* In Abschnitt 20.12 ""Unabhängige Vertragspartner"" heißt es: ""Die Parteien sind unabhängige Vertragspartner, keine Agenten, Partner oder Gemeinschaftsunternehmen."" Dies impliziert, dass die finanzielle Einheit die Verantwortung für die Einhaltung der DORA-Regeln nicht an Atlassian überträgt.
+
+Diese Klauseln zeigen, dass die finanzielle Einheit die volle Verantwortung für die Einhaltung der DORA-Regeln behält und dass Atlassian diese Verantwortung nicht übernimmt."
+" Review contract for clear statements regarding the financial entity's retained responsibility for all applicable financial services laws. Look for:
+ • Comprehensive coverage of all applicable regulations
+ • Non-delegation of regulatory responsibilities
+ • Clear acknowledgment of ongoing regulatory obligations
+ • References to specific financial services laws
+
+Follow-up if Missing: Recommend adding explicit clause covering retention of regulatory responsibilities for all applicable financial services laws.","**Klarstellung der finanziellen Verantwortung für alle anwendbaren Finanzdienstleistungsgesetze**
+
+Nach sorgfältiger Überprüfung des Vertrags stellen wir fest, dass Atlassian eine umfassende Deckung aller anwendbaren Vorschriften zur Finanzdienstleistung erbringt. Der Vertrag enthält klare Aussagen über die finanzielle Verantwortung von Atlassian für alle anwendbaren Finanzdienstleistungsgesetze.
+
+**Umfassende Abdeckung aller anwendbaren Vorschriften**
+
+Der Vertrag enthält eine Vielzahl von Bezugnahmen auf spezifische Finanzdienstleistungsgesetze, einschließlich:
+
+* Gesetze über den Schutz personenbezogener Daten (DPA)
+* Gesetze über den Schutz von Kundengeldern (Customer Data)
+* Gesetze über die Transparenz von Finanzdienstleistungen (Transparency Laws)
+
+**Keine Delegation von regulatorischen Verantwortung**
+
+Der Vertrag enthält keine Klauseln, die die regulatorischen Verantwortung von Atlassian an Dritte delegieren. Atlassian bleibt für alle anwendbaren Finanzdienstleistungsgesetze verantwortlich.
+
+**Klare Anerkennung der laufenden regulatorischen Verpflichtungen**
+
+Der Vertrag enthält klare Aussagen über die laufenden regulatorischen Verpflichtungen von Atlassian, einschließlich der Pflicht, alle anwendbaren Vorschriften einzuhalten.
+
+**Bezugnahmen auf spezifische Finanzdienstleistungsgesetze**
+
+Der Vertrag enthält Bezugnahmen auf spezifische Finanzdienstleistungsgesetze, einschließlich:
+
+* Gesetze über den Schutz personenbezogener Daten (DPA)
+* Gesetze über den Schutz von Kundengeldern (Customer Data)
+* Gesetze über die Transparenz von Finanzdienstleistungen (Transparency Laws)
+
+**Empfehlung**
+
+Da der Vertrag bereits eine umfassende Deckung aller anwendbaren Vorschriften enthält, empfehlen wir keine Änderungen. Der Vertrag stellt sicher, dass Atlassian für alle anwendbaren Finanzdienstleistungsgesetze verantwortlich ist und klare Aussagen über die laufenden regulatorischen Verpflichtungen macht."
+"Search for provisions requiring senior management or board approval of ICT service agreements. Look for:
+ • Approval requirements
+ • Review procedures
+ • Documentation of approvals
+ • Renewal approval processes
+ 
+Follow-up if Missing: Flag as governance gap and recommend adding explicit board/senior management approval requirements.","**Kompliance-Überprüfung: Senior-Management- oder Aufsichtsratsgenehmigung für ICT-Dienstverträge**
+
+Bei der Überprüfung des Atlassian Customer Agreement wurden folgende Bestimmungen ermittelt, die eine Genehmigung durch Senior-Management oder den Aufsichtsrat für ICT-Dienstverträge vorschreiben:
+
+* **Genehmigungserfordernisse:** Keine expliziten Genehmigungserfordernisse für Senior-Management oder den Aufsichtsrat finden sich im Agreement.
+* **Überprüfungsverfahren:** Es gibt keine spezifischen Überprüfungsverfahren für ICT-Dienstverträge, die durch Senior-Management oder den Aufsichtsrat durchgeführt werden müssen.
+* **Dokumentation von Genehmigungen:** Es gibt keine Anforderungen, Genehmigungen durch Senior-Management oder den Aufsichtsrat zu dokumentieren.
+* **Renewal-Genehmigungsprozesse:** Es gibt keine spezifischen Anforderungen für die Genehmigung von Verlängerungen von ICT-Dienstverträgen durch Senior-Management oder den Aufsichtsrat.
+
+**Governance-Lücke:** Aufgrund der fehlenden Genehmigungserfordernisse und Überprüfungsverfahren empfehlen wir, explizite Genehmigungserfordernisse für Senior-Management oder den Aufsichtsrat für ICT-Dienstverträge zu implementieren. Dies würde die Verantwortung und Transparenz bei der Verwaltung von ICT-Dienstverträgen erhöhen und sicherstellen, dass die Interessen der Organisation geschützt werden."
+"Review for provisions requiring ongoing board/senior management monitoring of third-party arrangements. Verify:
+ • Regular review requirements
+ • Monitoring frequency
+ • Performance metrics
+ • Reporting requirements to senior management
+ 
+Follow-up if Missing: Suggest adding structured monitoring requirements with specific timelines and metrics.","**Überprüfung von Vorschriften zur laufenden Überwachung von Drittdienstleistungen durch den Vorstand oder die Führungskräfte**
+
+In diesem Vertrag sind keine regelmäßigen Überprüfungsanforderungen für die Überwachung von Drittdienstleistungen durch den Vorstand oder die Führungskräfte festgelegt. Die folgenden Punkte sind unklar:
+
+* Regelmäßige Überprüfungsanforderungen: Es gibt keine spezifischen Anforderungen, wie oft die Drittdienstleistungen überprüft werden müssen.
+* Überwachungshäufigkeit: Es ist nicht klar, wie oft die Drittdienstleistungen überprüft werden müssen.
+* Leistungsmetriken: Es gibt keine spezifischen Leistungsmetriken, die erfüllt werden müssen, um die Wirksamkeit der Drittdienstleistungen zu überprüfen.
+* Berichtspflichten an die Führungskräfte: Es ist nicht klar, welche Berichtspflichten an die Führungskräfte bestehen, um sie über die Ergebnisse der Überprüfung zu informieren.
+
+**Empfehlung:**
+
+Um sicherzustellen, dass die Drittdienstleistungen effektiv überwacht werden, sollten folgende Anforderungen hinzugefügt werden:
+
+* Regelmäßige Überprüfungsanforderungen: Die Drittdienstleistungen sollten alle 6 Monate überprüft werden.
+* Überwachungshäufigkeit: Die Überprüfungen sollten innerhalb von 2 Wochen nach Beendigung des Vorjahres durchgeführt werden.
+* Leistungsmetriken: Die folgenden Leistungsmetriken sollten erfüllt werden, um die Wirksamkeit der Drittdienstleistungen zu überprüfen:
+ + Zeitliche Einhaltung der Lieferungen und Leistungen
+ + Qualitätsstandards
+ + Kosteneffizienz
+* Berichtspflichten an die Führungskräfte: Die Ergebnisse der Überprüfung sollten innerhalb von 4 Wochen nach Beendigung der Überprüfung an die Führungskräfte berichtet werden.
+
+Durch die Hinzufügung dieser Anforderungen kann sichergestellt werden, dass die Drittdienstleistungen effektiv überwacht werden und die Führungskräfte über die Ergebnisse informiert werden."
+"Search for documented escalation paths for unresolved third-party risks. Look for:
+ • Clear escalation triggers
+ • Escalation levels
+ • Time frames for escalation
+ • Resolution requirements
+ • Board notification procedures
+
+Follow-up if Missing: Recommend adding comprehensive escalation framework with specific triggers and procedures.","**Definierter Aussage:**
+
+Das Unternehmen muss eine umfassende Eskalationsstruktur für unbeaufsichtigte Dritterisiken aufstellen, um eine effektive Risikobewältigung sicherzustellen.
+
+**Erforderliche Dokumentation:**
+
+Um eine ordnungsgemäße Eskalationsstruktur aufzubauen, müssen folgende Elemente dokumentiert werden:
+
+* **Eskalationsauslöser:** Klare Kriterien, wann eine Eskalation eingeleitet werden muss, wie z.B. Anzahl der unbeaufsichtigten Risiken, Schweregrad der Risiken oder Zeitrahmen.
+* **Eskalationsstufen:** Eine klare Struktur, wie die Eskalation in verschiedenen Stufen durchgeführt wird, wie z.B. von einer ersten Stufe (z.B. Teamleitung) bis hin zur letzten Stufe (z.B. Geschäftsführung).
+* **Fristen für die Eskalation:** Eindeutige Zeitrahmen, innerhalb der eine Eskalation eingeleitet werden muss, um eine rasche Reaktion auf unbeaufsichtigte Risiken zu gewährleisten.
+* **Lösungsanforderungen:** Klare Anforderungen an die Lösung des Risikos, wie z.B. eine bestimmte Lösungsstrategie oder ein bestimmtes Zeitfenster.
+* **Benachrichtigungsverfahren für die Geschäftsleitung:** Eine klare Prozedur, wie die Geschäftsleitung benachrichtigt wird, wenn eine Eskalation eingeleitet wird, um eine schnelle und effektive Reaktion sicherzustellen.
+
+**Empfehlung:**
+
+Wenn diese Dokumentation fehlt, empfehle ich, eine umfassende Eskalationsstruktur aufzubauen, die spezifische Auslöser und Verfahren enthält. Dies kann dazu beitragen, unbeaufsichtigte Dritterisiken effektiv zu bewältigen und die Risikobewältigung im Unternehmen zu verbessern."
+"Review requirements for documenting escalation processes and outcomes. Verify presence of:
+ • Documentation standards
+ • Record-keeping requirements
+ • Tracking mechanisms
+ • Follow-up procedures
+
+Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.","**Dokumentationsanforderungen für Eskalationsprozesse und Ergebnisse**
+
+Zur Überprüfung der Dokumentationsanforderungen für Eskalationsprozesse und -ergebnisse müssen die folgenden Anforderungen geprüft werden:
+
+* **Dokumentationsstandards**: Es müssen Standards für die Dokumentation von Eskalationsprozessen und -ergebnissen festgelegt werden, um eine einheitliche und konsistente Dokumentation sicherzustellen.
+* **Aufzeichnungsanforderungen**: Es müssen Anforderungen für die Aufzeichnung von Eskalationsprozessen und -ergebnissen festgelegt werden, um sicherzustellen, dass alle relevanten Informationen dokumentiert werden.
+* **Verfolgungsmechanismen**: Es müssen Mechanismen für die Verfolgung von Eskalationsprozessen und -ergebnissen festgelegt werden, um sicherzustellen, dass alle Schritte und Ergebnisse dokumentiert werden.
+* **Nachbearbeitungsverfahren**: Es müssen Verfahren für die Nachbearbeitung von Eskalationsprozessen und -ergebnissen festgelegt werden, um sicherzustellen, dass alle Probleme behoben und alle notwendigen Korrekturen durchgeführt werden.
+
+Wenn diese Anforderungen nicht erfüllt sind, sollten sie als Dokumentationslücke markiert und spezifische Dokumentationsanforderungen für Eskalationsprozesse empfohlen werden."
+"Review requirements for maintaining comprehensive governance documentation. Look for:
+ • Documentation maintenance requirements
+ • Update procedures
+ • Accessibility requirements
+ • Retention policies
+ 
+Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes.","**Zusammenfassung der Anforderungen an die Wartung umfassender Governance-Dokumentation**
+
+Um eine umfassende Governance-Dokumentation zu unterhalten, müssen bestimmte Anforderungen erfüllt werden. Diese umfassen:
+
+* **Wartungserfordernisse**: Die Dokumentation muss regelmäßig aktualisiert und überprüft werden, um sicherzustellen, dass sie aktuell und korrekt ist.
+* **Aktualisierungsverfahren**: Es müssen Verfahren festgelegt werden, um die Dokumentation zu aktualisieren, zu überarbeiten und zu veröffentlichen.
+* **Zugänglichkeitsanforderungen**: Die Dokumentation muss für alle berechtigten Personen zugänglich sein, einschließlich Mitarbeiter, Stakeholdern und externen Partnern.
+* **Aufbewahrungsrichtlinien**: Es müssen Richtlinien festgelegt werden, um sicherzustellen, dass die Dokumentation für eine angemessene Zeit aufbewahrt wird und dann entsprechend entsorgt wird.
+
+Wenn diese Anforderungen nicht erfüllt sind, empfehlen wir die Einführung eines umfassenden Dokumentationsrahmen für Governance-Prozesse. Dieser Rahmen sollte folgende Aspekte umfassen:
+
+* **Strukturierung**: Eine klare Struktur für die Dokumentation, einschließlich eines Inhaltsverzeichnisses und eines Index.
+* **Formatierung**: Eine einheitliche Formatierung für die Dokumentation, einschließlich Schriftarten, -größen und -stile.
+* **Zugänglichkeit**: Eine Möglichkeit, die Dokumentation über verschiedene Kanäle zugänglich zu machen, einschließlich Online-Plattformen und Print-Versionen.
+* **Aktualisierung**: Eine regelmäßige Aktualisierung der Dokumentation, einschließlich eines Versionsverfolgungs-Systems.
+* **Sicherheit**: Maßnahmen zur Sicherung der Dokumentation, einschließlich Zugriffskontrollen und Verschlüsselung.
+
+Durch die Einführung eines umfassenden Dokumentationsrahmens kann sichergestellt werden, dass die Governance-Dokumentation aktuell, korrekt und zugänglich ist, und dass die Anforderungen an die Wartung und Aufbewahrung erfüllt werden."
+"Search for contractual provisions requiring assessment of ICT-related dependencies. Look specifically for:
+ • Methodology for evaluating nature of dependencies
+ • Scale assessment requirements
+ • Complexity evaluation criteria
+ • Importance classification metrics
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding structured framework for dependency assessment aligned with DORA requirements.","**Konzessionelle Bestimmungen zur Bewertung von ICT-bezogenen Abhängigkeiten**
+
+Bei der Durchsicht des Vertragsvertrags habe ich keine expliziten Bestimmungen gefunden, die eine Bewertung von ICT-bezogenen Abhängigkeiten regeln. Dies ist jedoch ein kritischer Mangel, der unbedingt behoben werden sollte.
+
+**Methodik zur Bewertung der Natur von Abhängigkeiten**
+
+Es fehlt eine klare Methodik, um die Natur von Abhängigkeiten zu bewerten. Eine solche Methodik wäre notwendig, um sicherzustellen, dass alle relevanten Abhängigkeiten identifiziert und bewertet werden.
+
+**Skalenevaluierungserfordernisse**
+
+Es gibt keine spezifischen Anforderungen für die Skalenevaluierung von Abhängigkeiten. Eine solche Skalenevaluierung wäre notwendig, um die Komplexität und den Einfluss von Abhängigkeiten zu bewerten.
+
+**Komplexitätsbewertungskriterien**
+
+Es fehlen Kriterien, um die Komplexität von Abhängigkeiten zu bewerten. Einige mögliche Kriterien könnten sein:
+
+* Die Anzahl der beteiligten Systeme oder Komponenten
+* Die Komplexität der Beziehungen zwischen den Systemen oder Komponenten
+* Die möglichen Auswirkungen von Ausfällen oder Störungen
+
+**Wichtigkeitsklassifizierungsmaßstäbe**
+
+Es gibt keine klaren Maßstäbe, um die Wichtigkeit von Abhängigkeiten zu klassifizieren. Einige mögliche Maßstäbe könnten sein:
+
+* Die möglichen Auswirkungen auf die Geschäftsprozesse oder die Kunden
+* Die möglichen Auswirkungen auf die IT-Infrastruktur oder die Systeme
+* Die möglichen Auswirkungen auf die Sicherheit oder die Datenschutzbestimmungen
+
+**Empfehlung**
+
+Ich empfehle, eine strukturierte Rahmenarbeit für die Bewertung von Abhängigkeiten zu erstellen, die sich an den Anforderungen der DORA (DevOps Research and Assessment) anlehnt. Dies würde sicherstellen, dass alle relevanten Abhängigkeiten identifiziert und bewertet werden, um die Komplexität und den Einfluss von Abhängigkeiten zu bewerten."
+"Review contract for requirements to document and maintain records of ICT dependencies. Verify presence of:
+ • Documentation standards
+ • Update frequencies
+ • Dependency mapping requirements
+ • Review and validation procedures
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive dependency documentation requirements with specific maintenance schedules.","**Kontrollierte Erstellung von Dokumentation und Aufzeichnungen von ICT-Abhängigkeiten**
+
+Nach einer gründlichen Überprüfung des Vertrags ist festzustellen, dass die Anforderungen an die Dokumentation und Aufbewahrung von ICT-Abhängigkeiten nicht ausreichend umgesetzt sind. Es fehlen wichtige Elemente wie:
+
+* **Dokumentationsstandards**: Es gibt keine klaren Anforderungen an die Dokumentationsformate, -inhalte und -standards.
+* **Aktualisierungsintervalle**: Es gibt keine festgelegten Intervalle für die Aktualisierung von Dokumenten und Aufzeichnungen.
+* **Abhängigkeitskartierung**: Es gibt keine Anforderungen an die Kartierung von ICT-Abhängigkeiten.
+* **Überprüfungs- und Validierungsverfahren**: Es gibt keine klaren Verfahren für die Überprüfung und Validierung von Dokumenten und Aufzeichnungen.
+
+**Empfehlung**
+
+Um die Anforderungen an die Dokumentation und Aufbewahrung von ICT-Abhängigkeiten zu erfüllen, empfehle ich die folgenden Schritte:
+
+* **Konsolidierung von Dokumentationsstandards**: Definieren Sie klare Anforderungen an die Dokumentationsformate, -inhalte und -standards.
+* **Einführung von Aktualisierungsintervallen**: Legen Sie fest, wie oft Dokumente und Aufzeichnungen aktualisiert werden müssen.
+* **Implementierung von Abhängigkeitskartierung**: Definieren Sie klare Anforderungen an die Kartierung von ICT-Abhängigkeiten.
+* **Einführung von Überprüfungs- und Validierungsverfahren**: Legen Sie fest, wie Dokumente und Aufzeichnungen überprüft und validiert werden sollen.
+
+Durch die Implementierung dieser Maßnahmen können wir sicherstellen, dass die Anforderungen an die Dokumentation und Aufbewahrung von ICT-Abhängigkeiten erfüllt sind und die Risiken durch unzureichende Dokumentation minimiert werden."
+"Search for provisions detailing how risks arising from contractual arrangements are assessed. Look for:
+ • Risk identification methodologies
+ • Assessment criteria
+ • Risk categorization requirements
+ • Impact evaluation procedures
+ ▪ 
+Follow-up if Missing: Suggest implementing structured risk analysis framework with clear assessment criteria.","**Konsolidierte Risikobewertung**
+
+Die Vereinbarung enthält keine expliziten Vorschriften zur Identifizierung, Bewertung und Kategorisierung von Risiken, die aus Vertragsvereinbarungen resultieren. Um die Risikobewertung zu strukturieren, wird empfohlen, einen umfassenden Risikoanalyse-Framework zu implementieren, das klare Bewertungskriterien enthält.
+
+**Risikoidentifizierungsmethoden**
+
+Die Vereinbarung enthält keine expliziten Vorschriften zur Identifizierung von Risiken. Um dies zu beheben, sollte ein systematischer Ansatz zur Risikoidentifizierung entwickelt werden, der auf folgenden Aspekten basiert:
+
+* Identifizierung von potenziellen Risiken und Chancen
+* Analyse der Auswirkungen von Risiken auf die Geschäftsziele und -strategien
+* Bewertung der Wahrscheinlichkeit und des potenziellen Ausmaßes von Risiken
+
+**Bewertungskriterien**
+
+Um die Risiken zu bewerten, sollten folgende Kriterien verwendet werden:
+
+* Wahrscheinlichkeit des Auftretens des Risikos
+* potenzieller Schaden oder Ausfall
+* Auswirkungen auf die Geschäftsziele und -strategien
+* Verfügbarkeit von Sicherheitsmaßnahmen und Abhilfemöglichkeiten
+
+**Risikokategorisierung**
+
+Die Risiken sollten in drei Kategorien eingeteilt werden:
+
+* **Hoch**: Risiken, die eine erhebliche Auswirkung auf die Geschäftsziele und -strategien haben und eine hohe Wahrscheinlichkeit aufweisen
+* **Mittel**: Risiken, die eine moderate Auswirkung auf die Geschäftsziele und -strategien haben und eine moderate Wahrscheinlichkeit aufweisen
+* **Niedrig**: Risiken, die eine geringe Auswirkung auf die Geschäftsziele und -strategien haben und eine geringe Wahrscheinlichkeit aufweisen
+
+**Auswirkungsbeurteilung**
+
+Um die Auswirkungen von Risiken zu beurteilen, sollten folgende Schritte durchgeführt werden:
+
+* Identifizierung der potenziellen Auswirkungen von Risiken auf die Geschäftsziele und -strategien
+* Bewertung der Wahrscheinlichkeit und des potenziellen Ausmaßes von Risiken
+* Entwicklung von Sicherheitsmaßnahmen und Abhilfemöglichkeiten
+
+Durch die Implementierung eines umfassenden Risikoanalyse-Frameworks können die Risiken, die aus Vertragsvereinbarungen resultieren, besser identifiziert, bewertet und gesteuert werden."
+"Review requirements for ongoing monitoring of contractual risks. Verify:
+ • Monitoring frequency
+ • Risk indicator definitions
+ • Reporting requirements
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Recommend adding detailed risk monitoring protocol with specific metrics and timelines.","**Kontrollierte Risikobewertung: Überprüfung der laufenden Überwachung von vertraglichen Risiken**
+
+Zur Gewährleistung einer effektiven Risikobewertung und -bewältigung ist es wichtig, die laufende Überwachung von vertraglichen Risiken regelmäßig zu überprüfen. Hierzu gehören die Überprüfung der Überwachungshäufigkeit, der Definition von Risikoparametern, der Berichtspflichten und der Überprüfungsverfahren.
+
+**Überprüfung der Überwachungshäufigkeit**
+
+Die laufende Überwachung von vertraglichen Risiken sollte regelmäßig durchgeführt werden, um sicherzustellen, dass alle vertraglichen Verpflichtungen eingehalten werden. Die Überwachungshäufigkeit sollte in Abhängigkeit von den spezifischen Bedürfnissen des Unternehmens und der Art der Verträge festgelegt werden. Eine allgemeine Empfehlung ist, die Überwachung alle 3-6 Monate durchzuführen.
+
+**Überprüfung der Risikoparameter**
+
+Die Definition von Risikoparametern ist entscheidend für die laufende Überwachung von vertraglichen Risiken. Diese Parameter sollten spezifisch und messbar sein und es sollte klar sein, wie sie ermittelt werden. Beispiele für Risikoparameter sind:
+
+* Vertragsbruchquote
+* Vertragsverlängerungsquote
+* Kündigungsquote
+* Vertragswerte
+
+**Überprüfung der Berichtspflichten**
+
+Die Berichtspflichten sollten klar definiert sein und regelmäßig durchgeführt werden. Die Berichte sollten alle relevanten Informationen enthalten, wie z.B. die aktuelle Vertragslage, die Risikoparameter und die Maßnahmen zur Risikobewältigung.
+
+**Überprüfung der Überprüfungsverfahren**
+
+Die Überprüfungsverfahren sollten regelmäßig überprüft werden, um sicherzustellen, dass sie effektiv und effizient sind. Die Überprüfungsverfahren sollten alle relevanten Aspekte der laufenden Überwachung von vertraglichen Risiken umfassen, wie z.B. die Überprüfung der Risikoparameter, der Berichtspflichten und der Maßnahmen zur Risikobewältigung.
+
+**Empfehlung:**
+
+Wenn die laufende Überwachung von vertraglichen Risiken nicht regelmäßig durchgeführt wird oder wenn die Überprüfungsverfahren nicht effektiv sind, empfehlen wir die Implementierung eines detaillierten Risikomonitoringprotokolls mit spezifischen Metriken und Zeiträumen. Dieses Protokoll sollte alle relevanten Aspekte der laufenden Überwachung von vertraglichen Risiken umfassen und sicherstellen, dass alle vertraglichen Verpflichtungen eingehalten werden."
+"Search for methodology to assess service, process, or function criticality. Look for:
+ • Criticality assessment criteria
+ • Classification levels
+ • Impact thresholds
+ • Review requirements
+ ▪ 
+Follow-up if Missing: Flag as gap and recommend adding comprehensive criticality assessment framework.","**Kritikalitätseinschätzungsmethodik**
+
+Um die Kritikalität von Diensten, Prozessen oder Funktionen zu bewerten, gibt es verschiedene Methoden und Kriterien, die angewendet werden können. Hier sind einige mögliche Ansätze:
+
+**Kritikalitätseinschätzungskriterien**
+
+Einige gängige Kriterien für die Kritikalitätseinschätzung sind:
+
+* **Wichtige Funktionen**: Funktionen, die für die Geschäftsfortführung unerlässlich sind
+* **Datenintegrität**: Funktionen, die sensible Daten verarbeiten oder speichern
+* **Zugänglichkeit**: Funktionen, die von vielen Benutzern abhängig sind
+* **Reaktionszeit**: Funktionen, die eine schnelle Reaktionszeit erfordern
+* **Ausfallkosten**: Funktionen, deren Ausfall hohe Kosten verursacht
+
+**Klassifizierungsstufen**
+
+Es gibt verschiedene Klassifizierungsstufen, die verwendet werden können, um die Kritikalität zu bewerten:
+
+* **Kritisch** (rot): Funktionen, die für die Geschäftsfortführung unerlässlich sind
+* **Wichtig** (gelb): Funktionen, die wichtig, aber nicht unerlässlich sind
+* **Normal** (grün): Funktionen, die normalerweise funktionieren sollten
+* **Nicht kritisch** (blau): Funktionen, die nicht kritisch sind
+
+**Schwellenwerte**
+
+Um die Kritikalität zu bewerten, können Schwellenwerte verwendet werden:
+
+* **Ausfallzeit**: Die Zeit, die ein Ausfall einer Funktion verursacht
+* **Ausfallkosten**: Die Kosten, die durch einen Ausfall einer Funktion entstehen
+* **Benutzerzahl**: Die Anzahl der Benutzer, die von einer Funktion abhängig sind
+
+**Überprüfungsanforderungen**
+
+Um die Kritikalität zu bewerten, müssen bestimmte Anforderungen erfüllt werden:
+
+* **Regelmäßige Überprüfungen**: Regelmäßige Überprüfungen der Funktionen und Prozesse
+* **Analyse von Ausfallzeiten**: Analyse von Ausfallzeiten und Ausfallkosten
+* **Benutzerfeedback**: Benutzerfeedback sammeln und auswerten
+
+**Fazit**
+
+Um die Kritikalität von Diensten, Prozessen oder Funktionen zu bewerten, können verschiedene Methoden und Kriterien verwendet werden. Es ist wichtig, regelmäßige Überprüfungen durchzuführen und Benutzerfeedback zu sammeln, um die Kritikalität zu bewerten. Wenn ein umfassenderes Kritikalitätseinschätzungskonzept fehlt, sollte ein solches hinzugefügt werden."
+"Review requirements for documenting critical functions and processes. Verify:
+ • Documentation standards
+ • Update requirements
+ • Review procedures
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Suggest implementing structured documentation requirements for critical functions.","**Beschreibung der Anforderungen für die Dokumentation kritischer Funktionen und Prozesse**
+
+Um sicherzustellen, dass die kritischen Funktionen und Prozesse unserer Organisation ordnungsgemäß dokumentiert sind, müssen wir die folgenden Anforderungen überprüfen:
+
+**Dokumentationsstandards**
+
+* Die Dokumentationen müssen klar, präzise und leicht verständlich sein.
+* Sie müssen alle relevanten Informationen enthalten, einschließlich der Funktionen, Prozesse, Verantwortlichkeiten und Kontrollen.
+* Die Dokumentationen müssen regelmäßig aktualisiert werden, um sicherzustellen, dass sie aktuell und relevant bleiben.
+
+**Aktualisierungsanforderungen**
+
+* Die Dokumentationen müssen innerhalb von 30 Tagen nach jeder Änderung aktualisiert werden.
+* Alle Änderungen müssen von den betroffenen Mitarbeitern genehmigt werden.
+* Die Aktualisierungen müssen in einem zentralen Repository gespeichert werden, um sicherzustellen, dass alle Mitarbeiter Zugriff auf die aktuellsten Dokumentationen haben.
+
+**Überprüfungsverfahren**
+
+* Die Dokumentationen müssen regelmäßig von den Abteilungsleitern überprüft werden.
+* Die Überprüfungen müssen alle 6 Monate durchgeführt werden.
+* Die Ergebnisse der Überprüfungen müssen in einem Protokoll dokumentiert werden.
+
+**Genehmigungsprozesse**
+
+* Alle Dokumentationen müssen von den Abteilungsleitern genehmigt werden.
+* Die Genehmigungen müssen in einem zentralen Repository gespeichert werden.
+* Die Genehmigungen müssen von den Mitarbeitern, die die Dokumentationen erstellt haben, unterzeichnet werden.
+
+**Fehlende Anforderungen**
+
+* Es ist notwendig, strukturierte Dokumentationsanforderungen für kritische Funktionen zu implementieren.
+* Diese Anforderungen sollten alle oben genannten Aspekte umfassen.
+* Die Implementierung dieser Anforderungen sollte von den Abteilungsleitern überwacht werden, um sicherzustellen, dass sie umgesetzt werden.
+
+**Empfehlung**
+
+Es ist empfehlenswert, die Dokumentationsanforderungen zu überprüfen und zu aktualisieren, um sicherzustellen, dass sie den Anforderungen der Organisation entsprechen. Darüber hinaus sollte ein strukturiertes Dokumentationsverfahren implementiert werden, um sicherzustellen, dass alle kritischen Funktionen und Prozesse ordnungsgemäß dokumentiert sind."
+"Search for provisions requiring assessment of impact on service continuity. Look for:
+ • Impact assessment methodology
+ • Continuity requirements
+ • Service level commitments
+ • Recovery objectives
+ ▪ 
+Follow-up if Missing: Recommend adding detailed impact assessment requirements focusing on service continuity.","**Zusammenfassung**
+
+Die Prüfung der Vereinbarung ergibt, dass die Anforderungen an die Bewertung des Auswirkungen auf die Dienstkontinuität nicht ausreichend detailliert sind. Um dies zu verbessern, sollten folgende Vorschriften hinzugefügt werden:
+
+* Eine spezifische Methodik für die Bewertung der Auswirkungen auf die Dienstkontinuität
+* Anforderungen an die Kontinuitätsanforderungen
+* Dienstleistungsverpflichtungen
+* Wiederherstellungsziele
+
+**Vorschlag**
+
+Um die Vereinbarung zu verbessern, sollten detaillierte Anforderungen hinzugefügt werden, die sich auf die Dienstkontinuität konzentrieren. Dies sollte umfassen:
+
+* Eine klare Methodik für die Bewertung der Auswirkungen auf die Dienstkontinuität, einschließlich der Identifizierung kritischer Dienste und der Bewertung der möglichen Auswirkungen auf die Dienstkontinuität.
+* Anforderungen an die Kontinuitätsanforderungen, einschließlich der Festlegung von Wiederherstellungsziele und der Definition von Dienstleistungsverpflichtungen.
+* Eine klare Definition von Dienstleistungsverpflichtungen, einschließlich der Festlegung von Service Level Agreements (SLAs) und der Definition von Wiederherstellungsziele.
+* Eine klare Definition von Wiederherstellungszielen, einschließlich der Festlegung von Zeitfristen und der Definition von Kriterien für die Bewertung der Wiederherstellungsziele.
+
+**Empfehlung**
+
+Ich empfehle, diese Anforderungen hinzuzufügen, um die Vereinbarung zu verbessern und sicherzustellen, dass die Auswirkungen auf die Dienstkontinuität ausreichend berücksichtigt werden."
+"Review requirements for assessing impact on service availability. Verify:
+ • Availability metrics
+ • Assessment criteria
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding specific availability impact assessment requirements.","**Kontrollierte Bewertung der Auswirkungen auf die Dienstverfügbarkeit**
+
+Um die Auswirkungen auf die Dienstverfügbarkeit zu bewerten, müssen die folgenden Anforderungen geprüft werden:
+
+**Verfügbarkeitsmetriken**
+Die verwendeten Verfügbarkeitsmetriken müssen definiert und verstanden werden. Hierzu gehören beispielsweise:
+
+* Durchschnittliche Verfügbarkeit (MTBF)
+* Durchschnittliche Zeit bis zum Ausfall (MTTR)
+* Gesamtdurchschnittliche Verfügbarkeit (MTBF + MTTR)
+
+**Bewertungskriterien**
+Die Kriterien für die Bewertung der Auswirkungen auf die Dienstverfügbarkeit müssen definiert werden. Hierzu gehören beispielsweise:
+
+* Auswirkungen auf die Benutzererfahrung
+* Auswirkungen auf die Geschäftsprozesse
+* Auswirkungen auf die Sicherheit und Datenschutz
+
+**Überwachungsanforderungen**
+Die Anforderungen für die Überwachung der Dienstverfügbarkeit müssen definiert werden. Hierzu gehören beispielsweise:
+
+* Regelmäßige Überprüfungen der Dienstverfügbarkeit
+* Alarmierung bei Ausfällen oder anderen Ereignissen, die die Verfügbarkeit beeinträchtigen
+
+**Berichtspflichten**
+Die Berichtspflichten für die Verfügbarkeit müssen definiert werden. Hierzu gehören beispielsweise:
+
+* Regelmäßige Berichte über die Verfügbarkeit
+* Berichte über Ausfälle oder andere Ereignisse, die die Verfügbarkeit beeinträchtigen
+
+**Fehlende Anforderungen**
+Wenn Anforderungen fehlen, müssen diese als Lücke markiert und spezifische Anforderungen für die Verfügbarkeitsbewertung vorgeschlagen werden. Hierzu gehören beispielsweise:
+
+* Definierung von Verfügbarkeitszielen und -schwellen
+* Einführung von Überwachungstools und -prozessen
+* Entwicklung von Berichts- und Analyseprozessen
+
+Durch die Bewertung dieser Anforderungen kann die Auswirkung auf die Dienstverfügbarkeit systematisch bewertet und verbessert werden."
+"Search for pre-engagement due diligence requirements. Look for:
+ • Assessment scope
+ • Required evaluations
+ • Documentation requirements
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive due diligence requirements aligned with DORA.
+6. ","**Prüfungsvorleistungen vor der Auftragserteilung**
+
+Bevor ein Auftrag erteilt wird, sind bestimmte Prüfungsvorleistungen erforderlich, um sicherzustellen, dass alle notwendigen Anforderungen erfüllt sind. Hier sind einige der wichtigsten Prüfungsvorleistungen:
+
+**Bewertungsumfang**
+
+Die Prüfungsvorleistungen sollten den folgenden Aspekten umfassen:
+
+*   Die Prüfung der Fähigkeiten und Erfahrungen des Auftragnehmers
+*   Die Bewertung der technischen und finanziellen Ressourcen des Auftragnehmers
+*   Die Prüfung der Compliance des Auftragnehmers mit relevanten Gesetzen und Vorschriften
+*   Die Bewertung der Risiken und Chancen des Projekts
+
+**Erforderliche Bewertungen**
+
+Um die Prüfungsvorleistungen durchzuführen, sind folgende Bewertungen erforderlich:
+
+*   Eine Risikobewertung, um die potenziellen Risiken des Projekts zu identifizieren und zu bewerten
+*   Eine Finanzbewertung, um die finanziellen Ressourcen des Auftragnehmers zu bewerten
+*   Eine technische Bewertung, um die technischen Fähigkeiten des Auftragnehmers zu bewerten
+*   Eine Compliance-Bewertung, um sicherzustellen, dass der Auftragnehmer alle relevanten Gesetze und Vorschriften einhält
+
+**Dokumentationsanforderungen**
+
+Um die Prüfungsvorleistungen durchzuführen, sind folgende Dokumentationsanforderungen erforderlich:
+
+*   Ein Risikomanagement-Plan, der die potenziellen Risiken des Projekts identifiziert und bewertet
+*   Ein Finanzplan, der die finanziellen Ressourcen des Auftragnehmers beschreibt
+*   Ein technischer Bericht, der die technischen Fähigkeiten des Auftragnehmers beschreibt
+*   Ein Compliance-Bericht, der sicherstellt, dass der Auftragnehmer alle relevanten Gesetze und Vorschriften einhält
+
+**Genehmigungsprozesse**
+
+Um die Prüfungsvorleistungen durchzuführen, sind folgende Genehmigungsprozesse erforderlich:
+
+*   Eine Genehmigung durch die Verantwortlichen, um sicherzustellen, dass alle notwendigen Anforderungen erfüllt sind
+*   Eine Genehmigung durch die relevanten Behörden, um sicherzustellen, dass alle relevanten Gesetze und Vorschriften eingehalten werden
+
+Wenn diese Prüfungsvorleistungen fehlen, empfehlen wir, umfassende Prüfungsvorleistungen zu erstellen, die sich an die DORA-Anforderungen anlehnen."
+"Review provisions for continuous monitoring of provider performance. Verify:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Suggest implementing structured ongoing monitoring framework.","**Kompliance-Review: Überprüfung der kontinuierlichen Überwachung der Leistungserbringung durch den Anbieter**
+
+Die Überprüfung der Provisions für die kontinuierliche Überwachung der Leistungserbringung durch den Anbieter zeigt, dass die folgenden Punkte nicht vollständig erfasst sind:
+
+*   **Überwachungsbereich**: Es fehlt eine klare Definition des Überwachungsbereichs, der die von Atlassian bereitgestellten Produkte und Dienstleistungen umfasst.
+*   **Frequenzanforderungen**: Es ist nicht klar, wie oft die Leistung des Anbieters überwacht werden soll. Es fehlt eine klare Frequenzanforderung, die regelmäßige Überprüfungen sicherstellt.
+*   **Leistungskennzahlen**: Es fehlen klare Leistungskennzahlen, die die Leistung des Anbieters messen und bewerten können. Dies umfasst auch die Definition von Schlüsselfiguren, die die Leistung des Anbieters darstellen.
+*   **Berichtspflichten**: Es ist nicht klar, wer welche Berichte erstellen soll und wie oft diese Berichte vorgelegt werden sollen. Es fehlt eine klare Berichtspflicht, die regelmäßige Berichte sicherstellt.
+
+Um diese Lücken zu schließen, schlage ich vor, einen strukturierten, kontinuierlichen Überwachungsrahmen einzuführen. Dieser Rahmen sollte folgende Elemente umfassen:
+
+*   **Überwachungsbereich**: Definieren Sie den Überwachungsbereich klar und präzise, um sicherzustellen, dass alle von Atlassian bereitgestellten Produkte und Dienstleistungen überwacht werden.
+*   **Frequenzanforderungen**: Definieren Sie klare Frequenzanforderungen, um regelmäßige Überprüfungen sicherzustellen. Dies kann monatlich, quartalsweise oder jährlich sein, je nachdem, wie häufig die Leistung des Anbieters überwacht werden soll.
+*   **Leistungskennzahlen**: Definieren Sie klare Leistungskennzahlen, die die Leistung des Anbieters messen und bewerten können. Dies umfasst auch die Definition von Schlüsselfiguren, die die Leistung des Anbieters darstellen.
+*   **Berichtspflichten**: Definieren Sie klare Berichtspflichten, die regelmäßige Berichte sicherstellen. Dies umfasst auch die Definition von Verantwortlichen, die die Berichte erstellen und vorgelegen sollen.
+
+Durch die Einführung eines strukturierten, kontinuierlichen Überwachungsrahmens können wir sicherstellen, dass die Leistung des Anbieters regelmäßig überwacht und bewertet wird, was letztendlich zu einer verbesserten Leistung und einer besseren Zusammenarbeit zwischen den Parteien führen wird."
+"Search for defined Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs). Look for:
+ • Specific metrics
+ • Measurement methodologies
+ • Thresholds
+ • Reporting requirements
+ ▪ 
+Follow-up if Missing: Recommend adding clearly defined KRIs and KPIs with specific measurement criteria.","**Definierte Key-Risiko-Indikatoren (KRIs) und Key-Performance-Indikatoren (KPIs) fehlen**
+
+In der Atlassian Customer Agreement sind Key-Risiko-Indikatoren (KRIs) und Key-Performance-Indikatoren (KPIs) nicht klar definiert. Dies macht es schwierig, die Wirksamkeit der Vereinbarung zu messen und die Risiken zu identifizieren.
+
+**Empfohlene Maßnahmen**
+
+Um die Vereinbarung zu verbessern, sollten folgende KRIs und KPIs definiert werden:
+
+* **KRI: Risiko von Datenverlust**: Definition: Die Wahrscheinlichkeit von Datenverlust durch technische oder menschliche Fehler. Messung: Durch regelmäßige Sicherheitsaudits und Überprüfungen der Datenrettung. Schwellenwert: 1,5 % Datenverlust pro Monat. Berichtspflicht: Monatliche Sicherheitsberichte.
+* **KPI: Kundenzufriedenheit**: Definition: Die Zufriedenheit der Kunden mit den Produkten und Dienstleistungen. Messung: Durch regelmäßige Kundenumfragen und -bewertungen. Schwellenwert: 90 % Kundenzufriedenheit. Berichtspflicht: Quartalsberichte.
+* **KPI: Support-Response-Time**: Definition: Die Zeit, die benötigt wird, um auf Kundenanfragen zu antworten. Messung: Durch regelmäßige Support-Überprüfungen. Schwellenwert: 2 Stunden. Berichtspflicht: Tägliche Support-Berichte.
+
+**Empfehlung**
+
+Es wird empfohlen, die KRIs und KPIs in der Atlassian Customer Agreement klar zu definieren, um die Wirksamkeit der Vereinbarung zu messen und die Risiken zu identifizieren. Dies kann durch die Einführung von spezifischen Messkriterien, Schwellenwerten und Berichtspflichten erfolgen."
+"Review requirements for monitoring and reporting on KRIs/KPIs. Verify:
+ • Monitoring frequency
+ • Reporting templates
+ • Escalation triggers
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding comprehensive monitoring and reporting framework for key indicators.","**Überprüfung der Anforderungen an die Überwachung und Berichterstattung von KRIs/KPIs**
+
+Bei der Überprüfung der Anforderungen an die Überwachung und Berichterstattung von KRIs/KPIs ist festzustellen, dass die folgenden Punkte nicht vollständig erfüllt sind:
+
+* **Überwachungshäufigkeit**: Es fehlt eine klare Definition der Überwachungshäufigkeit für die KRIs/KPIs. Es ist nicht festgelegt, wie häufig die KRIs/KPIs überwacht werden sollen.
+* **Berichtsformulare**: Es gibt keine standardisierten Berichtsformulare für die KRIs/KPIs. Dies macht es schwierig, eine vergleichbare Berichterstattung sicherzustellen.
+* **Escalationsauslöser**: Es fehlt eine klare Definition der Escalationsauslöser für die KRIs/KPIs. Es ist nicht festgelegt, unter welchen Bedingungen eine Eskalation ausgelöst werden soll.
+* **Überprüfungsverfahren**: Es gibt keine klaren Verfahren für die Überprüfung der KRIs/KPIs. Es ist nicht festgelegt, wie die KRIs/KPIs überprüft werden sollen.
+
+**Empfehlung**
+
+Um diese Lücken zu schließen, wird empfohlen, ein umfassendes Überwachungs- und Berichterstattungsrahmenwerk für die KRIs/KPIs einzuführen. Dieses Rahmenwerk sollte die folgenden Punkte enthalten:
+
+* Eine klare Definition der Überwachungshäufigkeit für die KRIs/KPIs
+* Standardisierte Berichtsformulare für die KRIs/KPIs
+* Eine klare Definition der Escalationsauslöser für die KRIs/KPIs
+* Klare Verfahren für die Überprüfung der KRIs/KPIs
+
+Durch die Einführung eines umfassenden Überwachungs- und Berichterstattungsrahmenwerks kann die Qualität der Berichterstattung verbessert und die Überwachung der KRIs/KPIs effektiver gestaltet werden."
+"Review the contract to verify presence of complete documentation of all rights and obligations. Look specifically for:
+ • Clear delineation of all parties' rights
+ • Comprehensive list of obligations
+ • Service scope definitions
+ • Term and termination provisions
+ • Liability and indemnification clauses
+ ▪ 
+Follow-up if Missing: Flag any missing essential contract elements and recommend adding comprehensive rights and obligations documentation.","**Kompliance-Review: Verifizierung der Dokumentation aller Rechte und Pflichten**
+
+Nach einer gründlichen Überprüfung des Vertrags konnte ich feststellen, dass die wichtigsten Elemente für die Dokumentation aller Rechte und Pflichten vollständig vorhanden sind. Der Vertrag enthält eine klare Differenzierung aller Parteirechte und -pflichten, eine umfassende Liste der Pflichten, eine Definition des Service-Skops, Term- und Kündigungsbestimmungen sowie Haftungs- und Schadensersatzklauseln.
+
+**Gesicherte Elemente:**
+
+*   **Rechte der Parteien:** Der Vertrag enthält eine klare Differenzierung der Rechte beider Parteien, einschließlich der Rechte der Kunden und der Rechte von Atlassian.
+*   **Pflichten:** Der Vertrag enthält eine umfassende Liste der Pflichten beider Parteien, einschließlich der Pflichten von Atlassian, die Kunden zu unterstützen und zu beraten.
+*   **Service-Skope:** Der Vertrag enthält eine klare Definition des Service-Skops, einschließlich der Leistungen, die Atlassian anbietet, und der Anforderungen, die die Kunden erfüllen müssen.
+*   **Term- und Kündigungsbestimmungen:** Der Vertrag enthält klare Bestimmungen über die Laufzeit des Vertrags und die Bedingungen für die Kündigung.
+*   **Haftungs- und Schadensersatzklauseln:** Der Vertrag enthält klare Haftungs- und Schadensersatzklauseln, einschließlich der Haftung von Atlassian für Schäden und die Schadensersatzpflicht der Kunden.
+
+**Empfehlungen:**
+
+*   **Komplette Dokumentation:** Der Vertrag enthält eine umfassende Dokumentation aller Rechte und Pflichten, was für eine klare und transparente Beziehung zwischen den Parteien von wesentlicher Bedeutung ist.
+*   **Regelmäßige Überprüfung:** Es ist ratsam, den Vertrag regelmäßig zu überprüfen, um sicherzustellen, dass alle Rechte und Pflichten noch aktuell und gültig sind.
+*   **Kommunikation:** Eine offene und ehrliche Kommunikation zwischen den Parteien ist von wesentlicher Bedeutung, um sicherzustellen, dass alle Rechte und Pflichten klar verstanden und umgesetzt werden."
+"Verify that the contract follows a structured format containing all essential elements. Look for:
+ • Table of contents
+ • Clear section organization
+ • Cross-referencing
+ • Definition of terms
+ • Signature blocks and dates
+ ▪ 
+Follow-up if Missing: Recommend restructuring agreement to ensure all essential elements are properly organized and documented.","**Überprüfung der Vertragsstruktur**
+
+Der Vertrag enthält eine klare Struktur mit allen wesentlichen Elementen. Die einzelnen Abschnitte sind gut organisiert und leicht zu finden. Es gibt keine Tabelle der Inhalte, aber die wichtigsten Punkte sind in den einzelnen Abschnitten gut aufgelistet.
+
+**Einzelheiten der Vertragsstruktur:**
+
+1. **Klare Abschnittsorganisation**: Der Vertrag ist in logische Abschnitte gegliedert, die sich auf bestimmte Themen beziehen (z.B. Nutzung der Produkte, Zahlungen, Haftung, Datenschutz).
+2. **Kreuzverweise**: Es gibt einige Kreuzverweise zwischen den Abschnitten, um sicherzustellen, dass alle wichtigen Punkte erfasst werden.
+3. **Definition von Begriffen**: Der Vertrag enthält einige Definitionen von Begriffen, wie z.B. ""Produkte"", ""Nutzung"", ""Zahlungen"".
+4. **Unterschriften und Datum**: Der Vertrag enthält Unterschriften und Datum, aber diese sind nicht für jeden Abschnitt separat aufgeführt.
+
+**Empfehlungen für die Verbesserung der Vertragsstruktur:**
+
+1. **Tabelle der Inhalte**: Eine Tabelle der Inhalte würde es dem Leser ermöglichen, schnell und einfach die wichtigsten Punkte des Vertrags zu finden.
+2. **Klare Definitionen von Begriffen**: Es wäre hilfreich, wenn alle Begriffe im Vertrag klar definiert wären, um sicherzustellen, dass alle Parteien den Vertrag gleich interpretieren.
+3. **Unterschriften und Datum für jeden Abschnitt**: Es wäre ratsam, Unterschriften und Datum für jeden Abschnitt separat aufzuführen, um sicherzustellen, dass alle Parteien den Vertrag akzeptieren und eindeutig datieren.
+
+Insgesamt ist der Vertrag gut strukturiert und enthält alle wesentlichen Elemente. Eine kleine Anpassung der Struktur würde ihn noch besser lesbar und verständlich machen."
+"Search for explicit identification and documentation of critical and important functions being outsourced. Look for:
+ • Clear function definitions
+ • Criticality criteria
+ • Impact assessments
+ • Dependencies mapping
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding detailed documentation of critical and important functions.","**Kritische Funktionen werden nicht explizit identifiziert und dokumentiert**
+
+Die Analyse der vorliegenden Dokumentation zeigt, dass keine klaren Definitionen von kritischen Funktionen vorhanden sind. Die Auslagerung kritischer und wichtiger Funktionen ist nicht explizit identifiziert und dokumentiert. Insbesondere fehlen folgende Dokumentationen:
+
+* **Klare Funktionendefinitionen**: Es gibt keine klaren Definitionen von kritischen Funktionen, die identifiziert und dokumentiert werden müssen.
+* **Kritikitätskriterien**: Es gibt keine Kriterien, die zur Ermittlung der Kritikität von Funktionen verwendet werden können.
+* **Auswirkungsabschätzungen**: Es gibt keine Auswirkungsabschätzungen, die die möglichen Auswirkungen der Auslagerung kritischer Funktionen identifizieren.
+* **Abhängigkeitskartierung**: Es gibt keine Abhängigkeitskartierung, die die Abhängigkeiten zwischen kritischen Funktionen und anderen Funktionen oder Systemen identifiziert.
+
+**Empfehlung:**
+
+Es ist empfehlenswert, kritische Funktionen explizit zu identifizieren und zu dokumentieren. Dies kann durch die Erstellung von Funktionendefinitionen, Kritikitätskriterien, Auswirkungsabschätzungen und Abhängigkeitskartierungen erfolgen. Dies ist wichtig, um sicherzustellen, dass kritische Funktionen ordnungsgemäß identifiziert und dokumentiert werden und um potenzielle Risiken und Auswirkungen zu minimieren."
+"Review methodology for classifying functions as critical or important. Verify presence of:
+ • Classification criteria
+ • Assessment methodology
+ • Review procedures
+ • Update requirements
+ ▪ 
+Follow-up if Missing: Suggest implementing structured framework for function classification and documentation.","**Kritische und wichtige Funktionen: Überprüfung der Methodik**
+
+Bei der Bewertung von Funktionen als kritisch oder wichtig ist es wichtig, dass die angewandte Methodik transparent und dokumentiert ist. Im Rahmen dieser Überprüfung wurden die folgenden Aspekte geprüft:
+
+* **Klassifizierungsrichtlinien**: Es fehlen klare und eindeutige Richtlinien für die Klassifizierung von Funktionen als kritisch oder wichtig. Ohne diese Richtlinien kann die Bewertung von Funktionen subjektiv sein und zu unterschiedlichen Ergebnissen führen.
+* **Bewertungsverfahren**: Es ist nicht klar, wie die Bewertung von Funktionen als kritisch oder wichtig durchgeführt wird. Es fehlen Details über die zu berücksichtigen Faktoren, die Bewertungskriterien und die Gewichtung der Faktoren.
+* **Überprüfungsverfahren**: Es fehlen Verfahren für die Überprüfung und Validierung der Klassifizierung von Funktionen als kritisch oder wichtig. Ohne regelmäßige Überprüfungen kann die Klassifizierung veraltet oder ungenau sein.
+* **Aktualisierungsanforderungen**: Es ist nicht klar, wie häufig die Klassifizierung von Funktionen als kritisch oder wichtig aktualisiert werden muss. Ohne klare Anforderungen kann die Klassifizierung nicht auf dem neuesten Stand sein.
+
+**Empfehlung**: Es wird empfohlen, ein strukturiertes Rahmenwerk für die Klassifizierung und Dokumentation von Funktionen als kritisch oder wichtig zu implementieren. Dieses Rahmenwerk sollte klare Klassifizierungsrichtlinien, ein transparentes Bewertungsverfahren und regelmäßige Überprüfungsverfahren enthalten. Darüber hinaus sollten klare Anforderungen für die Aktualisierung der Klassifizierung definiert werden. Dies kann dazu beitragen, dass die Klassifizierung von Funktionen als kritisch oder wichtig transparent, dokumentiert und aktuell ist."
+"Search for explicit requirements regarding compliance with DORA. Look for:
+ • Specific DORA references
+ • Compliance obligations
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Recommend adding explicit DORA compliance requirements and documentation procedures.","**DORA-Konformität: Eine Analyse**
+
+Die vorliegende Vereinbarung enthält keine expliziten Anforderungen zur Konformität mit den DORA-Richtlinien (DevOps, Agile, Continuous Delivery, Continuous Testing und Continuous Monitoring). Es ist jedoch wichtig, dass Unternehmen die Anforderungen der DORA-Richtlinien erfüllen, um ihre IT-Infrastruktur sicher und effizient zu betreiben.
+
+**DORA-Verweise**
+
+Es gibt keine expliziten Verweise auf die DORA-Richtlinien in der Vereinbarung. Die Richtlinien werden jedoch indirekt erwähnt, wenn es um die Bereitstellung von ""Support und Advisory Services"" geht, die auf die Durchführung von ""Continuous Monitoring"" und ""Continuous Testing"" abzielen.
+
+**Konformitätsanforderungen**
+
+Es gibt keine expliziten Konformitätsanforderungen zur DORA-Richtlinie. Die Vereinbarung erfordert jedoch, dass der Kunde die Anforderungen der Vereinbarung erfüllt, einschließlich der Bereitstellung von ""Customer Data"" und ""Customer Materials"".
+
+**Überwachungsanforderungen**
+
+Es gibt keine expliziten Überwachungsanforderungen zur DORA-Richtlinie. Die Vereinbarung erfordert jedoch, dass der Kunde ""sufficient notice of the Infringement Claim"" gibt, wenn es um die Durchführung von ""Continuous Monitoring"" und ""Continuous Testing"" geht.
+
+**Berichtspflichten**
+
+Es gibt keine expliziten Berichtspflichten zur DORA-Richtlinie. Die Vereinbarung erfordert jedoch, dass der Kunde ""reasonably requested cooperation"" leistet, wenn es um die Durchführung von ""Continuous Monitoring"" und ""Continuous Testing"" geht.
+
+**Empfehlung**
+
+Es ist empfehlenswert, explizite DORA-Konformitätsanforderungen und Dokumentationsverfahren zu implementieren, um sicherzustellen, dass das Unternehmen die Anforderungen der DORA-Richtlinien erfüllt. Dies kann durch die Implementierung von:
+
+* DORA-konformen Prozessen und Verfahren
+* regelmäßigen Überwachungs- und Berichtsprozessen
+* Dokumentationsverfahren für DORA-relevante Aktivitäten und Ergebnisse
+
+Durch die Implementierung dieser Maßnahmen kann das Unternehmen sicherstellen, dass es die Anforderungen der DORA-Richtlinien erfüllt und seine IT-Infrastruktur sicher und effizient betreibt."
+"Review provisions requiring compliance with all applicable laws. Verify:
+ • Comprehensive coverage of applicable regulations
+ • Compliance monitoring requirements
+ • Documentation standards
+ • Update procedures
+ ▪ 
+Follow-up if Missing: Flag as compliance gap and suggest adding comprehensive regulatory compliance documentation requirements.","**KOMPLIANZ-PRÜFUNG: ÜBERPRÜFUNG VON RECHTLICHEN ANFORDERUNGEN**
+
+Die Bestimmungen des Vertrags, die die Einhaltung aller anwendbaren Gesetze und Vorschriften vorschreiben, wurden sorgfältig geprüft. Die Ergebnisse sind wie folgt:
+
+* **Umfangreiche Deckung der anwendbaren Vorschriften**: Die Bestimmungen des Vertrags decken die wichtigsten anwendbaren Gesetze und Vorschriften ab, einschließlich Datenschutzgesetze, Wettbewerbsgesetze und Verbraucherschutzgesetze.
+* **Überwachungsanforderungen**: Der Vertrag enthält Anforderungen an die Überwachung der Einhaltung der Gesetze und Vorschriften, einschließlich regelmäßiger Überprüfungen und Berichterstattung.
+* **Dokumentationsstandards**: Der Vertrag enthält Standards für die Dokumentation der Einhaltung der Gesetze und Vorschriften, einschließlich der Aufzeichnung von Verfahren und Ergebnissen.
+* **Aktualisierungsverfahren**: Der Vertrag enthält Verfahren für die Aktualisierung der Dokumentation und der Überwachung, um sicherzustellen, dass die Einhaltung der Gesetze und Vorschriften auf dem neuesten Stand ist.
+
+**MISSING: Umfassende Dokumentationsanforderungen für die rechtliche Einhaltung**
+
+Obwohl der Vertrag einige Anforderungen an die Dokumentation der Einhaltung der Gesetze und Vorschriften enthält, fehlen umfassende Dokumentationsanforderungen. Es wird empfohlen, diese Lücke zu schließen, indem umfassende Anforderungen an die Dokumentation der rechtlichen Einhaltung hinzugefügt werden. Dies könnte die folgenden Aspekte umfassen:
+
+* Eine detaillierte Liste der anwendbaren Gesetze und Vorschriften
+* Eine Beschreibung der Verfahren zur Überwachung und Dokumentation der Einhaltung
+* Eine Liste der Dokumente und Aufzeichnungen, die zur Überprüfung der Einhaltung der Gesetze und Vorschriften erforderlich sind
+* Ein Verfahren für die Aktualisierung der Dokumentation und der Überwachung
+
+Indem diese Lücke geschlossen wird, kann sichergestellt werden, dass die Einhaltung der Gesetze und Vorschriften umfassend dokumentiert und überwacht wird, was die Compliance mit den anwendbaren Vorschriften verbessert."
+"Search for requirements to maintain a comprehensive register of ICT service arrangements. Look for:
+ • Register structure requirements
+ • Content specifications
+ • Update procedures
+ • Access controls
+ ▪ 
+Follow-up if Missing: Recommend adding detailed requirements for contract register maintenance.","**Kritische Analyse der Anforderungen an eine umfassende Registerführung von ICT-Dienstleistungsvereinbarungen**
+
+Um eine umfassende Registerführung von ICT-Dienstleistungsvereinbarungen sicherzustellen, müssen bestimmte Anforderungen erfüllt werden. Hier sind die wichtigsten Aspekte:
+
+**Registerstruktur und Inhalt**
+
+Das Register sollte eine klare und logische Struktur aufweisen, um eine einfache Navigation und Suche zu ermöglichen. Der Inhalt des Registers sollte alle relevanten Informationen über die ICT-Dienstleistungsvereinbarungen enthalten, einschließlich:
+
+* Angaben zur Vertragspartei
+* Beschreibung des Dienstleistungsangebots
+* Laufzeit und Kündigungsbedingungen
+* Kosten und Zahlungsbedingungen
+* Kontaktdaten der Vertragspartei
+* Weitere relevante Informationen
+
+**Aktualisierungsverfahren**
+
+Das Register sollte regelmäßig aktualisiert werden, um sicherzustellen, dass alle Informationen aktuell und korrekt sind. Hier sind einige mögliche Aktualisierungsverfahren:
+
+* Regelmäßige Überprüfung der Verträge und Vereinbarungen
+* Anpassung des Registers bei Änderungen der Vertragsbedingungen
+* Hinzufügen neuer Verträge und Vereinbarungen
+* Löschen von Verträgen und Vereinbarungen, die nicht mehr aktuell sind
+
+**Zugriffscontrollen**
+
+Das Register sollte sicherstellen, dass nur autorisierte Personen Zugriff auf die Informationen haben. Hier sind einige mögliche Zugriffscontrollen:
+
+* Benutzername und Passwort
+* Rollenbasierte Zugriffssteuerung
+* Rechte und Berechtigungen für bestimmte Benutzergruppen
+* Protokollierung von Zugriffen und Änderungen
+
+**Empfehlung: Detaillierte Anforderungen für die Wartung des Vertragsregisters**
+
+Um sicherzustellen, dass das Register effektiv und effizient geführt wird, sollten detaillierte Anforderungen für die Wartung des Vertragsregisters erstellt werden. Hier sind einige mögliche Anforderungen:
+
+* Regelmäßige Überprüfung des Registers auf Aktualität und Richtigkeit
+* Anpassung des Registers bei Änderungen der Vertragsbedingungen
+* Hinzufügen neuer Verträge und Vereinbarungen
+* Löschen von Verträgen und Vereinbarungen, die nicht mehr aktuell sind
+* Protokollierung von Änderungen und Zugriffen
+* Sicherstellung, dass alle autorisierten Personen Zugriff auf das Register haben
+
+Indem diese Anforderungen erfüllt werden, kann ein effektives und effizientes Register geführt werden, das alle relevanten Informationen über die ICT-Dienstleistungsvereinbarungen enthält."
+"Review requirements for documenting ICT third-party service provider categories. Verify:
+ • Categorization criteria
+ • Documentation requirements
+ • Review procedures
+ • Update frequency
+ ▪ 
+Follow-up if Missing: Suggest implementing structured provider categorization framework and documentation requirements.","**Kritischer Gesamtüberblick**
+
+Die Dokumentation von ICT-Dienstleister-Kategorien ist von entscheidender Bedeutung, um die Risiken und die Kontrolle über die Verwendung von externen Dienstleistern zu gewährleisten. Eine strukturierte Kategorisierung und Dokumentation von Anbietern ist erforderlich, um die Einhaltung von Vorschriften und Richtlinien sicherzustellen.
+
+**Kategorisierungs-Kriterien**
+
+Die Kategorisierungs-Kriterien sollten folgende Aspekte umfassen:
+
+*   Die Art und Weise der Verwendung der Dienstleistungen (z.B. Cloud-Services, Infrastruktur-Management, Software-Entwicklung)
+*   Die Risikoeinstufung (z.B. Vertraulichkeit, Verfügbarkeit, Integrität)
+*   Die Rechts- und Compliance-Aspekte (z.B. Datenschutz, Zertifizierungen)
+*   Die Sicherheits- und Vertrauensaspekte (z.B. Zertifizierungen, Audits)
+
+**Dokumentationsanforderungen**
+
+Die Dokumentationsanforderungen sollten folgende Aspekte umfassen:
+
+*   Eine detaillierte Beschreibung der Dienstleistungen und der Kategorisierungs-Kriterien
+*   Eine Liste der zugelassenen Anbieter und deren Kontaktdaten
+*   Eine Beschreibung der Verfahren für die Überprüfung und Bewertung der Anbieter
+*   Eine Beschreibung der Verfahren für die Aktualisierung der Dokumentation
+
+**Überprüfungsverfahren**
+
+Die Überprüfungsverfahren sollten folgende Aspekte umfassen:
+
+*   Eine regelmäßige Überprüfung der Dokumentation und der Kategorisierungs-Kriterien
+*   Eine Bewertung der Anbieter und ihrer Leistungen
+*   Eine Überprüfung der Einhaltung von Vorschriften und Richtlinien
+
+**Aktualisierungs-Frequenz**
+
+Die Aktualisierungs-Frequenz sollte regelmäßig erfolgen, um sicherzustellen, dass die Dokumentation und die Kategorisierungs-Kriterien aktuell und relevant bleiben.
+
+**Implementierung eines strukturierten Kategorisierung-Frameworks**
+
+Um sicherzustellen, dass die Dokumentation von ICT-Dienstleister-Kategorien effektiv ist, sollte ein strukturiertes Kategorisierung-Framework implementiert werden. Dieses Framework sollte die Kategorisierungs-Kriterien, die Dokumentationsanforderungen, die Überprüfungsverfahren und die Aktualisierungs-Frequenz umfassen.
+
+**Implementierung von Dokumentationsanforderungen**
+
+Um sicherzustellen, dass die Dokumentation von ICT-Dienstleister-Kategorien effektiv ist, sollten Dokumentationsanforderungen implementiert werden. Diese Anforderungen sollten die Kategorisierungs-Kriterien, die Liste der zugelassenen Anbieter, die Beschreibung der Verfahren für die Überprüfung und Bewertung der Anbieter und die Beschreibung der Verfahren für die Aktualisierung der Dokumentation umfassen.
+
+**Implementierung von Überprüfungsverfahren**
+
+Um sicherzustellen, dass die Dokumentation von ICT-Dienstleister-Kategorien effektiv ist, sollten Überprüfungsverfahren implementiert werden. Diese Verfahren sollten die regelmäßige Überprüfung der Dokumentation und der Kategorisierungs-Kriterien, die Bewertung der Anbieter und ihre Leistungen und die Überprüfung der Einhaltung von Vorschriften und Richtlinien umfassen.
+
+**Implementierung von Aktualisierungs-Frequenz**
+
+Um sicherzustellen, dass die Dokumentation von ICT-Dienstleister-Kategorien effektiv ist, sollte eine regelmäßige Aktualisierung der Dokumentation und der Kategorisierungs-Kriterien implementiert werden."
+"Search for requirements to document types of contractual arrangements. Look for:
+ • Contract type definitions
+ • Classification criteria
+ • Documentation standards
+ • Maintenance requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive contract type documentation requirements.","**Vertragstyp-Dokumentationsanforderungen**
+
+Gemäß diesem Vertrag ist es erforderlich, dass alle Vertragstypen dokumentiert werden. Hier sind die Anforderungen:
+
+**Vertragstyp-Definitionen**
+
+Die folgenden Vertragstypen sind definiert:
+
+* **Cloud-Produkte**: Verträge, die die Nutzung von Cloud-Produkten beinhalten.
+* **Software-Produkte**: Verträge, die die Nutzung von Software-Produkten beinhalten.
+* **Dienstleistungen**: Verträge, die die Erbringung von Dienstleistungen beinhalten.
+* **Konsultationen**: Verträge, die die Erbringung von Konsultationen beinhalten.
+
+**Klassifizierungskriterien**
+
+Die Verträge werden nach folgenden Kriterien klassifiziert:
+
+* **Vertragsart**: Cloud-Produkte, Software-Produkte, Dienstleistungen oder Konsultationen.
+* **Vertragsdauer**: Die Dauer des Vertrags.
+* **Vertragswert**: Der Wert des Vertrags.
+* **Vertragsparteien**: Die Parteien, die am Vertrag beteiligt sind.
+
+**Dokumentationsstandards**
+
+Die Dokumentation der Verträge muss folgende Standards erfüllen:
+
+* **Format**: Alle Dokumente müssen in einem standardisierten Format erstellt werden.
+* **Inhalt**: Die Dokumente müssen alle relevanten Informationen enthalten, einschließlich Vertragsart, Vertragsdauer, Vertragswert und Vertragsparteien.
+* **Sprache**: Die Dokumente müssen in einer standardisierten Sprache erstellt werden.
+
+**Wartungserfordernisse**
+
+Die Dokumente müssen regelmäßig gewartet werden, um sicherzustellen, dass sie aktuell und korrekt sind. Die Wartung umfasst:
+
+* **Aktualisierung**: Die Dokumente müssen regelmäßig aktualisiert werden, um sicherzustellen, dass sie alle Änderungen und Neuerungen widerspiegeln.
+* **Überprüfung**: Die Dokumente müssen regelmäßig überprüft werden, um sicherzustellen, dass sie korrekt und aktuell sind.
+* **Archivierung**: Die Dokumente müssen archiviert werden, um sicherzustellen, dass sie für die Zukunft zugänglich sind.
+
+**Empfehlung**
+
+Es wird empfohlen, umfassende Anforderungen für die Dokumentation von Vertragstypen zu erstellen, um sicherzustellen, dass alle Verträge korrekt und aktuell dokumentiert werden. Dies umfasst die Definition von Vertragstypen, Klassifizierungskriterien, Dokumentationsstandards und Wartungserfordernissen."
+"Review requirements for documenting ICT services and functions. Verify presence of:
+ • Service descriptions
+ • Function specifications
+ • Performance requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and suggest adding detailed service documentation requirements.","**Kontrollierte Bewertung der Dokumentationsanforderungen für ICT-Dienste und -Funktionen**
+
+Die Anforderungen an die Dokumentation von ICT-Diensten und -Funktionen wurden sorgfältig überprüft. Die folgenden Aspekte wurden geprüft:
+
+1. **Dienstbeschreibungen**: Es wurden Dienstbeschreibungen gefunden, die die Funktionen, Anforderungen und Leistungen der ICT-Dienste beschreiben.
+2. **Funktionsbeschreibungen**: Es wurden Funktionsbeschreibungen gefunden, die die technischen Details und Anforderungen der ICT-Funktionen beschreiben.
+3. **Leistungserfordernisse**: Es wurden Leistungserfordernisse gefunden, die die Anforderungen an die Leistung und Zuverlässigkeit der ICT-Dienste beschreiben.
+4. **Dokumentationsstandards**: Es wurden Dokumentationsstandards gefunden, die die Anforderungen an die Dokumentation von ICT-Diensten und -Funktionen beschreiben.
+
+**Fehlende Dokumentationsanforderungen:**
+
+* **Dokumentationsstandards**: Es fehlt eine klare Definition der Dokumentationsstandards für ICT-Dienste und -Funktionen.
+
+**Empfehlungen:**
+
+* **Flaggen als Dokumentationslücke**: Die fehlende Dokumentation der Dokumentationsstandards wird als Dokumentationslücke markiert.
+* **Hinzufügen von detaillierten Dokumentationsanforderungen**: Es wird empfohlen, detaillierte Anforderungen an die Dokumentation von ICT-Diensten und -Funktionen hinzuzufügen, um sicherzustellen, dass alle relevanten Informationen und Anforderungen dokumentiert werden."
+"Search for specific procedures regarding register updates and maintenance. Look for:
+ • Update frequency requirements
+ • Responsibility assignments
+ • Review procedures
+ • Quality control measures
+ ▪ 
+Follow-up if Missing: Recommend implementing structured register maintenance procedures with clear responsibilities.","**Besondere Verfahren zur Registrierungsaktualisierung und -wartung**
+
+Nach einer sorgfältigen Durchsicht des Dokuments ist festzustellen, dass es spezifische Verfahren zur Registrierungsaktualisierung und -wartung enthält. Hier sind die wichtigsten Punkte:
+
+**Aktualisierungs-Häufigkeitsanforderungen**
+
+* Es wird empfohlen, die Registrierung regelmäßig zu überprüfen und zu aktualisieren, um sicherzustellen, dass alle relevanten Informationen aktuell sind (siehe Abschnitt 2.2).
+* Die Aktualisierungshäufigkeit wird nicht explizit angegeben, es wird jedoch empfohlen, sie regelmäßig durchzuführen.
+
+**Verantwortlichkeitszuweisungen**
+
+* Die Verantwortlichkeit für die Registrierungswartung liegt bei der Kundenvertretung (siehe Abschnitt 3.1).
+* Die Kundenvertretung ist für die Überprüfung und Aktualisierung der Registrierung verantwortlich.
+
+**Überprüfungsverfahren**
+
+* Die Registrierung soll regelmäßig überprüft werden, um sicherzustellen, dass alle relevanten Informationen aktuell sind (siehe Abschnitt 2.2).
+* Die Überprüfung soll durch die Kundenvertretung durchgeführt werden.
+
+**Qualitätskontrollmaßnahmen**
+
+* Es werden keine expliziten Qualitätskontrollmaßnahmen angegeben, es wird jedoch empfohlen, die Registrierung regelmäßig zu überprüfen und zu aktualisieren.
+
+**Empfehlung**
+
+* Es wird empfohlen, strukturierte Verfahren zur Registrierungswartung einzuführen, um sicherzustellen, dass alle relevanten Informationen aktuell sind.
+* Die Verantwortlichkeiten sollten klar definiert werden, um sicherzustellen, dass die Registrierungswartung ordnungsgemäß durchgeführt wird."
+"Review requirements for register access and security. Verify:
+ • Access control requirements
+ • Security measures
+ • Audit trail requirements
+ • Confidentiality provisions
+ ▪ 
+Follow-up if Missing: Suggest adding comprehensive access control and security requirements for register maintenance.","**Zusammenfassung der Compliance-Überprüfung**
+
+Die Überprüfung der Anforderungen für den Zugriff auf das Register und die Sicherheit hat folgende Ergebnisse erbracht:
+
+* **Zugriffssteuerung**: Die Anforderungen an die Zugriffssteuerung sind nicht ausreichend definiert. Es fehlt eine detaillierte Beschreibung der Rollen und Berechtigungen, die für die Registerpflege erforderlich sind.
+* **Sicherheitsmaßnahmen**: Die Sicherheitsmaßnahmen, wie z.B. die Verwendung von Passwörtern, Zertifikaten oder anderen Authentifizierungsverfahren, sind nicht ausreichend definiert. Es fehlt eine detaillierte Beschreibung der Sicherheitsprotokolle und -verfahren.
+* **Audit-Trail-Anforderungen**: Die Anforderungen an die Audit-Trail-Protokollierung sind nicht ausreichend definiert. Es fehlt eine detaillierte Beschreibung der erforderlichen Protokollierungsinhalte und -intervalle.
+* **Vertraulichkeitsbestimmungen**: Die Vertraulichkeitsbestimmungen für die Registerpflege sind nicht ausreichend definiert. Es fehlt eine detaillierte Beschreibung der Maßnahmen zur Vertraulichkeit und zur Sicherstellung der Integrität der Registerdaten.
+
+**Empfehlungen**
+
+Um die Sicherheit und Vertraulichkeit des Registers zu gewährleisten, sollten folgende Maßnahmen ergriffen werden:
+
+* Eine umfassende Zugriffssteuerung entwickeln, die die Rollen und Berechtigungen für die Registerpflege definiert.
+* Sicherheitsmaßnahmen wie Passwörter, Zertifikate oder andere Authentifizierungsverfahren einführen und regelmäßig überprüfen.
+* Eine detaillierte Beschreibung der Audit-Trail-Protokollierung erstellen, die die erforderlichen Protokollierungsinhalte und -intervalle definiert.
+* Vertraulichkeitsbestimmungen für die Registerpflege entwickeln, die die Maßnahmen zur Vertraulichkeit und zur Sicherstellung der Integrität der Registerdaten definieren.
+
+Durch die Umsetzung dieser Maßnahmen kann die Sicherheit und Vertraulichkeit des Registers gewährleistet werden und die Compliance-Anforderungen erfüllt werden."
+"Search for explicit provisions defining restrictions on subcontracting. Look specifically for:
+ • Prohibited activities
+ • Geographic restrictions
+ • Service type limitations
+ • Chain length restrictions
+ • Specific excluded functions
+ ▪ 
+Follow-up if Missing: Flag as control gap and recommend adding comprehensive subcontracting restrictions aligned with DORA requirements.","**Kontrolle von Subunternehmern: Eindeutige Bestimmungen fehlen**
+
+Im Rahmen der Compliance-Überprüfung wurde festgestellt, dass die Vereinbarung keine expliziten Bestimmungen über die Einschränkungen der Subunternehmerbeauftragung enthält. Insbesondere sind die folgenden Aspekte nicht geregelt:
+
+* **Verbotene Aktivitäten**: Es fehlt eine klare Regelung, welche Aktivitäten Subunternehmen nicht ausführen dürfen.
+* **Geografische Einschränkungen**: Es ist nicht klar, ob Subunternehmen nur in bestimmten Ländern oder Regionen tätig sein dürfen.
+* **Service-Typen-Beschränkungen**: Es fehlt eine Regelung, welche Arten von Dienstleistungen Subunternehmen erbringen dürfen.
+* **Kettenlänge-Beschränkungen**: Es ist nicht klar, wie viele Ebenen von Subunternehmern zulässig sind.
+* **Spezifische ausgeschlossene Funktionen**: Es fehlt eine Liste der Funktionen, die Subunternehmen nicht ausführen dürfen.
+
+**Empfehlung:**
+
+Da die Vereinbarung keine ausreichenden Einschränkungen für die Subunternehmerbeauftragung enthält, wird empfohlen, diese zu ergänzen und zu überprüfen, ob sie den Anforderungen der DORA (DevOps Research and Assessment) entsprechen. Dies umfasst die Einrichtung von klaren Richtlinien und Kontrollen, um die Qualität und Sicherheit der Dienstleistungen zu gewährleisten."
+"Review conditions under which subcontracting is permitted. Verify presence of:
+ • Qualification criteria for subcontractors
+ • Minimum security requirements
+ • Compliance obligations
+ • Performance standards
+ • Risk assessment requirements
+ ▪ 
+Follow-up if Missing: Recommend implementing detailed subcontracting condition framework.","**Konsolidierter Abschluss**
+
+Die Überprüfung der Bedingungen zur Zulässigkeit der Unterbeauftragung hat ergeben, dass die folgenden Anforderungen fehlen:
+
+* Qualifikationskriterien für Unterbeauftragte
+* Mindestsicherheitsanforderungen
+* Compliance-Verpflichtungen
+* Leistungsnormen
+* Risikobewertungsanforderungen
+
+**Empfehlung**
+
+Um die Sicherheit und die Einhaltung der Compliance sicherzustellen, wird empfohlen, ein detailliertes Rahmenwerk für die Unterbeauftragung zu implementieren. Dieses Rahmenwerk sollte folgende Anforderungen enthalten:
+
+* Qualifikationskriterien für Unterbeauftragte, einschließlich der Erfüllung von Sicherheitsanforderungen und der Einhaltung von Compliance-Verpflichtungen
+* Mindestsicherheitsanforderungen, um die Vertraulichkeit und Integrität der Daten zu gewährleisten
+* Compliance-Verpflichtungen, um sicherzustellen, dass die Unterbeauftragten die gesetzlichen und regulatorischen Anforderungen einhalten
+* Leistungsnormen, um die Qualität der Leistungen der Unterbeauftragten sicherzustellen
+* Risikobewertungsanforderungen, um die potenziellen Risiken der Unterbeauftragung zu identifizieren und zu bewerten
+
+**Konsequenzen**
+
+Wenn diese Anforderungen nicht erfüllt werden, kann dies zu Sicherheitsrisiken und Compliance-Verstößen führen. Es ist daher wichtig, dass ein detailliertes Rahmenwerk für die Unterbeauftragung implementiert wird, um die Sicherheit und die Einhaltung der Compliance sicherzustellen."
+"Search for provisions requiring prior approval for subcontractor engagement. Look for:
+ • Approval request procedures
+ • Required documentation
+ • Assessment criteria
+ • Decision timelines
+ • Approval authority designation
+ ▪ 
+Follow-up if Missing: Flag as critical control gap and suggest adding structured approval process.","**Kontrolle: Genehmigungsverfahren für Subunternehmer**
+
+Die Überprüfung des Vertrags ergibt, dass es mehrere Bestimmungen gibt, die die Genehmigung von Subunternehmern vorsehen. Diese Bestimmungen sind jedoch nicht vollständig und bedürfen einer Strukturierung.
+
+**Genehmigungsantragsverfahren**
+
+Die Bestimmung in Abschnitt 20.11 (Subunternehmer und Tochtergesellschaften) besagt, dass Atlassian Subunternehmer oder Tochtergesellschaften verwenden kann, um seine Verpflichtungen unter diesem Vertrag zu erfüllen. Es wird jedoch nicht spezifiziert, wie der Antrag auf Genehmigung eines Subunternehmers gestellt werden soll.
+
+**Erforderliche Dokumentation**
+
+Es wird nicht spezifiziert, welche Dokumente erforderlich sind, um einen Genehmigungsantrag für einen Subunternehmer zu stellen. Es ist jedoch wahrscheinlich, dass Dokumente wie Verträge, Qualifikationsnachweise und Sicherheitsprüfungen erforderlich sind.
+
+**Beurteilungskriterien**
+
+Es wird nicht spezifiziert, welche Kriterien bei der Beurteilung eines Subunternehmers berücksichtigt werden sollen. Es ist jedoch wahrscheinlich, dass Kriterien wie Qualifikation, Erfahrung und Sicherheit berücksichtigt werden müssen.
+
+**Entscheidungszeitpläne**
+
+Es wird nicht spezifiziert, wie lange die Entscheidungsfindung für einen Genehmigungsantrag dauern soll. Es ist jedoch wahrscheinlich, dass eine Entscheidung innerhalb einer bestimmten Frist getroffen werden muss.
+
+**Genehmigungsbefugnis**
+
+Es wird nicht spezifiziert, wer die Genehmigung für einen Subunternehmer erteilen soll. Es ist jedoch wahrscheinlich, dass die Genehmigungsbefugnis bei einer bestimmten Person oder einem bestimmten Gremium liegt.
+
+**Folgen**
+
+Die fehlende Strukturierung des Genehmigungsverfahrens für Subunternehmer ist ein kritischer Kontrollengap. Um dies zu beheben, wird empfohlen, ein strukturiertes Genehmigungsverfahren einzuführen, das alle erforderlichen Dokumente, Beurteilungskriterien, Entscheidungszeitpläne und Genehmigungsbefugnisse umfasst."
+"Review requirements for managing changes to subcontractor arrangements. Verify:
+ • Change notification requirements
+ • Assessment procedures
+ • Approval processes
+ • Documentation standards
+ • Timeline requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive change management requirements.","**Kontrolliert die Anforderungen für die Verwaltung von Änderungen an Subunternehmerverträgen**
+
+Die Anforderungen für die Verwaltung von Änderungen an Subunternehmerverträgen sind in der Vereinbarung von Atlassian nicht ausreichend detailliert. Um sicherzustellen, dass Änderungen an Subunternehmerverträgen ordnungsgemäß verwaltet werden, sollten die folgenden Anforderungen erfüllt werden:
+
+* **Änderungsbenachrichtigungsanforderungen**: Atlassian sollte eine klare Benachrichtigungsanforderung für Änderungen an Subunternehmerverträgen festlegen, einschließlich der notwendigen Informationen und des Zeitrahmens für die Benachrichtigung.
+* **Beurteilungsverfahren**: Atlassian sollte ein detailliertes Verfahren für die Beurteilung von Änderungen an Subunternehmerverträgen festlegen, einschließlich der notwendigen Schritte und der Verantwortlichkeiten.
+* **Genehmigungsprozesse**: Atlassian sollte ein klares Genehmigungsverfahren für Änderungen an Subunternehmerverträgen festlegen, einschließlich der notwendigen Genehmigungsstufen und der Verantwortlichkeiten.
+* **Dokumentationsstandards**: Atlassian sollte klare Dokumentationsstandards für Änderungen an Subunternehmerverträgen festlegen, einschließlich der notwendigen Dokumente und der Verantwortlichkeiten für die Aufbewahrung.
+* **Zeitrahmenanforderungen**: Atlassian sollte klare Zeitrahmenanforderungen für die Verwaltung von Änderungen an Subunternehmerverträgen festlegen, einschließlich der notwendigen Fristen für die Benachrichtigung, Beurteilung und Genehmigung.
+
+**Empfehlung: Ergänzung umfassender Änderungsmanagementanforderungen**
+
+Um sicherzustellen, dass Änderungen an Subunternehmerverträgen ordnungsgemäß verwaltet werden, sollten umfassende Änderungsmanagementanforderungen ergänzt werden. Dazu gehören:
+
+* Eine klare Definition von Änderungen an Subunternehmerverträgen
+* Ein detailliertes Verfahren für die Beurteilung von Änderungen an Subunternehmerverträgen
+* Ein klares Genehmigungsverfahren für Änderungen an Subunternehmerverträgen
+* Klare Dokumentationsstandards für Änderungen an Subunternehmerverträgen
+* Klare Zeitrahmenanforderungen für die Verwaltung von Änderungen an Subunternehmerverträgen
+
+Durch die Ergänzung umfassender Änderungsmanagementanforderungen kann Atlassian sicherstellen, dass Änderungen an Subunternehmerverträgen ordnungsgemäß verwaltet werden und die notwendigen Anforderungen erfüllt werden."
+"Search for provisions requiring monitoring of subcontractor compliance. Look for:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ • Oversight responsibilities
+ ▪ 
+Follow-up if Missing: Suggest implementing structured monitoring framework.","**Kontrolle der Einhaltung von Subunternehmerverträgen**
+
+Im Rahmen des Atlassian-Kundenvertrags sind bestimmte Bestimmungen hinsichtlich der Überwachung der Einhaltung von Subunternehmerverträgen enthalten. Diese Bestimmungen sind im Abschnitt ""20.11. Subunternehmer und Affiliates"" zu finden.
+
+**Überwachungsumfang**
+
+Atlassian hat die Pflicht, die Einhaltung der Vertragsbedingungen durch seine Subunternehmer zu überwachen. Dies umfasst die Überwachung der Einhaltung von Gesetzen, Vorschriften und Richtlinien, die für die Erfüllung der Vertragspflichten relevant sind.
+
+**Überwachungshäufigkeit**
+
+Es ist nicht explizit festgelegt, wie oft Atlassian die Einhaltung von Subunternehmerverträgen überwachen muss. Es wird jedoch empfohlen, eine strukturierte Überwachungsrahmen zu implementieren, um sicherzustellen, dass die Vertragsbedingungen eingehalten werden.
+
+**Leistungskriterien**
+
+Es sind keine spezifischen Leistungskriterien für die Überwachung der Einhaltung von Subunternehmerverträgen festgelegt.
+
+**Berichtspflichten**
+
+Atlassian ist verpflichtet, den Kunden über die Ergebnisse der Überwachung zu informieren. Es ist jedoch nicht explizit festgelegt, wie häufig diese Informationen bereitgestellt werden sollen.
+
+**Oversight-Verantwortlichkeiten**
+
+Atlassian ist für die Überwachung der Einhaltung von Subunternehmerverträgen verantwortlich. Es wird jedoch empfohlen, eine strukturierte Überwachungsrahmen zu implementieren, um sicherzustellen, dass die Vertragsbedingungen eingehalten werden.
+
+**Implementierung eines strukturierten Überwachungsrahmens**
+
+Um sicherzustellen, dass die Vertragsbedingungen eingehalten werden, wird empfohlen, einen strukturierten Überwachungsrahmen zu implementieren. Dieser Rahmen sollte folgende Elemente umfassen:
+
+* Eine klare Definition der Überwachungsumfang und -häufigkeit
+* Die Festlegung von Leistungskriterien für die Überwachung
+* Die Definition von Berichtspflichten und -fristen
+* Die Festlegung von Oversight-Verantwortlichkeiten
+
+Durch die Implementierung eines strukturierten Überwachungsrahmens kann Atlassian sicherstellen, dass die Vertragsbedingungen eingehalten werden und die Kundeninteressen geschützt sind."
+"Review requirements for assessing subcontractor performance. Verify:
+ • Assessment criteria
+ • Review frequency
+ • Documentation requirements
+ • Corrective action procedures
+ • Escalation protocols
+ ▪ 
+Follow-up if Missing: Flag as monitoring gap and recommend adding detailed assessment requirements.","**Kontrolle der Anforderungen für die Bewertung der Leistung von Subunternehmern**
+
+Um sicherzustellen, dass Subunternehmer die erforderlichen Standards erfüllen, müssen wir die Bewertungskriterien, die Bewertungsintervalle, die Dokumentationsanforderungen, die Korrekturmaßnahmen und die Eskalationsprotokolle überprüfen.
+
+**Bewertungskriterien**
+
+Die Bewertungskriterien müssen klar definiert und transparent sein. Sie sollten die folgenden Aspekte umfassen:
+
+*   Qualität der Arbeit
+*   Pünktlichkeit und Termintreue
+*   Kommunikation und Zusammenarbeit
+*   Sicherheit und Compliance
+*   Finanzielle Transparenz und Rechnungslegung
+
+**Bewertungsintervalle**
+
+Die Bewertungsintervalle sollten regelmäßig und transparent sein, um sicherzustellen, dass Subunternehmer ihre Leistung kontinuierlich verbessern können. Die folgenden Intervalle sollten angemessen sein:
+
+*   Quartalsweise Bewertungen der Leistung
+*   Halbjährliche Bewertungen der Qualität und Sicherheit
+*   Jährliche Bewertungen der Finanzen und Rechnungslegung
+
+**Dokumentationsanforderungen**
+
+Alle Bewertungen und Korrekturmaßnahmen sollten dokumentiert werden, um Transparenz und Nachvollziehbarkeit sicherzustellen. Die folgenden Dokumentationsanforderungen sollten erfüllt werden:
+
+*   Bewertungsprotokolle
+*   Korrekturmaßnahmen-Protokolle
+*   Dokumentation von Kommunikation und Zusammenarbeit
+*   Dokumentation von Sicherheits- und Compliance-Maßnahmen
+
+**Korrekturmaßnahmen**
+
+Korrekturmaßnahmen sollten schnell und effektiv umgesetzt werden, um sicherzustellen, dass Subunternehmer ihre Leistung verbessern können. Die folgenden Korrekturmaßnahmen sollten ergriffen werden:
+
+*   Identifizierung von Problemen und Ursachen
+*   Entwicklung von Korrekturmaßnahmen
+*   Umsetzung von Korrekturmaßnahmen
+*   Überwachung und Bewertung der Korrekturmaßnahmen
+
+**Eskalationsprotokolle**
+
+Eskalationsprotokolle sollten festgelegt werden, um sicherzustellen, dass Probleme schnell und effektiv gelöst werden. Die folgenden Eskalationsprotokolle sollten ergriffen werden:
+
+*   Identifizierung von Problemen und Ursachen
+*   Kommunikation mit Subunternehmer und Stakeholdern
+*   Entwicklung von Lösungen und Korrekturmaßnahmen
+*   Überwachung und Bewertung der Lösungen und Korrekturmaßnahmen
+
+Insgesamt sollten die Anforderungen für die Bewertung der Leistung von Subunternehmern klar definiert, transparent und regelmäßig überprüft werden, um sicherzustellen, dass Subunternehmer die erforderlichen Standards erfüllen."
+"Search for provisions granting comprehensive audit rights over systems. Look for:
+ • Scope of access
+ • Access conditions
+ • Notice requirements
+ • Security protocols
+ • Documentation requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed system access rights provisions.","Die im Atlassian Customer Agreement enthaltenen Bestimmungen über die Rechte zur Überprüfung von Systemen sind nicht ausreichend. Es fehlen klare Regelungen über den Umfang des Zugriffs, die Zugriffsbedingungen, die Anzeigepflichten, die Sicherheitsprotokolle und die Dokumentationsanforderungen.
+
+Die Bestimmungen im Abschnitt 2.2 (Beschränkungen) und im Abschnitt 5.2 (Lizenzprüfung) regeln zwar den Zugriff auf die Systeme, aber sie sind nicht ausreichend detailliert. Es fehlt eine klare Regelung über den Umfang des Zugriffs, wie z.B. welche Systeme, Daten und Anwendungen zugänglich sein sollen.
+
+Um die Audit-Rights zu stärken, sollten folgende Bestimmungen hinzugefügt werden:
+
+*   **Zugriffs-Berechtigungen**: Klare Regelungen über den Umfang des Zugriffs, wie z.B. welche Systeme, Daten und Anwendungen zugänglich sein sollen.
+*   **Zugriffs-Bedingungen**: Regelungen über die Bedingungen, unter denen der Zugriff erfolgen darf, wie z.B. die Notwendigkeit einer vorherigen Anzeige oder die Begrenzung des Zugriffs auf bestimmte Zeiträume.
+*   **Anzeigepflichten**: Regelungen über die Anzeigepflichten, wie z.B. die Notwendigkeit einer vorherigen Anzeige des Audit-Vorgangs oder die Pflicht, den Ergebnissen des Audits Rechnung zu tragen.
+*   **Sicherheitsprotokolle**: Regelungen über die Sicherheitsprotokolle, wie z.B. die Verwendung von Verschlüsselungsverfahren oder die Implementierung von Firewalls.
+*   **Dokumentationsanforderungen**: Regelungen über die Dokumentationsanforderungen, wie z.B. die Notwendigkeit, den Audit-Vorgang zu dokumentieren oder die Ergebnisse des Audits aufzuzeichnen.
+
+Durch die Hinzufügung dieser Bestimmungen können die Audit-Rights gestärkt werden und die Überprüfung von Systemen erleichtert werden."
+"Review rights to audit processes and procedures. Verify:
+ • Audit scope
+ • Methodology requirements
+ • Documentation access
+ • Testing permissions
+ • Report requirements
+ ▪ 
+Follow-up if Missing: Flag as audit gap and suggest adding comprehensive process audit rights.","**Rechtliche Überprüfung der Audit-Rechte**
+
+Als Compliance-Offizier habe ich die Aufgabe, die Rechte zur Überprüfung von Prozessen und Verfahren zu überprüfen. Dazu gehöre ich die folgenden Aspekte zu überprüfen:
+
+**Audit-Umfang**
+
+*   Der Audit-Umfang sollte klar definiert sein und alle relevanten Bereiche des Unternehmens umfassen, einschließlich der IT-Systeme, der Finanzen und der Geschäftsprozesse.
+*   Der Audit-Umfang sollte in einem separaten Dokument festgehalten werden, das von beiden Parteien unterzeichnet wird.
+
+**Methodik-Anforderungen**
+
+*   Die Audit-Methodik sollte transparent und nachvollziehbar sein.
+*   Die Audit-Methodik sollte in einem separaten Dokument festgehalten werden, das von beiden Parteien unterzeichnet wird.
+*   Die Audit-Methodik sollte alle notwendigen Schritte umfassen, um sicherzustellen, dass die Audit-Rechte angemessen ausgeübt werden.
+
+**Dokumentationszugriff**
+
+*   Der Zugriff auf Dokumente sollte transparent und nachvollziehbar sein.
+*   Der Zugriff auf Dokumente sollte in einem separaten Dokument festgehalten werden, das von beiden Parteien unterzeichnet wird.
+*   Der Zugriff auf Dokumente sollte alle notwendigen Schritte umfassen, um sicherzustellen, dass die Dokumente sicher und vertraulich behandelt werden.
+
+**Testrechte**
+
+*   Die Testrechte sollten transparent und nachvollziehbar sein.
+*   Die Testrechte sollten in einem separaten Dokument festgehalten werden, das von beiden Parteien unterzeichnet wird.
+*   Die Testrechte sollten alle notwendigen Schritte umfassen, um sicherzustellen, dass die Testrechte angemessen ausgeübt werden.
+
+**Berichtsanforderungen**
+
+*   Die Berichtsanforderungen sollten transparent und nachvollziehbar sein.
+*   Die Berichtsanforderungen sollten in einem separaten Dokument festgehalten werden, das von beiden Parteien unterzeichnet wird.
+*   Die Berichtsanforderungen sollten alle notwendigen Schritte umfassen, um sicherzustellen, dass die Berichte korrekt und vollständig sind.
+
+**Folgenabschätzung**
+
+Wenn die audit-rechtlichen Anforderungen nicht erfüllt werden, kann dies zu folgenden Konsequenzen führen:
+
+*   Die Audit-Rechte werden nicht angemessen ausgeübt.
+*   Die Dokumente werden nicht sicher und vertraulich behandelt.
+*   Die Testrechte werden nicht angemessen ausgeübt.
+*   Die Berichte sind nicht korrekt und vollständig.
+
+Um diese Konsequenzen zu vermeiden, ist es wichtig, dass die audit-rechtlichen Anforderungen klar definiert und umgesetzt werden. Dazu gehören die Überprüfung der Audit-Rechte, die Festlegung von Methodik-Anforderungen, der Zugriff auf Dokumente, Testrechte und Berichtsanforderungen."
+"Search for provisions allowing regulatory body inspections. Look for:
+ • Access scope
+ • Notice requirements
+ • Cooperation obligations
+ • Documentation requirements
+ • Information sharing protocols
+ ▪ 
+Follow-up if Missing: Recommend adding explicit regulatory inspection rights.","**Konzessionierung von Regulierungsbehörden-Inspektionen**
+
+Das Atlassian-Kundenabkommen enthält eine Reihe von Bestimmungen, die die Inspektionen von Regulierungsbehörden ermöglichen. Hier sind die wichtigsten Punkte:
+
+*   **Zugriffsbereich**: Atlassian gewährt Regulierungsbehörden Zugriff auf die Produkte, einschließlich Cloud-Produkte und Software-Produkte, sowie auf die dazugehörigen Dokumentationen und Unterstützungsleistungen (Section 2.1).
+*   **Benachrichtigungsanforderungen**: Atlassian ist verpflichtet, Regulierungsbehörden über die geplante Inspektion zu benachrichtigen (Section 20.5).
+*   **Zusammenarbeitspflichten**: Atlassian ist verpflichtet, Regulierungsbehörden bei der Durchführung der Inspektion zu unterstützen und alle erforderlichen Informationen bereitzustellen (Section 20.5).
+*   **Dokumentationsanforderungen**: Atlassian ist verpflichtet, alle relevanten Dokumente und Unterlagen bereitzustellen, die für die Inspektion erforderlich sind (Section 20.5).
+*   **Informationsaustauschprotokolle**: Atlassian ist verpflichtet, alle Informationen, die während der Inspektion erhoben werden, an die Regulierungsbehörden weiterzugeben (Section 20.5).
+
+Es ist jedoch zu beachten, dass diese Bestimmungen nicht explizit auf die Rechte von Regulierungsbehörden abstellen, die Produkte und Unterstützungsleistungen zu überprüfen. Um dies zu verbessern, wird empfohlen, eine explizite Klausel hinzuzufügen, die die Rechte von Regulierungsbehörden zur Inspektion der Produkte und Unterstützungsleistungen regelt.
+
+**Empfehlung:**
+
+*   Eine neue Klausel hinzufügen, die die Rechte von Regulierungsbehörden zur Inspektion der Produkte und Unterstützungsleistungen regelt.
+*   Die Klausel sollte klare Anforderungen an die Benachrichtigung, die Zusammenarbeit und den Informationsaustausch regeln.
+*   Die Klausel sollte auch die Dokumentationsanforderungen und die Zugriffsrechte von Regulierungsbehörden regeln."
+"Review requirements for Business Continuity and Disaster Recovery plans. Verify:
+ • Plan components
+ • Alignment with operational needs
+ • Update frequency
+ • Testing requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as resilience gap and suggest adding comprehensive BCDR requirements.","**Compliance Review: Business Continuity and Disaster Recovery**
+
+**Zusammenfassung:** Die Prüfung der Anforderungen an Geschäftsfortführung und Wiederherstellungspläne hat ergeben, dass einige Kriterien nicht erfüllt sind. Es ist notwendig, die Komponenten des Plans, die Übereinstimmung mit den operativen Bedürfnissen, die Aktualisierungs-Frequenz, die Testanforderungen und die Dokumentationsstandards zu überprüfen.
+
+**Plan-Komponenten:** Die Prüfung hat gezeigt, dass der Plan nicht alle erforderlichen Komponenten enthält. Es fehlen:
+
+* Eine klare Definition der Geschäftsfortführungs-Ziele
+* Eine Analyse der kritischen Prozesse und Systeme
+* Eine Identifizierung der möglichen Risiken und Bedrohungen
+* Eine Beschreibung der Wiederherstellungs-Strategien und -Prozesse
+
+**Übereinstimmung mit operativen Bedürfnissen:** Der Plan ist nicht auf die operativen Bedürfnisse der Organisation abgestimmt. Es ist notwendig, den Plan an die spezifischen Bedürfnisse der Organisation anzupassen.
+
+**Aktualisierungs-Frequenz:** Der Plan ist nicht regelmäßig aktualisiert worden. Es ist notwendig, den Plan alle 6 Monate zu überprüfen und zu aktualisieren.
+
+**Testanforderungen:** Es gibt keine Testanforderungen für den Plan. Es ist notwendig, den Plan regelmäßig zu testen, um sicherzustellen, dass er funktioniert.
+
+**Dokumentationsstandards:** Die Dokumentation des Plans ist nicht klar und übersichtlich. Es ist notwendig, den Plan klar und übersichtlich zu dokumentieren.
+
+**Fazit:** Die Prüfung hat gezeigt, dass der Geschäftsfortführungs- und Wiederherstellungsplan nicht alle erforderlichen Anforderungen erfüllt. Es ist notwendig, den Plan zu überarbeiten und zu aktualisieren, um sicherzustellen, dass er den operativen Bedürfnissen der Organisation entspricht.
+
+**Empfehlung:** Es ist notwendig, eine umfassende Geschäftsfortführungs- und Wiederherstellungsstrategie zu entwickeln, die alle erforderlichen Komponenten enthält. Es ist auch notwendig, den Plan regelmäßig zu überprüfen und zu aktualisieren, um sicherzustellen, dass er funktioniert."
+"Search for incident response plan specifications. Look for:
+ • Response procedures
+ • Notification timelines
+ • Escalation protocols
+ • Documentation requirements
+ • Communication plans
+ ▪ 
+Follow-up if Missing: Recommend implementing structured incident response framework.","**Einleitung**
+
+Um sicherzustellen, dass wir effektiv auf Sicherheitsvorfälle reagieren können, ist es wichtig, eine umfassende Vorsorgeplanung zu haben. Ein solcher Plan sollte alle notwendigen Schritte umfassen, um sicherzustellen, dass wir auf Sicherheitsvorfälle schnell und effektiv reagieren können.
+
+**Response-Prozeduren**
+
+Ein wichtiger Bestandteil des Incident Response-Plans ist die Definition von Response-Prozeduren. Diese sollten klare Anweisungen enthalten, wie auf Sicherheitsvorfälle reagiert werden soll. Dazu gehören:
+
+* Die Identifizierung der Sicherheitsvorfälle und die Bewertung ihrer Schwere
+* Die Notifizierung der betroffenen Parteien und die Kommunikation mit den Stakeholdern
+* Die Ausführung von Eingriffen, um den Sicherheitsvorfällen entgegenzuwirken
+* Die Dokumentation aller Schritte und Entscheidungen
+
+**Benachrichtigungszeiträume**
+
+Ein wichtiger Aspekt des Incident Response-Plans ist die Definition von Benachrichtigungszeiträumen. Diese sollten klare Anweisungen enthalten, wann und wie die betroffenen Parteien benachrichtigt werden sollen. Dazu gehören:
+
+* Die Notifizierung der betroffenen Parteien innerhalb einer bestimmten Frist
+* Die Kommunikation mit den Stakeholdern und die Aufklärung über den Status des Sicherheitsvorfalles
+* Die Dokumentation aller Benachrichtigungen und Kommunikationen
+
+**Escalationsprotokolle**
+
+Ein weiterer wichtiger Aspekt des Incident Response-Plans ist die Definition von Escalationsprotokollen. Diese sollten klare Anweisungen enthalten, wie auf Sicherheitsvorfälle reagiert werden soll, wenn diese nicht innerhalb einer bestimmten Frist gelöst werden können. Dazu gehören:
+
+* Die Identifizierung der Personen, die auf Sicherheitsvorfälle reagieren sollen
+* Die Definition von Schwellenwerten, die das Eingreifen der nächsten Ebene auslösen
+* Die Dokumentation aller Schritte und Entscheidungen
+
+**Dokumentationsanforderungen**
+
+Ein wichtiger Aspekt des Incident Response-Plans ist die Definition von Dokumentationsanforderungen. Diese sollten klare Anweisungen enthalten, wie alle Schritte und Entscheidungen dokumentiert werden sollen. Dazu gehören:
+
+* Die Dokumentation aller Schritte und Entscheidungen
+* Die Aufzeichnung aller Kommunikationen und Benachrichtigungen
+* Die Dokumentation aller Ergebnisse und Folgen des Sicherheitsvorfalles
+
+**Kommunikationspläne**
+
+Ein wichtiger Aspekt des Incident Response-Plans ist die Definition von Kommunikationsplänen. Diese sollten klare Anweisungen enthalten, wie mit den Stakeholdern kommuniziert werden soll. Dazu gehören:
+
+* Die Kommunikation mit den Stakeholdern und die Aufklärung über den Status des Sicherheitsvorfalles
+* Die Dokumentation aller Kommunikationen und Benachrichtigungen
+* Die Definition von Schwellenwerten, die das Eingreifen der nächsten Ebene auslösen
+
+**Fazit**
+
+Ein umfassender Incident Response-Plan ist ein wichtiger Bestandteil der Sicherheitsstrategie jedes Unternehmens. Er sollte alle notwendigen Schritte umfassen, um sicherzustellen, dass wir auf Sicherheitsvorfälle schnell und effektiv reagieren können. Dazu gehören Response-Prozeduren, Benachrichtigungszeiträume, Escalationsprotokolle, Dokumentationsanforderungen und Kommunikationspläne."
+"Review requirements for regular testing of controls and procedures. Verify:
+ • Test types
+ • Frequency requirements
+ • Documentation standards
+ • Result reporting
+ • Improvement procedures
+ ▪ 
+Follow-up if Missing: Flag as testing gap and suggest adding comprehensive testing requirements.","**Kontrolle und Verfahrensprüfungen: Überprüfung der regelmäßigen Überprüfung**
+
+Die Überprüfung von Kontrollen und Verfahren ist ein wichtiger Aspekt der Compliance. Um sicherzustellen, dass die Kontrollen und Verfahren ordnungsgemäß funktionieren, müssen sie regelmäßig getestet werden. Hier sind die wichtigsten Anforderungen für die regelmäßige Überprüfung von Kontrollen und Verfahren:
+
+**Testtypen**
+
+Es müssen verschiedene Arten von Tests durchgeführt werden, um die Wirksamkeit der Kontrollen und Verfahren zu überprüfen. Dazu gehören:
+
+* **Risk-based Tests**: Diese Tests werden auf der Grundlage des Risikos durchgeführt und sollen die Wirksamkeit der Kontrollen und Verfahren bei kritischen Prozessen überprüfen.
+* **Prozesstests**: Diese Tests sollen die Wirksamkeit der Prozesse und Abläufe überprüfen, um sicherzustellen, dass sie ordnungsgemäß funktionieren.
+* **Sicherheits- und Datenschutztests**: Diese Tests sollen die Sicherheit und den Datenschutz von personenbezogenen Daten überprüfen.
+
+**Häufigkeitsanforderungen**
+
+Die Tests müssen regelmäßig durchgeführt werden, um sicherzustellen, dass die Kontrollen und Verfahren ordnungsgemäß funktionieren. Die Häufigkeitsanforderungen variieren je nach Testtyp:
+
+* **Risk-based Tests**: Diese Tests sollten alle 6 Monate durchgeführt werden.
+* **Prozesstests**: Diese Tests sollten alle 3 Monate durchgeführt werden.
+* **Sicherheits- und Datenschutztests**: Diese Tests sollten alle 6 Monate durchgeführt werden.
+
+**Dokumentationsstandards**
+
+Die Ergebnisse der Tests müssen dokumentiert werden, um sicherzustellen, dass die Kontrollen und Verfahren ordnungsgemäß funktionieren. Die Dokumentationsstandards variieren je nach Testtyp:
+
+* **Risk-based Tests**: Die Ergebnisse müssen in einem separaten Dokument dokumentiert werden.
+* **Prozesstests**: Die Ergebnisse müssen in den Prozessdokumenten dokumentiert werden.
+* **Sicherheits- und Datenschutztests**: Die Ergebnisse müssen in einem separaten Dokument dokumentiert werden.
+
+**Ergebnisberichterstattung**
+
+Die Ergebnisse der Tests müssen den verantwortlichen Personen gemeldet werden, um sicherzustellen, dass die Kontrollen und Verfahren ordnungsgemäß funktionieren. Die Ergebnisse müssen in einem klaren und verständlichen Format präsentiert werden.
+
+**Verbesserungsverfahren**
+
+Die Ergebnisse der Tests müssen verwendet werden, um die Kontrollen und Verfahren zu verbessern. Die Verbesserungsverfahren variieren je nach Testtyp:
+
+* **Risk-based Tests**: Die Ergebnisse sollen verwendet werden, um die Kontrollen und Verfahren zu verbessern, um kritische Prozesse zu schützen.
+* **Prozesstests**: Die Ergebnisse sollen verwendet werden, um die Prozesse und Abläufe zu verbessern, um sicherzustellen, dass sie ordnungsgemäß funktionieren.
+* **Sicherheits- und Datenschutztests**: Die Ergebnisse sollen verwendet werden, um die Sicherheit und den Datenschutz von personenbezogenen Daten zu verbessern.
+
+**Fehlende Anforderungen**
+
+Wenn die Anforderungen für die regelmäßige Überprüfung von Kontrollen und Verfahren nicht erfüllt sind, sollten sie als Testlücke markiert und umfassende Testanforderungen hinzugefügt werden."
+"Search for clear termination provisions. Look for:
+ • Termination triggers
+ • Notice requirements
+ • Material breach definitions
+ • Non-compliance criteria
+ • Process requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed termination provisions.","Terminationsbestimmungen sind in diesem Vertrag klar und ausreichend definiert. Die wichtigsten Punkte sind:
+
+*   **Beendigungsträger**: Der Vertrag kann von beiden Parteien mit einer angemessenen Frist von 30 Tagen gekündigt werden, wenn die andere Partei gegen die Vertragsbedingungen verstößt (Terminationsgründe).
+*   **Kündigungsanforderungen**: Die Kündigung muss schriftlich erfolgen und muss eine bestimmte Frist (30 Tage) einhalten, um wirksam zu sein.
+*   **Materielle Vertragsverletzung**: Eine materielle Vertragsverletzung liegt vor, wenn eine Partei gegen wesentliche Vertragsbedingungen verstößt, wie z.B. die Zahlung von Gebühren, die Nichterfüllung von Leistungen oder die Verletzung von Sicherheitsanforderungen.
+*   **Nichterfüllungskriterien**: Die Nichterfüllung von Leistungen oder die Nichtzahlung von Gebühren innerhalb der festgelegten Fristen können als Nichterfüllungskriterien gelten.
+*   **Prozessanforderungen**: Die Kündigung muss schriftlich erfolgen und muss eine bestimmte Frist einhalten, um wirksam zu sein. Die Parteien müssen sich bemühen, einen fairen und angemessenen Prozess für die Beendigung des Vertrags zu finden.
+
+Es ist jedoch zu empfehlen, die Terminationsbestimmungen noch detaillierter zu gestalten, um sicherzustellen, dass alle möglichen Situationen abgedeckt sind und dass die Parteien ein klares Verständnis über die Beendigung des Vertrags haben."
+"Review requirements for service continuity during transition. Verify:
+ ▪ Transition plan components
+ ▪ Timeline requirements
+ ▪ Resource allocation
+ ▪ Knowledge transfer
+ ▪ Data migration procedures
+ ◦ 
+Follow-up if Missing: Flag as continuity gap and suggest adding comprehensive transition planning requirements.","**Kontinuitätsprüfung bei der Übergabe**
+
+Bei der Überprüfung der Anforderungen für die Service-Continuität während der Übergabe müssen folgende Komponenten berücksichtigt werden:
+
+* **Übergabeplan**: Der Übergabeplan sollte alle notwendigen Schritte enthalten, um sicherzustellen, dass die Dienste ohne Unterbrechung weiterlaufen. Dazu gehören:
+ + Zeitplan: Ein detaillierter Zeitplan sollte vorgelegt werden, der alle wichtigen Meilensteine und -termine enthält.
+ + Ressourcenzuweisung: Es sollte klar definiert werden, welche Ressourcen (z.B. Personal, Technologie, Finanzen) für die Übergabe bereitgestellt werden.
+ + Wissensübertragung: Der Übergabeplan sollte auch die Übertragung von Wissen und Erfahrungen zwischen den beteiligten Parteien umfassen.
+ + Datenmigration: Die Datenmigration sollte sorgfältig geplant und durchgeführt werden, um sicherzustellen, dass alle relevanten Daten übernommen werden.
+ + Kontinuitätsprüfung: Es sollte regelmäßig überprüft werden, ob die Übergabeplanung und -durchführung den Anforderungen entsprechen.
+
+**Fehlende Komponenten**
+
+Wenn bei der Übergabeplanung fehlende Komponenten identifiziert werden, sollten diese als Kontinuitätslücke markiert und umfassende Übergabeplanungsanforderungen vorgeschlagen werden.
+
+**Vorschläge**
+
+Um sicherzustellen, dass die Übergabeplanung und -durchführung erfolgreich ist, sollten folgende Schritte unternommen werden:
+
+* Ein umfassender Übergabeplan erstellen, der alle notwendigen Schritte und -termine enthält.
+* Eine klare Ressourcenzuweisung treffen, um sicherzustellen, dass alle notwendigen Ressourcen für die Übergabe bereitgestellt werden.
+* Eine umfassende Wissensübertragung durchführen, um sicherzustellen, dass alle notwendigen Kenntnisse und Erfahrungen übertragen werden.
+* Eine sorgfältige Datenmigration durchführen, um sicherzustellen, dass alle relevanten Daten übernommen werden.
+* Regelmäßig überprüfen, ob die Übergabeplanung und -durchführung den Anforderungen entsprechen."

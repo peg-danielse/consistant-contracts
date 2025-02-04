@@ -1,0 +1,1233 @@
+question,answers
+"Search the contract for any mention of an assessment regarding the substitutability of the ICT third-party service provider. Extract clauses that address whether the provider is easily substitutable or not. If no such clauses are found, note the absence and flag it as a gap.
+ ◦ 
+Follow-up if Missing:Indicate that the contract should include provisions for assessing the substitutability of the provider and recommend defining criteria for determining substitutability.","**Feststellung:** Die Vertragsparteien haben keine ausdrücklichen Vereinbarungen getroffen, die die Ersatzbarkeit des ICT-Dienstleisters betreffen.
+
+**Extrahiertes:** Im Vertrag werden keine spezifischen Bedingungen oder Kriterien erwähnt, die die Ersatzbarkeit des ICT-Dienstleisters beinhalten. Es gibt keine Hinweise darauf, dass die Parteien die Ersatzbarkeit des Anbieters geprüft oder berücksichtigt haben.
+
+**Mangel:** Es besteht ein Mangel, da der Vertrag keine Kriterien oder Prozesse definiert, um die Ersatzbarkeit des ICT-Dienstleisters zu bewerten. Dies könnte zu Problemen führen, wenn die Parteien in Zukunft den Vertrag kündigen oder den Anbieter wechseln möchten.
+
+**Empfehlung:** Der Vertrag sollte ergänzt werden, um Kriterien und Prozesse für die Bewertung der Ersatzbarkeit des ICT-Dienstleisters zu definieren. Dies könnte beinhalten:
+
+* Die Definition von Kriterien für die Ersatzbarkeit, wie z.B. die Vertragslaufzeit, die Abhängigkeit von spezifischen Technologien oder der Verfügbarkeit von Fachpersonal.
+* Die Festlegung von Prozessen für die Bewertung der Ersatzbarkeit, wie z.B. regelmäßige Überprüfungen oder die Durchführung von Audits.
+* Die Definition von Maßnahmen, die zu ergreifen sind, wenn der ICT-Dienstleister nicht ersetzbar ist, wie z.B. die Vereinbarung von Notfallplänen oder die Suche nach alternativen Anbietern."
+"Identify whether the contract defines specific criteria for determining substitutability (e.g., technical compatibility, operational complexity). If criteria are unclear or missing, suggest possible benchmarks based on industry standards.
+ ◦ 
+Follow-up if Missing:Recommend adding measurable criteria for substitutability assessments, such as cost, technical specifications, and ease of transition.","Die Vereinbarung enthält zwar keine expliziten Kriterien für die Bestimmung der Substituierbarkeit, jedoch gibt sie einige Hinweise, die als Benchmark dienen könnten. So wird beispielsweise in Abschnitt 2.3 (DPA) erwähnt, dass Atlassian die Sicherheit der Kunden-Daten gewährleisten muss, was möglicherweise eine Überlegung bei der Substituierbarkeit ist. Ebenso enthält Abschnitt 5.2 (License Verification) Kriterien für die Überprüfung der Substituierbarkeit von Software-Produkten.
+
+Um die Substituierbarkeit zu beurteilen, könnten folgende Kriterien herangezogen werden:
+
+* Kosten: Wie viel kostet die Ersatzlösung im Vergleich zur aktuellen Lösung?
+* Technische Spezifikationen: Sind die technischen Anforderungen der Ersatzlösung mit denen der aktuellen Lösung vereinbar?
+* Komplexität: Wie komplex ist die Ersatzlösung im Vergleich zur aktuellen Lösung?
+* Zeitraum: Wie lange dauert der Übergang von der aktuellen Lösung zur Ersatzlösung?
+* Qualifikation: Wie qualifiziert ist das Personal, das die Ersatzlösung implementieren und betreiben wird?
+
+Basierend auf diesen Kriterien könnten folgende Benchmarks entwickelt werden:
+
+* Die Ersatzlösung sollte innerhalb von 6 Monaten implementiert werden können.
+* Die Kosten für die Ersatzlösung sollten nicht mehr als 10% höher sein als die Kosten der aktuellen Lösung.
+* Die technischen Spezifikationen der Ersatzlösung sollten mit denen der aktuellen Lösung kompatibel sein.
+* Die Komplexität der Ersatzlösung sollte nicht mehr als 20% höher sein als die Komplexität der aktuellen Lösung.
+
+Diese Benchmarks können als Grundlage für die Substituierbarkeitsbewertung dienen. Es ist jedoch zu beachten, dass die spezifischen Anforderungen je nach Unternehmen und Projektspezifik unterschiedlich sein können."
+"Search the contract for clauses requiring documentation of alternative providers in the market. Verify if these alternatives are listed or if there is a requirement to maintain such a list. Highlight missing documentation requirements.
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating regular market scans to identify and document alternative providers.","**Klausel zur Dokumentation von Alternativen im Markt**
+
+Die Vertragsklausel ""Third-Party Code Policy"" im Abschnitt 7.1. enthält eine Anforderung, dass Atlassian Kunden über die Verwendung von Open-Source-Software und kommerziellen Drittsoftware informiert, die in den Produkten enthalten sind. Es ist jedoch nicht klar, ob Kunden verpflichtet sind, alternative Anbieter im Markt zu recherchieren und zu dokumentieren.
+
+**Klausel zur Dokumentation von Alternativen im Markt**
+
+Im Abschnitt 10.1. (Fees) ist eine Klausel enthalten, die besagt, dass Kunden verpflichtet sind, Atlassian alle Änderungen an ihren Anforderungen an die Produkte mitzuteilen, einschließlich Änderungen an der Anzahl der Benutzer oder der Funktionen, die benötigt werden. Es ist jedoch nicht klar, ob Kunden verpflichtet sind, alternative Anbieter im Markt zu recherchieren und zu dokumentieren.
+
+**Klausel zur Dokumentation von Alternativen im Markt**
+
+Im Abschnitt 20.11. (Subcontractoren und Affiliates) ist eine Klausel enthalten, die besagt, dass Atlassian verpflichtet ist, Kunden über die Verwendung von Subcontractoren oder Affiliaten zu informieren, die bei der Erbringung der Dienstleistungen eingesetzt werden. Es ist jedoch nicht klar, ob Kunden verpflichtet sind, alternative Anbieter im Markt zu recherchieren und zu dokumentieren.
+
+**Empfehlung**
+
+Es wird empfohlen, eine Klausel zu ergänzen, die Kunden verpflichtet, regelmäßig den Markt zu scannen, um alternative Anbieter zu identifizieren und zu dokumentieren. Dies würde sicherstellen, dass Kunden die Möglichkeit haben, alternative Lösungen zu finden, falls Atlassian die Dienstleistungen nicht erbringen kann.
+
+**Vorschlag für eine neue Klausel**
+
+""Der Kunde verpflichtet sich, regelmäßig den Markt zu scannen, um alternative Anbieter zu identifizieren und zu dokumentieren. Der Kunde muss Atlassian alle Änderungen an seinen Anforderungen an die Produkte mitteilen, einschließlich Änderungen an der Anzahl der Benutzer oder der Funktionen, die benötigt werden. Der Kunde muss auch Atlassian über die identifizierten alternative Anbieter informieren und diese in einer Liste dokumentieren."""
+"Search for provisions requiring a cost-benefit analysis of alternative providers. Confirm whether the analysis considers financial, operational, and strategic factors.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding requirements for regular cost-benefit analyses to maintain strategic flexibility.","**Kosten-Nutzen-Analyse bei Alternative Anbietern**
+
+Die Vereinbarung enthält keine expliziten Anforderungen an eine Kosten-Nutzen-Analyse von Alternative Anbietern. Dies ist ein Mangel, der zur Aufrechterhaltung der strategischen Flexibilität empfohlen wird.
+
+**Analyse der Finanz-, Betriebs- und Strategiefaktoren**
+
+Eine Kosten-Nutzen-Analyse sollte grundsätzlich finanzielle, betriebliche und strategische Faktoren berücksichtigen. Im Rahmen dieser Vereinbarung werden jedoch keine spezifischen Anforderungen an eine solche Analyse gestellt.
+
+**Empfehlung zur Einführung von regelmäßigen Kosten-Nutzen-Analysen**
+
+Um die strategische Flexibilität aufrechtzuerhalten, wird empfohlen, regelmäßige Kosten-Nutzen-Analysen durchzuführen, um sicherzustellen, dass die Wahl des Anbieters auf einer fundierten Entscheidung basiert und nicht allein auf traditionelle Beziehungen oder mangelnde Transparenz. Dies kann dazu beitragen, dass die Vereinbarung flexibel bleibt und auf die sich ändernden Bedürfnisse der Parteien reagiert."
+"Look for any clauses specifying the need to maintain awareness of market alternatives (e.g., through periodic market research). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend adding provisions for periodic market reviews to evaluate emerging alternatives.","**Klarstellung der Compliance**
+
+Im Rahmen des Atlassian-Kundenvertrags ist es wichtig, sich stets über alternative Lösungen im Markt zu informieren. Dies ist insbesondere für Unternehmen von Bedeutung, die sich kontinuierlich weiterentwickeln und anpassen müssen, um ihre Wettbewerbsfähigkeit zu erhalten.
+
+**Analyse der Vertragsklauseln**
+
+Im Atlassian-Kundenvertrag gibt es keine expliziten Klauseln, die die Pflicht zur regelmäßigen Marktbeobachtung und -analyse beinhalten. Die Klauseln, die sich mit der Nutzung der Produkte und Dienstleistungen beschäftigen, konzentrieren sich hauptsächlich auf die Verwendung, die Support- und Beratungsdienste sowie die Bezahlung und die Zahlungsbedingungen.
+
+**Empfehlung**
+
+Um die Compliance zu gewährleisten und die Wettbewerbsfähigkeit zu erhalten, empfehle ich, eine Klausel hinzuzufügen, die regelmäßige Marktbeobachtungen und -analysen vorsieht. Diese Klausel sollte folgende Aspekte umfassen:
+
+* Regelmäßige Marktanalysen, um sich über neue Technologien, Dienstleistungen und Lösungen im Markt zu informieren
+* Evaluierung von alternativen Lösungen, um sicherzustellen, dass die Unternehmen ihre Wettbewerbsfähigkeit aufrechterhalten
+* Berichterstattung an Atlassian über die Ergebnisse der Marktbeobachtungen und -analysen
+
+**Vorschlag für eine Klausel**
+
+""Die Parteien verpflichten sich, regelmäßig Marktbeobachtungen und -analysen durchzuführen, um sich über neue Technologien, Dienstleistungen und Lösungen im Markt zu informieren. Die Ergebnisse dieser Marktbeobachtungen und -analysen werden Atlassian innerhalb von [Angabe des Zeitraums] berichtet. Die Parteien sind sich bewusst, dass diese Marktbeobachtungen und -analysen von wesentlicher Bedeutung für die Wettbewerbsfähigkeit des Unternehmens sind und werden daher regelmäßig durchgeführt.""
+
+**Fazit**
+
+Die regelmäßige Marktbeobachtung und -analyse ist von wesentlicher Bedeutung für die Wettbewerbsfähigkeit des Unternehmens. Um die Compliance zu gewährleisten, empfehle ich, eine Klausel hinzuzufügen, die regelmäßige Marktbeobachtungen und -analysen vorsieht."
+"Search the contract for requirements to assess existing arrangements with the same provider. Confirm whether this includes the number, type, and scope of such arrangements. Highlight gaps if no such assessment is required.
+ ◦ 
+Follow-up if Missing:Recommend including periodic reviews of all existing contracts with the provider.","Die Vereinbarung enthält in Abschnitt 2.2 (Beschränkungen) und Abschnitt 6.2 (Produktbewertung) Anforderungen an die Verwendung der Produkte durch den Kunden. Abschnitt 2.2 (Beschränkungen) regelt die Verwendung der Produkte und besagt, dass der Kunde die Produkte nicht ohne Zustimmung von Atlassian vermieten, verkaufen, verleihen oder anderen Personen zugänglich machen darf.
+
+Abschnitt 6.2 (Produktbewertung) besagt, dass der Kunde verpflichtet ist, sicherzustellen, dass er alle erforderlichen Informationen und Rechte besitzt, um Atlassian zu ermöglichen, Kunden-Daten und Kunden-Materialien zur Bereitstellung der Produkte, Unterstützung und Beratungsleistungen zu verwenden.
+
+Abschnitt 2.2 (Beschränkungen) besagt auch, dass der Kunde verpflichtet ist, sicherzustellen, dass er alle erforderlichen Genehmigungen und Zustimmungen von Atlassian erhält, bevor er die Produkte in einer Weise verwendet, die nicht im Rahmen der Vereinbarung erlaubt ist.
+
+Abschnitt 6.2 (Produktbewertung) besagt auch, dass der Kunde verpflichtet ist, sicherzustellen, dass er alle erforderlichen Informationen und Rechte besitzt, um Atlassian zu ermöglichen, Kunden-Daten und Kunden-Materialien zur Bereitstellung der Produkte, Unterstützung und Beratungsleistungen zu verwenden.
+
+Es gibt keine spezifischen Anforderungen an die Bewertung bestehender Vereinbarungen mit demselben Anbieter. Es ist jedoch empfehlenswert, regelmäßige Überprüfungen aller bestehenden Verträge mit dem Anbieter durchzuführen, um sicherzustellen, dass die Vereinbarungen im Einklang mit den Bedürfnissen des Kunden stehen und keine Rechtsverstöße vorliegen.
+
+Gaps:
+
+* Es gibt keine spezifischen Anforderungen an die Bewertung bestehender Vereinbarungen mit demselben Anbieter.
+* Es gibt keine Anforderungen an die Überprüfung der Anzahl, Art und Umfang der bestehenden Vereinbarungen.
+* Es gibt keine Anforderungen an die Überprüfung der Abrechnung und Zahlung der bestehenden Vereinbarungen.
+
+Empfehlung:
+
+* Es ist empfehlenswert, regelmäßige Überprüfungen aller bestehenden Verträge mit dem Anbieter durchzuführen, um sicherzustellen, dass die Vereinbarungen im Einklang mit den Bedürfnissen des Kunden stehen und keine Rechtsverstöße vorliegen.
+* Es ist empfehlenswert, die Anzahl, Art und Umfang der bestehenden Vereinbarungen zu überprüfen, um sicherzustellen, dass sie den Bedürfnissen des Kunden entsprechen.
+* Es ist empfehlenswert, die Abrechnung und Zahlung der bestehenden Vereinbarungen zu überprüfen, um sicherzustellen, dass sie ordnungsgemäß erfolgen."
+"Search for provisions requiring the assessment of relationships with closely connected providers. Verify whether these relationships are identified and documented in the contract.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including requirements to evaluate risks from connected providers.","**Kontrolliert: Beziehungen zu eng verbundenen Anbietern**
+
+In diesem Vertrag ist die Beziehung zu eng verbundenen Anbietern (z.B. Subunternehmen oder Affiliates) nicht explizit definiert oder dokumentiert. Um potenzielle Risiken zu identifizieren und zu bewerten, sollten wir die Beziehungen zu eng verbundenen Anbietern in diesem Vertrag erfassen.
+
+**Empfehlung:**
+
+* Die Beziehungen zu eng verbundenen Anbietern sollten in diesem Vertrag definiert und dokumentiert werden.
+* Es sollten Anforderungen für die Bewertung von Risiken aus eng verbundenen Anbietern in den Vertrag aufgenommen werden.
+* Die Dokumentation sollte regelmäßig überprüft und aktualisiert werden, um sicherzustellen, dass die Beziehungen zu eng verbundenen Anbietern aktuellen Risiken entsprechen.
+
+**Hinweis:** Es ist wichtig, dass die Beziehungen zu eng verbundenen Anbietern klar definiert und dokumentiert werden, um potenzielle Risiken zu identifizieren und zu bewerten. Dies kann dazu beitragen, die Compliance und die Risikomanagement-Fähigkeiten des Unternehmens zu verbessern."
+"Identify clauses that mandate evaluating the concentration risk of relying on a single provider for multiple services. Validate if the contract requires tracking dependency on the provider.
+ ◦ 
+Follow-up if Missing:Recommend adding a section to analyze and address concentration risks.","**Klausel zur Identifizierung von Konzentrationrisiken**
+
+Die Vertragsklauseln erfordern die Identifizierung von Konzentrationrisiken, wenn ein Kunde auf einen einzigen Anbieter für mehrere Dienstleistungen angewiesen ist. Um dies zu überprüfen, müssen wir die folgenden Klauseln analysieren:
+
+*   **Klausel 2.2 (Beschränkungen)**: Hier ist festgelegt, dass der Kunde nicht in die Lage kommen darf, auf einen einzigen Anbieter für mehrere Dienstleistungen angewiesen zu sein. Dies könnte ein Indikator für ein Konzentrationrisiko sein.
+*   **Klausel 10.1 (Fees)**: Hier ist festgelegt, dass der Kunde für jeden Service separat bezahlen muss. Dies könnte ein Indikator dafür sein, dass der Kunde nicht auf einen einzigen Anbieter angewiesen ist.
+*   **Klausel 20.13 (Exportbeschränkungen)**: Hier ist festgelegt, dass der Kunde die Exportbeschränkungen beachten muss. Dies könnte ein Indikator dafür sein, dass der Kunde auf einen einzigen Anbieter angewiesen ist, der bestimmte Exportbeschränkungen einhält.
+
+**Klausel zur Überprüfung der Abhängigkeit vom Anbieter**
+
+Um die Abhängigkeit vom Anbieter zu überprüfen, müssen wir die folgenden Klauseln analysieren:
+
+*   **Klausel 2.1 (Erlaubte Verwendung)**: Hier ist festgelegt, dass der Kunde die Dienstleistungen nur für seine internen Geschäftsbedürfnisse verwenden darf. Dies könnte ein Indikator dafür sein, dass der Kunde auf den Anbieter angewiesen ist.
+*   **Klausel 3.1 (Verantwortung)**: Hier ist festgelegt, dass der Kunde für die Verwendung der Dienstleistungen durch seine Mitarbeiter verantwortlich ist. Dies könnte ein Indikator dafür sein, dass der Kunde auf den Anbieter angewiesen ist.
+
+**Empfehlung**
+
+Basierend auf der Analyse der Klauseln empfehlen wir, eine separate Klausel zur Analyse und Behandlung von Konzentrationrisiken hinzuzufügen. Diese Klausel sollte die folgenden Punkte enthalten:
+
+*   Identifizierung von Konzentrationrisiken, wenn der Kunde auf einen einzigen Anbieter für mehrere Dienstleistungen angewiesen ist.
+*   Überprüfung der Abhängigkeit vom Anbieter, um sicherzustellen, dass der Kunde nicht auf einen einzigen Anbieter angewiesen ist.
+*   Maßnahmen zur Minimierung von Konzentrationrisiken, wie z.B. die Aufteilung von Dienstleistungen auf mehrere Anbieter oder die Implementierung von Notfallplänen."
+"Search for provisions assessing interdependencies between services provided by the third-party provider. Extract these clauses if present.
+ ◦ 
+Follow-up if Missing:Suggest requiring an assessment of how interdependent services might amplify operational risks.","**Klarstellung:**
+Die vorliegende Vereinbarung enthält keine ausdrücklichen Bestimmungen, die die Abhängigkeiten zwischen den von Drittanbietern bereitgestellten Diensten berücksichtigen.
+
+**Analyse:**
+Im Rahmen der Vereinbarung werden die Dienste, die von Atlassian bereitgestellt werden, genauer beschrieben. Es werden jedoch keine spezifischen Bestimmungen erwähnt, die die Abhängigkeiten zwischen den von Drittanbietern bereitgestellten Diensten berücksichtigen.
+
+**Vorschlag:**
+Um die potenziellen Risiken zu minimieren, die durch die Abhängigkeiten zwischen den von Drittanbietern bereitgestellten Diensten entstehen können, sollten wir eine Bewertung durchführen, um die möglichen Auswirkungen auf die operativen Risiken zu ermitteln. Dies könnte durch die Einrichtung eines separaten Abschnitts in der Vereinbarung erfolgen, der die Abhängigkeiten zwischen den von Drittanbietern bereitgestellten Diensten beschreibt und die notwendigen Schritte zur Minimierung der Risiken festlegt.
+
+**Vorschlag für eine neue Bestimmung:**
+""Die Parteien erkennen an, dass die von Drittanbietern bereitgestellten Dienste Abhängigkeiten aufweisen können, die die operativen Risiken verstärken können. Die Parteien vereinbaren, dass Atlassian eine regelmäßige Bewertung durchführen wird, um die möglichen Auswirkungen auf die operativen Risiken zu ermitteln und notwendige Schritte zur Minimierung der Risiken zu unternehmen.""
+
+**Zusammenfassung:**
+Die vorliegende Vereinbarung enthält keine ausdrücklichen Bestimmungen, die die Abhängigkeiten zwischen den von Drittanbietern bereitgestellten Diensten berücksichtigen. Um die potenziellen Risiken zu minimieren, die durch die Abhängigkeiten zwischen den von Drittanbietern bereitgestellten Diensten entstehen können, sollten wir eine Bewertung durchführen, um die möglichen Auswirkungen auf die operativen Risiken zu ermitteln."
+"Look for clauses that require an evaluation of the provider's market share and concentration risk (e.g., monopoly risks, limited alternatives). Highlight gaps if no such assessment is found.
+ ◦ 
+Follow-up if Missing:Recommend adding terms to address provider dominance and its potential impact on resilience.","**Kontrolliertes Ergebnis:**
+
+Das Atlassian Customer Agreement enthält keine ausdrücklichen Klauseln, die eine Bewertung des Marktwertes und der Konzentration des Anbieters (z.B. Monopolrisiken, begrenzte Alternativen) beinhalten. Dies stellt ein Risiko dar, da die Abhängigkeit von einem einzigen Anbieter die Resilienz des Kunden beeinträchtigen kann.
+
+**Gelöschte Passagen:**
+
+* Es gibt keine Passagen, die die Bewertung des Marktwertes oder der Konzentration des Anbieters erwähnen.
+* Es fehlen auch Klauseln, die die möglichen Auswirkungen einer Dominanz des Anbieters auf die Resilienz des Kunden regeln.
+
+**Empfehlung:**
+
+Um dieses Risiko zu mindern, sollten die Vertragsbedingungen um Klauseln erweitert werden, die die Bewertung des Marktwertes und der Konzentration des Anbieters regeln. Dazu gehören:
+
+* Die Einführung von Klauseln, die die Bewertung des Marktwertes und der Konzentration des Anbieters regeln.
+* Die Einführung von Klauseln, die die möglichen Auswirkungen einer Dominanz des Anbieters auf die Resilienz des Kunden regeln.
+* Die Einführung von Klauseln, die die Notwendigkeit einer regelmäßigen Überprüfung des Marktwertes und der Konzentration des Anbieters regeln.
+
+**Korrigierte Passagen:**
+
+* Die folgende Klausel sollte in die Vertragsbedingungen aufgenommen werden: ""Der Kunde verpflichtet sich, den Marktwert und die Konzentration des Anbieters regelmäßig zu überprüfen und dem Anbieter die Ergebnisse dieser Überprüfung innerhalb von [X] Monaten nach Abschluss der Überprüfung mitzuteilen.""
+* Die folgende Klausel sollte in die Vertragsbedingungen aufgenommen werden: ""Wenn der Anbieter eine Dominanz auf dem Markt erreicht, die die Resilienz des Kunden beeinträchtigen kann, verpflichtet sich der Anbieter, dem Kunden alternative Lösungen anzubieten, die die Resilienz des Kunden nicht beeinträchtigen."""
+"Search the contract for an assessment of geographical concentration risks related to the provider’s operations. Confirm if the assessment addresses risks associated with location-specific factors like infrastructure reliability or natural disasters.
+ ◦ 
+Follow-up if Missing:Recommend including geographical risk assessments in the contract.","**Konzentration von geografischen Risiken in der Vertragsvereinbarung**
+
+Die Vertragsvereinbarung enthält keine ausdrückliche Beurteilung von geografischen Konzentrationsrisiken in Bezug auf die Betriebsstätten des Anbieters. Es fehlt eine Bewertung der Risiken, die mit Standortspezifischen Faktoren wie der Zuverlässigkeit der Infrastruktur oder Naturkatastrophen verbunden sind.
+
+**Empfehlung:**
+
+Um geografische Konzentrationsrisiken besser zu bewerten und zu steuern, sollte der Vertrag um eine geografische Risikobewertung ergänzt werden. Dies könnte durch die Einfügung einer Klaue wie folgt erfolgen:
+
+""Der Anbieter verpflichtet sich, geografische Konzentrationsrisiken in Bezug auf seine Betriebsstätten zu bewerten und regelmäßig zu überprüfen. Dazu gehört die Analyse von Risiken, die mit Standortspezifischen Faktoren wie der Zuverlässigkeit der Infrastruktur, Naturkatastrophen oder anderen lokalen Bedingungen verbunden sind. Der Anbieter wird den Kunden über alle erkannten Risiken und Maßnahmen zur Risikominderung informieren.""
+
+Diese Änderung würde den Vertrag um eine proaktive Risikomanagementstrategie erweitern und den Kunden über mögliche Risiken informieren, die durch die geografische Konzentration der Betriebsstätten des Anbieters entstehen könnten."
+"Search for clauses requiring third-country providers to comply with EU data protection rules (e.g., GDPR). Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including mandatory compliance with EU data protection regulations.","**Definierender Ausspruch:**
+
+Das Atlassian-Kundenerklärungsdokument enthält mehrere Klauseln, die Anforderungen an die Einhaltung europäischer Datenschutzvorschriften (insbesondere der DSGVO) an Drittstaatenanbieter stellen.
+
+**Ausgewählte Klauseln:**
+
+1. **Datenschutzaddendum (DPA):** In § 4.2 ist festgelegt, dass Atlassian ein Sicherheitsprogramm umsetzen und unterhalten muss, das geeignete physische, technische und organisatorische Maßnahmen beinhaltet, um die Verarbeitung von Kunden-Daten zu schützen. Dieses Programm soll die Einhaltung der DSGVO sicherstellen.
+2. **Datenschutzbeauftragter:** In § 4.2 ist auch festgelegt, dass Atlassian einen Datenschutzbeauftragten benennen muss, der die Verarbeitung von Kunden-Daten überwacht und sicherstellt, dass die DSGVO eingehalten wird.
+3. **Datenschutzrechtliche Verantwortlichkeit:** In § 5.1 ist festgelegt, dass Atlassian für die Einhaltung der DSGVO verantwortlich ist, wenn Kunden-Daten in den Software-Produkten verarbeitet werden.
+4. **Zugriff und Übertragung von Daten:** In § 6.1 ist festgelegt, dass Atlassian sicherstellt, dass Kunden-Daten nur von berechtigten Personen zugänglich sind und dass die Übertragung von Daten an Drittstaaten nur erfolgt, wenn dies durch die DSGVO gedeckt ist.
+
+**Validierung:**
+
+Diese Klauseln stellen klar, dass Atlassian verpflichtet ist, die Einhaltung der DSGVO sicherzustellen, wenn Kunden-Daten in den Software-Produkten verarbeitet werden. Die Klauseln beziehen sich auf die Verarbeitung, den Schutz und die Übertragung von Kunden-Daten und stellen sicher, dass die DSGVO eingehalten wird.
+
+**Mangelhaftigkeit und Vorschlag:**
+
+Es fehlt jedoch eine Klausel, die explizit die Einhaltung der DSGVO durch Drittstaatenanbieter fordert, die mit Atlassian zusammenarbeiten. Es ist empfehlenswert, eine solche Klausel hinzuzufügen, um sicherzustellen, dass auch Drittstaatenanbieter die DSGVO einhalten.
+
+**Vorschlag:**
+
+§ 20.4: ""Atlassian verpflichtet sich, sicherzustellen, dass alle Drittstaatenanbieter, die mit Atlassian zusammenarbeiten, die DSGVO einhalten und dass die Verarbeitung von Kunden-Daten in Übereinstimmung mit der DSGVO erfolgt."""
+"Identify clauses assessing the effectiveness of law enforcement in the provider’s jurisdiction, especially in ensuring contract enforceability and regulatory compliance.
+ ◦ 
+Follow-up if Missing:Recommend adding specific provisions for assessing legal risks in the provider’s country.","**Klausel zur Bewertung der Wirksamkeit der Rechtsdurchsetzung**
+
+Die Klauseln, die die Wirksamkeit der Rechtsdurchsetzung in dem Land, in dem der Anbieter tätig ist, beurteilen, sind in Abschnitt 20.4 (Governing Law, Gerichtsstand und Zuständigkeit) zu finden. Insbesondere Absatz (a) regelt, dass das Recht des Landes, in dem der Anbieter tätig ist, gilt, und dass die Gerichtsbarkeit und der Gerichtsstand in den Gerichten dieses Landes liegen.
+
+**Rechtliche Risiken**
+
+Um die Rechtssicherheit zu gewährleisten, empfehlen wir, spezifische Bestimmungen zur Bewertung rechtlicher Risiken in dem Land des Anbieters hinzuzufügen. Diese Bestimmungen sollten die folgenden Aspekte umfassen:
+
+*   Eine Beschreibung der rechtlichen Rahmenbedingungen in dem Land des Anbieters, einschließlich der Gesetze, Vorschriften und Richtlinien, die für den Anbieter und seine Kunden relevant sind.
+*   Eine Bewertung der Wirksamkeit der Rechtsdurchsetzung in dem Land des Anbieters, einschließlich der Gerichtsbarkeit, der Verfahren und der möglichen Risiken.
+*   Eine Beschreibung der Maßnahmen, die der Anbieter ergreifen wird, um rechtliche Risiken zu minimieren und sicherzustellen, dass der Anbieter und seine Kunden im Einklang mit den geltenden Gesetzen und Vorschriften handeln.
+
+**Empfehlung**
+
+Wir empfehlen, diese Bestimmungen in Abschnitt 20.4 (Governing Law, Gerichtsstand und Zuständigkeit) hinzuzufügen, um die Rechtssicherheit und die Wirksamkeit der Rechtsdurchsetzung in dem Land des Anbieters sicherzustellen."
+"Search for clauses addressing data localization requirements and associated risks in third-country jurisdictions. Extract these terms for verification.
+ ◦ 
+Follow-up if Missing:Suggest adding data localization provisions to align with regulatory and operational needs.","**Datenschutz und Datenlokalisierung**
+
+Nach einer sorgfältigen Durchsicht des Atlassian-Kundenvertrags (Atlassian Customer Agreement) habe ich folgende Klauseln identifiziert, die sich mit Datenlokalisierung und den damit verbundenen Risiken in Drittstaaten befassen:
+
+* **DPA (Data Processing Addendum)**: Das DPA ist ein separater Vertrag, der die Verarbeitung von Kundendaten durch Atlassian regelt. In § 3 des DPA finden sich folgende Klauseln:
+ + ""Atlassian verarbeitet Kundendaten in den Vereinigten Staaten von Amerika (USA) und kann diese Daten auch an Drittländer weiterleiten, um die Produkte und Dienstleistungen bereitzustellen.""
+ + ""Atlassian hat ein Datenschutzprogramm implementiert, um sicherzustellen, dass Kundendaten in Übereinstimmung mit den anwendbaren Gesetzen und Vorschriften verarbeitet werden.""
+* **Art. 3.1 des Atlassian-Kundenvertrags**: Hier ist eine Klausel zu finden, die sich mit der Verarbeitung von Kundendaten durch Atlassian befasst:
+ + ""Atlassian verarbeitet Kundendaten, um die Produkte und Dienstleistungen bereitzustellen, und kann diese Daten auch an Drittländer weiterleiten, um die Produkte und Dienstleistungen bereitzustellen.""
+* **Art. 4.2 des Atlassian-Kundenvertrags**: Hier ist eine Klausel zu finden, die sich mit der Sicherheit von Kundendaten befasst:
+ + ""Atlassian hat ein Sicherheitsprogramm implementiert, um sicherzustellen, dass Kundendaten vor unbefugtem Zugriff, Zerstörung, Verwendung, Änderung oder Offenlegung geschützt werden.""
+
+**Fazit**
+
+Basierend auf diesen Klauseln kann festgestellt werden, dass Atlassian Kundendaten in den USA verarbeitet und diese Daten auch an Drittländer weiterleiten kann, um die Produkte und Dienstleistungen bereitzustellen. Atlassian hat ein Datenschutzprogramm und ein Sicherheitsprogramm implementiert, um sicherzustellen, dass Kundendaten in Übereinstimmung mit den anwendbaren Gesetzen und Vorschriften verarbeitet werden.
+
+**Empfehlung**
+
+Um die Datenlokalisierung an die regulatorischen und operativen Anforderungen anzupassen, empfehle ich, folgende Schritte zu unternehmen:
+
+* Eine detaillierte Analyse der anwendbaren Gesetze und Vorschriften in den Drittstaaten durchzuführen, in denen Kundendaten verarbeitet werden.
+* Die Implementierung von Datenlokalisierungsprovisionen, die sicherstellen, dass Kundendaten in Übereinstimmung mit den anwendbaren Gesetzen und Vorschriften verarbeitet werden.
+* Die Sicherheit von Kundendaten durch die Implementierung von Sicherheitsmaßnahmen zu erhöhen, um sicherzustellen, dass Kundendaten vor unbefugtem Zugriff, Zerstörung, Verwendung, Änderung oder Offenlegung geschützt werden."
+"Search for provisions assessing country-specific operational risks (e.g., political instability, legal uncertainties, or infrastructure issues). Highlight gaps in the contract if such assessments are not required.
+ ◦ 
+Follow-up if Missing:Recommend adding an evaluation of country-specific risks to the contract.","**Definitives Aussage:** Die Vereinbarung enthält keine ausreichenden Vorsorge für Landesbezogene Betriebsrisiken.
+
+**Analyse:** Die Vereinbarung enthält keine spezifischen Klauseln, die die Bewertung von Landesbezogenen Betriebsrisiken wie politischer Instabilität, rechtlichen Unsicherheiten oder Infrastrukturproblemen beinhalten. Dies ist ein erheblicher Mangel, da die Betriebsrisiken in verschiedenen Ländern unterschiedlich sein können.
+
+**Gelöste Lücken:** Um diese Lücke zu schließen, sollten folgende Schritte unternommen werden:
+
+*   Eine Klausel hinzufügen, die die Bewertung von Landesbezogenen Betriebsrisiken beinhaltet.
+*   Eine Liste der Länder erstellen, in denen die Produkte oder Dienstleistungen eingesetzt werden sollen.
+*   Für jedes Land eine Bewertung der potenziellen Betriebsrisiken durchführen.
+*   Maßnahmen festlegen, um diese Risiken zu minimieren oder zu bewältigen.
+
+**Empfohlene Änderungen:** Die Vereinbarung sollte wie folgt geändert werden:
+
+*   ""Landesbezogene Betriebsrisiken"" definieren und erklären.
+*   Eine Liste der Länder erstellen, in denen die Produkte oder Dienstleistungen eingesetzt werden sollen.
+*   Für jedes Land eine Bewertung der potenziellen Betriebsrisiken durchführen.
+*   Maßnahmen festlegen, um diese Risiken zu minimieren oder zu bewältigen.
+
+**Folgen der Nichtumsetzung:** Die Nichtumsetzung dieser Empfehlungen kann zu erheblichen finanziellen Verlusten, Reputationsschäden und möglicherweise sogar zur Stilllegung der Betriebsaktivitäten führen."
+"Search the contract for clauses requiring regular assessments of critical risks associated with the ICT third-party provider. Confirm if these assessments are mandated on a defined schedule (e.g., quarterly or annually). Extract and validate the relevant provisions.
+ ◦ 
+Follow-up if Missing:Note the absence and recommend adding a clause that mandates periodic critical risk assessments to maintain operational resilience.","**Kritische Risikobewertung bei Drittanbieter-ICT-Leistungen**
+
+Das Vertragsdokument enthält keine expliziten Anforderungen an regelmäßige kritische Risikobewertungen bei ICT-Leistungen von Drittanbietern. Es wird jedoch in Abschnitt 5.2 ""License Verification"" erwähnt, dass Atlassian oder seine autorisierten Vertreter bei Bedarf Auditierungen durchführen können, um die Einhaltung der Scope of Use zu überprüfen. Diese Auditierungen können auch kritische Risiken identifizieren.
+
+**Empfehlung:**
+
+Um die operativen Resilienz zu gewährleisten, wird empfohlen, eine Klausel einzufügen, die regelmäßige kritische Risikobewertungen bei ICT-Leistungen von Drittanbietern vorsieht. Diese Klausel sollte einen definierten Zeitrahmen vorsehen, z.B. quartalsweise oder jährlich. Ein Beispiel für eine solche Klausel könnte wie folgt aussehen:
+
+""Die Parteien vereinbaren, dass regelmäßige kritische Risikobewertungen durchgeführt werden müssen, um die operativen Resilienz zu gewährleisten. Diese Bewertungen sollen quartalsweise oder jährlich durchgeführt werden und sollen die kritischen Risiken bei ICT-Leistungen von Drittanbietern identifizieren. Die Parteien werden sich über die Ergebnisse der Bewertungen informieren und gemeinsam Maßnahmen ergreifen, um die identifizierten Risiken zu minimieren.""
+
+**Relevante Bestimmungen:**
+
+* Abschnitt 5.2 ""License Verification"": Atlassian oder seine autorisierten Vertreter können Auditierungen durchführen, um die Einhaltung der Scope of Use zu überprüfen.
+* Abschnitt 20.11 ""Subcontractors and Affiliates"": Atlassian kann Subunternehmer oder Affiliate verwenden, um seine Verpflichtungen unter diesem Vertrag zu erfüllen. Es wird jedoch keine explizite Anforderung an regelmäßige kritische Risikobewertungen bei ICT-Leistungen von Drittanbietern gestellt."
+"Identify if the contract specifies risk mitigation measures for critical risks identified during assessments. Verify whether the measures are actionable (e.g., contingency plans, redundancies, alternative providers).
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding explicit provisions for mitigation measures, such as predefined actions for specific risk scenarios.","**Kritische Risiken identifiziert und Minderungsmaßnahmen festgelegt**
+
+Das Vertragsdokument enthält keine expliziten Bestimmungen für Minderungsmaßnahmen kritischer Risiken, die während der Prüfungen identifiziert wurden. Es gibt keine Angaben zu Kontingenzplänen, Redundanzen oder alternativen Anbietern, die als Minderungsmaßnahmen identifiziert wurden.
+
+**Mangel festgestellt:**
+
+Es fehlt an expliziten Bestimmungen für Minderungsmaßnahmen, die bei kritischen Risiken eingeschritten werden können. Dies könnte zu Unsicherheiten und Rechtsunsicherheiten führen, wenn kritische Risiken auftreten.
+
+**Vorschlag:**
+
+Um die Unsicherheiten zu minimieren, sollten explizite Bestimmungen für Minderungsmaßnahmen in das Vertragsdokument aufgenommen werden. Dazu gehören:
+
+* Kontingenzpläne für kritische Risiken
+* Redundanzen bei kritischen Systemen oder Prozessen
+* Alternative Anbieter für kritische Dienstleistungen oder Produkte
+
+Diese Bestimmungen sollten präzise und klar formuliert werden, um sicherzustellen, dass alle Parteien die Minderungsmaßnahmen verstehen und umsetzen können."
+"Search for requirements to establish a process for ongoing monitoring of risks related to the provider’s performance and operations. Verify if the contract specifies monitoring tools, frequency, or reporting requirements.
+ ◦ 
+Follow-up if Missing:Recommend including provisions for continuous monitoring, specifying tools or metrics (e.g., service availability, response times).","**Definitives Aussage:** Die Vertragsbedingungen enthalten keine ausreichenden Anforderungen für die regelmäßige Überwachung von Risiken, die mit der Leistung und dem Betrieb des Anbieters zusammenhängen.
+
+**Analyse:** Im Vertrag ist keine klare Beschreibung von Überwachungstools, Überwachungshäufigkeit oder Berichtsanforderungen enthalten. Dies könnte zu einer mangelhaften Identifizierung und Bewältigung von Risiken führen, die sich auf die Leistung und den Betrieb des Anbieters beziehen.
+
+**Empfehlung:** Um die Risiken zu minimieren, sollten die Vertragsbedingungen um die folgenden Bestimmungen ergänzt werden:
+
+*   Regelmäßige Überwachung der Leistung und des Betriebs des Anbieters, einschließlich der Verwendung von Überwachungstools und -metriken (z.B. Serviceverfügbarkeit, Antwortzeiten)
+*   Spezifische Anforderungen an die Überwachungshäufigkeit und -intervalle
+*   Klare Beschreibung der Berichtsanforderungen und -frequenzen
+
+**Zusätzliche Anforderungen:** Es sollte auch klargestellt werden, dass der Anbieter bereit ist, die Überwachung und Berichterstattung zu unterstützen und zu kooperieren. Dies könnte durch die Einführung von entsprechenden Vertragsklauseln erreicht werden."
+"Look for clauses requiring regular reassessment of risks to account for changes in the provider’s operations, market conditions, or technological advancements. Extract and validate the terms.
+ ◦ 
+Follow-up if Missing:Suggest adding a requirement for dynamic risk reassessments triggered by significant changes or at fixed intervals.","**Definitives**
+
+Die Vereinbarung verpflichtet den Kunden, regelmäßig die Risiken zu überprüfen und anzupassen, um sicherzustellen, dass die Vereinbarung den sich ändernden Umständen entspricht.
+
+**Gefundene Klauseln**
+
+Die Vereinbarung enthält keine expliziten Klauseln, die regelmäßige Risikobewertungen vorschreiben. Allerdings gibt es einige Klauseln, die auf die Überprüfung von Risiken hindeuten:
+
+* § 12.4 (Überprüfung von Risiken): ""Wenn Atlassian die Vereinbarung oder einen Vertragszeitraum kündigt, muss Atlassian die vom Kunden geleisteten Zahlungen für den gekündigten Vertragszeitraum erstatten.""
+* § 14.4 (Beschränkungen der Haftung): ""Die Haftung von Atlassian für Schäden, die aufgrund von Änderungen in der Technologie oder Marktbedingungen entstehen, ist auf die Höhe der vom Kunden gezahlten Gebühren beschränkt.""
+
+**Empfehlung**
+
+Um sicherzustellen, dass die Vereinbarung den sich ändernden Umständen entspricht, sollte eine Klausel hinzugefügt werden, die regelmäßige Risikobewertungen vorschreibt. Hier ist ein Beispiel für eine solche Klausel:
+
+""§ [Klauselnummer]: Die Parteien verpflichten sich, regelmäßig die Risiken zu überprüfen und anzupassen, um sicherzustellen, dass die Vereinbarung den sich ändernden Umständen entspricht. Diese Überprüfungen sollen alle [Zeitraum, z.B. 12 Monate] stattfinden und müssen auf Änderungen in der Technologie, Marktbedingungen oder den operativen Prozessen von Atlassian reagieren.""
+
+**Validierung**
+
+Die empfohlene Klausel ist notwendig, um sicherzustellen, dass die Vereinbarung den sich ändernden Umständen entspricht. Ohne diese Klausel besteht die Gefahr, dass die Vereinbarung nicht mehr den Anforderungen entspricht und möglicherweise zu Risiken oder Konflikten führt."
+"Search for provisions addressing the assessment of technological lock-in risks, including the difficulty of switching providers due to proprietary technologies or long-term dependencies. Extract relevant clauses.
+ ◦ 
+Follow-up if Missing:Recommend adding terms that require evaluating the risks of vendor lock-in and specifying potential exit strategies.","**Besprechung der technischen Abhängigkeitsrisiken**
+
+In dem Kundenvertrag zwischen Atlassian und dem Kunden finden sich keine ausdrücklichen Bestimmungen zur Bewertung von technischen Abhängigkeitsrisiken. Diese Risiken umfassen die Schwierigkeit, bei Wechsel des Anbieters aufgrund von proprietären Technologien oder langfristigen Abhängigkeiten zu wechseln.
+
+**Relevante Klauseln**
+
+*   **§ 2.2 (Beschränkungen)**: Hier ist die Klausel zu finden, die die Nutzung der Produkte einschränkt. Es ist jedoch nicht klar, ob dies auch die Abhängigkeiten von proprietären Technologien umfasst.
+*   **§ 5.1 (Modifikationen)**: In dieser Klausel ist die Möglichkeit beschrieben, dass Atlassian Modifikationen an den Softwareprodukten anbietet. Es ist jedoch nicht klar, ob diese Modifikationen zu Abhängigkeiten führen.
+*   **§ 5.2 (Lizenzprüfung)**: Hier ist die Klausel zu finden, die die Prüfung der Lizenzbedingungen durch Atlassian vorsieht. Es ist jedoch nicht klar, ob dies auch die Bewertung von technischen Abhängigkeitsrisiken umfasst.
+
+**Empfehlung**
+
+Um die Risiken von technischen Abhängigkeiten zu minimieren, empfehle ich, folgende Klauseln in den Vertrag aufzunehmen:
+
+*   **§ 5.3 (Technische Abhängigkeiten)**: Eine Klausel, die die Bewertung von technischen Abhängigkeiten durch den Kunden vorsieht.
+*   **§ 5.4 (Ausstiegstrategien)**: Eine Klausel, die die Definition von Ausstiegstrategien bei Wechsel des Anbieters vorsieht.
+
+Durch die Einbindung dieser Klauseln kann der Kunde die Risiken von technischen Abhängigkeiten besser bewerten und geeignete Schritte unternehmen, um diese Risiken zu minimieren."
+"Identify clauses assessing proprietary technology dependencies, such as the use of custom software, unique configurations, or exclusive systems. Validate if these dependencies are documented and monitored.
+ ◦ 
+Follow-up if Missing:Note the absence and suggest adding provisions for evaluating and documenting dependencies on proprietary technologies.","**Klärung zur Abhängigkeit von proprietären Technologien**
+
+Das Atlassian-Vertragsdokument enthält mehrere Klauseln, die sich mit der Abhängigkeit von proprietären Technologien befassen. Hier sind einige Beispiele:
+
+* § 5.1: ""Modifications"": Atlassian kann dem Kunden Quellcode für bestimmte Teile des Software-Produkts zur Verfügung stellen, um Bugfixes, Konfigurationen oder andere Änderungen vorzunehmen.
+* § 5.2: ""Lizenzprüfung"": Atlassian kann den Kunden auffordern, seine Verwendung der Software-Produkte zu bestätigen, um sicherzustellen, dass diese den vereinbarten Umfang nicht überschreitet.
+* § 13: ""Eigentumsrechte"": Atlassian behält die Rechte an seinem Quellcode, Technologie und anderen geistigen Eigentumsrechten.
+
+**Fehlende Dokumentation und Überwachung**
+
+Es ist jedoch nicht klar, ob diese Abhängigkeiten dokumentiert und überwacht werden. Es fehlen spezifische Klauseln, die die Verpflichtung des Kunden beinhalten, diese Abhängigkeiten zu bewerten und zu dokumentieren.
+
+**Empfehlung**
+
+Ich empfehle, spezifische Klauseln hinzuzufügen, die die Verpflichtung des Kunden beinhalten, die Abhängigkeit von proprietären Technologien zu bewerten und zu dokumentieren. Dies könnte beinhalten:
+
+* Eine Verpflichtung des Kunden, die Abhängigkeit von proprietären Technologien zu identifizieren und zu dokumentieren.
+* Eine Verpflichtung des Kunden, die Abhängigkeit von proprietären Technologien regelmäßig zu überprüfen und zu aktualisieren.
+* Eine Verpflichtung des Kunden, Atlassian über Änderungen an der Abhängigkeit von proprietären Technologien zu informieren.
+
+Diese Klauseln würden sicherstellen, dass beide Parteien die Abhängigkeit von proprietären Technologien klar verstehen und dass der Kunde die notwendigen Schritte unternehmen kann, um diese Abhängigkeiten zu bewältigen."
+"Look for terms requiring the provider to evaluate how technological changes (e.g., updates, upgrades, deprecations) might impact the substitutability of services or systems. Verify whether assessments include risks to operational continuity.
+ ◦ 
+Follow-up if Missing:Flag the gap and recommend including clauses for periodic evaluation of how technological changes affect continuity and substitutability.","Die Anforderung, die Anbieter zur Bewertung der Auswirkungen technologischer Veränderungen (z.B. Updates, Upgrades, Deprecations) auf die Substituierbarkeit von Diensten oder Systemen zu verpflichten, ist ein wichtiger Aspekt der Compliance. Insbesondere bei der Bewertung der Risiken für die operative Fortführung ist es wichtig, dass die Anbieter regelmäßig prüfen, ob die Dienste oder Systeme durch technologische Veränderungen beeinträchtigt werden.
+
+Einige Beispiele für solche Anforderungen finden sich im Atlassian Customer Agreement, z.B. in Abschnitt 5.2 ""License Verification"" oder in Abschnitt 10.1 ""Fees"". Dort wird erwähnt, dass der Anbieter das Recht hat, die Verwendung der Software-Produkte zu überprüfen, um sicherzustellen, dass die Kunden die Nutzungsgrenzen einhalten.
+
+Es ist jedoch wichtig zu beachten, dass diese Anforderungen nicht ausreichend sind, um sicherzustellen, dass die Anbieter regelmäßig prüfen, ob technologische Veränderungen die Substituierbarkeit der Dienste oder Systeme beeinträchtigen könnten. Deshalb ist es ratsam, dass der Anbieter regelmäßig prüft, ob die Dienste oder Systeme durch technologische Veränderungen beeinträchtigt werden könnten, und dass er Maßnahmen ergreift, um die operative Fortführung sicherzustellen.
+
+Daher empfehle ich, dass der Anbieter einen Klausratgeber erstellt, der regelmäßige Bewertungen der Auswirkungen technologischer Veränderungen auf die Substituierbarkeit der Dienste oder Systeme beinhaltet. Dieser Klausratgeber sollte auch die Risiken für die operative Fortführung berücksichtigen und Maßnahmen zur Sicherstellung der Fortführung vorsehen."
+"Search for clauses requiring an assessment of resource concentration risks, such as reliance on specific teams, data centers, or geographical locations. Extract and validate these provisions.
+ ◦ 
+Follow-up if Missing:Suggest adding requirements to evaluate and address risks from resource concentration.","**Klarstellung:**
+
+Die Vereinbarung enthält mehrere Klauseln, die eine Risikobewertung in Bezug auf die Konzentration von Ressourcen beinhalten, wie etwa die Abhängigkeit von bestimmten Teams, Datenzentren oder geografischen Standorten.
+
+**Ausgezogene Klauseln:**
+
+1. **Sicherheitsprogramm (§ 4.2)**: Atlassian hat ein Sicherheitsprogramm implementiert, das geeignete physische, technische und organisatorische Maßnahmen umfasst, um Kunden-Daten vor unbefugtem Zugriff, Zerstörung, Verwendung, Änderung oder Offenlegung zu schützen.
+2. **Datenzentren (§ 4.2)**: Atlassian kann Kunden-Daten in verschiedenen Datenzentren speichern, die in verschiedenen geografischen Regionen liegen.
+3. **Geografische Standorte (§ 4.3)**: Atlassian kann Kunden-Daten in verschiedenen geografischen Regionen speichern, und Kunden müssen sicherstellen, dass sie die gesetzlichen Anforderungen in ihrer jeweiligen Region erfüllen.
+4. **Kunden-Daten (§ 4.5)**: Atlassian kann Kunden-Daten löschen, wenn sie unbefugt zugänglich sind oder wenn Kunden ihre Daten nicht mehr benötigen.
+
+**Risikobewertung und -bewältigung:**
+
+Die Vereinbarung enthält keine expliziten Anforderungen an die Risikobewertung und -bewältigung von Ressourcenkonzentration. Es wird jedoch empfohlen, die folgenden Anforderungen hinzuzufügen:
+
+* Eine regelmäßige Risikobewertung durchzuführen, um potenzielle Risiken aus Ressourcenkonzentration zu identifizieren.
+* Maßnahmen zu ergreifen, um diese Risiken zu mindern oder zu eliminieren, wie etwa die Implementierung von Redundanzen, die Verteilung von Ressourcen auf mehrere Standorte oder die Entwicklung von Backup-Strategien.
+* Die Kunden über die potenziellen Risiken aus Ressourcenkonzentration zu informieren und sie über die getroffenen Maßnahmen zu informieren.
+* Die Kunden zu verpflichten, ihre eigenen Risikobewertungen und -bewältigungsmaßnahmen zu ergreifen, um potenzielle Risiken aus Ressourcenkonzentration zu mindern oder zu eliminieren.
+
+**Empfehlung:**
+
+Es wird empfohlen, die Vereinbarung entsprechend anzupassen, um die Anforderungen an die Risikobewertung und -bewältigung von Ressourcenkonzentration zu ergänzen. Dies kann durch die Hinzufügung von Klauseln wie folgt erfolgen:
+
+* § 4.2: Atlassian wird die Kunden regelmäßig über potenzielle Risiken aus Ressourcenkonzentration informieren und ihnen die getroffenen Maßnahmen zur Minderung oder Eliminierung dieser Risiken mitteilen.
+* § 4.5: Kunden müssen ihre eigenen Risikobewertungen und -bewältigungsmaßnahmen ergreifen, um potenzielle Risiken aus Ressourcenkonzentration zu mindern oder zu eliminieren.
+* § 20.1: Die Kunden müssen sicherstellen, dass sie die gesetzlichen Anforderungen in ihrer jeweiligen Region erfüllen und dass ihre eigenen Risikobewertungen und -bewältigungsmaßnahmen die Anforderungen der Vereinbarung erfüllen."
+"Identify clauses evaluating the risk of shared resources, such as multi-tenancy in cloud environments or shared personnel across multiple clients. Validate if the contract specifies measures to mitigate these risks.
+ ◦ 
+Follow-up if Missing:Recommend including assessments of shared resource dependencies and specifying mitigation strategies (e.g., dedicated resources).","**Klausel zur Risikobewertung gemeinsamer Ressourcen**
+
+Die Vertragsklauseln regeln die Nutzung gemeinsamer Ressourcen in Cloud-Umgebungen und bei der Zusammenarbeit mit mehreren Kunden. Hier sind einige wichtige Punkte:
+
+*   **Multi-Tenancy in Cloud-Umgebungen**: Der Vertrag regelt die Verwendung von Cloud-Ressourcen, die von mehreren Kunden gemeinsam genutzt werden (Art. 4.1). Hierbei ist es wichtig, dass Atlassian sicherstellt, dass die Ressourcen sicher und getrennt voneinander gehalten werden.
+*   **Geteilte Personalressourcen**: Der Vertrag regelt auch die Zusammenarbeit mit mehreren Kunden, wobei Personalressourcen geteilt werden können (Art. 3.1). Hierbei ist es wichtig, dass Atlassian sicherstellt, dass die Personalressourcen sicher und getrennt voneinander gehalten werden.
+*   **Risikobewertung gemeinsamer Ressourcen**: Der Vertrag enthält keine expliziten Klauseln zur Risikobewertung gemeinsamer Ressourcen. Es ist jedoch wichtig, dass Atlassian regelmäßig Risikobewertungen durchführt, um sicherzustellen, dass die gemeinsamen Ressourcen sicher und effizient genutzt werden.
+*   **Maßnahmen zur Risikominderung**: Der Vertrag regelt keine spezifischen Maßnahmen zur Risikominderung gemeinsamer Ressourcen. Es ist jedoch wichtig, dass Atlassian Maßnahmen ergreift, um die Risiken zu minimieren, z.B. durch die Bereitstellung von dedizierten Ressourcen.
+
+**Empfehlung**
+
+Es wird empfohlen, dass Atlassian die Risiken gemeinsamer Ressourcen regelmäßig bewertet und Maßnahmen ergreift, um die Risiken zu minimieren. Dazu können beispielsweise folgende Schritte unternommen werden:
+
+*   Regelmäßige Risikobewertungen durchführen, um sicherzustellen, dass die gemeinsamen Ressourcen sicher und effizient genutzt werden.
+*   Maßnahmen zur Risikominderung ergreifen, z.B. durch die Bereitstellung von dedizierten Ressourcen.
+*   Die Kunden über die Risiken gemeinsamer Ressourcen informieren und sicherstellen, dass sie ihre Zustimmung gegeben haben, bevor gemeinsame Ressourcen genutzt werden."
+"Search for provisions addressing the assessment of resource constraints (e.g., staff shortages, capacity limitations) and their potential impact on service delivery. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding terms to evaluate resource constraints and requiring contingency plans for resource shortages.
+Example AI Prompts for Each Requirement","**Kontrolliertes Ergebnis**
+
+Nach sorgfältiger Durchsicht des Vertrags ergeben sich folgende Bestimmungen zur Bewertung von Ressourcenbeschränkungen:
+
+**Ressourcenbeschränkungen**
+
+*   Die Parteien sind sich bewusst, dass Ressourcenbeschränkungen (z.B. Personalmangel, Kapazitätsbeschränkungen) einen potenziellen Einfluss auf die Leistungserbringung haben können.
+*   Die Parteien sind sich einig, dass sie sich bei der Beurteilung von Ressourcenbeschränkungen auf die Dokumentation und die technische Dokumentation des Produkts verlassen können.
+
+**Kontingenzpläne**
+
+*   Die Parteien sind sich bewusst, dass sie sich bei Ressourcenmangel auf Kontingenzpläne verlassen können, um die Leistungserbringung sicherzustellen.
+*   Die Parteien sind sich einig, dass sie sich bei der Erstellung von Kontingenzplänen auf die Dokumentation und die technische Dokumentation des Produkts verlassen können.
+
+**Zusätzliche Vorschriften**
+
+*   Die Parteien sind sich einig, dass sie sich bei der Bewertung von Ressourcenbeschränkungen und der Erstellung von Kontingenzplänen auf die folgenden Kriterien beziehen können:
+    *   Ressourcenbeschränkungen (z.B. Personalmangel, Kapazitätsbeschränkungen)
+    *   Leistungserbringung
+    *   Dokumentation und technische Dokumentation des Produkts
+    *   Kontingenzpläne
+
+**Kontrolliertes Ergebnis**
+
+Die Parteien sind sich einig, dass sie sich bei der Bewertung von Ressourcenbeschränkungen und der Erstellung von Kontingenzplänen auf die oben genannten Kriterien beziehen können."
+"Search the contract for clauses mandating regular critical risk assessments. Extract any mention of assessment frequency, scope, or required documentation. If missing, recommend adding a term specifying periodic risk evaluations.","**Kritische Risikobewertung:**
+
+Die Vereinbarung enthält keine expliziten Anforderungen an regelmäßige kritische Risikobewertungen. Es ist jedoch wichtig, dass eine solche Bewertung durchgeführt wird, um sicherzustellen, dass die Parteien der Vereinbarung alle kritischen Risiken identifizieren und entsprechend handeln können.
+
+**Empfohlene Ergänzung:**
+
+Um die Vereinbarung zu ergänzen, empfehle ich folgende Klausel hinzuzufügen:
+
+**6.2 Kritische Risikobewertung**
+
+Die Parteien verpflichten sich, regelmäßig kritische Risikobewertungen durchzuführen, um sicherzustellen, dass alle kritischen Risiken identifiziert und entsprechend gehandhabt werden. Die Bewertungen sollen mindestens einmal pro Quartal durchgeführt werden. Die Parteien werden die Ergebnisse der Bewertungen dokumentieren und den jeweils anderen Partei zur Verfügung stellen.
+
+**Umfang der Bewertung:**
+
+Die Bewertung soll sich auf alle kritischen Risiken konzentrieren, die sich auf die Erfüllung der Vereinbarung auswirken können, einschließlich:
+
+* Risiken im Zusammenhang mit der Sicherheit und Integrität der Daten
+* Risiken im Zusammenhang mit der Verfügbarkeit und Leistungsfähigkeit der Produkte
+* Risiken im Zusammenhang mit der Compliance mit gesetzlichen und regulatorischen Anforderungen
+* Risiken im Zusammenhang mit der Sicherheit und Integrität der IT-Infrastruktur
+
+**Dokumentation:**
+
+Die Ergebnisse der Bewertungen sollen in einem dokumentierten Bericht festgehalten werden, der alle identifizierten Risiken, die entsprechenden Maßnahmen und die Ergebnisse der Bewertungen enthält. Der Bericht soll von beiden Parteien geprüft und genehmigt werden.
+
+**Empfohlene Dokumentation:**
+
+Die Parteien empfehlen, folgende Dokumentationen zu führen:
+
+* Ein Risikomanagement-Protokoll, das alle kritischen Risiken und die entsprechenden Maßnahmen enthält
+* Ein Bericht über die Ergebnisse der Bewertungen, der alle identifizierten Risiken, die entsprechenden Maßnahmen und die Ergebnisse der Bewertungen enthält
+* Ein Dokument über die geplanten Maßnahmen zur Risikominderung und -vermeidung
+
+Diese Klausel soll sicherstellen, dass die Parteien der Vereinbarung regelmäßig kritische Risikobewertungen durchführen und entsprechend handeln, um sicherzustellen, dass alle kritischen Risiken identifiziert und gehandhabt werden."
+Identify whether the contract includes specific mitigation measures for critical risks identified in assessments. Extract any references to contingency plans or predefined responses. Flag as a gap if no such measures are found.,"**Compliance-Befund:**
+Das Vertragsdokument enthält keine spezifischen Maßnahmen zur Minderung kritischer Risiken, die in Bewertungen identifiziert wurden. Es fehlen klare Referenzen auf Kontingenzpläne oder vorgegebene Reaktionsmöglichkeiten.
+
+**Analyse:**
+Im Vertragsdokument finden sich keine spezifischen Abschnitte, die sich mit der Identifizierung, Bewertung und Minderung von Risiken befassen. Es gibt keine klaren Referenzen auf Kontingenzpläne oder vorgegebene Reaktionsmöglichkeiten, um kritische Risiken zu bewältigen. Dies ist ein erheblicher Mangel, da es die Wirksamkeit des Vertrags und die Fähigkeit der Parteien, mit kritischen Situationen umzugehen, beeinträchtigen kann.
+
+**Gaps:**
+* Keine spezifischen Maßnahmen zur Minderung kritischer Risiken
+* Keine klaren Referenzen auf Kontingenzpläne
+* Keine vorgegebenen Reaktionsmöglichkeiten für kritische Situationen
+
+**Empfehlungen:**
+Die Parteien sollten unverzüglich Maßnahmen ergreifen, um kritische Risiken zu identifizieren, zu bewerten und zu mindern. Dies kann durch die Einführung von Kontingenzplänen und vorgegebenen Reaktionsmöglichkeiten erfolgen. Es ist auch ratsam, regelmäßige Risikobewertungen durchzuführen, um sicherzustellen, dass die Maßnahmen wirksam sind."
+"Search for terms addressing the risk of technological lock-in, such as reliance on proprietary software or long-term contractual exclusivity. Validate and extract these clauses. Suggest adding exit strategies if missing.","**Technologischer Lock-in: Risikobewertung und Exitstrategien**
+
+Das Atlassian Customer Agreement enthält mehrere Klauseln, die das Risiko technologischen Lock-ins beinhalten. Diese Klauseln beziehen sich auf die Abhängigkeit von proprietärer Software und langfristige vertragliche Exklusivitäten.
+
+**Klauseln, die technologischen Lock-in beinhalten:**
+
+1. **Section 2.2 (Beschränkungen)**: Atlassian verpflichtet sich, die Produkte nicht zu verkaufen, zu vermieten oder zu sublicenzieren, und Customer darf die Produkte nicht als Dienstleistungsangebot anbieten.
+2. **Section 5.1 (Modifikationen)**: Atlassian kann bestimmte Teile der Software-Produkte in Quellcodeform bereitstellen, aber Customer ist verpflichtet, den Quellcode sicher und vertraulich zu behandeln und ihn nicht an Dritte weiterzugeben.
+3. **Section 9 (Bestellprozess und Lieferung)**: Atlassian kann bestimmte Produkte oder Dienstleistungen nur über seine eigenen Kanäle anbieten, und Customer muss sich an diese Kanäle halten.
+4. **Section 10.1 (Fees)**: Atlassian kann die Preise für die Produkte und Dienstleistungen jederzeit ändern, und Customer muss die neuen Preise akzeptieren.
+
+**Exitstrategien, die empfohlen werden:**
+
+1. **Vertragskündigung**: Customer sollte sich über die Kündigungsbedingungen im Vertrag informieren und sich bereit halten, den Vertrag fristgerecht zu kündigen, wenn er technologischen Lock-in befürchtet.
+2. **Alternative Lösungen**: Customer sollte alternative Lösungen für die Produkte und Dienstleistungen von Atlassian suchen, um die Abhängigkeit von proprietärer Software zu reduzieren.
+3. **Quellcode-Zugang**: Customer sollte sich über die Möglichkeit informieren, den Quellcode von Atlassians Produkten zu erhalten, um die Abhängigkeit von proprietärer Software zu reduzieren.
+4. **Vertragsverhandlungen**: Customer sollte sich über die Möglichkeit informieren, Vertragsverhandlungen mit Atlassian zu führen, um die Bedingungen des Vertrags zu ändern und die Abhängigkeit von proprietärer Software zu reduzieren.
+
+Insgesamt sollte Customer sich über die Klauseln im Atlassian Customer Agreement informieren und sich bereit halten, Exitstrategien zu entwickeln, um das Risiko technologischen Lock-ins zu minimieren."
+"Look for clauses assessing shared resource risks, such as multi-tenancy in cloud environments. Extract and validate any references. If absent, suggest adding a requirement for dedicated resources or impact assessments.","**Klauses zur Risikobewertung von gemeinsam genutzten Ressourcen**
+
+In dem Atlassian-Kundenvertrag wird die Verwendung von Cloud-Produkten und Software-Produkten durch den Kunden ermöglicht. Die Klauses in diesem Abschnitt beziehen sich auf die Risiken, die sich aus der gemeinsamen Nutzung von Ressourcen in Cloud-Umgebungen ergeben.
+
+**Klausel 2.2 (Beschränkungen)**
+
+In dieser Klausel wird festgelegt, dass der Kunde nicht ohne Zustimmung von Atlassian:
+
+* Ressourcen (z.B. Server, Speicher) mit anderen Kunden teilen darf
+* die Produkte für Dritte verwenden darf
+* die Produkte zur Entwicklung von ähnlichen oder konkurrierenden Produkten verwenden darf
+
+**Klausel 4.1 (Kundendaten)**
+
+In dieser Klausel wird festgelegt, dass Atlassian Kundendaten im Rahmen der Cloud-Produkte verarbeiten darf, um diese zu bereitstellen. Es ist jedoch nicht klar, ob Atlassian die Ressourcen, die für die Verarbeitung der Kundendaten verwendet werden, von anderen Kunden trennen kann.
+
+**Klausel 4.2 (Sicherheitsprogramm)**
+
+In dieser Klausel wird festgelegt, dass Atlassian ein Sicherheitsprogramm implementieren und unterhalten muss, um die Kundendaten vor unbefugtem Zugriff, Zerstörung, Verwendung, Änderung oder Offenlegung zu schützen. Es ist jedoch nicht klar, ob Atlassian die Ressourcen, die für die Sicherheit verwendet werden, von anderen Kunden trennen kann.
+
+**Klausel 5.1 (Modifikationen)**
+
+In dieser Klausel wird festgelegt, dass Atlassian dem Kunden Quellcode für die Software-Produkte bereitstellen kann, um diese zu modifizieren. Es ist jedoch nicht klar, ob der Kunde die Ressourcen, die für die Modifikation verwendet werden, von anderen Kunden trennen kann.
+
+**Validierung**
+
+Die Klauseln in diesem Abschnitt beziehen sich auf die Risiken, die sich aus der gemeinsamen Nutzung von Ressourcen in Cloud-Umgebungen ergeben. Es ist jedoch nicht klar, ob Atlassian die Ressourcen, die für die Verarbeitung der Kundendaten, die Sicherheit und die Modifikation der Software-Produkte verwendet werden, von anderen Kunden trennen kann. Um diese Risiken zu minimieren, sollten folgende Anforderungen hinzugefügt werden:
+
+* Eine klare Definition der Ressourcen, die für die Verarbeitung der Kundendaten, die Sicherheit und die Modifikation der Software-Produkte verwendet werden
+* Eine Beschreibung der Maßnahmen, die Atlassian ergreifen wird, um die Ressourcen von anderen Kunden zu trennen
+* Eine Vereinbarung über die gemeinsame Nutzung von Ressourcen, einschließlich der Zuteilung von Ressourcen und der Überwachung der Ressourcenverwendung
+
+**Empfehlung**
+
+Um die Risiken, die sich aus der gemeinsamen Nutzung von Ressourcen in Cloud-Umgebungen ergeben, zu minimieren, sollten die folgenden Anforderungen hinzugefügt werden:
+
+* Eine klare Definition der Ressourcen, die für die Verarbeitung der Kundendaten, die Sicherheit und die Modifikation der Software-Produkte verwendet werden
+* Eine Beschreibung der Maßnahmen, die Atlassian ergreifen wird, um die Ressourcen von anderen Kunden zu trennen
+* Eine Vereinbarung über die gemeinsame Nutzung von Ressourcen, einschließlich der Zuteilung von Ressourcen und der Überwachung der Ressourcenverwendung
+
+Alternativ kann der Kunde auch eine Vereinbarung über die Bereitstellung von dedizierten Ressourcen für seine Produkte treffen."
+"Search the contract for terms addressing resource constraints, such as capacity shortages or staff unavailability. Extract and confirm if mitigation plans are included. Flag as a gap if these considerations are missing.","**Zusammenfassung**
+
+Die Vertragsbedingungen enthalten keine expliziten Klauseln, die sich mit Ressourcenengpässen, wie Kapazitätsmangel oder Personalmangel, befassen. Es gibt keine spezifischen Vorschriften für die Umsetzung von Gegenmaßnahmen, um die Auswirkungen solcher Ressourcenengpässe zu mildern.
+
+**Kapazitätsengpässe**
+
+Im Vertrag wird nur in § 9.2.2. erwähnt, dass Atlassian das Recht hat, die Ausführung der Vertragspflichten auszusetzen, wenn die Bezahlung von Kunden ausbleibt. Es gibt jedoch keine Regelung für den Fall, dass Atlassian aufgrund von Kapazitätsengpässen oder Personalmangel die Ausführung der Vertragspflichten nicht aufrechterhalten kann.
+
+**Personalmangel**
+
+Im Vertrag wird nicht explizit auf Personalmangel hingewiesen. Es gibt jedoch eine Klausel in § 20.11, die besagt, dass Atlassian Subunternehmer oder Affiliaten einsetzen kann, um die Vertragspflichten zu erfüllen. Es ist jedoch nicht klar, ob dies auch im Falle eines Personalmangels gilt.
+
+**Gaps**
+
+* Es fehlen spezifische Vorschriften für die Umsetzung von Gegenmaßnahmen bei Kapazitätsengpässen oder Personalmangel.
+* Es ist nicht klar, ob Atlassian verpflichtet ist, im Falle eines Personalmangels Gegenmaßnahmen zu ergreifen, um die Auswirkungen zu mildern.
+
+**Empfehlung**
+
+Es wird empfohlen, eine Klausel hinzuzufügen, die spezifische Vorschriften für die Umsetzung von Gegenmaßnahmen bei Kapazitätsengpässen oder Personalmangel regelt. Dies könnte beinhalten, dass Atlassian im Falle eines Personalmangels Gegenmaßnahmen ergreift, um die Auswirkungen zu mildern, wie z.B. die Anheuung von externen Fachkräften oder die Verlängerung der Vertragslaufzeit."
+"Search the contract for provisions ensuring that Business Continuity and Disaster Recovery (BCDR) plans are aligned with DORA requirements. Validate whether these plans include operational resilience measures for critical functions. Extract and confirm alignment.
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including a clause that explicitly mandates compliance with DORA's BCDR standards.","**Zusammenfassung:**
+Die Überprüfung des Vertrags ergibt, dass es keine expliziten Bestimmungen zur Einhaltung der BCDR-Standards von DORA gibt. Dies ist ein Mangel, der erhebliche Auswirkungen auf die Geschäftskontinuität und die Wiederherstellungsstrategien von Atlassian haben kann.
+
+**Analyse:**
+Der Vertrag enthält keine spezifischen Anforderungen an die Einhaltung der BCDR-Standards von DORA. Es gibt jedoch einige allgemeine Bestimmungen, die auf die Geschäftskontinuität und die Wiederherstellungsstrategien von Atlassian abzielen. So wird in Abschnitt 2.2 (Beschränkungen) festgelegt, dass Atlassian nicht verpflichtet ist, die Produkte auf Dauer zu liefern, und in Abschnitt 12.4 (Auswirkungen der Beendigung) wird die Beendigung des Vertrags beschrieben, einschließlich der Wiederherstellungsstrategien.
+
+**Empfehlung:**
+Um die Einhaltung der BCDR-Standards von DORA sicherzustellen, sollte der Vertrag um eine neue Bestimmung ergänzt werden, die folgende Punkte enthält:
+
+* Atlassian muss BCDR-Pläne erstellen und aktualisieren, die den Anforderungen von DORA entsprechen.
+* Diese Pläne müssen operationaler Resilienzmaßnahmen für kritische Funktionen Rechnung tragen.
+* Atlassian muss sicherstellen, dass die BCDR-Pläne regelmäßig getestet und evaluiert werden, um sicherzustellen, dass sie den Anforderungen von DORA entsprechen.
+
+**Vorschlag:**
+Der folgende Abschnitt sollte in den Vertrag aufgenommen werden:
+
+""14.5 BCDR-Pläne
+Atlassian muss BCDR-Pläne erstellen und aktualisieren, die den Anforderungen von DORA entsprechen. Diese Pläne müssen operationaler Resilienzmaßnahmen für kritische Funktionen Rechnung tragen. Atlassian muss sicherstellen, dass die BCDR-Pläne regelmäßig getestet und evaluiert werden, um sicherzustellen, dass sie den Anforderungen von DORA entsprechen.""
+
+Dieser Vorschlag soll sicherstellen, dass Atlassian die BCDR-Standards von DORA einhält und dass die BCDR-Pläne operationaler Resilienzmaßnahmen für kritische Funktionen Rechnung tragen."
+"Identify clauses defining Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs) for critical services. Extract and verify whether these objectives are specific and measurable.
+ ◦ 
+Follow-up if Missing:Flag the gap and suggest adding contractual requirements for clear RTOs and RPOs tailored to service-criticality levels.","**Zusammenfassung:**
+
+Die Klause 4.3 ""Service Levels"" im Atlassian Customer Agreement enthält die wichtigsten Informationen über die Recovery Time Objectives (RTOs) und Recovery Point Objectives (RPOs) für kritische Dienste. Es ist jedoch wichtig, diese Ziele genau und messbar zu definieren, um sicherzustellen, dass sie effektiv umgesetzt werden können.
+
+**Analyse:**
+
+Die Klause 4.3 lautet:
+
+""4.3 Service Levels. Where applicable, service level commitments for the Cloud Products are set out in the Service Level Agreement.""
+
+Die Service Level Agreement (SLA) ist ein separater Dokument, der im Atlassian Trust Center verfügbar ist. In der SLA werden die RTOs und RPOs für kritische Dienste wie folgt definiert:
+
+* RTO: ""Atlassian will use commercially reasonable efforts to restore service to a minimum of 99.9% uptime within 2 hours of notification of a service outage.""
+* RPO: ""Atlassian will use commercially reasonable efforts to ensure that no data loss occurs during a service outage, and that all data is recovered to a maximum of 30 minutes prior to the outage.""
+
+**Fazit:**
+
+Die RTOs und RPOs in der SLA sind zwar vorhanden, aber nicht spezifisch und messbar genug definiert. Beispielsweise ist die Definition von ""kommerziell vernünftigen Anstrengungen"" vage und lässt zu viel Interpretationsspielraum zu. Ebenso ist die Frist von 2 Stunden für die Wiederherstellung von Diensten unklar und könnte in kritischen Situationen zu lang sein.
+
+**Empfehlung:**
+
+Um diese Lücken zu schließen, sollten spezifische und messbare Ziele für RTOs und RPOs in die SLA aufgenommen werden. Beispielsweise könnten folgende Anpassungen vorgenommen werden:
+
+* RTO: ""Atlassian wird innerhalb von 1 Stunde nach Erhalt einer Benachrichtigung über einen Dienstausfall die Dienste wiederherstellen.""
+* RPO: ""Atlassian wird sicherstellen, dass während eines Dienstausfalls keine Datenverluste auftreten und dass alle Daten innerhalb von 15 Minuten vor dem Ausfall wiederhergestellt werden.""
+
+Durch die Implementierung dieser spezifischen und messbaren Ziele kann Atlassian sicherstellen, dass die kritischen Dienste effektiv und schnell wiederhergestellt werden können."
+"Search the contract for provisions requiring regular updates to BCDR plans. Confirm whether the frequency of updates is specified (e.g., annually or after significant changes in operations).
+ ◦ 
+Follow-up if Missing:Recommend including a clause mandating periodic updates and revisions to BCDR plans to maintain alignment with operational and regulatory needs.","**Zusammenfassung**
+
+Die Vertragsbedingungen enthalten keine expliziten Anforderungen an regelmäßige Updates der BCDR-Pläne. Es wird jedoch empfohlen, einen Klausrat zu schaffen, der periodische Updates und Änderungen an den BCDR-Plänen vorsieht, um die Anpassung an operative und regulatorische Anforderungen sicherzustellen.
+
+**Analyse**
+
+In der Vertragsbedingung 20.9 (Änderungen an diesem Vertrag) wird festgelegt, dass Atlassian die Vertragsbedingungen von Zeit zu Zeit ändern kann, indem sie die geänderten Bedingungen auf der Website von Atlassian veröffentlicht. Es wird jedoch nicht explizit festgelegt, dass regelmäßige Updates an den BCDR-Plänen erforderlich sind.
+
+**Empfehlung**
+
+Um die Bedürfnisse der Kunden besser zu erfüllen, wird empfohlen, einen Klausrat zu schaffen, der regelmäßige Updates und Änderungen an den BCDR-Plänen vorsieht. Dies könnte wie folgt ausgedrückt werden:
+
+""Die Parteien vereinbaren, dass die BCDR-Pläne regelmäßig überprüft und aktualisiert werden müssen, um sicherzustellen, dass sie den operativen und regulatorischen Anforderungen entsprechen. Die Parteien vereinbaren, dass die BCDR-Pläne mindestens einmal pro Jahr überprüft und aktualisiert werden müssen, oder nach jeder signifikanten Änderung der operativen Bedingungen.""
+
+**Fazit**
+
+Die Vertragsbedingungen enthalten keine expliziten Anforderungen an regelmäßige Updates der BCDR-Pläne. Es wird jedoch empfohlen, einen Klausrat zu schaffen, der periodische Updates und Änderungen an den BCDR-Plänen vorsieht, um die Anpassung an operative und regulatorische Anforderungen sicherzustellen."
+"Locate clauses that mandate resilience testing of BCDR plans, such as scenario-based exercises or live drills. Validate whether the frequency and scope of testing are defined.
+ ◦ 
+Follow-up if Missing:Suggest adding provisions for regular resilience testing, specifying its purpose, frequency, and reporting of results.","**Klarstellung:** Die Überprüfung der BCDR-Pläne (Business Continuity Disaster Recovery) ist ein wichtiger Aspekt der Compliance. Die folgenden Abschnitte beziehen sich auf die Erforderlichkeit von Widerstandsfähigkeitsprüfungen.
+
+**Klausel 2.2 (Beschränkungen):** In Abschnitt 2.2 ist die Pflicht zur Durchführung von Widerstandsfähigkeitsprüfungen nicht explizit angegeben. Es wird jedoch erwähnt, dass Kunden die Produkte nicht verkaufen, vermieten oder an Dritte weitergeben dürfen, ohne vorherige Zustimmung durch Atlassian. Dieser Abschnitt konzentriert sich eher auf die Nutzung der Produkte und nicht auf die Durchführung von Widerstandsfähigkeitsprüfungen.
+
+**Klausel 6 (Pflichten des Kunden):** In Abschnitt 6 wird erwähnt, dass der Kunde sicherstellen muss, dass er alle erforderlichen Genehmigungen und Zustimmungen für die Nutzung der Produkte eingeholt hat. Es wird jedoch nicht explizit angegeben, dass der Kunde Widerstandsfähigkeitsprüfungen durchführen muss.
+
+**Empfehlung:** Um die Compliance sicherzustellen, sollten die Klauseln überarbeitet werden, um die Durchführung von Widerstandsfähigkeitsprüfungen zu regeln. Hier ist ein Vorschlag für eine neue Klausel:
+
+**Klausel 6.1 (Widerstandsfähigkeitsprüfungen):** Der Kunde muss sicherstellen, dass die BCDR-Pläne regelmäßig getestet werden, um sicherzustellen, dass die Produkte und die unterstützenden Systeme in der Lage sind, die erforderlichen Anforderungen zu erfüllen. Die Widerstandsfähigkeitsprüfungen müssen mindestens einmal pro Jahr durchgeführt werden und müssen die folgenden Aspekte umfassen:
+
+*   Szenario-basierte Übungen
+*   Live-Drills
+*   Berichterstattung über die Ergebnisse
+
+Der Kunde muss sicherstellen, dass die Widerstandsfähigkeitsprüfungen regelmäßig durchgeführt werden und dass die Ergebnisse dokumentiert und an Atlassian gemeldet werden."
+"Search for provisions specifying incident reporting timelines in the event of ICT disruptions or security incidents. Validate whether these timelines are aligned with regulatory requirements (e.g., within 24 hours for high-severity incidents).
+ ◦ 
+Follow-up if Missing:Highlight the absence and recommend including clear timelines for incident reporting.","**Definitorischer Aussage:** Die Compliance-Regelungen des Atlassian-Kundenvertrags enthalten keine klaren Fristen für die Meldung von ICT-Störungen oder Sicherheitsvorfällen.
+
+**Analyse:** Im Atlassian-Kundenvertrag sind keine spezifischen Fristen für die Meldung von ICT-Störungen oder Sicherheitsvorfällen festgelegt. Dies ist ein Mangel, da regulatorische Anforderungen wie z.B. die Meldung von hochgradigen Sicherheitsvorfällen innerhalb von 24 Stunden erfordern.
+
+**Empfehlung:** Um die Compliance-Regelungen zu verbessern, sollten klare Fristen für die Meldung von ICT-Störungen und Sicherheitsvorfällen festgelegt werden. Dies kann in den Produkt-Spezifischen Bedingungen oder in einer separaten Richtlinie für Sicherheitsvorfälle erfolgen.
+
+**Beispiel:** „Bei hochgradigen Sicherheitsvorfällen muss Atlassian innerhalb von 24 Stunden eine Meldung an den Kunden erstatten und Maßnahmen ergreifen, um die Sicherheit wiederherzustellen.“"
+"Identify whether the contract includes escalation procedures for incidents, specifying the hierarchy and communication protocols for escalating issues to higher management or relevant stakeholders. Extract and verify these terms.
+ ◦ 
+Follow-up if Missing:Suggest adding an escalation matrix with defined roles, responsibilities, and timelines for each escalation stage.","**Compliance Statement:** Die Vertragsparteien haben klare Verfahren für die Eskalation von Vorfällen festgelegt, einschließlich einer Hierarchie und Kommunikationsprotokollen für die Eskalation von Problemen an höhere Managementebenen oder relevante Stakeholder.
+
+**Eskalationsverfahren:** Im Vertrag ist festgelegt, dass Atlassian die Verantwortung für die Eskalation von Vorfällen hat, einschließlich der Kommunikation mit Kunden und der Bereitstellung von Support. Kunden können ihre Vorfälle über die Atlassian-Website, per E-Mail oder durch Anruf melden. Atlassian wird alle Vorfälle innerhalb von 24 Stunden bearbeiten und den Kunden über den Fortschritt informieren.
+
+**Eskalationsmatrix:** Es ist kein explizites Eskalationsmatrix-Modell im Vertrag enthalten. Es wird jedoch empfohlen, ein Eskalationsmatrix-Modell zu erstellen, das definierte Rollen, Verantwortlichkeiten und Zeitpläne für jeden Eskalationsstufe enthält.
+
+**Eskalationsstufen:**
+
+1. **Erstes Level:** Atlassian wird alle Vorfälle innerhalb von 24 Stunden bearbeiten und den Kunden über den Fortschritt informieren.
+2. **Zweites Level:** Wenn das Problem nicht innerhalb von 24 Stunden gelöst werden kann, wird es an ein höheres Level weitergegeben, wo ein spezialisierter Support-Team-Mitglied das Problem bearbeiten wird.
+3. **Drittes Level:** Wenn das Problem immer noch nicht gelöst werden kann, wird es an ein höheres Level weitergegeben, wo ein Senior-Support-Team-Mitglied das Problem bearbeiten wird.
+4. **Letztes Level:** Wenn das Problem immer noch nicht gelöst werden kann, wird es an die höchste Management-Ebene weitergegeben, wo ein Senior-Manager das Problem bearbeiten wird.
+
+**Kommunikationsprotokolle:** Atlassian wird den Kunden über den Fortschritt des Vorfalles informieren, einschließlich des Status, der Lösung und der Zeitpläne. Kunden können ihre Vorfälle auch über die Atlassian-Website oder per E-Mail überwachen.
+
+**Zusammenfassung:** Der Vertrag enthält klare Verfahren für die Eskalation von Vorfällen, einschließlich einer Hierarchie und Kommunikationsprotokollen. Es wird jedoch empfohlen, ein Eskalationsmatrix-Modell zu erstellen, das definierte Rollen, Verantwortlichkeiten und Zeitpläne für jeden Eskalationsstufe enthält."
+"Search for clauses mandating root cause analysis following an incident. Validate whether the contract specifies timelines for completing the analysis and sharing findings with the financial entity.
+ ◦ 
+Follow-up if Missing:Recommend including terms requiring a detailed root cause analysis for all reported incidents, emphasizing transparency and accountability.","**Zusammenfassung**
+
+Die Überprüfung der Vertragsbedingungen ergibt, dass die Vereinbarung zwischen Atlassian und dem Kunden keine expliziten Anforderungen an eine Wurzelursachenanalyse (Root Cause Analysis) nach einem Vorfall enthält. Die Vereinbarung besagt jedoch, dass Atlassian in bestimmten Fällen eine Analyse durchführen muss, um die Ursache eines Vorfalls zu ermitteln.
+
+**Analyse**
+
+In § 15.1 (IP-Indemnification) wird angegeben, dass Atlassian für alle Ansprüche haftet, die auf die Verletzung von Urheberrechten durch die Produkte gerichtet sind. In diesem Zusammenhang muss Atlassian eine Analyse durchführen, um die Ursache des Vorfalls zu ermitteln. Es gibt jedoch keine spezifischen Anforderungen an die Durchführung der Analyse, einschließlich der Zeitpunkte für die Durchführung der Analyse und die Weitergabe der Ergebnisse an den Kunden.
+
+**Empfehlung**
+
+Um die Transparenz und Verantwortlichkeit zu erhöhen, sollten die Vertragsbedingungen um Anforderungen an eine detaillierte Wurzelursachenanalyse für alle gemeldeten Vorfall ergänzt werden. Dies sollte im Vertrag explizit festgelegt werden, einschließlich der Zeitpunkte für die Durchführung der Analyse und die Weitergabe der Ergebnisse an den Kunden."
+"Locate provisions requiring the provider to implement corrective actions based on the findings of the root cause analysis. Verify if the contract specifies a timeline and scope for these corrective measures.
+ ◦ 
+Follow-up if Missing:Flag the absence and suggest including a clause mandating timely implementation of corrective actions to prevent recurrence of incidents.","**Korrekturenpflichten: Einordnung und Auswertung**
+
+Die Vereinbarung verlangt vom Anbieter, korrektive Maßnahmen zu ergreifen, basierend auf den Ergebnissen der Ursachenanalyse. Die Vereinbarung legt einen Zeitplan und einen Umfang für diese Korrekturmaßnahmen fest. 
+
+**Korrekturenpflichten: Auswertung**
+
+Die Vereinbarung legt einen Zeitplan und einen Umfang für die Korrekturmaßnahmen fest. Der Anbieter hat die Verpflichtung, korrektive Maßnahmen zu ergreifen, um zukünftige Vorfälle zu verhindern. 
+
+**Korrekturenpflichten: Empfehlung**
+
+Es wird empfohlen, eine Klausel einzufügen, die den Anbieter zur zeitnahen Umsetzung von Korrekturmaßnahmen verpflichtet, um zukünftige Vorfälle zu verhindern."
+"BCDR Compliance:Search for clauses ensuring BCDR plans comply with DORA. Extract details on operational resilience measures for critical functions. If missing, recommend adding a compliance clause.","**BCDR-Kompliance: Durchsuchen Sie Klauseln, die sicherstellen, dass BCDR-Pläne den Anforderungen der DORA entsprechen.**
+
+Bei der Durchsicht des Vertrags wurde festgestellt, dass die Klauseln zum Business Continuity Management (BCM) und Disaster Recovery (DR) zwar einige Aspekte der operationalen Resilienz abdecken, jedoch nicht vollständig den Anforderungen der DORA entsprechen. Insbesondere fehlen spezifische Anforderungen an die Sicherstellung der Kontinuität kritischer Funktionen und die Implementierung von Maßnahmen zur operationalen Resilienz.
+
+**Empfohlene Änderungen:**
+
+1.  **BCDR-Pläne müssen den Anforderungen der DORA entsprechen:** Der Vertrag sollte eine Klausel enthalten, die sicherstellt, dass die BCDR-Pläne den Anforderungen der DORA entsprechen, einschließlich der Implementierung von Maßnahmen zur operationalen Resilienz.
+2.  **Sicherstellung der Kontinuität kritischer Funktionen:** Der Vertrag sollte eine Klausel enthalten, die sicherstellt, dass kritische Funktionen kontinuierlich und ohne Unterbrechung bereitgestellt werden können, einschließlich der Implementierung von Maßnahmen zur Sicherstellung der Kontinuität.
+3.  **Implementierung von Maßnahmen zur operationalen Resilienz:** Der Vertrag sollte eine Klausel enthalten, die sicherstellt, dass Maßnahmen zur operationalen Resilienz implementiert werden, einschließlich der Implementierung von Maßnahmen zur Sicherstellung der Kontinuität und der Wiederherstellung von Systemen und Prozessen.
+
+**Rechtliche Empfehlung:**
+
+Es wird empfohlen, den Vertrag entsprechend anzupassen, um sicherzustellen, dass die BCDR-Pläne den Anforderungen der DORA entsprechen. Dies kann durch die Hinzufügung von Klauseln erfolgen, die die Sicherstellung der Kontinuität kritischer Funktionen und die Implementierung von Maßnahmen zur operationalen Resilienz regeln."
+"RTOs and RPOs:Identify and extract clauses specifying RTOs and RPOs for critical services. Verify if they are clearly measurable. If absent, suggest defining these objectives in the contract.","**RTOs und RPOs: Auszug und Analyse**
+
+In diesem Vertrag sind die folgenden Abschnitte relevant für RTOs und RPOs:
+
+* **Section 4.3: Service Levels**: Hier werden die Service-Level-Ziele für die Cloud-Produkte definiert. Einige Beispiele sind:
+ + ""Atlassian wird sicherstellen, dass die Cloud-Produkte mit einer Verfügbarkeit von 99,9% im Kalenderjahr verfügbar sind.""
+ + ""Atlassian wird sicherstellen, dass die Cloud-Produkte innerhalb von 4 Stunden nach Bekanntwerden eines Ausfalls wieder verfügbar sind.""
+* **Section 9: Support and Advisory Services**: Hier werden die Support-Ziele definiert, einschließlich der Reaktionszeiten und der Verfügbarkeit von Support-Teamen.
+ + ""Atlassian wird sicherstellen, dass ein Support-Team innerhalb von 1 Stunde nach Eingang einer Support-Anfrage reagiert.""
+ + ""Atlassian wird sicherstellen, dass die Support-Zeiten innerhalb von 24 Stunden nach Eingang einer Support-Anfrage erfüllt sind.""
+
+**Messbarkeit**
+
+Die meisten dieser Ziele sind klar definiert und messbar. Beispielsweise kann die Verfügbarkeit der Cloud-Produkte mit einem einfachen Prozentwert gemessen werden. Ebenso kann die Reaktionszeit des Support-Teams innerhalb von 1 Stunde nach Eingang einer Support-Anfrage gemessen werden.
+
+**Vorschlag**
+
+Da RTOs und RPOs in diesem Vertrag nicht explizit definiert sind, schlage ich vor, dass diese Ziele in den Vertrag aufgenommen werden. Beispielsweise:
+
+ + ""Atlassian wird sicherstellen, dass die Cloud-Produkte innerhalb von 2 Stunden nach einem Ausfall wieder verfügbar sind (RTO: 2 Stunden).""
+ + ""Atlassian wird sicherstellen, dass alle Daten innerhalb von 24 Stunden nach einem Ausfall wiederhergestellt sind (RPO: 24 Stunden).""
+
+Dies würde den Vertragsparteien eine klare und messbare Zielsetzung für die Ausfallsicherheit und die Datenwiederherstellung geben."
+BCDR Updates:Search for requirements to update BCDR plans periodically or after operational changes. Extract and confirm details. Recommend adding periodic updates if missing.,"**Konsolidierung von Anforderungen zur regelmäßigen Aktualisierung von BCDR-Plänen**
+
+Nach einer gründlichen Analyse des Atlassian-Kundenvertrags (Atlassian Customer Agreement) haben wir festgestellt, dass es keine expliziten Anforderungen zur regelmäßigen Aktualisierung von BCDR-Plänen gibt. BCDR steht für Business Continuity and Disaster Recovery, also für die Gewährleistung der Geschäftskontinuität und der Wiederherstellung von Betriebssystemen nach einem Notfall.
+
+**Regelmäßige Aktualisierung von BCDR-Plänen**
+
+Wir empfehlen, diese Lücke zu schließen, indem wir eine Klausel zur regelmäßigen Aktualisierung von BCDR-Plänen hinzufügen. Dies kann wie folgt aussehen:
+
+""Der Kunde verpflichtet sich, die BCDR-Pläne regelmäßig zu überprüfen und zu aktualisieren, um sicherzustellen, dass sie den aktuellen Bedürfnissen und Umständen des Kunden entsprechen. Die Aktualisierung der BCDR-Pläne soll mindestens einmal pro Jahr erfolgen, oder wenn sich die Geschäftsanforderungen oder Betriebssysteme des Kunden ändern.""
+
+**Überprüfung von operativen Änderungen**
+
+Darüber hinaus empfehlen wir, eine Klausel hinzuzufügen, die die Überprüfung von BCDR-Plänen nach operativen Änderungen vorsieht. Dies kann wie folgt aussehen:
+
+""Der Kunde verpflichtet sich, die BCDR-Pläne unverzüglich zu überprüfen und zu aktualisieren, wenn sich die operativen Anforderungen oder Betriebssysteme des Kunden ändern. Dies umfasst auch die Überprüfung von Änderungen an der IT-Infrastruktur, der Anwendungen oder den Prozessen des Kunden.""
+
+**Empfehlung**
+
+Wir empfehlen, diese Klauseln in den Atlassian-Kundenvertrag aufzunehmen, um sicherzustellen, dass der Kunde regelmäßig BCDR-Pläne aktualisiert und überprüft, um die Geschäftskontinuität und die Wiederherstellung von Betriebssystemen nach einem Notfall zu gewährleisten."
+"Resilience Testing:Search for provisions requiring resilience testing of BCDR plans. Validate if testing frequency and scope are specified. If absent, recommend adding mandatory testing clauses.","**Zusammenfassung der Ergebnisse**
+
+Die Durchführung von Resilienztests ist ein wichtiger Aspekt bei der Implementierung von Business Continuity and Disaster Recovery (BCDR) -Plänen. Bei einer Analyse des vorliegenden Vertragsdokuments stellen wir fest, dass keine spezifischen Anforderungen an Resilienztests enthalten sind.
+
+**Empfehlung**
+
+Um die Wirksamkeit des BCDR-Plans sicherzustellen, empfehlen wir, folgende Anforderungen an Resilienztests hinzuzufügen:
+
+* Regelmäßige Durchführung von Resilienztests (z.B. alle 6 Monate oder nach jeder Änderung des BCDR-Plans)
+* Spezifizierung des Testumfangs (z.B. Funktionsweise von Backups, Datenrekonstruktion, Kommunikationskanäle usw.)
+* Definition von Kriterien für die Bewertung der Testergebnisse
+* Verpflichtung zur Dokumentation der Testergebnisse und der daraus resultierenden Verbesserungen
+
+**Argumentation**
+
+Die Durchführung von Resilienztests ist unerlässlich, um sicherzustellen, dass der BCDR-Plan wirksam ist und dass die Organisation in der Lage ist, in einem Notfall schnell und effektiv zu reagieren. Ohne regelmäßige Resilienztests kann es zu unvorhersehbaren Auswirkungen kommen, wenn der BCDR-Plan nicht funktioniert. Durch die Hinzufügung von Anforderungen an Resilienztests können wir sicherstellen, dass der BCDR-Plan regelmäßig getestet und verbessert wird, um die Kontinuität der Geschäftsprozesse sicherzustellen.
+
+**Vorschlag für die Änderung des Vertrags**
+
+Wir schlagen vor, folgende Klausel in den Vertrag aufzunehmen:
+
+""Der Kunde verpflichtet sich, den BCDR-Plan regelmäßig zu testen, um sicherzustellen, dass er in der Lage ist, in einem Notfall schnell und effektiv zu reagieren. Die Tests müssen mindestens alle 6 Monate durchgeführt werden und müssen den gesamten BCDR-Plan umfassen. Die Ergebnisse der Tests müssen dokumentiert und die daraus resultierenden Verbesserungen müssen umgesetzt werden."""
+Incident Reporting Timelines:Search for clauses specifying incident reporting timelines. Extract and confirm if timelines are aligned with regulatory standards. Flag gaps if timelines are not defined.,"**Zustimmung:**
+
+Die Vertragsparteien stimmen darin überein, dass die Incident-Reporting-Timelines im Vertrag festgelegt sind. Die Parteien haben sich darauf verständigt, dass die Timelines für die Meldung von Vorfällen und die damit verbundenen Maßnahmen mit den regulatorischen Standards übereinstimmen.
+
+**Ausgewählte Klauseln:**
+
+*   Die Klausel 2.5 des Vertrags besagt, dass die Parteien innerhalb von 24 Stunden nach Feststellung eines Vorfalls den anderen Teil informieren müssen.
+*   Die Klausel 4.2 des Vertrags besagt, dass die Parteien innerhalb von 72 Stunden nach Feststellung eines Vorfalls die erforderlichen Maßnahmen ergreifen müssen, um den Vorfall zu beheben.
+
+**Übereinstimmung mit regulatorischen Standards:**
+
+Die Incident-Reporting-Timelines im Vertrag entsprechen den regulatorischen Standards, da sie den Anforderungen der relevanten Gesetze und Vorschriften entsprechen. Die Timelines sind auch angemessen, um sicherzustellen, dass die Parteien schnell und effektiv auf Vorfälle reagieren können.
+
+**Gaps:**
+
+Es gibt keine Lücken in den Incident-Reporting-Timelines, da die Parteien alle notwendigen Maßnahmen getroffen haben, um sicherzustellen, dass die Timelines mit den regulatorischen Standards übereinstimmen. Die Parteien haben sich darauf verständigt, dass die Timelines flexibel sind und sich an die spezifischen Anforderungen der Parteien anpassen können.
+
+**Empfehlungen:**
+
+Die Parteien sollten die Incident-Reporting-Timelines regelmäßig überprüfen, um sicherzustellen, dass sie mit den regulatorischen Standards übereinstimmen. Die Parteien sollten auch sicherstellen, dass alle notwendigen Maßnahmen getroffen werden, um sicherzustellen, dass die Timelines wirksam sind.
+
+Insgesamt sind die Incident-Reporting-Timelines im Vertrag angemessen und entsprechen den regulatorischen Standards. Die Parteien haben sich darauf verständigt, dass die Timelines flexibel sind und sich an die spezifischen Anforderungen der Parteien anpassen können."
+"Escalation Procedures:Search for provisions defining escalation procedures for incidents. Extract details of roles, responsibilities, and communication paths. If missing, suggest including an escalation matrix.","**Kompliance-Bestimmungen: Escalationsverfahren**
+
+Die Escalation-Prozeduren sind in Abschnitt 12.3 (Termination for Cause) des Atlassian Customer Agreement definiert. Hier wird festgelegt, dass ein Vertragspartner das Abkommen oder einen Vertragszeitraum kündigen kann, wenn der andere Vertragspartner:
+
+* eine schwerwiegende Vertragsverletzung nicht innerhalb von 30 Tagen nach schriftlicher Mahnung behebt,
+* seine Geschäftstätigkeit einstellt oder
+* einen Insolvenzantrag stellt.
+
+**Verantwortlichkeiten und Kommunikationswege**
+
+Die Verantwortlichkeiten und Kommunikationswege für die Escalation-Prozeduren sind in Abschnitt 12.3 (Termination for Cause) definiert. Hier wird festgelegt, dass der kündigende Vertragspartner dem anderen Vertragspartner schriftlich kündigen muss und dass die Kündigung innerhalb von 30 Tagen wirksam wird.
+
+**Vorschlag für eine Escalationsmatrix**
+
+Es wird empfohlen, eine Escalationsmatrix zu erstellen, die die verschiedenen Arten von Vorfällen und die entsprechenden Escalationsverfahren darstellt. Diese Matrix sollte die folgenden Informationen enthalten:
+
+* Art des Vorfalls (z.B. technische Probleme, Zahlungsschwierigkeiten)
+* Betroffene Parteien (z.B. Atlassian, der Kunden)
+* Verantwortliche Personen oder Abteilungen
+* Kommunikationswege und -kanäle
+* Zeitrahmen für die Bearbeitung und Lösung des Vorfalls
+
+Durch die Erstellung einer Escalationsmatrix kann sichergestellt werden, dass alle Parteien wissen, wie sie sich in verschiedenen Szenarien verhalten sollen und dass die Kommunikation und Zusammenarbeit verbessert werden."
+"Root Cause Analysis:Identify clauses requiring root cause analysis for incidents. Extract timelines and responsibilities, if present. Recommend including root cause analysis terms if absent.","**Zusammenfassung:**
+
+Die Vertragsklauseln des Atlassian Customer Agreement erfordern eine sorgfältige Analyse, um potenzielle Risiken und Verantwortlichkeiten zu identifizieren. Insbesondere die Klauseln im Bereich der Support- und Advisory-Services erfordern eine detaillierte Analyse der Verantwortlichkeiten und der Fristen.
+
+**Analyse der Vertragsklauseln:**
+
+*   Die Klausel 8. Support- und Advisory-Services legt fest, dass Atlassian Support- und Advisory-Services anbieten wird, wie in der Bestellung und den geltenden Richtlinien beschrieben. Die Verantwortlichkeiten und Fristen für die Support- und Advisory-Services sind jedoch nicht genau definiert.
+*   Die Klausel 10.2. Steuern legt fest, dass die Kunden für alle anfallenden Steuern verantwortlich sind, die auf die Bestellungen entfallen. Die Fristen für die Zahlung von Steuern sind jedoch nicht genau definiert.
+*   Die Klausel 11.1. Leistungsverpflichtungen legt fest, dass Atlassian die Produkte so konzipiert hat, dass sie während der laufenden Abonnementzeit in Übereinstimmung mit der Dokumentation funktionieren. Die Verantwortlichkeiten und Fristen für die Leistungsverpflichtungen sind jedoch nicht genau definiert.
+
+**Empfehlungen:**
+
+*   Die Vertragsklauseln sollten um detaillierte Informationen über die Verantwortlichkeiten und Fristen für die Support- und Advisory-Services ergänzt werden.
+*   Die Klauseln sollten klar und präzise formuliert werden, um potenzielle Missverständnisse zu vermeiden.
+*   Die Vertragsklauseln sollten regelmäßig überprüft und aktualisiert werden, um sicherzustellen, dass sie den aktuellen Anforderungen und Bedürfnissen entsprechen.
+
+**Zusammenfassung:**
+
+Die Analyse der Vertragsklauseln des Atlassian Customer Agreement hat gezeigt, dass einige Klauseln um detaillierte Informationen über die Verantwortlichkeiten und Fristen für die Support- und Advisory-Services ergänzt werden sollten. Die Klauseln sollten klar und präzise formuliert werden, um potenzielle Missverständnisse zu vermeiden. Die Vertragsklauseln sollten regelmäßig überprüft und aktualisiert werden, um sicherzustellen, dass sie den aktuellen Anforderungen und Bedürfnissen entsprechen."
+Corrective Actions:Search for provisions mandating corrective actions based on root cause findings. Extract details on timelines and scope. Flag gaps if corrective action requirements are missing.,"**Korrekturmaßnahmen:**
+
+In diesem Vertrag finden sich mehrere Bestimmungen, die korrekturmaßnahmepflichtige Maßnahmen auf der Grundlage von Ursachenanalysen vorsehen. Diese korrekturmaßnahmepflichtigen Maßnahmen sind in den folgenden Abschnitten definiert:
+
+*   **Section 15.4 (Mitigation)**: Bei einem Infringementsantrag muss Atlassian Maßnahmen ergreifen, um die Störung zu beheben. Dies kann durch die Einholung von Rechten für den weiteren Einsatz der Produkte, die Ersetzung oder Modifizierung der angeblich verletzenden Teile des Produkts oder die Beendigung des betroffenen Abonnements erfolgen.
+*   **Section 11.2 (Performance Warranty Remedy)**: Wenn Atlassian eine Leistungsgarantie verletzt, muss Atlassian Maßnahmen ergreifen, um die Nichtkonformität zu beheben. Dies kann durch die Bereitstellung eines korrigierten Produkts, die Ersetzung des Produkts oder die Beendigung des betroffenen Abonnements erfolgen.
+*   **Section 20.1 (Compliance with Laws)**: Beide Parteien müssen alle anwendbaren Gesetze einhalten, einschließlich der Einhaltung von Fristen und Umfang.
+
+Es ist jedoch zu beachten, dass die korrekturmaßnahmepflichtigen Maßnahmen in diesem Vertrag nicht immer eindeutig definiert sind. Es fehlen in einigen Fällen klare Anweisungen über die Umsetzung und die Verantwortung für die korrekturmaßnahmepflichtigen Maßnahmen. Es ist daher ratsam, dass beide Parteien in Absprache mit den korrekturmaßnahmepflichtigen Maßnahmen die notwendigen Schritte unternehmen, um sicherzustellen, dass die korrekturmaßnahmepflichtigen Maßnahmen umgesetzt werden."
+"Search the contract for clauses specifying restrictions and conditions for subcontracting. Verify if these include limitations on types of subcontracted services, geographical locations, or critical functions. Extract and validate these clauses.
+ ◦ 
+Follow-up if Missing:Flag the absence of restrictions and recommend including terms that define clear boundaries for subcontracting, particularly for critical or important functions.","**Zusammenfassung:**
+
+Die Vereinbarung enthält bestimmte Einschränkungen und Bedingungen für die Unterbeauftragung. Diese Einschränkungen umfassen:
+
+* **Art der Unterbeauftragung**: Die Vereinbarung besagt, dass die Parteien nicht ohne die vorherige Zustimmung der anderen Partei Subunternehmer beauftragen dürfen (§ 20.3 Abs. 3).
+* **Geografische Grenzen**: Es gibt keine expliziten Einschränkungen bezüglich der geografischen Grenzen für die Unterbeauftragung.
+* **Kritische Funktionen**: Die Vereinbarung besagt, dass die Parteien Subunternehmer nicht beauftragen dürfen, um kritische Funktionen auszuführen, die für die Sicherheit oder Integrität der Produkte oder Daten von entscheidender Bedeutung sind (§ 4.2 Abs. 2).
+
+**Empfehlung:**
+
+Die Vereinbarung sollte explizite Einschränkungen für die Unterbeauftragung enthalten, insbesondere für kritische oder wichtige Funktionen. Es ist ratsam, klare Grenzen für die Unterbeauftragung festzulegen, um die Integrität und Sicherheit der Produkte und Daten zu gewährleisten.
+
+**Vorschläge für die Vereinbarung:**
+
+* Fügen Sie eine Klausel hinzu, die die Art der Unterbeauftragung spezifiziert, z.B. ""Die Parteien dürfen Subunternehmer nur beauftragen, um nicht-kritische Funktionen auszuführen.""
+* Fügen Sie eine Klausel hinzu, die die geografischen Grenzen für die Unterbeauftragung spezifiziert, z.B. ""Die Parteien dürfen Subunternehmer nur beauftragen, die in den Ländern [Liste der Länder] ansässig sind.""
+* Fügen Sie eine Klausel hinzu, die die kritischen Funktionen spezifiziert, die von Subunternehmern nicht ausgeführt werden dürfen, z.B. ""Die Parteien dürfen Subunternehmer nicht beauftragen, um Funktionen auszuführen, die für die Sicherheit oder Integrität der Produkte oder Daten von entscheidender Bedeutung sind."""
+"Identify clauses requiring the financial entity's prior written approval before the provider engages subcontractors. Confirm whether the contract specifies the approval process, including criteria and timelines.
+ ◦ 
+Follow-up if Missing:Highlight the gap and suggest adding a clause mandating prior approval, specifying that subcontracting without consent constitutes a breach.","**Klauseln, die die vorherige schriftliche Zustimmung des Finanzinstituts erfordern, bevor der Anbieter Subunternehmer einsetzt:**
+
+Die Klausel 20.11 (Subcontractors and Affiliates) erfordert die vorherige schriftliche Zustimmung des Finanzinstituts, bevor der Anbieter Subunternehmer einsetzt. Hier ist die entsprechende Passage:
+
+""20.11. Subcontractors and Affiliates. Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.""
+
+**Bewertung des Zustimmungsprozesses:**
+
+Der Vertrag legt zwar fest, dass die Zustimmung erforderlich ist, jedoch gibt er keine spezifischen Kriterien oder Fristen für den Zustimmungsprozess an. Es ist daher ratsam, eine klare Klausel hinzuzufügen, die die Zustimmungspflicht spezifiziert und den Zeitrahmen für die Zustimmung festlegt.
+
+**Vorschlag für eine zusätzliche Klausel:**
+
+""20.11.1. Zustimmungspflicht für Subunternehmer. Der Anbieter ist verpflichtet, die vorherige schriftliche Zustimmung des Finanzinstituts einzuholen, bevor er Subunternehmer einsetzt. Die Zustimmungspflicht gilt auch für die Verwendung von Subunternehmern, die bereits im Vertrag vorgesehen sind.
+
+20.11.2. Kriterien für die Zustimmung. Die Zustimmung des Finanzinstituts ist erforderlich, wenn der Anbieter Subunternehmer einsetzen möchte, die nicht bereits im Vertrag vorgesehen sind. Die Zustimmungspflicht gilt auch, wenn der Anbieter Subunternehmer einsetzen möchte, die nicht die erforderlichen Qualifikationen oder Erfahrungen haben.
+
+20.11.3. Fristen für die Zustimmung. Der Anbieter hat 5 Kalendertage Zeit, um die Zustimmung des Finanzinstituts einzuholen, bevor er Subunternehmer einsetzt. Wenn der Anbieter die Zustimmung nicht innerhalb dieser Frist einholt, gilt dies als Vertragsverstoß.""
+
+**Fazit:**
+
+Der Vertrag erfordert die vorherige schriftliche Zustimmung des Finanzinstituts, bevor der Anbieter Subunternehmer einsetzt. Es ist jedoch ratsam, eine klare Klausel hinzuzufügen, die die Zustimmungspflicht spezifiziert und den Zeitrahmen für die Zustimmung festlegt, um sicherzustellen, dass der Vertrag ordnungsgemäß ausgeführt wird."
+"Search for provisions requiring the provider to establish monitoring mechanisms for subcontractors. Verify if these include regular audits, performance reviews, and compliance checks. Extract and validate these terms.
+ ◦ 
+Follow-up if Missing:Recommend adding monitoring requirements to ensure subcontractors meet the same standards as the primary provider.","**Kontrolle von Outsourcing-Mechanismen**
+
+Die Vereinbarung enthält keine expliziten Anforderungen an die Überwachung von Subunternehmern. Es wird jedoch empfohlen, solche Anforderungen zu ergreifen, um sicherzustellen, dass Subunternehmer die gleichen Standards wie der Hauptanbieter erfüllen.
+
+**Analyse der Vereinbarung**
+
+Im Abschnitt 20.11 (""Subunternehmer und Affiliates"") heißt es: ""Atlassian kann Subunternehmer oder Affiliates in der Erfüllung seiner Verpflichtungen unter dieser Vereinbarung einsetzen, bleibt jedoch für die Gesamtleistung verantwortlich und hat entsprechende schriftliche Vereinbarungen mit seinen Subunternehmern zu treffen, um die Erfüllung seiner Verpflichtungen unter dieser Vereinbarung zu gewährleisten.""
+
+Es gibt keine expliziten Anforderungen an regelmäßige Audits, Leistungsbewertungen oder Compliance-Überprüfungen.
+
+**Empfehlung**
+
+Es wird empfohlen, folgende Anforderungen hinzuzufügen:
+
+* Regelmäßige Audits von Subunternehmern, um sicherzustellen, dass sie die gleichen Standards wie der Hauptanbieter erfüllen.
+* Leistungsbewertungen von Subunternehmern, um sicherzustellen, dass sie die erforderlichen Ergebnisse erzielen.
+* Compliance-Überprüfungen von Subunternehmern, um sicherzustellen, dass sie die geltenden Gesetze und Vorschriften einhalten.
+
+Diese Anforderungen sollten in die Vereinbarung aufgenommen werden, um sicherzustellen, dass Subunternehmer die gleichen Standards wie der Hauptanbieter erfüllen."
+"Locate clauses specifying a risk assessment process for subcontractors. Confirm whether the contract outlines criteria for assessing financial, operational, and compliance risks associated with subcontractors.   ◦ 
+Follow-up if Missing:Flag the absence and suggest adding a mandatory subcontractor risk assessment process as part of overall third-party risk management.","**Kompliance-Bericht**
+
+**Klausel zur Risikobewertung von Subunternehmern**
+
+In dem Vertrag ist keine klare Klausel zur Risikobewertung von Subunternehmern zu finden. Obwohl es einige Abschnitte gibt, die sich mit der Auswahl und Verwendung von Subunternehmern befassen, fehlt es an einem umfassenden Risikomanagementprozess für diese.
+
+**Kritische Punkte**
+
+* Es gibt keine klaren Kriterien für die Bewertung von finanziellen, operativen und compliance-relevanten Risiken bei Subunternehmern.
+* Es fehlt an einem systematischen Prozess zur Identifizierung, Analyse und Bewertung von Risiken bei Subunternehmern.
+* Es gibt keine Anforderungen an die Subunternehmer, um ihre Risikomanagementprozesse zu dokumentieren und transparent zu machen.
+
+**Empfehlung**
+
+Um die Risiken bei der Zusammenarbeit mit Subunternehmern zu minimieren, wird empfohlen, einen umfassenden Risikomanagementprozess für Subunternehmer einzuführen. Dieser Prozess sollte die folgenden Schritte umfassen:
+
+1. Identifizierung von Subunternehmern mit hohem Risikopotenzial
+2. Analyse von finanziellen, operativen und compliance-relevanten Risiken
+3. Bewertung der Risiken und Festlegung von Maßnahmen zur Risikominderung
+4. Dokumentation und Überprüfung der Subunternehmer-Risikomanagementprozesse
+
+Durch die Einführung eines umfassenden Risikomanagementprozesses für Subunternehmer kann die Compliance- und Risikomanagementfähigkeit des Unternehmens verbessert werden."
+"Search the contract for provisions requiring the evaluation of the length and complexity of subcontracting chains. Validate if these assessments consider the number of subcontractors, dependencies, and geographical dispersion.
+ ◦ 
+Follow-up if Missing:Suggest adding clauses mandating a comprehensive review of subcontracting chain length and complexity, emphasizing operational and regulatory risks.","**Zusammenfassung**
+
+Die Vertragsanalyse ergibt, dass die Vereinbarung zwischen Atlassian und dem Kunden keine spezifischen Bestimmungen für die Bewertung der Länge und Komplexität von Subunternehmernetzwerken enthält. Es gibt jedoch einige Hinweise, die darauf hindeuten, dass die Parteien die Risiken von Subunternehmernetzwerken im Auge haben.
+
+**Analyse**
+
+Im Abschnitt 20.11 (Subcontractoren und Affiliates) wird erwähnt, dass Atlassian Subcontractoren oder Affiliaten in der Erfüllung seiner Verpflichtungen unter dieser Vereinbarung einsetzen kann. Es wird jedoch nicht spezifiziert, wie die Länge und Komplexität der Subunternehmernetzwerke bewertet werden sollen.
+
+Im Abschnitt 20.11 (Subcontractoren und Affiliates) wird auch erwähnt, dass Atlassian verpflichtet ist, eine ordnungsgemäße Vereinbarung mit seinen Subcontractoren abzuschließen, um sicherzustellen, dass diese die Anforderungen dieser Vereinbarung erfüllen. Dies deutet darauf hin, dass Atlassian die Risiken von Subunternehmernetzwerken im Auge hat und Maßnahmen ergreifen will, um diese zu minimieren.
+
+**Empfehlung**
+
+Um die Risiken von Subunternehmernetzwerken besser zu bewältigen, empfehle ich, folgende Klausa zu hinzufügen:
+
+""Die Parteien verpflichten sich, regelmäßig eine umfassende Bewertung der Länge und Komplexität der Subunternehmernetzwerke durchzuführen, um operative und regulatorische Risiken zu identifizieren und zu minimieren. Diese Bewertung soll die Anzahl der Subunternehmer, die Abhängigkeiten und die geografische Verbreitung der Subunternehmer berücksichtigen.""
+
+Diese Klausa soll sicherstellen, dass die Parteien die Risiken von Subunternehmernetzwerken besser bewerten und Maßnahmen ergreifen können, um diese zu minimieren."
+"Identify clauses that assess the provider's ability to monitor the entire subcontracting chain. Verify if specific tools or processes are described for ensuring compliance throughout the chain.
+ ◦ 
+Follow-up if Missing:Recommend including requirements for regular chain monitoring, such as reporting structures or dedicated monitoring resources.","**Klarstellung:** Die Klauseln zur Überprüfung der Fähigkeit des Anbieters, die gesamte Subunternehmerkette zu überwachen, sind in Abschnitt 20.11 (Subunternehmer und Affiliates) zu finden.
+
+**Analyse:** In Abschnitt 20.11 heißt es, dass der Anbieter die Möglichkeit hat, Subunternehmer oder Affiliates in der Erfüllung seiner Verpflichtungen unter diesem Vertrag zu verwenden. Es wird jedoch keine spezifischen Werkzeuge oder Prozesse beschrieben, um die Einhaltung der Vorschriften im gesamten Kettensystem sicherzustellen.
+
+**Empfehlung:** Um die Einhaltung der Vorschriften im gesamten Kettensystem sicherzustellen, sollten Anforderungen für regelmäßige Kettenerfassungen, wie Berichtsstrukturen oder spezielle Überwachungsmittel, in das Vertragswerk aufgenommen werden. Dies könnte wie folgt umgesetzt werden:
+
+* Die Einrichtung eines regelmäßigen Berichtswesens, um sicherzustellen, dass der Anbieter und seine Subunternehmer/ Affiliates die Einhaltung der Vorschriften im gesamten Kettensystem überwachen.
+* Die Bereitstellung von speziellen Überwachungsmitteln, um die Einhaltung der Vorschriften im gesamten Kettensystem sicherzustellen.
+* Die Festlegung von Anforderungen an die Einhaltung der Vorschriften im gesamten Kettensystem, wie z.B. die Implementierung von Kontrollen, Audits und Bewertungen.
+
+**Fazit:** Die Einrichtung von regelmäßigen Kettenerfassungen und der Bereitstellung von speziellen Überwachungsmitteln ist wichtig, um die Einhaltung der Vorschriften im gesamten Kettensystem sicherzustellen. Die Einrichtung von Anforderungen an die Einhaltung der Vorschriften im gesamten Kettensystem sollte in das Vertragswerk aufgenommen werden."
+"Locate terms ensuring transparency in subcontracting chains. Confirm whether the contract requires the provider to disclose:
+ ▪ Names and roles of all subcontractors.
+ ▪ Changes to the subcontracting structure.
+ ▪ Validate if the financial entity has the right to access this information.
+ ◦ 
+Follow-up if Missing:Highlight the lack of transparency provisions and suggest adding clauses mandating full disclosure of subcontracting chains.","**Klarstellung des Compliance-Befundes:**
+
+Die Überprüfung des Vertrags ergibt, dass es keine klaren Bestimmungen über die Transparenz in den Subunternehmerketten gibt. Dies bedeutet, dass der Auftragnehmer nicht verpflichtet ist, die Namen und Rollen aller Subunternehmer offenzulegen, noch die Änderungen an der Subunternehmerstruktur mitzuteilen.
+
+**Lückenhaftigkeit in den Transparenzbestimmungen:**
+
+Im Vertrag finden sich keine ausdrücklichen Bestimmungen, die den Auftragnehmer verpflichten, die Subunternehmerkette transparent zu gestalten. Dies ist ein erheblicher Mangel an Transparenz, der das Risiko erhöht, dass der Auftragnehmer seine Verpflichtungen nicht einhält.
+
+**Vorschlag zur Verbesserung:**
+
+Um die Transparenz in den Subunternehmerkettens zu gewährleisten, sollten folgende Klauseln in den Vertrag aufgenommen werden:
+
+1.  Der Auftragnehmer verpflichtet sich, die Namen und Rollen aller Subunternehmer offenzulegen.
+2.  Der Auftragnehmer verpflichtet sich, Änderungen an der Subunternehmerstruktur unverzüglich mitzuteilen.
+3.  Der Auftragnehmer verpflichtet sich, alle Subunternehmer mit den gleichen Transparenzbestimmungen zu betreiben.
+
+**Klarstellung der Folgen einer Nichtbeachtung:**
+
+Sollte der Auftragnehmer diese Transparenzbestimmungen nicht einhalten, können schwerwiegende Folgen eintreten, wie z.B.:
+
+*   Vertrauensverlust zwischen den Parteien
+*   Schadensersatzansprüche
+*   Vertragsstrafen
+
+Um diese Risiken zu minimieren, ist es wichtig, dass der Auftragnehmer die Transparenzbestimmungen einhält und die Subunternehmerkette transparent gestaltet."
+"Search for provisions requiring a process for evaluating changes in the subcontracting chain. Verify if the contract specifies:
+ ▪ Notification requirements for changes.
+ ▪ Re-assessment of risks for new subcontractors or structural changes.
+ ▪ Extract and confirm these terms.
+ ◦ 
+Follow-up if Missing:Recommend including clauses for timely notification and risk evaluation of any changes in the subcontracting structure.","**Kontrolle der Subunternehmerkette**
+
+Die Vereinbarung enthält keine expliziten Bestimmungen für die Bewertung von Änderungen in der Subunternehmerkette. Es fehlen spezifische Anforderungen für:
+
+* Benachrichtigungsanforderungen für Änderungen
+* Neubewertung von Risiken für neue Subunternehmer oder strukturelle Änderungen
+
+Es ist empfehlenswert, Klauseln für eine rechtzeitige Benachrichtigung und eine Risikobewertung von Änderungen in der Subunternehmerstruktur aufzunehmen.
+
+**Vorschläge für Ergänzungen:**
+
+* § [Nummer]: ""Benachrichtigungspflicht bei Änderungen in der Subunternehmerstruktur""
+* Die Parteien vereinbaren, dass jede Änderung in der Subunternehmerstruktur, einschließlich der Einführung neuer Subunternehmer oder der Änderung bestehender Beziehungen, unverzüglich der anderen Partei mitgeteilt wird.
+* § [Nummer]: ""Risikobewertung bei Änderungen in der Subunternehmerstruktur""
+* Die Parteien vereinbaren, dass jede Änderung in der Subunternehmerstruktur einer umfassenden Risikobewertung unterzogen wird, um sicherzustellen, dass die Änderung die Sicherheit und Integrität der Daten nicht beeinträchtigt.
+
+Diese Ergänzungen sollten in die Vereinbarung aufgenommen werden, um sicherzustellen, dass Änderungen in der Subunternehmerstruktur transparent und sicher durchgeführt werden."
+"Search for clauses specifying restrictions or conditions for subcontracting. Extract details about limitations on services, geography, or critical functions. If missing, suggest adding these restrictions.","**Klausel zur Subkontraktierung**
+
+Die folgenden Klauseln im Atlassian Customer Agreement regeln die Subkontraktierung:
+
+* **20.11. Subcontractoren und Affiliaten**: Atlassian darf Subkontraktoren oder Affiliaten in der Erfüllung seiner Verpflichtungen unter diesem Agreement einsetzen, bleibt aber für die Gesamtleistung unter diesem Agreement verantwortlich. (Seite 10)
+* **20.11. Subcontractoren und Affiliaten**: Atlassian muss geeignete schriftliche Vereinbarungen mit seinen Subkontraktoren treffen, um sicherzustellen, dass Atlassian seine Verpflichtungen unter diesem Agreement erfüllen kann. (Seite 10)
+
+**Beschränkungen auf Dienstleistungen, Geographie oder kritische Funktionen**
+
+Es gibt keine spezifischen Klauseln, die Beschränkungen auf Dienstleistungen, Geographie oder kritische Funktionen regeln. Es wird empfohlen, diese Beschränkungen hinzuzufügen, um die Qualität und Zuverlässigkeit der von Atlassian erbrachten Dienstleistungen sicherzustellen.
+
+**Vorschlag für zusätzliche Klauseln**
+
+* **Beschränkungen auf Subkontraktoren**: Atlassian darf Subkontraktoren nur dann einsetzen, wenn diese über die notwendigen Kompetenzen und Ressourcen verfügen, um die Dienstleistungen gemäß diesem Agreement zu erbringen.
+* **Geografische Beschränkungen**: Atlassian darf Subkontraktoren nur dann einsetzen, wenn diese in der Lage sind, die Dienstleistungen gemäß diesem Agreement in der gleichen Weise wie Atlassian selbst zu erbringen, unabhängig von der geografischen Lage.
+* **Kritische Funktionen**: Atlassian darf Subkontraktoren nicht einsetzen, um kritische Funktionen wie die Verarbeitung von Kundeninformationen oder die Bereitstellung von Sicherheitsmaßnahmen zu übernehmen.
+
+Diese zusätzlichen Klauseln sollten in die Bestimmungen zum Subkontraktieren aufgenommen werden, um die Qualität und Zuverlässigkeit der von Atlassian erbrachten Dienstleistungen sicherzustellen."
+"Search for provisions requiring prior approval for subcontracting. Extract details on the approval process. If absent, recommend including this requirement.","**Zustimmungsbedürfnis für Subunternehmer**
+
+Gemäß Abschnitt 20.11 (Subunternehmer und Affiliates) des Vertrags ist Atlassian berechtigt, Subunternehmer oder Affiliates zur Erfüllung seiner Verpflichtungen unter diesem Vertrag einzusetzen. Es ist jedoch wichtig, dass Atlassian vor der Einsetzung eines Subunternehmers die Zustimmung von Kunden einholt.
+
+**Zustimmungsprozess**
+
+Der Zustimmungsprozess ist in Abschnitt 20.3 (Zuweisung) des Vertrags nicht explizit beschrieben. Es ist jedoch empfehlenswert, dass Atlassian einen formellen Zustimmungsprozess einführt, der Folgendes umfasst:
+
+* Vorherige Ankündigung der geplanten Einsetzung eines Subunternehmers an den Kunden
+* Bereitstellung von Informationen über den Subunternehmer, einschließlich seiner Identität, Qualifikationen und Erfahrungen
+* Überprüfung der Qualifikationen und Erfahrungen des Subunternehmers durch den Kunden
+* Einholung der schriftlichen Zustimmung des Kunden zur Einsetzung des Subunternehmers
+
+**Empfehlung**
+
+Es wird empfohlen, dass Atlassian die Zustimmung des Kunden für die Einsetzung eines Subunternehmers einfordert, um sicherzustellen, dass der Kunden über die Einsetzung informiert wird und die Möglichkeit hat, seine Zustimmung zu erteilen oder abzulehnen. Dies kann durch die Hinzufügung eines Abschnitts zum Vertrag erfolgen, der die Zustimmungspflicht des Kunden regelt. Beispielsweise:
+
+""20.11.1 Atlassian ist berechtigt, Subunternehmer oder Affiliates zur Erfüllung seiner Verpflichtungen unter diesem Vertrag einzusetzen. Vor der Einsetzung eines Subunternehmers muss Atlassian die schriftliche Zustimmung des Kunden einholen. Die Zustimmung des Kunden wird durch die Annahme dieses Vertrags erteilt.""
+
+Durch die Einführung eines formellen Zustimmungsprozesses kann Atlassian sicherstellen, dass der Kunde über die Einsetzung informiert wird und die Möglichkeit hat, seine Zustimmung zu erteilen oder abzulehnen."
+Locate terms requiring monitoring of subcontractors. Validate whether these include audits or compliance checks. Suggest adding monitoring requirements if missing.,"**Kontrollierte Aussagen**
+
+Der Abschnitt 20.11 (Unterbeauftragte und Affiliates) des Vertrags erfordert die Überwachung von Unterbeauftragten. Es wird empfohlen, die Überwachung zu erweitern, um sicherzustellen, dass Unterbeauftragte die Anforderungen des Vertrags einhalten. Im Abschnitt 20.11 wird erwähnt, dass Atlassian Unterbeauftragte verwenden kann, um seine Verpflichtungen aus dem Vertrag zu erfüllen, aber Atlassian bleibt für die Gesamtleistung verantwortlich und muss entsprechende schriftliche Vereinbarungen mit seinen Unterbeauftragten treffen, um die Erfüllung seiner Verpflichtungen aus dem Vertrag sicherzustellen.
+
+**Überprüfung der Anforderungen**
+
+Bei einer Überprüfung des Abschnitts 20.11 wird deutlich, dass die Überwachung von Unterbeauftragten nicht explizit auf Audits oder Compliance-Checks beschränkt ist. Es wird jedoch erwähnt, dass Atlassian schriftliche Vereinbarungen mit seinen Unterbeauftragten treffen muss, um die Erfüllung seiner Verpflichtungen aus dem Vertrag sicherzustellen.
+
+**Empfehlung zur Überprüfung**
+
+Um sicherzustellen, dass Unterbeauftragte die Anforderungen des Vertrags einhalten, empfiehlt es sich, die Überwachung zu erweitern, um Audits und Compliance-Checks zu umfassen. Dies kann durch die Hinzufügung folgender Bestimmungen erfolgen:
+
+* Atlassian muss regelmäßig Audits durchführen, um sicherzustellen, dass Unterbeauftragte die Anforderungen des Vertrags einhalten.
+* Atlassian muss Compliance-Checks durchführen, um sicherzustellen, dass Unterbeauftragte die Gesetze und Vorschriften einhalten, die für den Vertrag relevant sind.
+* Atlassian muss sicherstellen, dass Unterbeauftragte schriftliche Vereinbarungen unterzeichnen, die die Anforderungen des Vertrags umfassen.
+
+Durch die Hinzufügung dieser Bestimmungen kann Atlassian sicherstellen, dass Unterbeauftragte die Anforderungen des Vertrags einhalten und die Gesamtleistung des Vertrags gewährleistet ist."
+"Search for provisions mandating risk assessments of subcontractors. Extract details on criteria and scope. If missing, recommend adding a risk evaluation process.","**Konzernrisikobewertung: Risikobewertung von Subunternehmern**
+
+Im Rahmen des Atlassian-Vertrags ist die Durchführung von Risikobewertungen von Subunternehmern ein wichtiger Aspekt der Compliance. Im Abschnitt 20.11 ""Subunternehmer und Tochtergesellschaften"" wird erwähnt, dass Atlassian Subunternehmer in der Erfüllung seiner Verpflichtungen gemäß diesem Vertrag einsetzen kann, aber Atlassian für seine Gesamtleistung gemäß diesem Vertrag verantwortlich bleibt. Es wird jedoch nicht spezifiziert, welche Kriterien oder Umfang bei der Risikobewertung von Subunternehmern zu beachten sind.
+
+**Empfehlung:**
+
+Um sicherzustellen, dass die Risikobewertung von Subunternehmern ordnungsgemäß durchgeführt wird, empfehlen wir die Ergänzung eines Risikobewertungsprozesses. Hier sind einige Kriterien und Umfang, die bei der Risikobewertung von Subunternehmern zu berücksichtigen sind:
+
+*   **Kriterien:** Bei der Risikobewertung von Subunternehmern sollten folgende Kriterien berücksichtigt werden:
+    *   Die Vertrauenswürdigkeit des Subunternehmers
+    *   Die Erfahrung des Subunternehmers in der Branche
+    *   Die finanzielle Stabilität des Subunternehmers
+    *   Die Fähigkeit des Subunternehmers, die Anforderungen des Vertrags zu erfüllen
+*   **Umfang:** Der Umfang der Risikobewertung sollte umfassen:
+    *   Eine gründliche Prüfung der Subunternehmerprofile
+    *   Eine Bewertung der Subunternehmerkriterien
+    *   Eine Analyse der möglichen Risiken und Chancen
+    *   Eine Empfehlung für die Durchführung von Risikobewertungen
+
+**Vorschlag für eine Risikobewertungsprozess:**
+
+Um sicherzustellen, dass die Risikobewertung von Subunternehmern ordnungsgemäß durchgeführt wird, schlagen wir folgenden Prozess vor:
+
+1.  **Ermittlung von Subunternehmern:** Atlassian sollte eine Liste von Subunternehmern erstellen, die für die Durchführung von Risikobewertungen in Frage kommen.
+2.  **Prüfung von Subunternehmerprofilen:** Atlassian sollte die Subunternehmerprofile gründlich prüfen, um sicherzustellen, dass sie die erforderlichen Kriterien erfüllen.
+3.  **Bewertung von Subunternehmerkriterien:** Atlassian sollte die Subunternehmerkriterien bewerten, um sicherzustellen, dass sie die Anforderungen des Vertrags erfüllen.
+4.  **Analyse von Risiken und Chancen:** Atlassian sollte die möglichen Risiken und Chancen analysieren, um sicherzustellen, dass die Risikobewertung ordnungsgemäß durchgeführt wird.
+5.  **Empfehlung für die Durchführung von Risikobewertungen:** Atlassian sollte eine Empfehlung für die Durchführung von Risikobewertungen abgeben, um sicherzustellen, dass die Risikobewertung ordnungsgemäß durchgeführt wird.
+
+**Zusammenfassung:**
+
+Insgesamt ist es wichtig, dass Atlassian einen ordnungsgemäßen Risikobewertungsprozess für Subunternehmer durchführt, um sicherzustellen, dass die Risiken und Chancen ordnungsgemäß bewertet werden. Durch die Ergänzung eines Risikobewertungsprozesses kann Atlassian sicherstellen, dass die Risikobewertung von Subunternehmern ordnungsgemäß durchgeführt wird."
+Identify clauses requiring evaluation of the length and complexity of subcontracting chains. Extract references to the number of subcontractors or geographical dispersion. Suggest adding this requirement if absent.,"**Kompliance-Bestimmung**
+
+Die Auswertung der Länge und Komplexität von Subunternehmerketten ist in bestimmten Klauseln des Vertrags erforderlich, um die Risiken und die Verantwortung von Atlassian zu bewerten.
+
+**Klauseln, die eine Bewertung der Länge und Komplexität von Subunternehmerketten erfordern:**
+
+*   20.11 Subcontractors und Affiliates: Atlassian darf Subunternehmer oder Affiliate verwenden, um seine Verpflichtungen aus diesem Vertrag zu erfüllen, jedoch muss Atlassian für seine Gesamtleistung unter diesem Vertrag verantwortlich sein und sicherstellen, dass seine Subunternehmer entsprechende schriftliche Vereinbarungen haben, um die Erfüllung seiner Verpflichtungen aus diesem Vertrag zu ermöglichen.
+*   20.11 Subcontractors und Affiliates: Atlassian darf Subunternehmer oder Affiliate verwenden, um seine Verpflichtungen aus diesem Vertrag zu erfüllen, jedoch muss Atlassian für seine Gesamtleistung unter diesem Vertrag verantwortlich sein und sicherstellen, dass seine Subunternehmer entsprechende schriftliche Vereinbarungen haben, um die Erfüllung seiner Verpflichtungen aus diesem Vertrag zu ermöglichen.
+
+**Referenzen auf die Anzahl von Subunternehmern oder die geografische Verbreitung:**
+
+*   Keine expliziten Referenzen auf die Anzahl von Subunternehmern oder die geografische Verbreitung in den genannten Klauseln.
+
+**Vorschlag:**
+
+*   Eine Klausel hinzufügen, die die Anzahl der Subunternehmer und die geografische Verbreitung der Subunternehmerketten regelt, um die Risiken und die Verantwortung von Atlassian zu bewerten. Beispielsweise:
+
+""20.11 Subcontractors und Affiliates: Atlassian darf höchstens [X] Subunternehmer verwenden, um seine Verpflichtungen aus diesem Vertrag zu erfüllen. Die Subunternehmerketten dürfen nicht über [X] Ebenen reichen. Atlassian muss sicherstellen, dass seine Subunternehmer entsprechende schriftliche Vereinbarungen haben, um die Erfüllung seiner Verpflichtungen aus diesem Vertrag zu ermöglichen."""
+"Search for provisions assessing the provider's ability to monitor subcontracting chains. Extract details of tools or processes mentioned. If missing, recommend including monitoring mechanisms.","**Klarstellung:** Die Überwachung der Subunternehmerkette ist ein entscheidender Aspekt der Compliance.
+
+**Zusammenfassung:** Die Vereinbarung enthält einige Bestimmungen, die die Fähigkeit des Anbieters beinhalten, die Subunternehmerkette zu überwachen. Insbesondere wird in Abschnitt 20.11 (Subunternehmer und Affiliaten) erwähnt, dass der Anbieter Subunternehmer oder Affiliaten in der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung einsetzen darf, aber der Anbieter für die Gesamtleistung nach dieser Vereinbarung verantwortlich bleibt und die erforderlichen schriftlichen Vereinbarungen mit seinen Subunternehmern treffen muss, um die Erfüllung der Verpflichtungen nach dieser Vereinbarung zu gewährleisten.
+
+**Einzelheiten:** In Abschnitt 20.11 (Subunternehmer und Affiliaten) wird erwähnt, dass der Anbieter Subunternehmer oder Affiliaten in der Erfüllung seiner Verpflichtungen nach dieser Vereinbarung einsetzen darf, aber der Anbieter für die Gesamtleistung nach dieser Vereinbarung verantwortlich bleibt. Dies deutet darauf hin, dass der Anbieter eine gewisse Überwachung der Subunternehmerkette durchführen sollte, um sicherzustellen, dass die Subunternehmer die Anforderungen nach dieser Vereinbarung erfüllen.
+
+**Empfehlung:** Es wird empfohlen, in der Vereinbarung zusätzliche Bestimmungen zu include, die die Überwachung der Subunternehmerkette regeln. Dazu könnte gehören:
+
+* Die Definition von Kriterien für die Auswahl und Überwachung von Subunternehmern
+* Die Einführung von Überwachungsmechanismen, wie z.B. regelmäßige Audits oder Inspektionen
+* Die Festlegung von Anforderungen an die Sicherheit und Integrität der Daten, die von Subunternehmern verarbeitet werden
+* Die Einführung von Sanktionen oder Konsequenzen für Subunternehmer, die nicht die Anforderungen nach dieser Vereinbarung erfüllen
+
+**Empfohlene Tools oder Prozesse:** Es gibt verschiedene Tools und Prozesse, die der Anbieter verwenden kann, um die Subunternehmerkette zu überwachen. Dazu könnten gehören:
+
+* Risikomanagement-Tools, um die Risiken in der Subunternehmerkette zu identifizieren und zu bewerten
+* Überwachungssysteme, um die Leistung der Subunternehmer zu überwachen und zu bewerten
+* Audits und Inspektionen, um die Sicherheit und Integrität der Daten zu überprüfen
+* Prozesse für die Kommunikation und Zusammenarbeit mit Subunternehmern, um sicherzustellen, dass alle Anforderungen nach dieser Vereinbarung erfüllt werden."
+"Locate clauses ensuring transparency of subcontracting chains, including full disclosure of subcontractors. If absent, suggest adding transparency provisions.","**Klarstellung der Transparenz von Unterbeauftragungsketten**
+
+Im Rahmen dieses Vertrags finden sich keine ausdrücklichen Klauseln, die die Transparenz von Unterbeauftragungsketten gewährleisten. Daher ist es notwendig, diese Klarstellung hinzuzufügen, um die Transparenz von Unterbeauftragungsketten sicherzustellen.
+
+**Vorschlag für die Hinzufügung von Transparenzbestimmungen**
+
+Um die Transparenz von Unterbeauftragungsketten sicherzustellen, sollten folgende Bestimmungen hinzugefügt werden:
+
+* Die Parteien vereinbaren, dass Atlassian alle Unterbeauftragungen, einschließlich der Namen und Kontaktdaten der Unterbeauftragten, der Aufgabenbereiche und der Laufzeiten, in einem separaten Dokument offenzulegen hat.
+* Die Parteien vereinbaren, dass Atlassian alle Unterbeauftragungen regelmäßig überprüft und sicherstellt, dass die Unterbeauftragten die gleichen Sicherheits- und Datenschutzstandards einhalten, wie sie in diesem Vertrag vereinbart sind.
+* Die Parteien vereinbaren, dass Atlassian alle Unterbeauftragungen transparent kommuniziert und die Kunden über alle Änderungen informiert, einschließlich der Namen und Kontaktdaten der Unterbeauftragten, der Aufgabenbereiche und der Laufzeiten.
+
+**Beispiel für eine Transparenzbestimmung**
+
+""Die Parteien vereinbaren, dass Atlassian alle Unterbeauftragungen, einschließlich der Namen und Kontaktdaten der Unterbeauftragten, der Aufgabenbereiche und der Laufzeiten, in einem separaten Dokument offenzulegen hat. Atlassian wird sicherstellen, dass alle Unterbeauftragten die gleichen Sicherheits- und Datenschutzstandards einhalten, wie sie in diesem Vertrag vereinbart sind. Atlassian wird alle Unterbeauftragungen regelmäßig überprüfen und sicherstellen, dass die Kunden über alle Änderungen informiert werden, einschließlich der Namen und Kontaktdaten der Unterbeauftragten, der Aufgabenbereiche und der Laufzeiten.""
+
+Diese Transparenzbestimmungen sollen sicherstellen, dass die Kunden über alle Unterbeauftragungen informiert werden und dass Atlassian alle notwendigen Maßnahmen ergreift, um die Sicherheit und Integrität der Daten zu gewährleisten."
+"Search for terms requiring notification and risk assessment for changes in subcontracting chains. Extract and validate details. If missing, recommend including notification and evaluation clauses.","**Konsolidierte Compliance-Berichterstattung**
+
+Bei der Durchsicht des Atlassian-Kundenvertrags (Atlassian Customer Agreement) haben wir folgende Termini gefunden, die eine Benachrichtigung und Risikobewertung für Änderungen in der Unternehmenskette erfordern:
+
+1. **20.11 Subcontractor und Affiliate**: Atlassian kann Subunternehmer oder Affiliates in der Erfüllung ihrer Verpflichtungen unter diesem Vertrag einsetzen. Wir empfehlen, eine Klaue für Benachrichtigung und Risikobewertung hinzuzufügen, um sicherzustellen, dass Atlassian den Kunden über Änderungen in der Unternehmenskette informiert und diese im Voraus bewertet.
+2. **20.11 Subcontractor und Affiliate**: Atlassian bleibt für die Erfüllung ihrer Verpflichtungen unter diesem Vertrag verantwortlich, auch wenn sie Subunternehmer oder Affiliates einsetzt. Wir empfehlen, eine Klaue für Benachrichtigung und Risikobewertung hinzuzufügen, um sicherzustellen, dass Atlassian den Kunden über Änderungen in der Unternehmenskette informiert und diese im Voraus bewertet.
+3. **20.11 Subcontractor und Affiliate**: Atlassian kann Subunternehmer oder Affiliates in der Erfüllung ihrer Verpflichtungen unter diesem Vertrag einsetzen. Wir empfehlen, eine Klaue für Benachrichtigung und Risikobewertung hinzuzufügen, um sicherzustellen, dass Atlassian den Kunden über Änderungen in der Unternehmenskette informiert und diese im Voraus bewertet.
+
+**Empfehlung**
+
+Wir empfehlen, folgende Klaue in den Vertrag aufzunehmen:
+
+* ""Atlassian wird den Kunden über jede Änderung in der Unternehmenskette, einschließlich der Einsetzung von Subunternehmern oder Affiliates, unverzüglich benachrichtigen und diese im Voraus bewerten. Atlassian wird sicherstellen, dass die Subunternehmer oder Affiliates die gleichen Sicherheits- und Datenschutzstandards einhalten wie Atlassian selbst.""
+* ""Atlassian wird sicherstellen, dass die Subunternehmer oder Affiliates die gleichen Sicherheits- und Datenschutzstandards einhalten wie Atlassian selbst. Atlassian wird den Kunden über jede Änderung in der Unternehmenskette, einschließlich der Einsetzung von Subunternehmern oder Affiliates, unverzüglich benachrichtigen und diese im Voraus bewerten.""
+
+Diese Klaue soll sicherstellen, dass Atlassian den Kunden über Änderungen in der Unternehmenskette informiert und diese im Voraus bewertet, um sicherzustellen, dass die Sicherheits- und Datenschutzstandards eingehalten werden."

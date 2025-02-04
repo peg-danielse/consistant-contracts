@@ -1,0 +1,1246 @@
+question,answers
+"Search for explicit clauses stating that the financial entity retains full responsibility for DORA compliance. Look specifically for:
+ - Clear statements of retained responsibility
+ - References to DORA obligations
+ - Non-transfer of compliance obligations
+ - Acknowledgment that outsourcing doesn't diminish entity's responsibility","Uit de overeenkomst blijkt dat Atlassian bepaalde verantwoordelijkheden heeft ten aanzien van de financiële entiteit. In artikel 20.11 (Subcontractors and Affiliates) wordt aangegeven dat Atlassian de verantwoordelijkheid heeft voor de prestaties van zijn subcontractors en affiliates. Hieruit kan worden afgeleid dat de financiële entiteit geen verantwoordelijkheid heeft voor de prestaties van Atlassian, maar wel voor de naleving van de overeenkomst.
+
+In artikel 15.1 (IP Indemnification) wordt aangegeven dat Atlassian verantwoordelijk is voor de inbreuk op intellectuele eigendomsrechten van derden. Hieruit kan worden afgeleid dat de financiële entiteit geen verantwoordelijkheid heeft voor de inbreuk op intellectuele eigendomsrechten van derden.
+
+In artikel 20.1 (Compliance with Laws) wordt aangegeven dat beide partijen verantwoordelijk zijn voor de naleving van alle toepasselijke wet- en regelgeving. Hieruit kan worden afgeleid dat de financiële entiteit verantwoordelijk is voor de naleving van de DORA-voorschriften.
+
+Er zijn geen expliciete verwijzingen naar DORA-voorschriften in de overeenkomst, maar de bepalingen die zijn opgenomen, suggereren dat de financiële entiteit verantwoordelijk is voor de naleving van de DORA-voorschriften.
+
+In artikel 20.3 (Assignment) wordt aangegeven dat de financiële entiteit geen verantwoordelijkheid heeft om de overeenkomst over te dragen aan een derde partij. Hieruit kan worden afgeleid dat de financiële entiteit de verantwoordelijkheid voor de naleving van de overeenkomst niet kan overdragen aan een derde partij.
+
+In artikel 20.14 (Government End-Users) wordt aangegeven dat de overeenkomst onderworpen is aan de Government Amendment. Hieruit kan worden afgeleid dat de financiële entiteit verantwoordelijk is voor de naleving van de Government Amendment, die onderdeel is van de DORA-voorschriften.
+
+In artikel 20.15 (No Contingencies) wordt aangegeven dat de financiële entiteit verantwoordelijk is voor de naleving van de overeenkomst, ongeacht de prestaties van Atlassian. Hieruit kan worden afgeleid dat de financiële entiteit verantwoordelijk is voor de naleving van de DORA-voorschriften, ongeacht de prestaties van Atlassian.
+
+In conclusie kan worden gesteld dat de financiële entiteit verantwoordelijk is voor de naleving van de DORA-voorschriften, ongeacht de prestaties van Atlassian."
+" Review contract for clear statements regarding the financial entity's retained responsibility for all applicable financial services laws. Look for:
+ • Comprehensive coverage of all applicable regulations
+ • Non-delegation of regulatory responsibilities
+ • Clear acknowledgment of ongoing regulatory obligations
+ • References to specific financial services laws
+
+Follow-up if Missing: Recommend adding explicit clause covering retention of regulatory responsibilities for all applicable financial services laws.","**Compliance Review: Retained Responsibility for Financial Services Laws**
+
+Het contract van Atlassian bevat een duidelijke overeenkomst tussen de klant en Atlassian met betrekking tot de financieringsdiensten. De klant is verantwoordelijk voor het naleven van alle financiële dienstenwetten en regelgeving. Atlassian heeft een breed scala aan financiële dienstenwetten en regelgeving gedeeld, waaronder de Service Level Agreement, Support Policy en Third-Party Code Policy.
+
+Deze regelingen dekken een breed scala aan financiële dienstenwetten en regelgeving, waaronder de Service Level Agreement, die de niveaus van dienstverlening voor de Cloud Products definieert. De Support Policy bevat een breed scala aan ondersteuningsdiensten, waaronder technische ondersteuning, documentatie en training. De Third-Party Code Policy bevat richtlijnen voor het gebruik van derde-partijcode in de Producten.
+
+**Gevonden:**
+
+* De Service Level Agreement, Support Policy en Third-Party Code Policy dekken een breed scala aan financiële dienstenwetten en regelgeving.
+* Atlassian heeft een duidelijke overeenkomst met de klant met betrekking tot de financieringsdiensten.
+* De klant is verantwoordelijk voor het naleven van alle financiële dienstenwetten en regelgeving.
+
+**Mislukt:**
+
+* Er is geen expliciete clausule die de verantwoordelijkheid van Atlassian voor het naleven van alle financiële dienstenwetten en regelgeving bevat.
+* Er is geen duidelijke erkenning van de voortdurende regulerende verplichtingen van Atlassian.
+
+**Aanbeveling:**
+
+* Voeg een expliciete clausule toe die de verantwoordelijkheid van Atlassian voor het naleven van alle financiële dienstenwetten en regelgeving bevat.
+* Voeg een duidelijke erkenning toe van de voortdurende regulerende verplichtingen van Atlassian."
+"Search for provisions requiring senior management or board approval of ICT service agreements. Look for:
+ • Approval requirements
+ • Review procedures
+ • Documentation of approvals
+ • Renewal approval processes
+ 
+Follow-up if Missing: Flag as governance gap and recommend adding explicit board/senior management approval requirements.","Bij de naleving van de ICT-serviceovereenkomst is het van cruciaal belang dat de senior management of de raad van bestuur hun goedkeuring verleent. In de overeenkomst worden de volgende bepalingen gevonden die relevant zijn voor het goedkeuringsproces:
+
+1. Artikel 20.9: ""Changes to this Agreement"" - Hierin wordt bepaald dat Atlassian de overeenkomst mag wijzigen van tijd tot tijd, waarbij de wijzigingen minimaal 30 dagen voor hun ingangsdatum worden gepubliceerd op de website van Atlassian. De wijzigingen worden geacht zijn goedkeuring te hebben verkregen als er binnen 30 dagen geen bezwaar is gemaakt.
+2. Artikel 20.9(b): ""For free subscriptions, modifications become effective during the then current Subscription Term, in accordance met Atlassian’s notice."" - Hierin wordt bepaald dat voor gratis abonnementen wijzigingen automatisch van kracht worden op het moment dat Atlassian de klant daarvan op de hoogte stelt.
+3. Artikel 20.9(c): ""For paid subscriptions: (i) except as specified below, modifications to this Agreement will take effect at the next Order or renewal unless either party elects to not renew pursuant to Section 10.1(c) (Renewals), and (ii)Atlassian may specify that modifications will become effective during a then-current Subscription Term if: (A) required to address compliance with Law, or (B) required to reflect updates to Product functionality or introduction of new Product features."" - Hierin wordt bepaald dat voor betaalde abonnementen wijzigingen automatisch van kracht worden op het moment van de volgende bestelling of hernieuwing, tenzij de klant kiest om de overeenkomst niet te hernieuwen. Atlassian mag echter bepalen dat wijzigingen van kracht worden tijdens het huidige abonnementstermijn als dit nodig is voor het nakomen van wet- en regelgeving of om updates aan te brengen in de productfuncties of nieuwe productfuncties in te voeren.
+
+Het is duidelijk dat er een governance gap is inzake de goedkeuringsproces voor ICT-serviceovereenkomsten. Het is aan te bevelen om expliciete goedkeuringsvereisten voor de raad van bestuur of de senior management toe te voegen, zodat deze duidelijk en transparant wordt of een wijziging van de overeenkomst is goedgekeurd. Hierdoor kan worden voorkomen dat wijzigingen onverwachts worden doorgevoerd en de klant hierdoor in de problemen wordt gebracht."
+"Review for provisions requiring ongoing board/senior management monitoring of third-party arrangements. Verify:
+ • Regular review requirements
+ • Monitoring frequency
+ • Performance metrics
+ • Reporting requirements to senior management
+ 
+Follow-up if Missing: Suggest adding structured monitoring requirements with specific timelines and metrics.","Bij de review van het Atlassian Customer Agreement is duidelijk dat er bepaalde bepalingen zijn die vereisen dat de raad van commissarissen of het hogere management regelmatig toezicht houdt op de derde-partijovereenkomsten. Om te controleren of deze bepalingen voldoen aan de vereisten, zijn de volgende punten in acht genomen:
+
+• **Regelmatige review**: De bepalingen vereisen dat Atlassian de derde-partijovereenkomsten regelmatig reviewt, maar er zijn geen specifieke eisen gesteld aan de frequentie van deze reviews. Het is aanbevolen om de reviews minstens een keer per jaar te plannen, zodat de effectiviteit van de derde-partijovereenkomsten kan worden geëvalueerd en eventuele problemen kunnen worden opgespoord.
+
+• **Monitoringfrequentie**: De bepalingen vereisen dat Atlassian de derde-partijovereenkomsten moet monitoren, maar er zijn geen specifieke eisen gesteld aan de frequentie van deze monitoring. Het is aanbevolen om de monitoring minstens een keer per kwartaal te plannen, zodat de prestaties van de derde partijen kunnen worden gevolgd en eventuele problemen kunnen worden opgespoord.
+
+• **Prestatiecriteria**: De bepalingen vereisen dat Atlassian de prestaties van de derde partijen moet evalueren, maar er zijn geen specifieke eisen gesteld aan de prestatiecriteria. Het is aanbevolen om prestatiecriteria op te stellen die gerelateerd zijn aan de servicelevel, kwaliteit en veiligheid van de diensten van de derde partijen.
+
+• **Rapportagevereisten**: De bepalingen vereisen dat Atlassian rapporteert aan het hogere management over de resultaten van de reviews en monitoring, maar er zijn geen specifieke eisen gesteld aan de inhoud en frequentie van deze rapporten. Het is aanbevolen om regelmatige rapporten op te stellen die de resultaten van de reviews en monitoring bevatten, evenals eventuele aanbevelingen voor verbetering.
+
+Om de bepalingen te verbeteren, wordt aanbevolen om de volgende wijzigingen door te voeren:
+
+* Reguliere reviews van de derde-partijovereenkomsten plannen, met minstens één keer per jaar.
+* Reguliere monitoring van de derde-partijovereenkomsten plannen, met minstens één keer per kwartaal.
+* Prestatiecriteria opstellen die gerelateerd zijn aan de servicelevel, kwaliteit en veiligheid van de diensten van de derde partijen.
+* Reguliere rapporten opstellen die de resultaten van de reviews en monitoring bevatten, evenals eventuele aanbevelingen voor verbetering.
+
+Door deze wijzigingen door te voeren, kan Atlassian ervoor zorgen dat de derde-partijovereenkomsten effectief worden beheerd en dat eventuele problemen vroeg worden opgespoord en opgelost."
+"Search for documented escalation paths for unresolved third-party risks. Look for:
+ • Clear escalation triggers
+ • Escalation levels
+ • Time frames for escalation
+ • Resolution requirements
+ • Board notification procedures
+
+Follow-up if Missing: Recommend adding comprehensive escalation framework with specific triggers and procedures.","In de huidige documentatie ontbreekt een duidelijke escalatieprocedure voor onopgeloste risico's van derde partijen. Hieronder vindt u een voorstel voor een uitgebreide escalatieframework:
+
+**Escalatiecriteria:**
+
+* Wanneer een risico van derde partijen niet binnen de gestelde tijd frame is opgelost
+* Wanneer een risico van derde partijen een kritieke impact heeft op de bedrijfsvoering
+* Wanneer er sprake is van een reeks van onopgeloste risico's van derde partijen
+
+**Escalatielijnen:**
+
+1. **Eerste escalatielijn:** De risicomanager of de aangewezen escalatielijnmanager wordt ingeschakeld om de situatie te evalueren en een plan van aanpak op te stellen.
+2. **Tweede escalatielijn:** De risicomanager of de aangewezen escalatielijnmanager rapporteert aan de directeur van de afdeling om de situatie te bespreken en een beslissing te nemen over verdere actie.
+3. **Derde escalatielijn:** De directeur van de afdeling rapporteert aan de raad van bestuur om de situatie te bespreken en een beslissing te nemen over verdere actie.
+
+**Tijdramen:**
+
+* Eerste escalatielijn: binnen 24 uur
+* Tweede escalatielijn: binnen 48 uur
+* Derde escalatielijn: binnen 72 uur
+
+**Resolutievereisten:**
+
+* De risicomanager of de aangewezen escalatielijnmanager stelt een plan van aanpak op om het risico te beheersen en op te lossen.
+* De directeur van de afdeling besluit over de verdere actie en de middelen die beschikbaar worden gesteld om het risico te beheersen en op te lossen.
+
+**Notificatieprocedures:**
+
+* De risicomanager of de aangewezen escalatielijnmanager notificeert de directeur van de afdeling en de raad van bestuur over de escalatie.
+* De directeur van de afdeling notificeert de raad van bestuur over de escalatie en de beslissingen die zijn genomen.
+
+Ik adviseer om deze escalatieframework te implementeren en te documenteren zodat alle partijen bekend zijn met de procedures en de tijdramen."
+"Review requirements for documenting escalation processes and outcomes. Verify presence of:
+ • Documentation standards
+ • Record-keeping requirements
+ • Tracking mechanisms
+ • Follow-up procedures
+
+Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.","De naleving van de eisen voor het documenteren van escalatieprocessen en uitkomsten is van cruciaal belang voor een efficiënte en transparante manier van werken. In het document is echter een aantal belangrijke aspecten ontbreekt.
+
+Allereerst ontbreekt een duidelijke standaard voor het documenteren van escalatieprocessen. Het is noodzakelijk om te specificeren hoe escalaties moeten worden geregistreerd, wat informatie moet worden opgenomen en hoe deze informatie moet worden georganiseerd. Dit kan een grote impact hebben op de kwaliteit en consistentie van de documentatie.
+
+Daarnaast ontbreekt een duidelijke verantwoordelijkheid voor het bijhouden van documenten. Het is belangrijk om te bepalen wie verantwoordelijk is voor het bijhouden van documenten, hoe vaak documenten moeten worden bijgewerkt en hoe deze documenten moeten worden opgeslagen.
+
+Een ander belangrijk aspect dat ontbreekt is een trackingmechanisme. Het is noodzakelijk om te kunnen tracken welke escalaties zijn ingediend, welke acties zijn ondernomen en welke uitkomsten zijn behaald. Dit kan helpen om problemen sneller op te lossen en om te verbeteren.
+
+Ten slotte ontbreekt een procedure voor het volgen van escalaties. Het is noodzakelijk om te bepalen hoe escalaties moeten worden gevolgd, wie verantwoordelijk is voor het volgen van escalaties en hoe deze escalaties moeten worden geregistreerd.
+
+In samenvatting ontbreekt een aantal belangrijke aspecten voor het documenteren van escalatieprocessen en uitkomsten. Het is noodzakelijk om deze gaten in de documentatie te vullen en specifieke documentatievereisten aan te bevelen voor escalatieprocessen."
+"Review requirements for maintaining comprehensive governance documentation. Look for:
+ • Documentation maintenance requirements
+ • Update procedures
+ • Accessibility requirements
+ • Retention policies
+ 
+Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes.","**Bevestiging van de vereisten voor het onderhoud van omvattende governance-documentatie**
+
+Om een efficiënt governance-documentatiebeleid te implementeren, is het van groot belang om de vereisten voor het onderhoud van omvattende governance-documentatie nauwlettend te volgen. Dit omvat onder meer de volgende aspecten:
+
+* **Documentatieonderhoudsvereisten**: Het is van cruciaal belang om de documentatie op regelmatige basis te onderhouden en bij te werken. Dit omvat het updaten van bestaande documenten, het toevoegen van nieuwe documenten en het verwijderen van documenten die niet meer van toepassing zijn.
+* **Updateprocedures**: Om te zorgen dat de documentatie op de hoogte is van de laatste ontwikkelingen, moeten updateprocedures worden geïmplementeerd. Dit omvat het identificeren van documenten die bijgewerkt moeten worden, het opstellen van een updateplan en het uitvoeren van de updates.
+* **Toegankelijkheidseisen**: Om ervoor te zorgen dat alle stakeholders toegang hebben tot de documentatie, moeten toegankelijkheidseisen worden geïmplementeerd. Dit omvat het beschikbaar maken van documenten in meerdere formaten (bijvoorbeeld PDF, Word, Excel), het creëren van een centrale documentatiebank en het opzetten van een systeem voor documentenbeheer.
+* **Retentiebeleid**: Om ervoor te zorgen dat de documentatie beschikbaar blijft voor toekomstig gebruik, moeten retentiebeleid worden geïmplementeerd. Dit omvat het vastleggen van documenten voor een bepaalde periode, het archiveren van documenten en het verwijderen van documenten die niet meer van toepassing zijn.
+
+Als deze vereisten niet worden nageleefd, raden we aan om een omvattende documentatieframework voor governance-processen te vestigen. Dit omvat het opzetten van een centrale documentatiebank, het implementeren van updateprocedures en het vastleggen van retentiebeleid. Hierdoor kan worden gewaarborgd dat de documentatie actueel, toegankelijk en beschikbaar is voor alle stakeholders."
+"Search for contractual provisions requiring assessment of ICT-related dependencies. Look specifically for:
+ • Methodology for evaluating nature of dependencies
+ • Scale assessment requirements
+ • Complexity evaluation criteria
+ • Importance classification metrics
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding structured framework for dependency assessment aligned with DORA requirements.","Een grondige analyse van het contract heeft uitgewezen dat er een kritische gapping is in de bepalingen rondom de beoordeling van ICT-releerde afhankelijkheden. Concreet zijn er geen duidelijke regels of richtlijnen opgenomen voor het beoordelen van de aard, omvang en complexiteit van deze afhankelijkheden.
+
+Met andere woorden, er is geen duidelijk vastgelegd welke methodologie moet worden gebruikt om de aard van de afhankelijkheden te evalueren, noch zijn er criteria opgenomen om de omvang en complexiteit van deze afhankelijkheden te beoordelen. Daarnaast ontbreekt ook een duidelijke classificatie van de belangrijkheid van deze afhankelijkheden.
+
+Dit is een kritische gapping, aangezien het de beoordeling en het beheer van ICT-releerde afhankelijkheden moeilijk maakt en het risico op fouten en ongevallen verhoogt. Om deze gapping te dichten, wordt aanbevolen om een gestructureerd kader voor de beoordeling van afhankelijkheden op te stellen, dat aansluit bij de eisen van DORA (DevOps Research and Assessment).
+
+Dit kader zou moeten bestaan uit een duidelijke methodologie voor het evalueren van de aard van de afhankelijkheden, criteria voor de beoordeling van de omvang en complexiteit van deze afhankelijkheden, en een classificatie van de belangrijkheid van deze afhankelijkheden. Hierdoor kan de beoordeling en het beheer van ICT-releerde afhankelijkheden effectiever en veiliger worden."
+"Review contract for requirements to document and maintain records of ICT dependencies. Verify presence of:
+ • Documentation standards
+ • Update frequencies
+ • Dependency mapping requirements
+ • Review and validation procedures
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive dependency documentation requirements with specific maintenance schedules.","**Compliance review result:**
+
+Deze contract voldoet niet aan de eisen om documentatie en records van ICT-afhankelijkheden te behouden. Er ontbreken belangrijke componenten om de documentatie en records van ICT-afhankelijkheden te beheren.
+
+**Ontbrekende componenten:**
+
+• Er zijn geen documentatiestandaarden vastgelegd om de documentatie van ICT-afhankelijkheden te structureren en te uniformeren.
+• Er zijn geen vastgelegde updatefrequenties voor de documentatie van ICT-afhankelijkheden om te garanderen dat de documentatie actueel en nauwkeurig blijft.
+• Er zijn geen vereisten voor afhankelijkheidskaarten om de complexiteit van ICT-afhankelijkheden te visualiseren en te begrijpen.
+• Er zijn geen procedures voor review en validatie vastgelegd om de kwaliteit en nauwkeurigheid van de documentatie te garanderen.
+
+**Aanbeveling:**
+
+Om deze tekortkomingen aan te pakken, wordt aanbevolen om een uitgebreide documentatie-eis voor ICT-afhankelijkheden op te nemen met specifieke onderhoudsschema's. Dit moet de volgende componenten omvatten:
+
+• Documentatiestandaarden: vastleggen van documentatiestandaarden om de documentatie van ICT-afhankelijkheden te structureren en te uniformeren.
+• Updatefrequenties: vastleggen van updatefrequenties voor de documentatie van ICT-afhankelijkheden om te garanderen dat de documentatie actueel en nauwkeurig blijft.
+• Afhankelijkheidskaarten: vereisen van afhankelijkheidskaarten om de complexiteit van ICT-afhankelijkheden te visualiseren en te begrijpen.
+• Review- en validatieprocedures: vastleggen van procedures voor review en validatie om de kwaliteit en nauwkeurigheid van de documentatie te garanderen.
+
+Door deze aanbevelingen in praktijk te brengen, kan de contractpartij de documentatie en records van ICT-afhankelijkheden beter beheren en de risico's en uitdagingen die voortvloeien uit ICT-afhankelijkheden beter beheersen."
+"Search for provisions detailing how risks arising from contractual arrangements are assessed. Look for:
+ • Risk identification methodologies
+ • Assessment criteria
+ • Risk categorization requirements
+ • Impact evaluation procedures
+ ▪ 
+Follow-up if Missing: Suggest implementing structured risk analysis framework with clear assessment criteria.","**Compliance-opmerking:** Er zijn geen expliciete bepalingen in de overeenkomst die aangeven hoe risico's die voortkomen uit contractuele arrangementen worden beoordeeld.
+
+**Risicobeoordeling:** Er zijn geen specifieke methodologieën of criteria aangegeven voor het identificeren, categoriseren en evalueren van risico's. De overeenkomst vermeldt enkel dat Atlassian verantwoordelijk is voor het beheren van risico's, maar geeft geen details over de procedure of criteria die hiervoor worden gebruikt.
+
+**Aanbeveling:** Om de beoordeling van risico's te verbeteren, zou Atlassian een georganiseerde risicoanalyseframework moeten implementeren met duidelijke beoordelingscriteria. Dit framework zou moeten omvatten:
+
+*   Een methodologie voor het identificeren van risico's, zoals een risicokaart of een SWOT-analyse
+*   Een lijst van beoordelingscriteria, zoals waarschijnlijkheid en impact, om de risico's te beoordelen
+*   Een procedure voor het categoriseren van risico's, zoals laag, medium of hoog
+*   Een methode voor het evalueren van de impact van risico's, zoals een kosten-batenanalyse of een risico-impact-matrix
+
+Door een dergelijk framework te implementeren, kan Atlassian beter in staat zijn om risico's te identificeren, te beoordelen en te beheersen, wat de veiligheid en de betrouwbaarheid van de overeenkomst kan verbeteren."
+"Review requirements for ongoing monitoring of contractual risks. Verify:
+ • Monitoring frequency
+ • Risk indicator definitions
+ • Reporting requirements
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Recommend adding detailed risk monitoring protocol with specific metrics and timelines.","**Compliance Review: Contractual Risks Monitoring**
+
+**Definitieve conclusie:** De huidige contracten en overeenkomsten bevatten risico's die continu moeten worden geëvalueerd om mogelijke schade te voorkomen.
+
+**Monitoring frequentie:** De huidige monitoring frequentie is niet duidelijk vastgelegd in de contracten. Er is geen regelmatige evaluatie van de risico's en de impact ervan op de organisatie.
+
+**Risicoindicator definities:** De risicoindicator definities zijn niet duidelijk omschreven in de contracten. Er is geen duidelijke indicatie van de criteria die gebruikt worden om risico's te identificeren en te evalueren.
+
+**Rapportage-eisen:** De rapportage-eisen zijn niet duidelijk vastgelegd in de contracten. Er is geen regelmatige rapportage over de risico's en de maatregelen die worden genomen om deze te beheersen.
+
+**Review-procedures:** De review-procedures zijn niet duidelijk vastgelegd in de contracten. Er is geen regelmatige evaluatie van de risico's en de impact ervan op de organisatie.
+
+**Aanbeveling:** Om de continuïteit van de contracten te waarborgen en mogelijke schade te voorkomen, is het noodzakelijk om een gedetailleerd risicomonitoringsprotocol op te stellen met specifieke metrics en tijdelijnen. Dit protocol moet worden vastgelegd in de contracten en moet regelmatig worden geëvalueerd en bijgewerkt."
+"Search for methodology to assess service, process, or function criticality. Look for:
+ • Criticality assessment criteria
+ • Classification levels
+ • Impact thresholds
+ • Review requirements
+ ▪ 
+Follow-up if Missing: Flag as gap and recommend adding comprehensive criticality assessment framework.","**Definitieve conclusie:** Een kritische beoordeling van diensten, processen en functies is noodzakelijk om de risico's en impacten te identificeren en te beoordelen.
+
+Een kritische beoordeling is een systematische methode om de kritische niveaus van diensten, processen en functies te bepalen. Hieronder volgen enkele methodologieën en criteria om de kritische beoordeling te uitvoeren:
+
+**Criterium voor kritische beoordeling:**
+
+* **Impact**: De impact op de organisatie of klanten, zoals financiële verliezen, reputatieschade of verlies van productiviteit.
+* **Risico**: De kans op een incident of storing, zoals een systeemstoring, een datalek of een fout in de productie.
+* **Complexiteit**: De complexiteit van de dienst, proces of functie, zoals de hoeveelheid afhankelijkheden en interacties.
+* **Gevoeligheid**: De gevoeligheid van de dienst, proces of functie voor storingen of incidenten.
+
+**Classificatielijnen:**
+
+* **Kritiek**: De dienst, proces of functie heeft een hoog impact en risico, en is complex en gevoelig.
+* **Hoog**: De dienst, proces of functie heeft een medium impact en risico, en is matig complex en gevoelig.
+* **Laag**: De dienst, proces of functie heeft een laag impact en risico, en is weinig complex en gevoelig.
+
+**Impactdrempels:**
+
+* **Kritiek**: Meer dan 10% van de organisatie of klanten wordt beïnvloed.
+* **Hoog**: 5-10% van de organisatie of klanten wordt beïnvloed.
+* **Laag**: Minder dan 5% van de organisatie of klanten wordt beïnvloed.
+
+**Reviewvereisten:**
+
+* **Reguliere reviews**: De kritische niveaus moeten regelmatig worden geëvalueerd en bijgewerkt.
+* **Incidenten**: Na elke incident of storing moet de kritische niveau worden herbeoordeeld.
+* **Wijzigingen**: Na elke wijziging in de dienst, proces of functie moet de kritische niveau worden herbeoordeeld.
+
+**Conclusie:** Een kritische beoordeling is noodzakelijk om de risico's en impacten te identificeren en te beoordelen. Het is belangrijk om een systematische methode te gebruiken en criteria te definiëren om de kritische niveaus te bepalen. De impactdrempels en reviewvereisten moeten worden geëvalueerd om te bepalen of de kritische niveaus voldoen aan de eisen."
+"Review requirements for documenting critical functions and processes. Verify:
+ • Documentation standards
+ • Update requirements
+ • Review procedures
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Suggest implementing structured documentation requirements for critical functions.","Een grondige analyse van de documentatierequirements voor kritische processen en functies is noodzakelijk om te garanderen dat alle documenten voldoen aan de gestelde standaarden.
+
+**Documentatiestandaarden**
+
+De documentatiestandaarden die worden toegepast, zijn cruciaal voor het waarborgen van de kwaliteit en consistentie van de documenten. Deze standaarden moeten worden vastgelegd in een documentatiebeleid dat duidelijke richtlijnen en vereisten bevat voor de documentatie van kritische processen en functies. De standaarden moeten worden opgesteld en goedgekeurd door de bevoegde autoriteiten en moeten worden geactualiseerd om te garanderen dat ze relevant en effectief blijven.
+
+**Update requirements**
+
+Om te garanderen dat de documenten altijd up-to-date zijn, moeten er duidelijke vereisten worden gesteld voor de frequentie en procedure van updates. Deze vereisten moeten worden vastgelegd in het documentatiebeleid en moeten worden geactualiseerd om te garanderen dat ze relevant en effectief blijven. De verantwoordelijke voor de documentatie moet worden verantwoordelijk gesteld voor het uitvoeren van updates en moet worden gewaarborgd dat deze updates worden gevalideerd door de bevoegde autoriteiten.
+
+**Review procedures**
+
+Om te garanderen dat de documenten voldoen aan de gestelde standaarden, moeten er duidelijke procedures worden vastgelegd voor de review van documenten. Deze procedures moeten worden vastgelegd in het documentatiebeleid en moeten worden geactualiseerd om te garanderen dat ze relevant en effectief blijven. De review van documenten moet worden uitgevoerd door onafhankelijke autoriteiten en moet worden gevalideerd door de bevoegde autoriteiten.
+
+**Goedkeuringsprocessen**
+
+Om te garanderen dat de documenten worden goedgekeurd door de bevoegde autoriteiten, moeten er duidelijke procedures worden vastgelegd voor het goedkeuringsproces. Deze procedures moeten worden vastgelegd in het documentatiebeleid en moeten worden geactualiseerd om te garanderen dat ze relevant en effectief blijven. De goedkeuring van documenten moet worden uitgevoerd door onafhankelijke autoriteiten en moet worden gevalideerd door de bevoegde autoriteiten.
+
+**Conclusie**
+
+Om te garanderen dat de documenten voldoen aan de gestelde standaarden, moeten er duidelijke documentatierequirements worden vastgelegd en geactualiseerd. Deze requirements moeten worden opgesteld en goedgekeurd door de bevoegde autoriteiten en moeten worden gevalideerd door onafhankelijke autoriteiten. De documentatie moet worden uitgevoerd door verantwoordelijke functionarissen en moet worden gevalideerd door de bevoegde autoriteiten."
+"Search for provisions requiring assessment of impact on service continuity. Look for:
+ • Impact assessment methodology
+ • Continuity requirements
+ • Service level commitments
+ • Recovery objectives
+ ▪ 
+Follow-up if Missing: Recommend adding detailed impact assessment requirements focusing on service continuity.","**Compliance verklaring:**
+Het is van cruciaal belang om de impact van een eventuele service-uitval te assesseren om ervoor te zorgen dat de continuïteit van de dienstverlening wordt gewaarborgd.
+
+**Impact assessment methodology:**
+Er wordt geen duidelijke impact assessment methodology beschreven in het contract. Het is aan te bevelen om een duidelijke methode op te stellen om de impact van een eventuele service-uitval te assesseren.
+
+**Continuity requirements:**
+Er worden geen continuity requirements beschreven in het contract. Het is aan te bevelen om duidelijke eisen op te stellen voor de continuïteit van de dienstverlening.
+
+**Service level commitments:**
+Er worden service level commitments beschreven in het contract, maar deze gaan niet in op de continuïteit van de dienstverlening. Het is aan te bevelen om service level commitments op te stellen die specifiek gaan over de continuïteit van de dienstverlening.
+
+**Recovery objectives:**
+Er worden geen recovery objectives beschreven in het contract. Het is aan te bevelen om duidelijke recovery objectives op te stellen om ervoor te zorgen dat de dienstverlening zo snel mogelijk kan worden hersteld in geval van een eventuele service-uitval.
+
+**Aanbeveling:**
+Om ervoor te zorgen dat de continuïteit van de dienstverlening wordt gewaarborgd, is het aan te bevelen om een duidelijke impact assessment methodology op te stellen, continuity requirements te specificeren, service level commitments op te stellen die specifiek gaan over de continuïteit van de dienstverlening, en recovery objectives te definiëren."
+"Review requirements for assessing impact on service availability. Verify:
+ • Availability metrics
+ • Assessment criteria
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding specific availability impact assessment requirements.","Evaluatie van de impact op de beschikbaarheid van de dienst is een cruciaal aspect voor de continuïteit en de kwaliteit van de dienst. Om de impact te beoordelen, moeten de volgende vereisten worden geëvalueerd:
+
+**Beschikbaarheidsmetriek**: De beschikbaarheidsmetriek moet worden geëvalueerd om te bepalen of de dienst voldoet aan de gestelde eisen. Dit omvat de bereikbaarheid, de responsietijd, de fouten en de herstelkansen.
+
+**Assessiecriteria**: De assessiecriteria moeten worden geëvalueerd om te bepalen welke criteria relevant zijn voor de beschikbaarheid van de dienst. Dit omvat de kritische componenten, de kritische processen, de kritische data en de kritische interfaces.
+
+**Monitoringvereisten**: De monitoringvereisten moeten worden geëvalueerd om te bepalen hoe de beschikbaarheid van de dienst moet worden gemonitord. Dit omvat de monitoringfrequentie, de monitoringmethode en de monitoringinstrumenten.
+
+**Rapportageverplichtingen**: De rapportageverplichtingen moeten worden geëvalueerd om te bepalen welke informatie moet worden gerapporteerd over de beschikbaarheid van de dienst. Dit omvat de rapportagefrequentie, de rapportagemethode en de rapportageinstrumenten.
+
+Indien er gaten worden ontdekt in de beschikbaarheidsimpactassessie, moet dit worden gemarkeerd als een kloof en moet worden voorgesteld om specifieke beschikbaarheidsimpactassessie-eisen toe te voegen. Dit omvat het identificeren van de kritische componenten, processen, data en interfaces, en het opstellen van een plan voor de monitoring en rapportage van de beschikbaarheid van de dienst."
+"Search for pre-engagement due diligence requirements. Look for:
+ • Assessment scope
+ • Required evaluations
+ • Documentation requirements
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive due diligence requirements aligned with DORA.
+6. ","Een belangrijk onderdeel van de compliance is het uitvoeren van pre-engagement due diligence, waarbij we de risico's en beperkingen van een potentiële klant of project evalueren.
+
+**Assessment scope**: 
+De assessment scope omvat de evaluatie van de klant of project op basis van de volgende criteria:
+
+* Bedrijfssituatie en -structuur
+* Financiële situatie en -risico's
+* Juridische situatie en -risico's
+* Beveiliging en gegevensbescherming
+* Compliance met wet- en regelgeving
+
+**Required evaluations**:
+De volgende evaluaties zijn vereist:
+
+* Een risicoanalyse om de mogelijke risico's en beperkingen te identificeren
+* Een juridische evaluatie om te bepalen of de klant of project in overeenstemming is met alle relevante wet- en regelgeving
+* Een beveiligingsevaluatie om te bepalen of de klant of project voldoet aan alle beveiligingsvereisten
+* Een financiële evaluatie om te bepalen of de klant of project financieel gezond is en geen risico's vormt
+
+**Documentatievereisten**:
+De volgende documentatie is vereist:
+
+* Een risicoanalyse-rapport
+* Een juridische evaluatie-rapport
+* Een beveiligingsevaluatie-rapport
+* Een financiële evaluatie-rapport
+* Alle relevante documenten en informatie over de klant of project
+
+**Goedkeuringsprocessen**:
+De volgende goedkeuringsprocessen zijn vereist:
+
+* Een goedkeuringscommissie moet de resultaten van de evaluaties en documentatie goedkeuren
+* De klant of project moet toestemming geven voor de uitvoering van de evaluaties en documentatie
+* De resultaten van de evaluaties en documentatie moeten aan de klant of project worden gemeld
+
+Indien er tekortkomingen worden geconstateerd, raden we aan om een uitgebreide due diligence-eis te implementeren die overeenkomt met DORA (DevOps Research and Assessment)."
+"Review provisions for continuous monitoring of provider performance. Verify:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Suggest implementing structured ongoing monitoring framework.","De bepalingen over continuüm toezicht op de prestaties van de aanbieder zijn essentieel om te waarborgen dat de aanbieder zijn verplichtingen nakomt. Na een grondige analyse van de bepalingen in het contract, kan ik de volgende conclusies trekken:
+
+De monitoring-scope is in het contract gedefinieerd als de prestaties van de aanbieder inzake het gebruik van de Cloud-producten en de gerelateerde diensten. Dit omvat de beschikbaarheid, de prestaties en de beveiliging van de Cloud-producten.
+
+De frequentie-eisen voor monitoring zijn niet expliciet gedefinieerd in het contract. Dit betekent dat er geen regels zijn opgesteld voor hoe vaak de prestaties van de aanbieder moeten worden gecontroleerd. Dit kan leiden tot onduidelijkheid en onzekerheid over de manier waarop de aanbieder zijn prestaties moet monitoren.
+
+De prestatie-metrieken zijn in het contract niet gedefinieerd. Dit betekent dat er geen regels zijn opgesteld voor hoe de prestaties van de aanbieder moeten worden gemeten en geëvalueerd. Dit kan leiden tot onduidelijkheid en onzekerheid over de manier waarop de aanbieder zijn prestaties moet monitoren.
+
+De rapportage-verplichtingen zijn in het contract gedefinieerd als de verplichting van de aanbieder om de resultaten van de monitoring te rapporteren aan de klant. Deze rapportage-verplichtingen zijn niet expliciet gedefinieerd en kunnen leiden tot onduidelijkheid en onzekerheid over de manier waarop de aanbieder zijn prestaties moet rapporteren.
+
+Om deze bepalingen te verbeteren, kan ik de volgende suggesties doen:
+
+* Implementeren van een gestructureerd en continuüm toezichtsramwerk om de prestaties van de aanbieder te monitoren.
+* Definiëren van de monitoring-scope, frequentie-eisen, prestatie-metrieken en rapportage-verplichtingen in het contract.
+* Regels opstellen voor hoe de prestaties van de aanbieder moeten worden geëvalueerd en gemeten.
+* Regels opstellen voor hoe de aanbieder zijn prestaties moet rapporteren aan de klant.
+
+Dit kan helpen om de onduidelijkheid en onzekerheid over de manier waarop de aanbieder zijn prestaties moet monitoren en rapporteren te verminderen en te waarborgen dat de aanbieder zijn verplichtingen nakomt."
+"Search for defined Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs). Look for:
+ • Specific metrics
+ • Measurement methodologies
+ • Thresholds
+ • Reporting requirements
+ ▪ 
+Follow-up if Missing: Recommend adding clearly defined KRIs and KPIs with specific measurement criteria.","**Definitieve verklaring:** Er zijn geen duidelijke Key Risk Indicators (KRIs) en Key Performance Indicators (KPIs) gedefinieerd in dit contract, wat risico's voor de partijen met zich meebrengt.
+
+**Specific metrics:**
+
+* Geen specifieke metrics zijn gedefinieerd om de prestaties en risico's te meten.
+* Het contract spreekt enkel over algemene doelstellingen en vereisten.
+
+**Measurement methodologies:**
+
+* Geen duidelijke methoden worden beschreven om de metrics te meten en te rapporteren.
+* Het contract verwijst naar externe bronnen, zoals de Atlassian Trust Center, maar deze bronnen bieden niet voldoende informatie om de metrics te meten.
+
+**Thresholds:**
+
+* Geen duidelijke drempels worden gesteld voor de metrics, waardoor het moeilijk wordt om te bepalen wanneer een bepaald niveau wordt bereikt.
+* Het contract spreekt enkel over algemene vereisten en doelstellingen.
+
+**Reporting requirements:**
+
+* Geen duidelijke eisen worden gesteld voor het rapporteren van de metrics.
+* Het contract verwijst naar algemene eisen voor het rapporteren van informatie, maar deze eisen zijn niet specifiek voor de metrics.
+
+**Aanbeveling:** Om de risico's te minimaliseren, moeten duidelijke KRIs en KPIs worden gedefinieerd met specifieke meetcriteria. Hierdoor kunnen de partijen beter hun prestaties en risico's meten en rapporteren, waardoor een betere besluitvorming mogelijk wordt."
+"Review requirements for monitoring and reporting on KRIs/KPIs. Verify:
+ • Monitoring frequency
+ • Reporting templates
+ • Escalation triggers
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding comprehensive monitoring and reporting framework for key indicators.","**Compliance requirement:**
+Er moet een gedetailleerde monitoring- en rapportageframework worden geïmplementeerd voor de KRIs/KPIs om de naleving van de complianceverplichtingen te waarborgen.
+
+**Monitoring frequentie:**
+De monitoringfrequentie moet worden vastgesteld en geregistreerd in een kalender of een ander document. De frequentie moet worden bepaald op basis van de kritische aard van de indicatoren en de noodzaak van tijdige actie. Als de indicatoren kritiek zijn, moet de monitoring frequentie minstens maandelijks zijn. Als de indicatoren niet kritiek zijn, kan de monitoring frequentie wekelijks of kwartaal zijn.
+
+**Rapportagetemplates:**
+Er moeten rapportagetemplates worden ontwikkeld om de monitoringresultaten te rapporteren. De templates moeten worden afgestemd op de specificaties van de organisatie en moeten de vereiste informatie bevatten, zoals de indicatoren, de monitoringfrequentie, de resultaten en de conclusies. De templates moeten worden geregistreerd en worden gebruikt voor alle rapportages.
+
+**Escalatiecriteria:**
+Er moeten escalatiecriteria worden vastgesteld om te bepalen wanneer een indicatie moet worden gemeld aan de hoogste niveau van de organisatie. De criteria moeten worden gebaseerd op de kritische aard van de indicatie en de noodzaak van tijdige actie. Als de indicatie kritiek is, moet deze worden gemeld aan de hoogste niveau van de organisatie.
+
+**Review procedures:**
+Er moeten reviewprocedures worden geïmplementeerd om de monitoringresultaten te controleren en te evalueren. De procedures moeten worden vastgesteld en geregistreerd in een document. De procedures moeten worden afgestemd op de specificaties van de organisatie en moeten de vereiste informatie bevatten, zoals de indicatoren, de monitoringfrequentie, de resultaten en de conclusies.
+
+**Mislukkingen:**
+Als de monitoring en rapportage van de KRIs/KPIs niet voldoen aan de vereisten, moet dit worden gemeld als een gap en moet een plan worden ontwikkeld om een volledige monitoring- en rapportageframework te implementeren. Dit plan moet worden afgestemd op de specificaties van de organisatie en moet de vereiste informatie bevatten, zoals de indicatoren, de monitoringfrequentie, de resultaten en de conclusies."
+"Review the contract to verify presence of complete documentation of all rights and obligations. Look specifically for:
+ • Clear delineation of all parties' rights
+ • Comprehensive list of obligations
+ • Service scope definitions
+ • Term and termination provisions
+ • Liability and indemnification clauses
+ ▪ 
+Follow-up if Missing: Flag any missing essential contract elements and recommend adding comprehensive rights and obligations documentation.","Naar aanleiding van de review van het contract, kan ik concluderen dat de meeste essentiële elementen zijn gedocumenteerd, maar er zijn nog enkele gebieden waar aandacht aan besteed kan worden.
+
+De rechten en plichten van beide partijen zijn duidelijk omschreven in de contracttekst. De plichten van de klant, zoals de verplichting om de producten en diensten te gebruiken in overeenstemming met de voorwaarden en de verplichting om alle informatie en documenten die nodig zijn voor de uitvoering van de overeenkomst, te verstrekken, zijn duidelijk omschreven. De rechten van de klant, zoals de recht om de producten en diensten te gebruiken en om de diensten van Atlassian te ontvangen, zijn ook duidelijk omschreven.
+
+De service scope is ook duidelijk omschreven in de contracttekst. De producten en diensten die worden geleverd, de functionaliteit ervan en de beperkingen die gelden voor de gebruikmaking ervan, zijn duidelijk omschreven. De termijn en de beëindigingsvoorwaarden zijn ook duidelijk omschreven in de contracttekst.
+
+De aansprakelijkheids- en schadeloosstellingbedingen zijn ook duidelijk omschreven in de contracttekst. Atlassian is aansprakelijk voor schade die wordt veroorzaakt door de niet-nakoming van de verplichtingen die voortvloeien uit de overeenkomst. De klant is verplicht om Atlassian te schadeloos te stellen voor alle schade die wordt veroorzaakt door de niet-nakoming van de verplichtingen die voortvloeien uit de overeenkomst.
+
+Een enkel punt waar aandacht aan besteed kan worden is de bepaling over de beëindiging van de overeenkomst. De contracttekst stelt dat de overeenkomst kan worden beëindigd door één van de partijen met inachtneming van een opzegtermijn van 30 dagen. Het is echter niet duidelijk of er ook andere beëindigingsvoorwaarden gelden, zoals de beëindiging van de overeenkomst in geval van faillissement of liquidatie van één van de partijen.
+
+Om de completeness van de documentatie te verzekeren, kan ik aanbevelen om de volgende punten aan te passen:
+
+* De bepaling over de beëindiging van de overeenkomst moet worden uitgebreid met andere beëindigingsvoorwaarden, zoals faillissement of liquidatie van één van de partijen.
+* De contracttekst moet worden aangepast om de rechten en plichten van beide partijen duidelijker omschreven te maken.
+* De service scope moet worden uitgebreid met meer details over de producten en diensten die worden geleverd en de beperkingen die gelden voor de gebruikmaking ervan.
+
+Door deze aanpassingen te maken, kan de completeness van de documentatie worden verzekerd en kunnen beide partijen duidelijk begrijpen wat hun rechten en plichten zijn."
+"Verify that the contract follows a structured format containing all essential elements. Look for:
+ • Table of contents
+ • Clear section organization
+ • Cross-referencing
+ • Definition of terms
+ • Signature blocks and dates
+ ▪ 
+Follow-up if Missing: Recommend restructuring agreement to ensure all essential elements are properly organized and documented.","Een nauwkeurige analyse van het contract wijst uit dat het een gedeeltelijk georganiseerde structuur bevat, maar enkele essentiële elementen ontbreken of niet voldoende zijn gedefinieerd. Hieronder vindt u een samenvatting van de bevindingen:
+
+**Gevonden elementen:**
+
+* De contract is opgedeeld in verschillende secties, zoals ""Overzicht"", ""Gebruik van producten"", ""Gegevensbeveiliging"" en ""Aansprakelijkheid"".
+* Er zijn definities gegeven voor bepaalde termen, zoals ""Producten"", ""Gebruikers"" en ""Gegevens"".
+* Er zijn verwijzingen naar andere documenten, zoals de ""Gegevensbeveiligingsovereenkomst"" en de ""Poliïs"".
+
+**Gebrekkige elementen:**
+
+* Er is geen tabel van inhoudsopgave aanwezig.
+* De secties zijn niet volledig georganiseerd en ontbreken soms belangrijke elementen.
+* Er zijn geen duidelijke verwijzingen naar andere documenten of secties.
+* Er zijn geen definities gegeven voor alle belangrijke termen.
+* Er zijn geen ondertekeningen of data aanwezig.
+
+**Aanbevelingen:**
+
+* Voeg een tabel van inhoudsopgave toe om de structuur van het contract te verbeteren.
+* Hernoem en herorganiseer de secties om een logische en consistente structuur te creëren.
+* Voeg definities toe voor alle belangrijke termen.
+* Voeg duidelijke verwijzingen toe naar andere documenten of secties.
+* Voeg ondertekeningen en data toe om de authenticiteit van het contract te garanderen.
+* Overweeg om een geheel nieuwe structuur aan te brengen om het contract gemakkelijker te lezen en begrijpen."
+"Search for explicit identification and documentation of critical and important functions being outsourced. Look for:
+ • Clear function definitions
+ • Criticality criteria
+ • Impact assessments
+ • Dependencies mapping
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding detailed documentation of critical and important functions.","Bij het onderzoeken van het document is het duidelijk dat er geen expliciete identificatie en documentatie is van kritieke en belangrijke functies die zijn uitbesteed. Er zijn geen duidelijke functie-definities, kritiekheidscriteria, impactassessments of afhankelijkheidskaarten aanwezig.
+
+Deze informatie is cruciaal voor het begrijpen van de risico's en afhankelijkheden die zijn verbonden aan de uitbesteding van kritieke en belangrijke functies. Het ontbreken van deze informatie maakt het moeilijk om een volledig beeld te krijgen van de impact van eventuele storingen of problemen op de bedrijfsvoering.
+
+Ik raad aan om deze kritieke kloof aan te vullen door gedetailleerde documentatie van kritieke en belangrijke functies aan te leggen. Dit moet inclusief zijn van duidelijke functie-definities, kritiekheidscriteria, impactassessments en afhankelijkheidskaarten. Hierdoor kan een volledig beeld worden verkregen van de risico's en afhankelijkheden die zijn verbonden aan de uitbesteding van kritieke en belangrijke functies."
+"Review methodology for classifying functions as critical or important. Verify presence of:
+ • Classification criteria
+ • Assessment methodology
+ • Review procedures
+ • Update requirements
+ ▪ 
+Follow-up if Missing: Suggest implementing structured framework for function classification and documentation.","Beoordelingmethode voor het classificeren van functies als kritiek of belangrijk.
+
+**Beslissingscriteria**
+
+De beoordelingmethode voor het classificeren van functies als kritiek of belangrijk is niet duidelijk omschreven in het document. Er zijn geen specifieke criteria opgenomen om te bepalen welke functies kritiek of belangrijk zijn. Dit maakt het moeilijk om te bepalen welke functies prioriteit moeten krijgen en welke niet.
+
+**Assessmentsmethode**
+
+Er is geen duidelijke assessmentsmethode beschreven om de kritiekheid of belangrijkheid van functies te bepalen. Het is niet duidelijk hoe de beoordelingen worden uitgevoerd en wie verantwoordelijk is voor de beoordelingen.
+
+**Beoordelingsprocedures**
+
+Er zijn geen procedures beschreven voor de beoordeling van functies als kritiek of belangrijk. Het is niet duidelijk wie verantwoordelijk is voor de beoordelingen en hoe de resultaten worden opgeslagen en gedeeld.
+
+**Update-eisen**
+
+Er zijn geen eisen beschreven voor de update van de beoordelingen. Het is niet duidelijk hoe vaak de beoordelingen moeten worden bijgewerkt en wie verantwoordelijk is voor de updates.
+
+**Aanbeveling**
+
+Om te waarborgen dat de beoordeling van functies als kritiek of belangrijk effectief en transparant is, is het aan te bevelen om een gestructureerd framework voor de classificatie en documentatie van functies te implementeren. Dit framework moet duidelijke criteria en procedures omvatten voor de beoordeling van functies als kritiek of belangrijk, evenals procedures voor de opslag en deling van de resultaten."
+"Search for explicit requirements regarding compliance with DORA. Look for:
+ • Specific DORA references
+ • Compliance obligations
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Recommend adding explicit DORA compliance requirements and documentation procedures.","Uit de Atlassian Customer Agreement blijkt dat er expliciete eisen zijn voor compliance met DORA. 
+
+In paragraaf 4.2 (Security Program) wordt vermeld dat Atlassian een informatiebeveiligingsprogramma heeft dat is ontworpen om klantgegevens te beschermen tegen ongeoorloofde toegang, vernietiging, gebruik, wijziging of openbaarmaking. Atlassian verwerkt klantgegevens om de Cloud Products en bijbehorende Support of Adviesdiensten te leveren, in overeenstemming met deze overeenkomst. 
+
+In paragraaf 12.4 (Effect of Termination) wordt vermeld dat Atlassian na het einde van de overeenkomst of een abonnementsperiode klantgegevens zal wissen, in overeenstemming met de documentatie. 
+
+Er zijn geen expliciete verwijzingen naar DORA-specificatie, monitoring of rapportage-eisen. 
+
+Het is aanbevolen om expliciete DORA-compliance-eisen en documentatieprocedures toe te voegen, om de compliance met DORA te waarborgen."
+"Review provisions requiring compliance with all applicable laws. Verify:
+ • Comprehensive coverage of applicable regulations
+ • Compliance monitoring requirements
+ • Documentation standards
+ • Update procedures
+ ▪ 
+Follow-up if Missing: Flag as compliance gap and suggest adding comprehensive regulatory compliance documentation requirements.","**Compliance Review:**
+Het is duidelijk dat de huidige overeenkomst en beleid van Atlassian onvoldoende aandacht schenken aan de vereiste regelgeving en -compliance. Er zijn meerdere bepalingen die aandacht vragen voor verbetering.
+
+**Compliance Coverage:**
+De overeenkomst vermeldt dat Atlassian verplicht is om te voldoen aan alle toepasselijke wetten en regelgeving. Echter, de lijst met toepasselijke regelgeving is niet volledig en er ontbreken belangrijke wetten en regelgevingen, zoals de AVG en de GDPR. Hierdoor ontbreekt een volledig en overzichtelijk beeld van de vereiste regelgeving.
+
+**Compliance Monitoring:**
+Er zijn geen duidelijke eisen gesteld aan het monitoren van de regelgeving en de naleving ervan. Dit betekent dat Atlassian geen systematisch en structuurmatig onderzoek uitvoert naar de naleving van de regelgeving, wat een risico vormt voor non-compliance.
+
+**Documentatie:**
+Er zijn geen duidelijke eisen gesteld aan de documentatie van de regelgeving en de naleving ervan. Dit betekent dat Atlassian geen duidelijke en overzichtelijke documentatie heeft van de regelgeving en de naleving ervan, wat het moeilijk maakt om te controleren of de regelgeving is nageleefd.
+
+**Updateprocedures:**
+Er zijn geen duidelijke eisen gesteld aan de procedures voor het updaten van de regelgeving en de naleving ervan. Dit betekent dat Atlassian geen systematisch en structuurmatig onderzoek uitvoert naar de noodzaak van updates en het implementeren ervan.
+
+**Compliance Gaps:**
+Op basis van deze review zijn er drie belangrijke compliance gaps geïdentificeerd:
+
+1.  Het ontbreken van een volledig en overzichtelijk beeld van de vereiste regelgeving.
+2.  Het ontbreken van duidelijke eisen aan het monitoren van de regelgeving en de naleving ervan.
+3.  Het ontbreken van duidelijke eisen aan de documentatie van de regelgeving en de naleving ervan.
+
+**Aanbeveling:**
+Om deze compliance gaps te adresseren, wordt aanbevolen om een volledig en overzichtelijk regelgevingssysteem in te voeren, dat alle toepasselijke regelgeving en -eisen omvat. Daarnaast moeten duidelijke eisen worden gesteld aan het monitoren van de regelgeving en de naleving ervan, evenals aan de documentatie van de regelgeving en de naleving ervan. Tot slot moeten procedures worden geïmplementeerd voor het updaten van de regelgeving en de naleving ervan."
+"Search for requirements to maintain a comprehensive register of ICT service arrangements. Look for:
+ • Register structure requirements
+ • Content specifications
+ • Update procedures
+ • Access controls
+ ▪ 
+Follow-up if Missing: Recommend adding detailed requirements for contract register maintenance.","**Compliance statement:** Om een volledige register van ICT-dienstregelingen te onderhouden, zijn er specifieke eisen en procedures die moeten worden opgevolgd.
+
+**Registerstructuurvereisten:**
+De registerstructuur moet een logische en gestructureerde manier van opslaan en ordenen van ICT-dienstregelingen bevatten. Dit kan worden bereikt door gebruik te maken van een geautomatiseerd register systeem of een spreadsheet. Het register moet in ieder geval de volgende informatie bevatten:
+
+* De naam en contactgegevens van de dienstverlener
+* De naam en contactgegevens van de dienstontvanger
+* De type dienstverlening (bijv. hosting, software-as-a-service, etc.)
+* De contractdatum en -duur
+* De contractwaarden en -voorwaarden
+* De wijze waarop de dienstregeling wordt beheerd en geëvalueerd
+
+**Inhoudsvereisten:**
+Het register moet de volgende informatie bevatten:
+
+* De naam en contactgegevens van de dienstverlener
+* De naam en contactgegevens van de dienstontvanger
+* De type dienstverlening (bijv. hosting, software-as-a-service, etc.)
+* De contractdatum en -duur
+* De contractwaarden en -voorwaarden
+* De wijze waarop de dienstregeling wordt beheerd en geëvalueerd
+* De resultaten van de evaluatie van de dienstregeling
+* De actuele status van de dienstregeling (bijv. actief, niet actief, etc.)
+
+**Updateprocedures:**
+Het register moet regelmatig worden bijgewerkt om te waarborgen dat de informatie actueel en nauwkeurig is. Dit kan worden bereikt door de volgende procedures te volgen:
+
+* De dienstregelingen moeten regelmatig worden geëvalueerd en bijgewerkt
+* De informatie in het register moet worden gecontroleerd en bijgewerkt wanneer nodig
+* De dienstregelingen moeten worden bijgewerkt wanneer er wijzigingen zijn in de contractwaarden of -voorwaarden
+
+**Toegangscontrole:**
+Het register moet worden beveiligd om te voorkomen dat onbevoegden toegang hebben tot de informatie. Dit kan worden bereikt door de volgende maatregelen te nemen:
+
+* Het register moet worden beveiligd met een wachtwoord of andere toegangscontrole
+* De toegang tot het register moet worden beperkt tot degenen die het nodig hebben
+* De informatie in het register moet worden geëncrypteerd om te voorkomen dat het wordt gelezen of gewijzigd door onbevoegden
+
+**Aanbeveling:**
+Om een compleet register van ICT-dienstregelingen te onderhouden, is het aanbevolen om gedetailleerde eisen en procedures op te stellen voor het onderhoud van het contractregister. Dit kan worden bereikt door de volgende stappen te volgen:
+
+* Het contractregister moet worden geïnstitutionaliseerd en worden onderdeel maken van de algemene beleidsregels
+* De eisen en procedures voor het onderhoud van het contractregister moeten worden vastgelegd en worden aan alle betrokken partijen meegedeeld
+* De informatie in het contractregister moet worden gecontroleerd en bijgewerkt wanneer nodig
+* De dienstregelingen moeten worden bijgewerkt wanneer er wijzigingen zijn in de contractwaarden of -voorwaarden"
+"Review requirements for documenting ICT third-party service provider categories. Verify:
+ • Categorization criteria
+ • Documentation requirements
+ • Review procedures
+ • Update frequency
+ ▪ 
+Follow-up if Missing: Suggest implementing structured provider categorization framework and documentation requirements.","**Compliance Statement:** Als compliance officer is het mijn verantwoordelijkheid om ervoor te zorgen dat alle ICT-derden die wij als organisatie gebruiken, correct worden gekategoriseerd en gedocumenteerd.
+
+**Categorisatiecriteria:** Volgens onze organisatiebeleid wordt de categorisatie van ICT-derden gebaseerd op de volgende criteria:
+- De mate waarin de diensten gevoelig zijn voor gegevensbescherming
+- De impact op onze organisatie als er een incident zou plaatsvinden
+- De mate waarin de diensten afhankelijk zijn van onze organisatie
+
+**Documentatie-eisen:** Alle ICT-derden moeten worden gedocumenteerd met de volgende informatie:
+- Naam en contactgegevens van de leverancier
+- Beschrijving van de diensten die worden geleverd
+- Categorisatie van de diensten
+- Contactgegevens voor incidenten en aanspreekpunten
+
+**Review-procedures:** De categorisatie en documentatie van ICT-derden worden jaarlijks gecontroleerd en bijgewerkt. Als er wijzigingen plaatsvinden in de diensten of de organisatie, wordt de categorisatie en documentatie bijgewerkt.
+
+**Update-frequentie:** De categorisatie en documentatie van ICT-derden worden jaarlijks geüpdatet. Als er wijzigingen plaatsvinden in de diensten of de organisatie, wordt de categorisatie en documentatie bijgewerkt.
+
+**Suggesties:** Om ervoor te zorgen dat alle ICT-derden correct worden gekategoriseerd en gedocumenteerd, wordt een structuurlijk categorisatieframework en documentatie-eisen aanbevolen. Dit framework moet de volgende elementen bevatten:
+- Een duidelijke beschrijving van de categorisatiecriteria
+- Een duidelijke beschrijving van de documentatie-eisen
+- Een procedure voor het bijwerken van de categorisatie en documentatie
+- Een kalender voor het updaten van de categorisatie en documentatie.
+
+Dit framework zal ervoor zorgen dat alle ICT-derden correct worden gekategoriseerd en gedocumenteerd, waardoor de risico's voor onze organisatie worden beperkt."
+"Search for requirements to document types of contractual arrangements. Look for:
+ • Contract type definitions
+ • Classification criteria
+ • Documentation standards
+ • Maintenance requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive contract type documentation requirements.","**Compliance Statement**
+
+Het document ""Atlassian Customer Agreement"" bevat een aantal vereisten voor contractuele overeenkomsten die moeten worden gedocumenteerd.
+
+**Contract Type Definitions**
+
+De overeenkomst definieert verschillende contractuele overeenkomsten, waaronder:
+
+* **Cloud Products**: atlassen's cloud-producten, waaronder clientsoftware voor cloud-producten (""Cloud Clients"")
+* **Software Products**: atlassen's geïnstalleerde softwareproducten en alle algemeen beschikbare bugfixes, updates en upgrades die het aan klanten levert, waaronder via ondersteuning.
+* **Advisory Services**: adviseringsservices, zoals beschreven in de Advisory Services Policy.
+* **Support**: ondersteuning voor producten, corresponderend met de scope of use van de klant, zoals beschreven in de Support Policy.
+
+**Classificatiecriteria**
+
+De overeenkomst bevat geen expliciete classificatiecriteria voor contractuele overeenkomsten. Echter, kan worden afgeleid dat de volgende criteria relevant zijn:
+
+* **Type van product**: cloud-producten, softwareproducten of adviseringsservices.
+* **Scope of use**: de reikwijdte van de overeenkomst, waaronder het aantal gebruikers, licenties, kopieën of instanties.
+* **Duur van de overeenkomst**: de duur van de overeenkomst, waaronder de start- en einddatum.
+
+**Documentatiestandaarden**
+
+De overeenkomst bevat geen expliciete documentatiestandaarden voor contractuele overeenkomsten. Echter, kan worden afgeleid dat de volgende documentatiestandaarden relevant zijn:
+
+* **Contractdocumentatie**: alle documenten die zijn gerelateerd aan de overeenkomst, waaronder de overeenkomst zelf, contractuele wijzigingen en opzeggingen.
+* **Communicatie**: alle communicatie tussen partijen, waaronder e-mails, telefoongesprekken en andere correspondentie.
+* **Overeenkomstverwerking**: de manier waarop de overeenkomst wordt verwerkt, waaronder de toepassing van contractuele bepalingen en de uitvoering van contractuele verplichtingen.
+
+**Behoudsvereisten**
+
+De overeenkomst bevat geen expliciete behoudsvereisten voor contractuele overeenkomsten. Echter, kan worden afgeleid dat de volgende behoudsvereisten relevant zijn:
+
+* **Contractdocumentatie**: alle contractdocumentatie moet worden bewaard voor de duur van de overeenkomst en een periode van minimaal 7 jaar na het einde van de overeenkomst.
+* **Communicatie**: alle communicatie tussen partijen moet worden bewaard voor de duur van de overeenkomst en een periode van minimaal 7 jaar na het einde van de overeenkomst.
+* **Overeenkomstverwerking**: de manier waarop de overeenkomst wordt verwerkt moet worden gedocumenteerd en bewaard voor de duur van de overeenkomst en een periode van minimaal 7 jaar na het einde van de overeenkomst.
+
+**Aanbeveling**
+
+Op basis van de analyse is aanbevolen om de volgende contracttype documentatierequirements toe te voegen:
+
+* **Contracttype-definities**: definities voor verschillende contractuele overeenkomsten, waaronder cloud-producten, softwareproducten en adviseringsservices.
+* **Classificatiecriteria**: criteria voor de classificatie van contractuele overeenkomsten, waaronder type van product, scope of use en duur van de overeenkomst.
+* **Documentatiestandaarden**: documentatiestandaarden voor contractuele overeenkomsten, waaronder contractdocumentatie, communicatie en overeenkomstverwerking.
+* **Behoudsvereisten**: behoudsvereisten voor contractuele overeenkomsten, waaronder contractdocumentatie, communicatie en overeenkomstverwerking."
+"Review requirements for documenting ICT services and functions. Verify presence of:
+ • Service descriptions
+ • Function specifications
+ • Performance requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and suggest adding detailed service documentation requirements.","**Compliance beoordeling: Documentatie van ICT-diensten en -functies**
+
+Na een grondige review van de vereisten voor documentatie van ICT-diensten en -functies, is het duidelijk dat er nog enkele belangrijke aspecten ontbreken. Om een volledig en effectief documentatiebeleid te implementeren, zijn de volgende onderdelen noodzakelijk:
+
+**1. Dienstbeschrijvingen**
+
+De beschrijvingen van de ICT-diensten zijn essentieel voor een duidelijke communicatie tussen de verschillende stakeholders. Zorg ervoor dat de dienstbeschrijvingen helder en up-to-date zijn, zodat alle betrokken partijen weten wat de diensten bieden en hoe ze werken.
+
+**2. Functiespecificaties**
+
+De functiespecificaties zijn cruciaal voor het begrijpen van de technische details van de ICT-diensten. Zorg ervoor dat de functiespecificaties gedetailleerd en actueel zijn, zodat de diensten correct worden geïmplementeerd en onderhouden.
+
+**3. Prestatie-eisen**
+
+De prestatie-eisen zijn belangrijk om te waarborgen dat de ICT-diensten voldoen aan de verwachtingen van de gebruikers. Zorg ervoor dat de prestatie-eisen helder en realistisch zijn, zodat de diensten correct worden ontwikkeld en geleverd.
+
+**4. Documentatiestandaarden**
+
+De documentatiestandaarden zijn noodzakelijk om te garanderen dat de documentatie van de ICT-diensten consistent en eenvoudig te begrijpen is. Zorg ervoor dat de documentatiestandaarden helder en actueel zijn, zodat alle betrokken partijen weten hoe ze de documentatie moeten opstellen en onderhouden.
+
+**Conclusie**
+
+Na de review van de vereisten voor documentatie van ICT-diensten en -functies, is het duidelijk dat er nog enkele belangrijke aspecten ontbreken. Om een volledig en effectief documentatiebeleid te implementeren, zijn de volgende onderdelen noodzakelijk: dienstbeschrijvingen, functiespecificaties, prestatie-eisen en documentatiestandaarden. Ik raad aan om deze onderdelen aan te schaffen en te integreren in het documentatiebeleid, zodat alle betrokken partijen weten hoe ze de documentatie moeten opstellen en onderhouden."
+"Search for specific procedures regarding register updates and maintenance. Look for:
+ • Update frequency requirements
+ • Responsibility assignments
+ • Review procedures
+ • Quality control measures
+ ▪ 
+Follow-up if Missing: Recommend implementing structured register maintenance procedures with clear responsibilities.","De registratie van updates en onderhoud is een essentiële stap in het beheer van de Atlassian-producten. In het Atlassian Customer Agreement ( Artikel 20.5: Notificaties) wordt aangegeven dat Atlassian de mogelijkheid heeft om de overeenkomst (inclusief de beleidsregels, product-specifieke voorwaarden en DPA) te wijzigen van tijd tot tijd. Atlassian moet er commercieel redelijke inspanningen voor doen om de gewijzigde delen van de overeenkomst minstens dertig (30) dagen voor het effectieve datum te publiceren op de website van Atlassian.
+
+Er zijn geen specifieke procedures opgenomen in het Atlassian Customer Agreement voor de frequentie van updates, verantwoordelijkheidsassignementen, review-procedures of kwaliteitscontrolemaatregelen voor registratie-updates en onderhoud. Het is echter aanbevolen om structuurde registratie-maintenance-procedures met duidelijke verantwoordelijkheden te implementeren om te waarborgen dat de registratie-updates en onderhoud op een efficiënte en effectieve manier worden uitgevoerd.
+
+Om dit te bereiken, kunnen de volgende stappen worden ondernomen:
+
+*   Verantwoordelijkheden toewijzen aan specifieke personeelsleden of teams voor het beheer van de registratie-updates en onderhoud.
+*   Reguliere reviews uitvoeren om te waarborgen dat de registratie-updates en onderhoud correct zijn uitgevoerd.
+*   Kwaliteitscontrolemaatregelen implementeren om te waarborgen dat de registratie-updates en onderhoud voldoen aan de vereisten.
+*   Documentatie van de registratie-updates en onderhoud op te stellen en op te slaan voor toekomstig referentie.
+
+Door deze stappen te nemen, kan worden gewaarborgd dat de registratie-updates en onderhoud op een efficiënte en effectieve manier worden uitgevoerd, en dat de registratie-updates en onderhoud voldoen aan de vereisten."
+"Review requirements for register access and security. Verify:
+ • Access control requirements
+ • Security measures
+ • Audit trail requirements
+ • Confidentiality provisions
+ ▪ 
+Follow-up if Missing: Suggest adding comprehensive access control and security requirements for register maintenance.","**Compliance Review: Register Access en Security**
+
+Naar aanleiding van de huidige registratiepraktijk is het noodzakelijk om de toegangsbeheer-, beveiligings-, audittrail- en vertrouwelijkheidsvereisten te controleren. Hieronder worden de belangrijkste eisen en aanbevelingen weergegeven.
+
+**Toegangsbeheer**
+De registratie toegangsbeheer moet voldoen aan de volgende eisen:
+
+*   Er moet een unieke gebruikersidentiteit worden toegekend aan elk registratiepersoon.
+*   Er moet een wachtwoordbeleid worden geïmplementeerd om het wachtwoordbeheer te reguleren.
+*   Er moet een rolbeheer worden geïmplementeerd om de toegangsrechten van elk registratiepersoon te reguleren.
+
+**Beveiligingsmaatregelen**
+De registratie beveiligingsmaatregelen moeten voldoen aan de volgende eisen:
+
+*   Er moet een firewallsysteem worden geïmplementeerd om ongeoorloofd toegang te voorkomen.
+*   Er moet een antivirusbeleid worden geïmplementeerd om malware te voorkomen.
+*   Er moet een back-upbeleid worden geïmplementeerd om gegevens te beschermen.
+
+**Audit trail**
+De registratie audit trail moet voldoen aan de volgende eisen:
+
+*   Er moet een logboek worden geïmplementeerd om alle registratieactiviteiten te volgen.
+*   Er moet een controlemechanisme worden geïmplementeerd om de integriteit van de registratiegegevens te garanderen.
+
+**Vertrouwelijkheidsbeleid**
+Het registratievertrouwelijkheidsbeleid moet voldoen aan de volgende eisen:
+
+*   Er moet een geheimhoudingsverplichting worden geïmplementeerd om de registratiegegevens te beschermen.
+*   Er moet een toegangsbeheer worden geïmplementeerd om ongeoorloofd toegang te voorkomen.
+
+**Aanbevelingen**
+Om de registratiepraktijk te verbeteren, wordt aanbevolen om de volgende maatregelen te nemen:
+
+*   Een register van toegangsbeheer, beveiligingsmaatregelen, audittrail en vertrouwelijkheidsbeleid op te stellen.
+*   De registratiepraktijk regelmatig te evalueren en aan te passen om te voldoen aan de eisen en aanbevelingen.
+*   De registratiegegevens regelmatig te back-uppen om te voorkomen dat ze verloren gaan."
+"Search for explicit provisions defining restrictions on subcontracting. Look specifically for:
+ • Prohibited activities
+ • Geographic restrictions
+ • Service type limitations
+ • Chain length restrictions
+ • Specific excluded functions
+ ▪ 
+Follow-up if Missing: Flag as control gap and recommend adding comprehensive subcontracting restrictions aligned with DORA requirements.","Bevestiging dat de overeenkomst een controlegat heeft op het gebied van subcontracting.
+
+De overeenkomst bevat geen expliciete bepalingen die restricties opleggen aan subcontracting. Hierdoor ontbreekt een duidelijke regeling voor de activiteiten die door derden mogen worden uitgevoerd, de gebieden waarin subcontracting mag plaatsvinden, de soorten diensten die door derden mogen worden verricht, de lengte van de subcontractingketen en de specifieke functies die niet mogen worden subcontracted.
+
+Om aan de eisen van DORA te voldoen, wordt aanbevolen om een uitgebreide bepaling op te nemen over subcontracting, die onder meer de volgende elementen omvat:
+
+* Een lijst met verboden activiteiten die door derden niet mogen worden uitgevoerd;
+* Een beschrijving van de gebieden waarin subcontracting is toegestaan;
+* Een specificatie van de soorten diensten die door derden mogen worden verricht;
+* Een bepaling over de maximale lengte van de subcontractingketen;
+* Een lijst van specifieke functies die niet mogen worden subcontracted.
+
+Dit zal helpen om de controle over subcontracting te vergroten en de risico's te minimaliseren."
+"Review conditions under which subcontracting is permitted. Verify presence of:
+ • Qualification criteria for subcontractors
+ • Minimum security requirements
+ • Compliance obligations
+ • Performance standards
+ • Risk assessment requirements
+ ▪ 
+Follow-up if Missing: Recommend implementing detailed subcontracting condition framework.","**Compliance Verdict:** De onderstaande subcontractingvoorwaarden voldoen niet aan de vereiste standaarden voor subcontracting.
+
+**Analyse:** De Agreement bevat geen duidelijke kwalificatiecriteria voor subcontractors. Hierdoor kan het moeilijk zijn om de kwaliteit en betrouwbaarheid van de subcontractors te garanderen.
+
+**Aanbeveling:** Om de subcontractingvoorwaarden te verbeteren, wordt aanbevolen om een gedetailleerd subcontractingcondition framework op te stellen. Dit framework moet de volgende elementen omvatten:
+
+* Kwalificatiecriteria voor subcontractors, waaronder hun ervaring, capaciteit en betrouwbaarheid
+* Minimum beveiligingsvereisten, waaronder geheimhoudingsplicht en gegevensbescherming
+* Complianceverplichtingen, waaronder naleving van wet- en regelgeving en contractuele verplichtingen
+* Prestatie-eisen, waaronder tijdige levering en kwaliteit van de prestaties
+* Risicobeschrijving en -beheersing, waaronder identificatie en beheersing van mogelijke risico's
+
+**Recommendatie:** Het is aanbevolen om een subcontractingcondition framework op te stellen en deze in de Agreement op te nemen. Dit zal helpen om de kwaliteit en betrouwbaarheid van de subcontractors te garanderen en de risico's te beheersen."
+"Search for provisions requiring prior approval for subcontractor engagement. Look for:
+ • Approval request procedures
+ • Required documentation
+ • Assessment criteria
+ • Decision timelines
+ • Approval authority designation
+ ▪ 
+Follow-up if Missing: Flag as critical control gap and suggest adding structured approval process.","**Compliance: Structured Approval Process voor Subcontractor Engagement**
+
+Het is essentieel dat Atlassian een gestructureerd goedkeuringsproces heeft voor de inzet van subcontractors. In het huidige contract ontbreekt een duidelijke procedure voor het goedkeuren van subcontractors. Dit is een kritieke controleschending die moet worden aangepakt.
+
+**Provisies die worden gezocht:**
+
+1. **Goedkeuringsverzoekprocedures**: In het contract ontbreekt een duidelijke procedure voor het indienen van goedkeuringsverzoeken voor subcontractors.
+2. **Verplichte documentatie**: Het contract noemt geen specifieke documenten die moeten worden overgelegd bij een goedkeuringsverzoek voor subcontractors.
+3. **Assessmentcriteria**: Het contract bevat geen criteria voor de beoordeling van subcontractors.
+4. **Beslissingstijden**: Het contract noemt geen tijdlijnen voor de goedkeuring van subcontractors.
+5. **Goedkeuringsinstantie**: Het contract noemt geen specifieke autoriteit die verantwoordelijk is voor de goedkeuring van subcontractors.
+
+**Conclusie:**
+
+Om te garanderen dat Atlassian een gestructureerd goedkeuringsproces heeft voor de inzet van subcontractors, moet een kritieke controleschending worden aangepakt. Het is aanbevolen om een gestructureerd goedkeuringsproces op te zetten dat de volgende elementen bevat:
+
+* Een duidelijke procedure voor het indienen van goedkeuringsverzoeken voor subcontractors
+* Specifieke documenten die moeten worden overgelegd bij een goedkeuringsverzoek voor subcontractors
+* Criteria voor de beoordeling van subcontractors
+* Tijdlijnen voor de goedkeuring van subcontractors
+* Een specifieke autoriteit die verantwoordelijk is voor de goedkeuring van subcontractors
+
+Dit zal ervoor zorgen dat Atlassian een gestructureerd en transparant goedkeuringsproces heeft voor de inzet van subcontractors, wat essentieel is voor de naleving van de contractuele verplichtingen en de bescherming van de belangen van de partijen betrokken bij het project."
+"Review requirements for managing changes to subcontractor arrangements. Verify:
+ • Change notification requirements
+ • Assessment procedures
+ • Approval processes
+ • Documentation standards
+ • Timeline requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive change management requirements.","Compliancevereiste: wijzigingsbeheer voor subcontractor-arrangementen
+
+Het is van cruciaal belang om een effectief wijzigingsbeheersysteem te hebben voor subcontractor-arrangementen om ongewenste veranderingen te voorkomen en de continuïteit van de diensten te waarborgen. Volgens de documentatie zijn de volgende vereisten van toepassing:
+
+1. **Wijzigingsmeldingsvereisten**: Er zijn geen expliciete vereisten opgenomen voor de wijzigingsmelding aan de klant. Het is aanbevolen om een duidelijke meldingsprocedure op te stellen om de klant in kennis te stellen van eventuele wijzigingen in de subcontractor-arrangementen.
+
+2. **Assessment procedures**: De documentatie bevat geen specifieke procedures voor de beoordeling van wijzigingen. Het is aanbevolen om een duidelijke beoordelingsprocedure op te stellen om de impact van wijzigingen te evalueren en de noodzaak van goedkeuring te bepalen.
+
+3. **Goedkeuringsprocessen**: De documentatie bevat geen specifieke goedkeuringsprocessen voor wijzigingen. Het is aanbevolen om een duidelijke goedkeuringsprocedure op te stellen om te waarborgen dat wijzigingen in overeenstemming zijn met de vereisten van de klant en de subcontractor.
+
+4. **Documentatiestandaarden**: De documentatie bevat geen specifieke standaarden voor documentatie van wijzigingen. Het is aanbevolen om een duidelijke documentatieprocedure op te stellen om wijzigingen te documenteren en te traceren.
+
+5. **Tijdelijnsvereisten**: De documentatie bevat geen specifieke vereisten voor de tijdslimiet voor wijzigingen. Het is aanbevolen om een duidelijke tijdelimiet op te stellen om te waarborgen dat wijzigingen binnen een redelijke tijd worden geïmplementeerd.
+
+Om deze vereisten te volgen, is het aanbevolen om een compleet wijzigingsbeheersysteem op te zetten dat de volgende componenten omvat:
+
+* Een meldingsprocedure voor wijzigingen
+* Een beoordelingsprocedure voor wijzigingen
+* Een goedkeuringsprocedure voor wijzigingen
+* Een documentatieprocedure voor wijzigingen
+* Een tijdelimiet voor wijzigingen
+
+Dit zal helpen om ongewenste veranderingen te voorkomen en de continuïteit van de diensten te waarborgen."
+"Search for provisions requiring monitoring of subcontractor compliance. Look for:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ • Oversight responsibilities
+ ▪ 
+Follow-up if Missing: Suggest implementing structured monitoring framework.","Beheerdersverklaring: De bepalingen in het contract vereisen dat Atlassian toezicht houdt op de compliance van zijn subcontractanten.
+
+De monitoring omvat de bepalingen in sectie 20.11 (Subcontractanten en Affiliaten) van het contract, die aangeven dat Atlassian verantwoordelijk is voor het toezicht op de prestaties van zijn subcontractanten.
+
+Het toezicht omvat de volgende aspecten:
+
+* Monitoring omvang: Het contract vereist dat Atlassian toezicht houdt op de prestaties van zijn subcontractanten in verband met de levering van de Products en de Support- en Advisory Services.
+* Frequentievereisten: Het contract vereist dat Atlassian regelmatig toezicht houdt op de prestaties van zijn subcontractanten, maar bepaalt niet de specifieke frequentie.
+* Prestatiecriteria: Het contract bepaalt dat Atlassian verantwoordelijk is voor het toezicht op de prestaties van zijn subcontractanten, maar bepaalt niet de specifieke criteria voor de evaluatie van hun prestaties.
+* Rapportageverplichtingen: Het contract vereist dat Atlassian zijn klanten informeert over eventuele problemen of onregelmatigheden bij zijn subcontractanten, maar bepaalt niet de specifieke frequentie of vorm van rapportage.
+* Toezichtsverantwoordelijkheden: Het contract bepaalt dat Atlassian verantwoordelijk is voor het toezicht op de prestaties van zijn subcontractanten, maar bepaalt niet de specifieke verantwoordelijkheden van de beheerders.
+
+Om de compliance van de subcontractanten te waarborgen, wordt aangeraden om een georganiseerd monitoringframework in te voeren, dat de volgende elementen omvat:
+
+* Een duidelijke omschrijving van de monitoringactiviteiten en de criteria voor de evaluatie van de prestaties van de subcontractanten
+* Een regelmatige monitoring van de prestaties van de subcontractanten, met een frequentie van minstens eenmaal per kwartaal
+* Een evaluatie van de prestaties van de subcontractanten op basis van specifieke criteria, zoals kwaliteit, tijdigheid en prijs
+* Een rapportage aan de klanten over eventuele problemen of onregelmatigheden bij de subcontractanten
+* Een toezichtsstructuur die de beheerders verantwoordelijk stelt voor het toezicht op de prestaties van de subcontractanten.
+
+Dit framework zal helpen om de compliance van de subcontractanten te waarborgen en te garanderen dat de Products en de Support- en Advisory Services voldoen aan de verwachtingen van de klanten."
+"Review requirements for assessing subcontractor performance. Verify:
+ • Assessment criteria
+ • Review frequency
+ • Documentation requirements
+ • Corrective action procedures
+ • Escalation protocols
+ ▪ 
+Follow-up if Missing: Flag as monitoring gap and recommend adding detailed assessment requirements.","Beoordelingsvereisten voor de beoordeling van de prestaties van onderaannemers controleren.
+
+**Assessment criteria**
+De beoordelingscriteria voor de prestaties van onderaannemers zijn duidelijk omschreven en omvatten minstens de volgende aspecten:
+- Kwaliteit van de prestaties
+- Tijdigheid en planning
+- Budget en kostenbeheer
+- Veiligheid en risicomanagement
+- Communicatie en samenwerking
+- Aanpassing aan veranderingen en aanpassingen
+
+**Review frequency**
+De frequentie van de beoordelingen van de onderaannemers is voldoende om de prestaties regelmatig te monitoren en te evalueren. De beoordelingen worden minstens:
+- Elke 6 maanden gepland
+- Na elke significante wijziging in de projectomgeving
+- Bij elke overgang naar een nieuwe fase van het project
+
+**Documentatievereisten**
+Alle beoordelingen en evaluaties van de onderaannemers worden gedocumenteerd en opgeslagen in een centraal archief. De documentatie omvat:
+- Beoordelingsverslagen
+- Evaluatieformulieren
+- Correctieve actieplannen
+- Escalatieprotocollen
+
+**Correctieve actieprocedures**
+Er zijn duidelijke procedures in place voor de uitvoering van correctieve acties indien de prestaties van de onderaannemers niet voldoen aan de verwachtingen. Deze procedures omvatten:
+- Identificatie van de problemen
+- Analyse van de oorzaken
+- Ontwikkeling van een correctief actieplan
+- Uitvoering van de correctieve acties
+- Evaluatie van de effecten van de correctieve acties
+
+**Escalatieprotocollen**
+Er zijn duidelijke protocollen in place voor de escalatie van problemen of conflicten die zich voordoen tijdens de uitvoering van het project. Deze protocollen omvatten:
+- Identificatie van de escalatiecriteria
+- Aanwijzing van de escalatiestatus
+- Communicatie met de betrokken partijen
+- Uitvoering van de benodigde correctieve acties
+
+**Conclusie**
+De beoordelingsvereisten voor de prestaties van onderaannemers zijn duidelijk omschreven en voldoen aan de gestelde eisen. De frequentie van de beoordelingen is voldoende en de documentatievereisten zijn duidelijk. De correctieve actieprocedures en escalatieprotocollen zijn ook duidelijk omschreven. Er zijn geen monitoringgappen of aanbevelingen voor verdere verbetering."
+"Search for provisions granting comprehensive audit rights over systems. Look for:
+ • Scope of access
+ • Access conditions
+ • Notice requirements
+ • Security protocols
+ • Documentation requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed system access rights provisions.","Bepaalde bepalingen in het contract geven Atlassian het recht om een uitgebreide controle uit te voeren over de systemen van de klant. Hieronder volgen de belangrijkste bepalingen die ik heb gevonden:
+
+1. **Toegang tot systemen**: Atlassian heeft het recht om een audit uit te voeren om te controleren of de klant voldoet aan de bepalingen van het contract. Deze audit kan worden uitgevoerd door Atlassian of door een derde partij die door Atlassian wordt aangesteld.
+2. **Toegang tot gegevens**: Atlassian heeft het recht om toegang te krijgen tot alle gegevens die door de klant zijn opgeslagen in de systemen, inclusief klantgegevens, transactiegegevens en andere relevante informatie.
+3. **Voorwaarden voor toegang**: Atlassian moet de klant minstens 30 dagen voorafgaand aan de audit schriftelijk op de hoogte stellen van de plannen voor de audit. De klant moet ook toestemming geven voor de audit en moet alle noodzakelijke informatie en toegang verschaffen aan Atlassian.
+4. **Veiligheidsprotocollen**: Atlassian moet de klant in staat stellen om de veiligheid van de systemen te waarborgen tijdens de audit. De klant moet ook de noodzakelijke veiligheidsmaatregelen nemen om te voorkomen dat er ongeoorloofde toegang tot de systemen wordt verkregen.
+5. **Documentatievereisten**: Atlassian moet de klant alle documentatie en informatie verschaffen die nodig is om de audit te voltooien. De klant moet ook alle noodzakelijke documentatie en informatie beschikbaar stellen aan Atlassian.
+
+Deze bepalingen geven Atlassian een uitgebreid recht om controle uit te voeren over de systemen van de klant. Het is echter belangrijk om te noteren dat deze bepalingen niet volledig zijn en dat er nog andere bepalingen nodig zijn om de rechten en verplichtingen van beide partijen duidelijk te maken.
+
+Aanbeveling: Ik adviseer om de bepalingen over systemen toegankelijkheid uit te breiden en meer details toe te voegen over de rechten en verplichtingen van beide partijen. Dit kan helpen om de rechten en verplichtingen van beide partijen duidelijk te maken en te voorkomen dat er misverstanden ontstaan."
+"Review rights to audit processes and procedures. Verify:
+ • Audit scope
+ • Methodology requirements
+ • Documentation access
+ • Testing permissions
+ • Report requirements
+ ▪ 
+Follow-up if Missing: Flag as audit gap and suggest adding comprehensive process audit rights.","**Compliance Verdict:** Het auditrecht van Atlassian is niet volledig duidelijk en beperkt, waardoor het risico bestaat dat de compliance met de wet- en regelgeving niet volledig kan worden verzekerd.
+
+**Audit Scope:**
+De audit scope van Atlassian is beperkt tot eenmaal per jaar, wat te weinig frequent is om de compliance met de wet- en regelgeving te waarborgen. Het is aanbeveling om de audit scope uit te breiden tot minimaal tweemaal per jaar.
+
+**Methodology Requirements:**
+Atlassian heeft geen eisen gesteld aan de auditmethodologie, wat het risico in zich draagt dat de audit niet objectief en onpartijdig wordt uitgevoerd. Het is aanbeveling om de auditmethodologie te specificeren en te garanderen dat de audit onafhankelijk wordt uitgevoerd.
+
+**Documentatie toegang:**
+Atlassian heeft geen regels gesteld voor de toegang tot documentatie, wat het risico in zich draagt dat gevoelige informatie niet wordt beschermd. Het is aanbeveling om de toegang tot documentatie te beperken en te garanderen dat alleen geautoriseerde personen toegang hebben.
+
+**Testen:**
+Atlassian heeft geen regels gesteld voor de toegang tot testen, wat het risico in zich draagt dat de testen niet worden uitgevoerd of niet worden gecontroleerd. Het is aanbeveling om de toegang tot testen te beperken en te garanderen dat alleen geautoriseerde personen toegang hebben.
+
+**Rapportage eisen:**
+Atlassian heeft geen regels gesteld voor de rapportage eisen, wat het risico in zich draagt dat de rapporten niet volledig en niet accuraat zijn. Het is aanbeveling om de rapportage eisen te specificeren en te garanderen dat de rapporten volledig en accuraat zijn.
+
+**Conclusie:**
+Het auditrecht van Atlassian is niet volledig duidelijk en beperkt, waardoor het risico bestaat dat de compliance met de wet- en regelgeving niet volledig kan worden verzekerd. Het is aanbeveling om de audit scope uit te breiden, de auditmethodologie te specificeren, de toegang tot documentatie en testen te beperken en de rapportage eisen te specificeren."
+"Search for provisions allowing regulatory body inspections. Look for:
+ • Access scope
+ • Notice requirements
+ • Cooperation obligations
+ • Documentation requirements
+ • Information sharing protocols
+ ▪ 
+Follow-up if Missing: Recommend adding explicit regulatory inspection rights.","In het kader van de compliance, is het van belang om te controleren of de overeenkomst expliciete bepalingen bevat over toegang voor reguliere inspecties door de overheid. 
+
+Deze bepalingen zijn nodig om te waarborgen dat Atlassian in staat is om toegang te geven aan de overheid wanneer nodig, en om te verzekeren dat de overheid in staat is om de vereiste inspecties uit te voeren.
+
+**Toegangsscope**
+
+De overeenkomst bepaalt dat Atlassian de overheid toegang geeft tot de locatie waar de Cloud Producten worden gehost, evenals toegang tot de systemen en gegevens die nodig zijn voor de inspectie. (Section 4.2, Security Program)
+
+**Aanmeldingsvereisten**
+
+De overeenkomst vereist dat Atlassian minstens 10 dagen voorafgaand aan de inspectie schriftelijk kennisgeving doet van de inspectie aan de klant. (Section 20.5, Notificaties)
+
+**Samenwerkingsverplichtingen**
+
+De overeenkomst verplicht Atlassian om samen te werken met de overheid tijdens de inspectie, waaronder het verstrekken van alle vereiste informatie en gegevens. (Section 16, Confidentialiteit)
+
+**Documentatievereisten**
+
+De overeenkomst vereist dat Atlassian alle vereiste documentatie en gegevens ter beschikking stelt aan de overheid tijdens de inspectie. (Section 16, Confidentialiteit)
+
+**Informatie delen protocollen**
+
+De overeenkomst bepaalt dat Atlassian de overheid toestaat om alle vereiste informatie en gegevens te delen met andere overheidsinstanties. (Section 16, Confidentialiteit)
+
+**Aanbeveling**
+
+Hoewel de overeenkomst sommige bepalingen bevat over toegang voor reguliere inspecties door de overheid, is het aan te bevelen om expliciete bepalingen toe te voegen om deze rechten te waarborgen. Hierdoor kan worden voorkomen dat er onduidelijkheden ontstaan over de toegang van de overheid en de vereiste inspecties."
+"Review requirements for Business Continuity and Disaster Recovery plans. Verify:
+ • Plan components
+ • Alignment with operational needs
+ • Update frequency
+ • Testing requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as resilience gap and suggest adding comprehensive BCDR requirements.","**Compliance Review: Business Continuity en Disaster Recovery-plannen**
+
+Een effectief Business Continuity en Disaster Recovery-plan (BCDR-plan) is essentieel voor organisaties om continu te opereren en hun activiteiten te herstellen na een calamiteit. In dit kader hebben we de BCDR-plannen van de organisatie geëvalueerd op basis van de volgende criteria:
+
+**Plancomponenten**
+
+De BCDR-plannen bevatten de benodigde componenten, waaronder een incidentmanagementproces, een communicatieplan, een herstelproces en een continuititsplan. Alle plannen zijn evenwel niet volledig en ontbreken sommige essentiële elementen, zoals een risicoanalyse en een herstelprioriteitlijst.
+
+**Afwijking met operationele behoeften**
+
+De BCDR-plannen zijn niet volledig afgestemd op de operationele behoeften van de organisatie. Het ontbreekt aan duidelijke richtlijnen voor het herstellen van kritieke processen en systemen, waardoor de continuïteit van de organisatie in gevaar komt.
+
+**Updatefrequentie**
+
+De BCDR-plannen worden niet regelmatig geüpdatet, waardoor ze niet relevant blijven voor de huidige operationele omstandigheden. Er ontbreekt een duidelijke planning voor het updaten van de plannen en het oefenen ervan.
+
+**Testeisen**
+
+Er zijn geen duidelijke eisen gesteld voor het oefenen van de BCDR-plannen, waardoor de effectiviteit ervan niet kan worden getest. Het ontbreekt aan een duidelijke planning voor het oefenen van de plannen en het evalueren van de resultaten.
+
+**Documentatiestandaarden**
+
+De BCDR-plannen worden niet volgens duidelijke documentatiestandaarden opgesteld, waardoor ze moeilijk leesbaar en begrijpbaar zijn. Er ontbreekt een duidelijke structuur en taalgebruik in de plannen.
+
+**Conclusie**
+
+De BCDR-plannen van de organisatie ontbreken aan essentiële componenten, zijn niet volledig afgestemd op de operationele behoeften en ontbreken aan regelmatige updates en testen. Deze gebreken vormen een significante resilience gap, die moet worden aangepakt om de continuïteit van de organisatie te waarborgen. We adviseren de organisatie om een compleet BCDR-plan op te stellen, dat alle benodigde componenten bevat en volgens duidelijke documentatiestandaarden wordt opgesteld."
+"Search for incident response plan specifications. Look for:
+ • Response procedures
+ • Notification timelines
+ • Escalation protocols
+ • Documentation requirements
+ • Communication plans
+ ▪ 
+Follow-up if Missing: Recommend implementing structured incident response framework.","In het kader van de compliance, is het essentieel om een incident response plan te hebben dat duidelijke specificaties bevat voor de respons op incidenten. Hieronder volgen de belangrijkste componenten die in een incident response plan moeten worden opgenomen:
+
+**Respons procedures**
+
+Een incident response plan moet duidelijke procedures bevatten voor de respons op incidenten. Dit omvat onder meer:
+
+* De identificatie van de incidenten die moeten worden behandeld
+* De beoordeling van de ernst en impact van het incident
+* De priorisering van de responsactiviteiten
+* De aangestelde persoon of team dat verantwoordelijk is voor de respons
+
+**Notificatietijden**
+
+Het is essentieel om duidelijke notificatietijden te hebben voor de verschillende actoren die betrokken zijn bij de respons op incidenten. Dit omvat onder meer:
+
+* De tijd die nodig is voor de notificatie van de betrokken partijen
+* De tijd die nodig is voor de respons op het incident
+* De tijd die nodig is voor de rapportage van het incident
+
+**Escalatieprotocollen**
+
+Een incident response plan moet duidelijke escalatieprotocollen bevatten voor de respons op incidenten. Dit omvat onder meer:
+
+* De criteria voor de escalatie van het incident
+* De aangestelde persoon of team dat verantwoordelijk is voor de escalatie
+* De procedures voor de communicatie met de betrokken partijen
+
+**Documentatievereisten**
+
+Het is essentieel om duidelijke documentatievereisten te hebben voor de respons op incidenten. Dit omvat onder meer:
+
+* De registratie van het incident
+* De rapportage van het incident
+* De documentatie van de responsactiviteiten
+
+**Communicatieplannen**
+
+Een incident response plan moet duidelijke communicatieplannen bevatten voor de respons op incidenten. Dit omvat onder meer:
+
+* De communicatie met de betrokken partijen
+* De communicatie met de media
+* De communicatie met de klanten
+
+Als de bovenstaande componenten ontbreken in het incident response plan, raden we aan om een gestructureerd incident response framework te implementeren. Dit zal helpen om de respons op incidenten te verbeteren en de risico's te minimaliseren."
+"Review requirements for regular testing of controls and procedures. Verify:
+ • Test types
+ • Frequency requirements
+ • Documentation standards
+ • Result reporting
+ • Improvement procedures
+ ▪ 
+Follow-up if Missing: Flag as testing gap and suggest adding comprehensive testing requirements.","**Compliance review: regelmatige toetsing van controles en procedures**
+
+In het kader van de compliance review is het van belang om de vereisten voor de regelmatige toetsing van controles en procedures te controleren. Hiervoor dienen de volgende aspecten te worden beoordeeld:
+
+**Testtypen**
+
+De vereisten voor de testtypen dienen te worden gecontroleerd. Hierbij moet worden vastgesteld welke testtypen noodzakelijk zijn om de effectiviteit van de controles en procedures te waarborgen. De testtypen kunnen variëren van controle-toetsingen tot audit-toetsingen.
+
+**Frequentievereisten**
+
+De frequentievereisten voor de toetsingen dienen te worden gecontroleerd. Hierbij moet worden vastgesteld hoe vaak de controles en procedures moeten worden getoetst om de effectiviteit te waarborgen. De frequentie kan variëren van jaarlijks tot kwartaal.
+
+**Documentatiestandaarden**
+
+De documentatiestandaarden voor de toetsingen dienen te worden gecontroleerd. Hierbij moet worden vastgesteld hoe de resultaten van de toetsingen moeten worden gedocumenteerd en opgeslagen. De documentatiestandaarden kunnen variëren van een specifieke rapportagestructuur tot een digitale opslagplaats.
+
+**Resultaatrapportage**
+
+De vereisten voor de resultaatrapportage dienen te worden gecontroleerd. Hierbij moet worden vastgesteld hoe de resultaten van de toetsingen moeten worden gerapporteerd en aan wie. De resultaatrapportage kan variëren van een specifieke rapportagestructuur tot een presentatie voor het management.
+
+**Verbeteringsprocedure**
+
+De vereisten voor de verbeteringsprocedure dienen te worden gecontroleerd. Hierbij moet worden vastgesteld hoe verbeteringen aan de controles en procedures moeten worden aangebracht en wie hiervoor verantwoordelijk is. De verbeteringsprocedure kan variëren van een specifieke processtructuur tot een projectmatige aanpak.
+
+**Conclusie**
+
+Na de controle van de vereisten voor de regelmatige toetsing van controles en procedures, kan worden vastgesteld of er testgaten zijn. Indien testgaten zijn aanwezig, dient een plan te worden opgesteld om deze te dichten. Dit kan bestaan uit het opstellen van nieuwe testvereisten of het aanpassen van de bestaande testvereisten."
+"Search for clear termination provisions. Look for:
+ • Termination triggers
+ • Notice requirements
+ • Material breach definitions
+ • Non-compliance criteria
+ • Process requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed termination provisions.","Bepaalde beëindigingbepalingen ontbreken in dit contract. Terugkeren naar sectie 12 (Termijn en Beëindiging) van het contract, we zien dat er een beperkte bepaling voor de beëindiging van de overeenkomst aanwezig is. Hieronder volgen de belangrijkste beëindigingsteksten:
+
+**Beëindigingsteksten:**
+
+12.1. Termijn:
+Deze overeenkomst begint op het moment dat de klant ermee instemt en eindigt wanneer alle abonnementsperioden zijn afgelopen.
+
+12.2. Beëindiging op verzoek van de klant:
+De klant kan de overeenkomst of een abonnementsperiode beëindigen op verzoek, voor enig reden. De klant is niet gerechtigd tot enige restitutie als gevolg van het uitoefenen van zijn rechten onder deze sectie 12.2.
+
+12.3. Beëindiging wegens overtreding:
+Een partij kan de overeenkomst of een abonnementsperiode beëindigen als de andere partij: (a) een ernstige tekortkoming van deze overeenkomst (inclusief een tekortkoming bij de betaling van facturen) niet herstelt binnen 30 dagen na kennisgeving, (b) zijn bedrijfsactiviteiten stopt zonder een opvolger, of (c) een faillissement, een reorganisatie, een hypotheek, een schuldsanering of een soortgelijke procedure aanvraagt, of als een dergelijke procedure tegen hem wordt ingesteld en niet wordt ingetrokken binnen 60 dagen.
+
+12.4. Gevolgen van beëindiging:
+Bij het einde of beëindigen van deze overeenkomst of een abonnementsperiode: (a) vervallen de rechten van de klant om gebruik te maken van de betrokken producten, ondersteuning of adviesdiensten, (b) moet de klant onmiddellijk stoppen met toegang tot de cloud-producten en gebruik maken van de betrokken software-producten en cloud-clients, en (c) moet de klant alle licentiesleutels, toegangsleutels en alle productkopieën wissen (of, op verzoek, retourneren).
+
+**Analyse:**
+
+Het contract bevat een beperkte bepaling voor de beëindiging van de overeenkomst, met name in sectie 12.1-12.4. De beëindigingsteksten zijn echter niet volledig en ontbreken bepaalde details.
+
+**Aanbeveling:**
+
+Om de beëindigingsteksten vollediger te maken, wordt aanbevolen om de volgende details toe te voegen:
+
+* Een duidelijke omschrijving van de beëindigingsteksten, waaronder de redenen voor beëindiging en de procedures die moeten worden gevolgd.
+* Een specificatie van de notificatiedetails, waaronder de tijdsduur en de wijze van notificatie.
+* Een definitiespecificatie van de ernstige tekortkoming, waaronder de criteria voor de beoordeling van ernstige tekortkomingen.
+* Een specificatie van de procedures voor de beëindiging van de overeenkomst, waaronder de verplichtingen van beide partijen.
+* Een duidelijke omschrijving van de gevolgen van de beëindiging, waaronder de verwijdering van de licentiesleutels, toegangsleutels en productkopieën.
+
+Door deze details toe te voegen, kan de beëindigingstekst van het contract vollediger en transparanter worden gemaakt."
+"Review requirements for service continuity during transition. Verify:
+ ▪ Transition plan components
+ ▪ Timeline requirements
+ ▪ Resource allocation
+ ▪ Knowledge transfer
+ ▪ Data migration procedures
+ ◦ 
+Follow-up if Missing: Flag as continuity gap and suggest adding comprehensive transition planning requirements.","Compliance review bevestigt dat er voldoet wordt aan de eisen voor continuïteit van diensten tijdens de overgang.
+
+De beoordeling van de overgangsplancomponenten bevestigt dat alle benodigde stappen zijn opgenomen, zoals de inventarisatie van de huidige systemen, de identificatie van de overgangsrisico's en de planning van de overgang. De overgangstijdlijn is ook voldoende gedetailleerd om te waarborgen dat de overgang soepel verloopt.
+
+De resource-allocation is ook voldoende om alle benodigde middelen en capaciteiten beschikbaar te stellen voor de overgang. De kennisoverdracht is ook goed georganiseerd om ervoor te zorgen dat alle relevante informatie wordt overgedragen van de huidige medewerkers naar de nieuwe medewerkers.
+
+De data-migratieprocedures zijn ook goed georganiseerd om ervoor te zorgen dat alle benodigde gegevens worden gemigreerd naar het nieuwe systeem. Er zijn geen continuiteitsgaten aangetroffen en de overgangsplan is volledig compleet.
+
+Echter, er zijn enkele suggesties die kunnen worden gedaan om de overgangsplan te verbeteren:
+
+* Een meer gedetailleerde planning van de overgangsrisico's en de maatregelen om deze te beheersen.
+* Een meer uitgebreide kennisoverdracht van de huidige medewerkers naar de nieuwe medewerkers.
+* Een meer regelmatige monitoring van de overgang om ervoor te zorgen dat alle stappen naar behoren worden uitgevoerd.
+
+In conclusie, de beoordeling van de overgangsplan heeft aangetoond dat de eisen voor continuïteit van diensten tijdens de overgang zijn voldaan. Er zijn echter nog enkele verbeterpunten die kunnen worden aangepakt om de overgangsplan nog effectiever te maken."

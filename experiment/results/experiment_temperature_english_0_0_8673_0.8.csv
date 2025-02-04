@@ -1,0 +1,1604 @@
+question,answers
+"Search for explicit clauses stating that the financial entity retains full responsibility for DORA compliance. Look specifically for:
+ - Clear statements of retained responsibility
+ - References to DORA obligations
+ - Non-transfer of compliance obligations
+ - Acknowledgment that outsourcing doesn't diminish entity's responsibility","Upon reviewing the Atlassian Customer Agreement, I have found the following clauses that relate to the retention of financial entity's responsibility for DORA (Digital Operational Resilience Act) compliance:
+
+**Retained Responsibility Clause:**
+
+Section 20.1 of the Agreement states: ""Each party must comply with all Laws applicable to its business in its performance of obligations or exercise of rights under this Agreement."" This clause explicitly retains the financial entity's responsibility for complying with all applicable laws, including DORA obligations.
+
+**DORA Obligations Reference:**
+
+Although DORA is not explicitly mentioned in the Agreement, Section 4.2 (Security Program) mentions that Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical, and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification, or disclosure. This clause implies that Atlassian is responsible for maintaining a security program that meets the DORA requirements.
+
+**Non-Transfer of Compliance Obligations:**
+
+Section 20.3(a) states: ""Customer may not assign or transfer any of its rights or obligations under this Agreement or an Order without Atlassian’s prior written consent."" This clause suggests that the financial entity's DORA compliance obligations cannot be transferred to Atlassian without prior written consent.
+
+**Acknowledgment of Outsourcing:**
+
+Section 20.11 states: ""Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement."" This clause acknowledges that outsourcing does not diminish the financial entity's responsibility for DORA compliance, as Atlassian remains responsible for its overall performance and has written agreements in place with its subcontractors.
+
+In summary, while the Agreement does not explicitly mention DORA, the retained responsibility clause, DORA obligations reference, non-transfer of compliance obligations, and acknowledgment of outsourcing all suggest that the financial entity retains full responsibility for DORA compliance."
+" Review contract for clear statements regarding the financial entity's retained responsibility for all applicable financial services laws. Look for:
+ • Comprehensive coverage of all applicable regulations
+ • Non-delegation of regulatory responsibilities
+ • Clear acknowledgment of ongoing regulatory obligations
+ • References to specific financial services laws
+
+Follow-up if Missing: Recommend adding explicit clause covering retention of regulatory responsibilities for all applicable financial services laws.","Upon reviewing the Atlassian Customer Agreement, it appears that the financial entity's (Atlassian's) retained responsibility for all applicable financial services laws is not explicitly stated. While the agreement mentions various terms and conditions related to payments, taxes, and fees, it does not provide clear statements regarding Atlassian's retained responsibility for regulatory obligations.
+
+Specifically, the agreement does not comprehensively cover all applicable regulations, such as anti-money laundering (AML) and know-your-customer (KYC) requirements. Additionally, the agreement does not explicitly acknowledge ongoing regulatory obligations or reference specific financial services laws.
+
+The following sections are relevant to financial services laws, but they do not provide sufficient clarity:
+
+* Section 10.2 (Taxes) mentions that fees and expenses are exclusive of any sales, use, GST, value-added, withholding or similar taxes or levies. However, it does not explicitly state that Atlassian is responsible for ensuring compliance with tax regulations.
+* Section 10.4 (Suspension for Non-payment) mentions that Atlassian may suspend Customer's rights to use Products or receive Support or Advisory Services if payment is overdue. However, it does not explicitly state that Atlassian is responsible for ensuring compliance with financial services laws in the event of a payment suspension.
+* Section 15 (Indemnification by Atlassian) mentions that Atlassian must defend Customer from and against any third-party claim to the extent alleging that the Products, when used by Customer as authorized by this Agreement, infringe any intellectual property right of a third party. However, it does not explicitly state that Atlassian is responsible for ensuring compliance with financial services laws in the event of an intellectual property infringement claim.
+
+To address this gap, I recommend adding an explicit clause to the agreement that covers retention of regulatory responsibilities for all applicable financial services laws. This clause should:
+
+* Clearly acknowledge Atlassian's retained responsibility for all applicable financial services laws
+* Provide comprehensive coverage of all applicable regulations, including AML and KYC requirements
+* Explicitly state that Atlassian will ensure ongoing compliance with financial services laws
+* Reference specific financial services laws, such as the Payment Card Industry Data Security Standard (PCI-DSS) and the General Data Protection Regulation (GDPR)
+
+Example of the recommended clause:
+
+""Atlassian retains all responsibility for ensuring compliance with all applicable financial services laws, including but not limited to the Payment Card Industry Data Security Standard (PCI-DSS), the General Data Protection Regulation (GDPR), and anti-money laundering (AML) and know-your-customer (KYC) requirements. Atlassian will ensure ongoing compliance with these laws and regulations, and will not delegate its regulatory responsibilities to any third party. By entering into this Agreement, Customer acknowledges that Atlassian is responsible for ensuring compliance with all applicable financial services laws, and that Customer will not be held liable for any failure to comply with these laws.""
+
+This recommended clause provides clear and explicit language regarding Atlassian's retained responsibility for all applicable financial services laws, ensuring that the agreement is comprehensive and compliant with relevant regulations."
+"Search for provisions requiring senior management or board approval of ICT service agreements. Look for:
+ • Approval requirements
+ • Review procedures
+ • Documentation of approvals
+ • Renewal approval processes
+ 
+Follow-up if Missing: Flag as governance gap and recommend adding explicit board/senior management approval requirements.","Upon reviewing the Atlassian Customer Agreement, I have identified the following provisions related to senior management or board approval of ICT service agreements:
+
+* **Approval requirements**: There is no explicit requirement for senior management or board approval for ICT service agreements. However, Section 20.3 (Assignment) mentions that Customer may assign this Agreement in its entirety (including all Orders) to its successor resulting from a merger, acquisition, or sale of all or substantially all of Customer's assets or voting securities, but requires written consent from Atlassian. This implies that significant changes to the agreement may require approval.
+* **Review procedures**: There is no provision outlining specific review procedures for ICT service agreements.
+* **Documentation of approvals**: There is no explicit requirement to document senior management or board approval for ICT service agreements.
+* **Renewal approval processes**: There is no provision outlining specific renewal approval processes for ICT service agreements.
+
+Given the absence of explicit requirements for senior management or board approval, I flag this as a governance gap and recommend adding explicit board/senior management approval requirements to ensure that ICT service agreements are subject to adequate oversight and approval.
+
+**Recommendation**: Consider adding a clause to the agreement that requires senior management or board approval for:
+
+* Initial ICT service agreements
+* Significant changes to existing ICT service agreements
+* Renewal of ICT service agreements
+* Documentation of approvals for ICT service agreements
+
+This will help ensure that senior management and the board are informed and involved in the approval process for ICT service agreements, aligning with best practices for IT governance."
+"Review for provisions requiring ongoing board/senior management monitoring of third-party arrangements. Verify:
+ • Regular review requirements
+ • Monitoring frequency
+ • Performance metrics
+ • Reporting requirements to senior management
+ 
+Follow-up if Missing: Suggest adding structured monitoring requirements with specific timelines and metrics.","**Compliance Review: Third-Party Arrangements**
+
+Upon reviewing the Atlassian Customer Agreement, I have identified the following provisions related to third-party arrangements:
+
+* Section 2.2 (Restrictions) prohibits Customer from using the Products to develop a similar or competing product or service.
+* Section 7.2 (Third-Party Products) states that Customer may choose to use the Products with third-party platforms, apps, add-ons, services or products, but Customer's use of Third-Party Products is subject to the relevant provider's terms of use, not this Agreement.
+* Section 10.1 (Fees) mentions that Customer is responsible for payment of all applicable amounts directly to the Reseller.
+
+However, I have not found any specific provisions that require ongoing board/senior management monitoring of third-party arrangements. Therefore, I recommend adding structured monitoring requirements to ensure that Customer is regularly reviewing and evaluating its third-party arrangements.
+
+**Recommendations**
+
+1. **Regular Review Requirements**: Schedule regular reviews of third-party arrangements, such as quarterly or bi-annually, to assess their continued suitability and compliance with Customer's business objectives.
+2. **Monitoring Frequency**: Establish a clear frequency for monitoring third-party performance, such as monthly or quarterly, to ensure timely identification of any issues or concerns.
+3. **Performance Metrics**: Define specific performance metrics for third-party arrangements, such as service level agreements (SLAs), key performance indicators (KPIs), and return on investment (ROI), to measure their effectiveness.
+4. **Reporting Requirements**: Require senior management to receive regular reports on third-party performance, including any issues or concerns identified during monitoring, to ensure ongoing oversight and decision-making.
+
+**Structured Monitoring Requirements**
+
+To address these recommendations, I suggest adding the following provisions to the Atlassian Customer Agreement:
+
+* Section 12.2 (Termination for Convenience): Include language requiring Customer to conduct regular reviews of third-party arrangements and provide a plan for transitioning to alternative arrangements if necessary.
+* Section 15 (Indemnification by Atlassian): Modify the indemnification provisions to include requirements for Customer to cooperate with Atlassian in monitoring and addressing any third-party-related issues or concerns.
+* Section 20 (General Terms): Add a new paragraph requiring Customer to maintain records of its third-party arrangements, including monitoring and performance metrics, and to provide access to these records upon request.
+
+By incorporating these structured monitoring requirements, Customer can ensure ongoing oversight and management of its third-party arrangements, reducing the risk of non-compliance and potential reputational damage."
+"Search for documented escalation paths for unresolved third-party risks. Look for:
+ • Clear escalation triggers
+ • Escalation levels
+ • Time frames for escalation
+ • Resolution requirements
+ • Board notification procedures
+
+Follow-up if Missing: Recommend adding comprehensive escalation framework with specific triggers and procedures.","Compliance Review Findings: Escalation Framework for Third-Party Risks
+
+After reviewing the documentation, it is evident that a comprehensive escalation framework for third-party risks is missing. This is a critical compliance requirement, as it ensures that unresolved third-party risks are properly addressed and escalated to the relevant stakeholders.
+
+Clear escalation triggers, escalation levels, time frames for escalation, resolution requirements, and board notification procedures are essential components of a robust escalation framework. Without these elements, the organization may struggle to effectively manage and mitigate third-party risks, which can lead to non-compliance with regulatory requirements and potential reputational damage.
+
+To address this compliance gap, I recommend that the organization develop and implement a comprehensive escalation framework with specific triggers and procedures. This framework should include:
+
+1. Clear escalation triggers: Identify specific events or circumstances that trigger the escalation process, such as a high-risk finding or a material change in a third-party's risk profile.
+2. Escalation levels: Establish a clear hierarchy of escalation levels, with specific requirements and responsibilities for each level, such as a Level 1 escalation for critical issues that require immediate attention.
+3. Time frames for escalation: Define specific time frames for escalation, such as a 24-hour window for Level 1 escalations or a 72-hour window for Level 2 escalations.
+4. Resolution requirements: Establish clear requirements for resolving escalated issues, including specific actions, deadlines, and responsible parties.
+5. Board notification procedures: Develop procedures for notifying the board of directors or other relevant stakeholders of escalated issues, including the nature of the issue, the proposed resolution, and any necessary updates or follow-up actions.
+
+By implementing a comprehensive escalation framework, the organization can ensure that third-party risks are properly managed and escalated, reducing the risk of non-compliance and reputational damage."
+"Review requirements for documenting escalation processes and outcomes. Verify presence of:
+ • Documentation standards
+ • Record-keeping requirements
+ • Tracking mechanisms
+ • Follow-up procedures
+
+Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.","Upon reviewing the provided Atlassian Customer Agreement, it is evident that compliance with documentation standards, record-keeping requirements, tracking mechanisms, and follow-up procedures is crucial for effective escalation processes.
+
+**Documentation Standards:** Section 20.5 (Notices) of the Agreement specifies that notices under this Agreement must be in writing and are deemed given on specific criteria, such as personal delivery, receipt by a recognized overnight courier, or email. However, it is recommended to establish clear documentation standards for escalation processes, including templates for escalation reports, communication protocols, and a record of all escalation activities.
+
+**Record-Keeping Requirements:** While Section 10.2 (Taxes) mentions that Atlassian will itemize separate taxes or levies on invoices, there is no explicit mention of record-keeping requirements for escalation processes. It is essential to establish a clear record-keeping policy to track escalation activities, including dates, times, and details of interactions.
+
+**Tracking Mechanisms:** Section 20.5 (Notices) implies that email notifications can be used for operational notices, but it is unclear if this applies to escalation processes. To ensure effective tracking, it is recommended to implement a dedicated tracking mechanism for escalation processes, such as a ticketing system or a spreadsheet, to monitor and manage escalation activities.
+
+**Follow-up Procedures:** While Section 12.4 (Effect of Termination) mentions that Atlassian will delete Customer Data in accordance with the Documentation, there is no explicit follow-up procedure for escalation processes. It is crucial to establish a clear follow-up procedure to ensure that all escalation activities are properly addressed and closed.
+
+To address the identified documentation gaps, I recommend adding the following specific documentation requirements for escalation processes:
+
+1. **Escalation Report Template:** Develop a standardized template for escalation reports, including fields for date, time, escalation reason, and outcome.
+2. **Communication Protocol:** Establish a clear communication protocol for escalation processes, including contact information for key stakeholders and escalation procedures.
+3. **Record-Keeping Policy:** Develop a record-keeping policy to track escalation activities, including dates, times, and details of interactions.
+4. **Tracking Mechanism:** Implement a dedicated tracking mechanism for escalation processes, such as a ticketing system or a spreadsheet, to monitor and manage escalation activities.
+5. **Follow-up Procedure:** Establish a clear follow-up procedure to ensure that all escalation activities are properly addressed and closed.
+
+By implementing these documentation requirements, Atlassian can ensure that escalation processes are well-documented, transparent, and effective, ultimately leading to better customer outcomes and improved compliance."
+"Review requirements for maintaining comprehensive governance documentation. Look for:
+ • Documentation maintenance requirements
+ • Update procedures
+ • Accessibility requirements
+ • Retention policies
+ 
+Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes.","**Comprehensive Governance Documentation: A Critical Component of Effective Governance**
+
+It is imperative that organizations maintain comprehensive governance documentation to ensure transparency, accountability, and compliance with regulatory requirements. As a compliance officer, I strongly recommend that organizations establish a robust framework for governance documentation to meet the following requirements:
+
+**Documentation Maintenance Requirements:**
+
+* Regularly update documentation to reflect changes in laws, regulations, and organizational policies.
+* Maintain accurate and complete records of all governance-related activities, decisions, and communications.
+* Ensure that documentation is easily accessible and searchable.
+
+**Update Procedures:**
+
+* Establish a clear process for updating documentation, including approval and version control mechanisms.
+* Designate a responsible person or team to oversee documentation updates and ensure consistency.
+* Communicate updates to relevant stakeholders and ensure they understand their roles and responsibilities.
+
+**Accessibility Requirements:**
+
+* Make documentation easily accessible to all employees, board members, and external stakeholders.
+* Provide multiple formats for documentation, such as electronic and hard copy versions.
+* Ensure that documentation is translated into languages relevant to the organization's global operations.
+
+**Retention Policies:**
+
+* Establish a retention policy for governance documentation, including minimum and maximum retention periods.
+* Designate a responsible person or team to oversee documentation retention and ensure compliance with regulatory requirements.
+* Regularly review and update retention policies to ensure they remain relevant and effective.
+
+**Recommendations:**
+
+To ensure comprehensive governance documentation, I recommend that organizations:
+
+1. Establish a governance documentation framework that outlines the scope, content, and maintenance requirements for all governance-related documentation.
+2. Designate a governance documentation officer or team to oversee documentation maintenance, updates, and retention.
+3. Develop a clear process for updating documentation, including approval and version control mechanisms.
+4. Ensure that documentation is easily accessible and searchable, with multiple formats available for different stakeholders.
+5. Regularly review and update retention policies to ensure compliance with regulatory requirements.
+
+By establishing a comprehensive governance documentation framework, organizations can ensure transparency, accountability, and compliance with regulatory requirements, ultimately enhancing their reputation and reducing the risk of non-compliance."
+"Search for contractual provisions requiring assessment of ICT-related dependencies. Look specifically for:
+ • Methodology for evaluating nature of dependencies
+ • Scale assessment requirements
+ • Complexity evaluation criteria
+ • Importance classification metrics
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding structured framework for dependency assessment aligned with DORA requirements.","**Critical Gap Identified: Lack of Structured Framework for Dependency Assessment**
+
+Upon reviewing the Atlassian Customer Agreement, I have identified a critical gap in the contractual provisions related to the assessment of ICT-related dependencies. Specifically, there is no clear methodology for evaluating the nature of dependencies, scale assessment requirements, complexity evaluation criteria, or importance classification metrics.
+
+**Missing Provisions:**
+
+1. **Methodology for Evaluating Nature of Dependencies**: The agreement does not provide a clear methodology for assessing the nature of dependencies, which is essential for understanding the criticality and impact of each dependency.
+2. **Scale Assessment Requirements**: There are no specific requirements for scaling dependencies, which can lead to inconsistent and inaccurate assessments.
+3. **Complexity Evaluation Criteria**: The agreement does not provide clear criteria for evaluating the complexity of dependencies, making it challenging to identify high-risk dependencies.
+4. **Importance Classification Metrics**: There are no metrics for classifying the importance of dependencies, which can result in inadequate prioritization and resource allocation.
+
+**Recommendation:**
+
+To address this critical gap, I recommend adding a structured framework for dependency assessment aligned with DORA (DevOps Research and Assessment) requirements. This framework should include:
+
+1. A clear methodology for evaluating the nature of dependencies, such as a dependency matrix or a categorization framework.
+2. Specific requirements for scaling dependencies, including metrics for assessing the impact of each dependency.
+3. Clear criteria for evaluating the complexity of dependencies, such as a complexity scorecard or a risk assessment framework.
+4. Metrics for classifying the importance of dependencies, such as a priority matrix or a business impact analysis.
+
+By incorporating a structured framework for dependency assessment, Atlassian can ensure that customers have a clear understanding of their ICT-related dependencies and can prioritize their efforts accordingly. This will enable customers to make informed decisions about resource allocation, risk mitigation, and investment in their ICT infrastructure."
+"Review contract for requirements to document and maintain records of ICT dependencies. Verify presence of:
+ • Documentation standards
+ • Update frequencies
+ • Dependency mapping requirements
+ • Review and validation procedures
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive dependency documentation requirements with specific maintenance schedules.","**Compliance Verification:**
+
+After reviewing the contract, it appears that there is a lack of comprehensive documentation requirements for ICT dependencies. While the contract mentions the need for Customer to provide Atlassian with access to Customer Data and Customer Materials, it does not explicitly outline the necessary documentation standards, update frequencies, dependency mapping requirements, and review and validation procedures for ICT dependencies.
+
+**Missing Requirements:**
+
+1. **Documentation Standards:** There is no clear mention of the standards that Customer must follow when documenting ICT dependencies. It is recommended that the contract include specific guidelines on the format, content, and structure of dependency documentation.
+2. **Update Frequencies:** The contract does not specify how frequently Customer must update its ICT dependency documentation. It is recommended that the contract include a schedule for regular updates, such as quarterly or bi-annually, to ensure that dependencies are accurately reflected.
+3. **Dependency Mapping Requirements:** The contract does not provide clear requirements for mapping ICT dependencies. It is recommended that the contract include specific guidance on how Customer must identify, classify, and map dependencies, including the use of standard terminology and notation.
+4. **Review and Validation Procedures:** The contract does not outline procedures for reviewing and validating ICT dependency documentation. It is recommended that the contract include a process for regular reviews and validation, including checks for accuracy, completeness, and consistency.
+
+**Recommendations:**
+
+To address the missing requirements, it is recommended that the contract be updated to include the following:
+
+1. **Documentation Standards:** Specify the required documentation standards, including format, content, and structure.
+2. **Update Frequencies:** Establish a regular update schedule, such as quarterly or bi-annually, to ensure that dependencies are accurately reflected.
+3. **Dependency Mapping Requirements:** Provide clear guidance on how Customer must identify, classify, and map dependencies, including the use of standard terminology and notation.
+4. **Review and Validation Procedures:** Outline a process for regular reviews and validation, including checks for accuracy, completeness, and consistency.
+
+By incorporating these recommendations, the contract will provide a clear and comprehensive framework for documenting and maintaining records of ICT dependencies, ensuring that Customer's obligations are met and that Atlassian can effectively manage its dependencies."
+"Search for provisions detailing how risks arising from contractual arrangements are assessed. Look for:
+ • Risk identification methodologies
+ • Assessment criteria
+ • Risk categorization requirements
+ • Impact evaluation procedures
+ ▪ 
+Follow-up if Missing: Suggest implementing structured risk analysis framework with clear assessment criteria.","After reviewing the Atlassian Customer Agreement, I have identified the following provisions related to risk assessment:
+
+**Risk Identification Methodologies:** While there are no explicit provisions detailing specific risk identification methodologies, Section 2.2 (Restrictions) and Section 6.2 (Product Assessment) suggest that Atlassian and the customer should be aware of potential risks and take steps to mitigate them. For example, Atlassian requires customers to ensure they have made all necessary disclosures and obtained all necessary rights and consents to use the Products.
+
+**Assessment Criteria:** Section 14.4 (Special Claims) outlines the assessment criteria for determining the liability of Atlassian in the event of a breach of confidentiality. Specifically, it states that Atlassian's aggregate liability will be the lesser of two times the amounts paid to Atlassian for the Products giving rise to the breach or $5,000,000.
+
+**Risk Categorization Requirements:** The Agreement does not specify explicit risk categorization requirements. However, Section 14.1 (Damages Waiver) suggests that Atlassian and the customer should categorize risks into different types, such as direct, indirect, and consequential damages.
+
+**Impact Evaluation Procedures:** Section 14.2 (General Liability Cap) outlines the procedures for evaluating the impact of a breach of contract on Atlassian's liability. Specifically, it states that Atlassian's entire liability arising out of or related to the Agreement will not exceed the amounts paid to Atlassian for the Products during the twelve months preceding the first event out of which the liability arose.
+
+**Recommendation:** While the Agreement provides some guidance on risk assessment, it lacks a structured risk analysis framework with clear assessment criteria. I recommend that Atlassian implement a framework that includes the following:
+
+1. Clear risk identification methodologies, such as a risk register or a SWOT analysis.
+2. Specific assessment criteria, such as the likelihood and impact of potential risks.
+3. A risk categorization system, such as high, medium, and low risk.
+4. Impact evaluation procedures, such as a cost-benefit analysis or a decision tree.
+5. Regular review and update of the risk assessment framework to ensure it remains effective and relevant.
+
+By implementing a structured risk analysis framework, Atlassian can better identify and mitigate potential risks, ensuring that its contractual arrangements are aligned with its business objectives and regulatory requirements."
+"Review requirements for ongoing monitoring of contractual risks. Verify:
+ • Monitoring frequency
+ • Risk indicator definitions
+ • Reporting requirements
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Recommend adding detailed risk monitoring protocol with specific metrics and timelines.","**Compliance Review: Ongoing Monitoring of Contractual Risks**
+
+Upon reviewing the contractual risks associated with the Atlassian Customer Agreement, I have identified areas for improvement to ensure ongoing monitoring and effective risk management. Specifically, I recommend that the monitoring frequency, risk indicator definitions, reporting requirements, and review procedures be clarified and formalized to ensure a robust risk monitoring protocol.
+
+**Monitoring Frequency**
+
+The current agreement does not specify a regular monitoring frequency for contractual risks. I recommend that a monitoring schedule be established to ensure that risks are assessed and reviewed at least quarterly, with additional frequency as necessary to address high-risk areas. This will enable timely identification and mitigation of potential risks.
+
+**Risk Indicator Definitions**
+
+The agreement lacks clear definitions for risk indicators, making it challenging to identify and assess potential risks. I suggest developing a comprehensive list of risk indicators, including specific metrics and thresholds for each risk category (e.g., financial, regulatory, reputational). This will provide a clear understanding of the risks and enable effective monitoring.
+
+**Reporting Requirements**
+
+There is no clear reporting requirement for contractual risks in the agreement. I recommend establishing a regular reporting schedule, including a detailed report on identified risks, risk mitigation strategies, and any changes to the risk landscape. This will ensure that stakeholders are informed and can take necessary actions to address risks.
+
+**Review Procedures**
+
+The agreement lacks specific review procedures for contractual risks. I suggest developing a formal review process that includes regular reviews of risk assessments, risk mitigation strategies, and reporting on risk-related activities. This will ensure that risks are regularly assessed and addressed, and that the contractual risks are properly managed.
+
+**Recommendation**
+
+To address the identified gaps, I recommend developing a detailed risk monitoring protocol with specific metrics and timelines. This protocol should include:
+
+1. Regular risk assessments (at least quarterly)
+2. Clear definitions for risk indicators and metrics
+3. Established reporting requirements (e.g., quarterly, bi-annual)
+4. Formal review procedures (e.g., regular review of risk assessments, risk mitigation strategies)
+5. Ongoing monitoring and review of contractual risks to ensure effective risk management.
+
+By implementing these recommendations, the organization can ensure ongoing monitoring and effective management of contractual risks, minimizing potential exposure and ensuring compliance with regulatory requirements."
+"Search for methodology to assess service, process, or function criticality. Look for:
+ • Criticality assessment criteria
+ • Classification levels
+ • Impact thresholds
+ • Review requirements
+ ▪ 
+Follow-up if Missing: Flag as gap and recommend adding comprehensive criticality assessment framework.","Compliance Review: Criticality Assessment Methodology
+
+A comprehensive criticality assessment methodology is essential for evaluating the importance and potential impact of services, processes, or functions on an organization's overall operations and goals. The following framework outlines the key components to assess criticality:
+
+**Criticality Assessment Criteria**
+
+1. **Impact on Business Operations**: Assess the potential impact on business operations, including productivity, efficiency, and customer satisfaction.
+2. **Financial Implications**: Evaluate the potential financial implications, including costs, revenue loss, and potential financial risks.
+3. **Regulatory Compliance**: Assess the level of regulatory compliance required for the service, process, or function.
+4. **Risk Exposure**: Evaluate the potential risk exposure, including reputational, security, and operational risks.
+5. **Dependency on Other Services**: Assess the level of dependency on other services, processes, or functions.
+
+**Classification Levels**
+
+1. **High Criticality**: Services, processes, or functions that have a significant impact on business operations, financial implications, regulatory compliance, risk exposure, and dependency on other services.
+2. **Medium Criticality**: Services, processes, or functions that have a moderate impact on business operations, financial implications, regulatory compliance, risk exposure, and dependency on other services.
+3. **Low Criticality**: Services, processes, or functions that have a minimal impact on business operations, financial implications, regulatory compliance, risk exposure, and dependency on other services.
+
+**Impact Thresholds**
+
+1. **High Impact**: Services, processes, or functions that have a significant impact on business operations, financial implications, regulatory compliance, risk exposure, and dependency on other services.
+	* Impact Threshold: 80% or higher
+2. **Medium Impact**: Services, processes, or functions that have a moderate impact on business operations, financial implications, regulatory compliance, risk exposure, and dependency on other services.
+	* Impact Threshold: 40-79%
+3. **Low Impact**: Services, processes, or functions that have a minimal impact on business operations, financial implications, regulatory compliance, risk exposure, and dependency on other services.
+	* Impact Threshold: Below 40%
+
+**Review Requirements**
+
+1. **Regular Reviews**: Conduct regular reviews (e.g., quarterly, annually) to reassess the criticality of services, processes, or functions.
+2. **Change Impact Assessments**: Conduct change impact assessments for any changes to services, processes, or functions to ensure criticality levels remain accurate.
+3. **Risk Assessments**: Conduct regular risk assessments to identify potential risks and update criticality levels accordingly.
+
+By implementing this comprehensive criticality assessment framework, organizations can ensure that they prioritize services, processes, or functions that have the greatest impact on their operations and goals. This will enable them to allocate resources effectively, manage risks, and ensure regulatory compliance."
+"Review requirements for documenting critical functions and processes. Verify:
+ • Documentation standards
+ • Update requirements
+ • Review procedures
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Suggest implementing structured documentation requirements for critical functions.","**Compliance Review: Documentation of Critical Functions and Processes**
+
+After reviewing the requirements, it is clear that the documentation of critical functions and processes is a critical aspect of compliance. However, there are some gaps in the current documentation standards, update requirements, review procedures, and approval processes.
+
+**Documentation Standards:** The current documentation standards are not clearly defined, and it is unclear what constitutes ""critical functions and processes."" A clear and concise definition of what is considered critical should be established to ensure consistency and accuracy in documentation.
+
+**Update Requirements:** The update requirements are not clearly outlined, and it is unclear how often critical functions and processes should be reviewed and updated. A regular review and update cycle should be established to ensure that documentation remains current and accurate.
+
+**Review Procedures:** The review procedures are not clearly defined, and it is unclear who is responsible for reviewing and approving documentation. A clear review and approval process should be established to ensure that documentation is accurate and complete.
+
+**Approval Processes:** The approval processes are not clearly defined, and it is unclear who has the authority to approve documentation. A clear approval process should be established to ensure that documentation is accurate and complete.
+
+**Recommendation:** To address the gaps in documentation standards, update requirements, review procedures, and approval processes, I recommend implementing structured documentation requirements for critical functions and processes. This should include:
+
+* Defining clear documentation standards and guidelines
+* Establishing a regular review and update cycle
+* Defining clear review procedures and approval processes
+* Assigning responsibility for reviewing and approving documentation
+* Establishing a clear approval process
+
+By implementing these structured documentation requirements, the organization can ensure that critical functions and processes are properly documented, reviewed, and updated, reducing the risk of non-compliance and improving overall efficiency and effectiveness."
+"Search for provisions requiring assessment of impact on service continuity. Look for:
+ • Impact assessment methodology
+ • Continuity requirements
+ • Service level commitments
+ • Recovery objectives
+ ▪ 
+Follow-up if Missing: Recommend adding detailed impact assessment requirements focusing on service continuity.","Based on the Atlassian Customer Agreement, I have identified several provisions related to service continuity. Here are the results:
+
+The Agreement does not explicitly require a detailed impact assessment methodology for service continuity. However, it does outline continuity requirements in Section 4.2 (Security Program), which states that Atlassian will maintain an information security program that uses appropriate physical, technical, and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification, or disclosure.
+
+Section 4.3 (Service Levels) mentions service level commitments for Cloud Products, which are outlined in the Service Level Agreement. However, the Service Level Agreement is not explicitly linked to the main Agreement, and its content is not provided in the document.
+
+Recovery objectives are not explicitly mentioned in the Agreement.
+
+To improve service continuity, I recommend adding detailed impact assessment requirements to the Agreement. Specifically, the following requirements could be included:
+
+* A requirement for the Customer to assess the potential impact of service disruptions on their business operations and identify critical systems and processes that rely on the Atlassian Products.
+* A requirement for the Customer to provide Atlassian with information on their business continuity and disaster recovery plans, including their recovery objectives and timelines.
+* A requirement for Atlassian to conduct regular impact assessments to identify potential risks and vulnerabilities to service continuity and to develop strategies to mitigate or eliminate these risks.
+* A requirement for Atlassian to provide the Customer with regular updates on service continuity, including any planned maintenance or upgrades that may impact service availability.
+
+By including these requirements, the Agreement can provide a more comprehensive framework for service continuity and ensure that both parties are aware of their respective responsibilities and obligations in maintaining service continuity."
+"Review requirements for assessing impact on service availability. Verify:
+ • Availability metrics
+ • Assessment criteria
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding specific availability impact assessment requirements.","After reviewing the Atlassian Customer Agreement, I have identified the following requirements for assessing impact on service availability:
+
+**Availability metrics:**
+
+* The agreement does not specify specific availability metrics, but it does mention ""service level commitments"" for Cloud Products, which implies that Atlassian may have certain availability targets (Section 4.3).
+* Customer is responsible for determining whether the Products meet their requirements and any regulatory obligations related to their intended use (Section 6.2).
+
+**Assessment criteria:**
+
+* The agreement does not explicitly outline specific assessment criteria for evaluating the impact of availability on services. However, it does imply that Customer must assess the Products' suitability for their needs (Section 6.2).
+
+**Monitoring requirements:**
+
+* The agreement does not specify explicit monitoring requirements for service availability. However, it does mention that Atlassian will provide Support and Advisory Services, which may include monitoring and issue resolution (Section 8).
+
+**Reporting obligations:**
+
+* The agreement does not explicitly outline specific reporting obligations for service availability. However, it does mention that Atlassian will provide notice to Customer in the event of service issues (Section 5.4).
+
+**Gap identification and suggestion:**
+
+Based on the review, I suggest adding specific availability impact assessment requirements to the agreement, including:
+
+* Clear availability metrics (e.g., uptime percentage, response time, etc.)
+* Specific assessment criteria for evaluating availability impact (e.g., impact on business operations, customer satisfaction, etc.)
+* Explicit monitoring requirements for service availability (e.g., frequency of checks, notification thresholds, etc.)
+* Detailed reporting obligations for service availability (e.g., regular status reports, incident notifications, etc.)
+
+These additions would help ensure that both Atlassian and Customer have a clear understanding of the requirements and expectations for service availability and can work together to ensure reliable service delivery."
+"Search for pre-engagement due diligence requirements. Look for:
+ • Assessment scope
+ • Required evaluations
+ • Documentation requirements
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive due diligence requirements aligned with DORA.
+6. ","**Compliance Recommendation: Comprehensive Due Diligence Requirements**
+
+As a compliance officer, it is essential to ensure that pre-engagement due diligence requirements are in place to mitigate risks and protect the organization's interests. Upon reviewing the provided document, I have identified the following pre-engagement due diligence requirements:
+
+**Assessment Scope:**
+
+The assessment scope should include a thorough evaluation of the customer's business operations, financial stability, and compliance history. This should involve reviewing financial statements, business registration documents, and any relevant industry-specific licenses or certifications.
+
+**Required Evaluations:**
+
+The required evaluations should include:
+
+1. **Business Structure:** Verify the customer's business structure, including ownership and control.
+2. **Financial Stability:** Assess the customer's financial stability, including creditworthiness and payment history.
+3. **Compliance History:** Review the customer's compliance history, including any past non-compliance or regulatory issues.
+4. **Industry-Specific Requirements:** Evaluate the customer's compliance with industry-specific regulations, such as anti-money laundering (AML) and know-your-customer (KYC) requirements.
+
+**Documentation Requirements:**
+
+The following documentation requirements should be in place:
+
+1. **Business Registration Documents:** Obtain copies of the customer's business registration documents, including articles of incorporation and business licenses.
+2. **Financial Statements:** Request and review the customer's financial statements, including balance sheets and income statements.
+3. **Compliance Certifications:** Obtain certifications from the customer regarding their compliance with industry-specific regulations.
+4. **Background Checks:** Conduct background checks on key customer personnel, including directors and officers.
+
+**Approval Processes:**
+
+The following approval processes should be in place:
+
+1. **Pre-Engagement Review:** Conduct a pre-engagement review of the customer's due diligence requirements, including assessment scope, required evaluations, and documentation requirements.
+2. **Risk Assessment:** Conduct a risk assessment to identify potential risks associated with the customer, including financial, regulatory, and reputational risks.
+3. **Approval:** Obtain approval from senior management or the board of directors to proceed with the engagement.
+
+**Follow-up if Missing:**
+
+If any of the above requirements are missing or incomplete, I recommend adding comprehensive due diligence requirements aligned with the Digital Operational Resilience Act (DORA). This should include:
+
+1. **Enhanced Risk Assessment:** Conduct an enhanced risk assessment to identify potential risks associated with the customer.
+2. **Additional Documentation:** Request additional documentation from the customer, including audited financial statements and compliance certifications.
+3. **Enhanced Approval Process:** Obtain enhanced approval from senior management or the board of directors to proceed with the engagement.
+
+By implementing these comprehensive due diligence requirements, the organization can mitigate risks and protect its interests while ensuring compliance with regulatory requirements."
+"Review provisions for continuous monitoring of provider performance. Verify:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Suggest implementing structured ongoing monitoring framework.","Upon reviewing the Atlassian Customer Agreement, I have identified several provisions related to monitoring provider performance. However, the scope of monitoring is limited to specific areas, and the frequency requirements are not explicitly stated. Here is a summary of my findings:
+
+**Monitoring Scope:**
+The agreement does not explicitly mention continuous monitoring of provider performance. However, it does require Atlassian to provide support and advisory services as described in the Order and applicable policies (Section 8). Additionally, Atlassian is responsible for maintaining a security program that uses appropriate physical, technical, and organizational measures designed to protect customer data from unauthorized access (Section 4.2).
+
+**Frequency Requirements:**
+There are no explicit frequency requirements for monitoring provider performance. However, Atlassian is obligated to provide timely access to customer materials and personnel reasonably requested by Atlassian for support and advisory services (Section 8).
+
+**Performance Metrics:**
+The agreement does not explicitly outline specific performance metrics for Atlassian's support and advisory services. However, it does mention that Atlassian will use reasonable efforts to ensure that the products, when and as provided by Atlassian, are free of any viruses, malware, or similar malicious code (Section 11.1).
+
+**Reporting Obligations:**
+Atlassian is not explicitly required to report on its performance metrics. However, it is obligated to provide notice to customers before taking any measures to limit access to, or remove, customer data or suspend customer access to products (Section 4.5).
+
+**Recommendation:**
+To ensure continuous monitoring of provider performance, I suggest implementing a structured ongoing monitoring framework. This framework could include:
+
+* Regular reviews of Atlassian's support and advisory services, including performance metrics and reporting obligations.
+* Timely notifications to customers in case of any issues or limitations with the products or services.
+* Clearly defined frequency requirements for monitoring and reporting.
+* Specific performance metrics to be measured and reported on.
+
+By implementing such a framework, customers can have greater confidence in Atlassian's ability to provide reliable and secure products and services."
+"Search for defined Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs). Look for:
+ • Specific metrics
+ • Measurement methodologies
+ • Thresholds
+ • Reporting requirements
+ ▪ 
+Follow-up if Missing: Recommend adding clearly defined KRIs and KPIs with specific measurement criteria.","**Compliance Review: Defined KRIs and KPIs**
+
+Upon reviewing the Atlassian Customer Agreement, it appears that there is a lack of clearly defined Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs) to measure and monitor compliance. Specifically, there are no specific metrics, measurement methodologies, thresholds, or reporting requirements outlined in the agreement.
+
+**Risk and Performance Monitoring**
+
+To ensure effective compliance, it is essential to establish KRIs and KPIs that provide a clear understanding of the risks and performance metrics associated with the agreement. This will enable Atlassian and its customers to identify areas of improvement, track progress, and make data-driven decisions.
+
+**Recommendation**
+
+To address this compliance gap, I recommend adding clearly defined KRIs and KPIs with specific measurement criteria to the agreement. This should include:
+
+* Specific metrics: Identify key metrics that will be used to measure compliance, such as customer satisfaction, data security, and regulatory compliance.
+* Measurement methodologies: Outline the methods and tools that will be used to collect and analyze data for the KRIs and KPIs.
+* Thresholds: Establish clear thresholds for each KRI and KPI to determine when action is required.
+* Reporting requirements: Define the frequency and format of reporting requirements for KRIs and KPIs.
+
+**Example KRIs and KPIs**
+
+Some examples of KRIs and KPIs that could be included in the agreement are:
+
+* Customer satisfaction:
+	+ KRI: Customer satisfaction rating (measured through surveys or feedback forms)
+	+ KPI: Average customer satisfaction rating (threshold: 85%)
+	+ Reporting requirement: Quarterly customer satisfaction reports
+* Data security:
+	+ KRI: Data breach incidents (measured through incident reports)
+	+ KPI: Data breach incident rate (threshold: 0.1%)
+	+ Reporting requirement: Monthly data security reports
+* Regulatory compliance:
+	+ KRI: Compliance audits (measured through audit reports)
+	+ KPI: Compliance audit pass rate (threshold: 90%)
+	+ Reporting requirement: Quarterly regulatory compliance reports
+
+By incorporating clearly defined KRIs and KPIs, Atlassian can ensure effective compliance monitoring and reporting, and make data-driven decisions to improve its services and reduce risks."
+"Review requirements for monitoring and reporting on KRIs/KPIs. Verify:
+ • Monitoring frequency
+ • Reporting templates
+ • Escalation triggers
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding comprehensive monitoring and reporting framework for key indicators.","**Compliance Review: Monitoring and Reporting on KRIs/KPIs**
+
+Upon reviewing the requirements for monitoring and reporting on Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs), several gaps and areas for improvement have been identified. Specifically, the current framework lacks clarity on the monitoring frequency, reporting templates, escalation triggers, and review procedures.
+
+**Monitoring Frequency:**
+
+The current framework does not specify a regular monitoring frequency for KRIs/KPIs. To address this gap, it is recommended to establish a clear schedule for monitoring, such as quarterly or bi-annually, to ensure timely identification and mitigation of risks and performance issues.
+
+**Reporting Templates:**
+
+The reporting templates for KRIs/KPIs are unclear, and there is a need for standardized templates to facilitate consistent and accurate reporting. It is suggested to develop a comprehensive reporting framework that includes templates for reporting on KRIs/KPIs, which should be reviewed and updated regularly.
+
+**Escalation Triggers:**
+
+The current framework lacks clear escalation triggers for KRIs/KPIs. To address this gap, it is recommended to establish specific thresholds or triggers for escalation, which should be communicated to all stakeholders. This will ensure timely intervention and mitigation of risks and performance issues.
+
+**Review Procedures:**
+
+The review procedures for KRIs/KPIs are not clearly defined. To address this gap, it is suggested to establish a formal review process that includes regular review of KRIs/KPIs, identification of areas for improvement, and implementation of corrective actions. This process should be documented and communicated to all stakeholders.
+
+**Comprehensive Monitoring and Reporting Framework:**
+
+To address the identified gaps, it is recommended to develop a comprehensive monitoring and reporting framework for KRIs/KPIs. This framework should include:
+
+1. Regular monitoring frequency
+2. Standardized reporting templates
+3. Clear escalation triggers
+4. Formal review procedures
+5. Documented and communicated processes to all stakeholders
+
+By implementing a comprehensive monitoring and reporting framework, the organization can ensure timely identification and mitigation of risks and performance issues, ultimately driving business success and compliance."
+"Review the contract to verify presence of complete documentation of all rights and obligations. Look specifically for:
+ • Clear delineation of all parties' rights
+ • Comprehensive list of obligations
+ • Service scope definitions
+ • Term and termination provisions
+ • Liability and indemnification clauses
+ ▪ 
+Follow-up if Missing: Flag any missing essential contract elements and recommend adding comprehensive rights and obligations documentation.","After reviewing the contract, it appears that the parties have made a good effort to document their rights and obligations. However, there are a few areas where the documentation could be improved to provide a more comprehensive and clear understanding of the parties' responsibilities.
+
+**Clear Delineation of All Parties' Rights**
+
+The contract does a good job of outlining the rights of both parties, including the rights of the Customer and Atlassian. However, there are some areas where the rights are not clearly delineated, such as the rights of Atlassian to modify or terminate the contract. For example, Section 9 (Ordering Process and Delivery) states that Atlassian may modify the contract or terminate it at any time, but it does not provide clear guidance on what circumstances would trigger such modifications or terminations.
+
+**Comprehensive List of Obligations**
+
+The contract provides a comprehensive list of obligations for both parties, including obligations related to payment, support, and data security. However, there are some areas where the obligations are not clearly defined, such as the obligations of the Customer to provide timely access to Customer Materials and personnel reasonably requested by Atlassian.
+
+**Service Scope Definitions**
+
+The contract provides clear definitions of the scope of services to be provided by Atlassian, including the scope of support and advisory services. However, there are some areas where the scope of services is not clearly defined, such as the scope of services related to the Atlassian Marketplace.
+
+**Term and Termination Provisions**
+
+The contract provides clear guidance on the term and termination provisions, including the circumstances under which either party may terminate the contract. However, there are some areas where the termination provisions could be improved, such as the provision for notice periods and the consequences of termination.
+
+**Liability and Indemnification Clauses**
+
+The contract provides clear liability and indemnification clauses, including provisions related to intellectual property infringement and data security breaches. However, there are some areas where the liability and indemnification provisions could be improved, such as the provision for limits on liability and the consequences of breach.
+
+**Flagging Missing Essential Contract Elements**
+
+Based on the review, the following essential contract elements are missing:
+
+* Clear guidance on the circumstances under which Atlassian may modify or terminate the contract
+* Clear definitions of the obligations of the Customer to provide timely access to Customer Materials and personnel reasonably requested by Atlassian
+* Clear definitions of the scope of services related to the Atlassian Marketplace
+* Clear guidance on the notice periods and consequences of termination
+* Clear definitions of the limits on liability and consequences of breach
+
+**Recommendation**
+
+Based on the review, it is recommended that the contract be revised to include comprehensive rights and obligations documentation, including clear definitions of the rights and obligations of both parties, comprehensive lists of obligations, clear service scope definitions, term and termination provisions, and liability and indemnification clauses. This will provide a more comprehensive and clear understanding of the parties' responsibilities and help to prevent disputes and misunderstandings."
+"Verify that the contract follows a structured format containing all essential elements. Look for:
+ • Table of contents
+ • Clear section organization
+ • Cross-referencing
+ • Definition of terms
+ • Signature blocks and dates
+ ▪ 
+Follow-up if Missing: Recommend restructuring agreement to ensure all essential elements are properly organized and documented.","Upon reviewing the provided contract, I have identified that it generally follows a structured format, but there are some areas that could be improved for clarity and completeness. Here is a summary of the findings:
+
+**Structured Format:** The contract is divided into clear sections, with each section addressing a specific aspect of the agreement, such as ""Overview"", ""Use of Products"", ""Customer Obligations"", and ""Term and Termination"". This organization makes it easier to navigate and understand the agreement.
+
+**Clear Section Organization:** The contract is well-organized, with each section clearly titled and separated from the others. However, some sections could be further divided or reorganized for better clarity.
+
+**Cross-Referencing:** The contract includes cross-references to other sections, policies, and documents, such as the ""Documentation"", ""Policies"", and ""Product-Specific Terms"". These cross-references help to ensure that the reader understands the context and scope of the agreement.
+
+**Definition of Terms:** The contract includes a definition section (Section 21) that defines key terms, such as ""Cloud Products"", ""Software Products"", and ""Subscription Term"". This helps to clarify the meaning of these terms throughout the agreement.
+
+**Signature Blocks and Dates:** The contract does not include signature blocks or dates, which is a crucial element of any agreement. This omission raises questions about the contract's validity and enforceability.
+
+**Recommendations:**
+
+1. **Add a Table of Contents:** A table of contents would help the reader quickly navigate the agreement and understand its structure.
+2. **Improve Cross-Referencing:** While the contract includes cross-references, some of them are incomplete or unclear. Ensure that all cross-references are accurate and easy to follow.
+3. **Define Key Terms:** While the contract includes a definition section, some key terms are not defined. Ensure that all critical terms are clearly defined to avoid ambiguity.
+4. **Include Signature Blocks and Dates:** Add signature blocks and dates to the contract to ensure its validity and enforceability.
+5. **Consider a More Comprehensive Restructuring:** Based on the contract's complexity and length, consider reorganizing it to improve clarity, coherence, and readability.
+
+By addressing these areas, the contract can be further improved to ensure that all essential elements are properly organized and documented, making it easier to understand and navigate."
+"Search for explicit identification and documentation of critical and important functions being outsourced. Look for:
+ • Clear function definitions
+ • Criticality criteria
+ • Impact assessments
+ • Dependencies mapping
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding detailed documentation of critical and important functions.","Upon reviewing the Atlassian Customer Agreement, I have identified a critical gap in the documentation of critical and important functions being outsourced. Specifically, the agreement does not provide clear definitions of critical functions, nor does it outline the criteria for determining their criticality.
+
+Section 20.11 of the agreement mentions that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under the agreement, but it does not provide any detailed information on the functions that are being outsourced or the impact assessments that have been conducted.
+
+To address this critical gap, I recommend that Atlassian provide detailed documentation of critical and important functions, including clear definitions, criticality criteria, impact assessments, and dependencies mapping. This will enable a thorough understanding of the outsourcing arrangements and the potential risks associated with them.
+
+In particular, I suggest that Atlassian:
+
+* Develop a clear and concise definition of critical functions, including a description of the specific tasks and activities that are being outsourced.
+* Establish a set of criteria for determining the criticality of functions, including factors such as business impact, regulatory requirements, and data protection obligations.
+* Conduct a thorough impact assessment of the outsourcing arrangements, including an analysis of the potential risks and consequences of any failures or disruptions.
+* Create a dependencies mapping document that outlines the relationships between critical functions, subcontractors, and internal teams.
+
+By providing this detailed documentation, Atlassian can ensure that its customers are fully informed about the outsourcing arrangements and can make informed decisions about their own risk management strategies."
+"Review methodology for classifying functions as critical or important. Verify presence of:
+ • Classification criteria
+ • Assessment methodology
+ • Review procedures
+ • Update requirements
+ ▪ 
+Follow-up if Missing: Suggest implementing structured framework for function classification and documentation.","Compliance Review Conclusion: The current methodology for classifying functions as critical or important is incomplete and lacks a structured framework, posing potential risks to the organization's operations and regulatory compliance.
+
+The current methodology is deficient in several areas:
+
+1. **Classification criteria**: The methodology lacks clear and specific criteria for classifying functions as critical or important. This ambiguity may lead to inconsistent or arbitrary classification decisions, undermining the integrity of the process.
+2. **Assessment methodology**: The review process does not specify a systematic approach for evaluating the functions, making it challenging to ensure comprehensive and unbiased assessments.
+3. **Review procedures**: The procedures for conducting the review are not clearly defined, which may result in missed or incomplete evaluations, and lack of documentation to support the classification decisions.
+4. **Update requirements**: The methodology does not provide a clear framework for updating the classification of functions over time, which may lead to outdated or inaccurate classifications.
+
+To address these gaps, I recommend implementing a structured framework for function classification and documentation. This framework should include:
+
+1. **Clear classification criteria**: Develop and document specific, objective criteria for classifying functions as critical or important.
+2. **Systematic assessment methodology**: Establish a step-by-step approach for evaluating functions, including data collection, analysis, and decision-making processes.
+3. **Defined review procedures**: Document comprehensive procedures for conducting the review, including timelines, roles, and responsibilities.
+4. **Update requirements**: Develop a clear plan for reviewing and updating the classification of functions on a regular basis (e.g., annually or semi-annually).
+
+By implementing this structured framework, the organization can ensure a more consistent, transparent, and reliable approach to function classification, ultimately enhancing regulatory compliance and operational resilience."
+"Search for explicit requirements regarding compliance with DORA. Look for:
+ • Specific DORA references
+ • Compliance obligations
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Recommend adding explicit DORA compliance requirements and documentation procedures.","**Compliance with DORA Requirements**
+
+Upon reviewing the Atlassian Customer Agreement, I have identified several compliance obligations related to the Department of Defense (DoD) Directive 8140.01, also known as the Cybersecurity Maturity Model Certification (CMMC) or the Defense Acquisition Regulation System (DARS) requirements, which are commonly referred to as the Defense Operational Resilience Act (DORA). However, I must note that the agreement does not explicitly mention DORA.
+
+**Specific DORA References**
+
+While DORA is not explicitly mentioned, Section 6.2 of the agreement states that ""Customer is responsible for determining whether the Products meet Customer’s requirements and any regulatory obligations related to its intended use."" This implies that Customer is responsible for ensuring compliance with relevant regulations, including DORA, if applicable.
+
+**Compliance Obligations**
+
+Section 6.3 of the agreement states that ""Unless the parties have entered into a 'Business Associate Agreement,' Customer must not (and must not permit anyone else to) upload to the Cloud Products (or use the Cloud Products to process) any patient, medical or other protected health information regulated by the Health Insurance Portability and Accountability Act (HIPAA)."" This requirement can be interpreted as a compliance obligation, as it involves handling sensitive information.
+
+**Monitoring Requirements**
+
+Section 4.2 of the agreement states that ""Atlassian has implemented and will maintain an information security program that uses appropriate physical, technical and organizational measures designed to protect Customer Data from unauthorized access, destruction, use, modification or disclosure, as described in its Security Measures."" This implies that Atlassian is responsible for monitoring its information security program to ensure compliance.
+
+**Reporting Obligations**
+
+Section 15.1 of the agreement states that ""Atlassian must: (a) defend Customer from and against any third-party claim to the extent alleging that the Products, when used by Customer as authorized by this Agreement, infringe any intellectual property right of a third party (an ‘Infringement Claim’), and (b) indemnify and hold harmless Customer against any damages, fines or costs finally awarded by a court of competent jurisdiction (including reasonable attorneys’ fees) or agreed in settlement by Atlassian resulting from an Infringement Claim."" This implies that Atlassian is responsible for reporting any intellectual property infringement claims.
+
+**Recommendations**
+
+Given the lack of explicit DORA compliance requirements and documentation procedures, I recommend that Atlassian:
+
+1. Add explicit DORA compliance requirements to the agreement, outlining the specific obligations and responsibilities of both parties.
+2. Develop documentation procedures to ensure that DORA compliance is properly documented, including incident response plans, security measures, and reporting requirements.
+3. Review and update the agreement to include specific references to DORA and its requirements.
+
+By implementing these recommendations, Atlassian can ensure that it meets its compliance obligations under DORA and provides its customers with clear guidance on their responsibilities."
+"Review provisions requiring compliance with all applicable laws. Verify:
+ • Comprehensive coverage of applicable regulations
+ • Compliance monitoring requirements
+ • Documentation standards
+ • Update procedures
+ ▪ 
+Follow-up if Missing: Flag as compliance gap and suggest adding comprehensive regulatory compliance documentation requirements.","Upon reviewing the Atlassian Customer Agreement, I have identified several provisions that address compliance with applicable laws. Specifically, Section 20.1, ""Compliance with Laws,"" requires each party to comply with all Laws applicable to its business in its performance of obligations or exercise of rights under this Agreement.
+
+However, I have found some areas that require further review and consideration to ensure comprehensive regulatory compliance. Here are the observations:
+
+* Comprehensive coverage of applicable regulations: The agreement mentions Laws, but it does not explicitly list or describe the specific regulations or laws that are applicable. To ensure comprehensive coverage, I recommend adding a schedule or annexure that outlines the relevant laws and regulations.
+* Compliance monitoring requirements: The agreement does not specify how compliance will be monitored or ensured. I suggest adding requirements for regular compliance audits, reviews, and assessments to ensure that both parties are meeting their obligations.
+* Documentation standards: While the agreement mentions the need to provide written notice of termination, it does not specify the documentation standards for compliance-related matters. I recommend adding requirements for maintaining accurate and complete records of compliance-related activities.
+* Update procedures: The agreement does not specify procedures for updating compliance documentation or notifying the other party of changes to applicable laws or regulations. I suggest adding requirements for regular updates and notifications to ensure that both parties are aware of any changes.
+
+To address these gaps, I recommend adding comprehensive regulatory compliance documentation requirements to the agreement. This could include:
+
+* A schedule or annexure outlining the relevant laws and regulations
+* Requirements for regular compliance audits, reviews, and assessments
+* Documentation standards for maintaining accurate and complete records of compliance-related activities
+* Procedures for updating compliance documentation and notifying the other party of changes to applicable laws or regulations
+
+By adding these requirements, the agreement will provide a more comprehensive framework for regulatory compliance, ensuring that both parties are meeting their obligations and minimizing the risk of non-compliance."
+"Search for requirements to maintain a comprehensive register of ICT service arrangements. Look for:
+ • Register structure requirements
+ • Content specifications
+ • Update procedures
+ • Access controls
+ ▪ 
+Follow-up if Missing: Recommend adding detailed requirements for contract register maintenance.","**Compliance Requirement: Maintenance of Comprehensive ICT Service Arrangement Register**
+
+As a compliance officer, it is essential to ensure that a comprehensive register of ICT service arrangements is maintained to ensure transparency, accountability, and effective management of ICT services. The register should contain detailed information about all ICT service arrangements, including contracts, agreements, and other arrangements.
+
+**Register Structure Requirements**
+
+The register should have a clear and structured format, with the following requirements:
+
+* The register should be divided into sections or categories, such as:
+	+ Contracts: to store details of all contracts and agreements related to ICT services
+	+ Service Level Agreements (SLAs): to store details of SLAs with service providers
+	+ Technical Specifications: to store technical requirements and specifications of ICT services
+	+ Service Descriptions: to store descriptions of ICT services and their functionalities
+	+ Service Providers: to store information about service providers, including their contact details and performance records
+* Each section or category should have a unique identifier, such as a contract number or a service description code
+
+**Content Specifications**
+
+The register should contain detailed information about each ICT service arrangement, including:
+
+* Contract or agreement details: contract number, date, duration, and parties involved
+* Service level agreement details: SLA number, date, duration, and performance metrics
+* Technical specifications: technical requirements, specifications, and standards
+* Service description: description of the ICT service, including its functionalities and features
+* Service provider details: service provider name, contact details, and performance records
+* Renewal and termination details: renewal dates, termination dates, and notice periods
+
+**Update Procedures**
+
+The register should be updated regularly to reflect changes to ICT service arrangements. The following procedures should be in place:
+
+* Regular review of contracts and agreements: to ensure that they are up-to-date and compliant with organizational policies and regulations
+* Notification of changes: to inform relevant stakeholders of any changes to ICT service arrangements
+* Update of register: to reflect changes to ICT service arrangements, including contract renewals, terminations, and changes to technical specifications or service descriptions
+
+**Access Controls**
+
+Access to the register should be restricted to authorized personnel only, with the following controls in place:
+
+* Authentication: to ensure that only authorized personnel can access the register
+* Authorization: to ensure that personnel have the necessary permissions and clearance to access the register
+* Audit trails: to track and record access to the register, including date, time, and user identity
+
+**Recommendation: Contract Register Maintenance**
+
+To ensure effective management of ICT services, it is recommended that detailed requirements for contract register maintenance be added to the register structure requirements. This should include:
+
+* Regular review of contracts: to ensure that they are up-to-date and compliant with organizational policies and regulations
+* Notification of changes: to inform relevant stakeholders of any changes to ICT service arrangements
+* Update of register: to reflect changes to ICT service arrangements, including contract renewals, terminations, and changes to technical specifications or service descriptions
+
+By implementing these requirements, organizations can ensure that their ICT service arrangements are well-managed, transparent, and compliant with relevant regulations and policies."
+"Review requirements for documenting ICT third-party service provider categories. Verify:
+ • Categorization criteria
+ • Documentation requirements
+ • Review procedures
+ • Update frequency
+ ▪ 
+Follow-up if Missing: Suggest implementing structured provider categorization framework and documentation requirements.","Upon reviewing the requirements for documenting ICT third-party service provider categories, I have identified the following key aspects:
+
+**Categorization Criteria:**
+The categorization criteria for ICT third-party service providers should be well-defined and aligned with the organization's risk management and compliance framework. The criteria should consider factors such as the type of service, level of access, sensitivity of data, and potential impact on business operations. A structured framework, such as the NIST Cybersecurity Framework or the ISO 27001 standard, can provide a solid foundation for categorizing service providers.
+
+**Documentation Requirements:**
+Documentation requirements should be comprehensive and include:
+
+1. Service provider contact information and details
+2. Service description, scope, and terms
+3. Risk assessment and mitigation strategies
+4. Security controls and measures in place
+5. Compliance requirements and certifications
+6. Incident response and breach notification procedures
+
+**Review Procedures:**
+Regular review procedures should be in place to ensure that the categorization and documentation of service providers remain up-to-date and accurate. This can include:
+
+1. Annual reviews of service provider contracts and agreements
+2. Quarterly reviews of service provider performance and security controls
+3. Incident response and breach notification procedures
+4. Compliance audits and assessments
+
+**Update Frequency:**
+The frequency of updates should be aligned with the organization's risk management and compliance requirements. A minimum of annual reviews is recommended, with more frequent reviews as needed.
+
+**Structured Provider Categorization Framework:**
+Implementing a structured provider categorization framework will ensure consistency and accuracy in categorizing and documenting service providers. This framework can be based on the organization's risk management and compliance requirements, as well as industry standards and best practices.
+
+**Documentation Requirements:**
+Implementing structured documentation requirements will ensure that all necessary information is collected and maintained for each service provider. This will include:
+
+1. Standardized templates for service provider documentation
+2. Defined data elements and fields for service provider information
+3. Regular reviews and updates of service provider documentation
+
+By implementing a structured provider categorization framework and documentation requirements, organizations can ensure that their ICT third-party service providers are properly managed and monitored, reducing the risk of data breaches and compliance issues."
+"Search for requirements to document types of contractual arrangements. Look for:
+ • Contract type definitions
+ • Classification criteria
+ • Documentation standards
+ • Maintenance requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive contract type documentation requirements.","**Compliance Finding: Contract Type Documentation Requirements**
+
+It is imperative that Atlassian maintains comprehensive documentation on contractual arrangements to ensure clarity, transparency, and compliance with regulatory requirements. A thorough review of the Atlassian Customer Agreement reveals a need for explicit documentation standards for contract types.
+
+**Contract Type Definitions**
+
+The Agreement defines various contract types, including ""Cloud Products,"" ""Software Products,"" ""Order,"" and ""Subscription Term."" However, it lacks explicit definitions for other critical contract types, such as ""Reseller Agreement"" or ""Partner Contract."" To address this, Atlassian should develop and maintain a comprehensive contract type dictionary that clearly defines each contract type, its purpose, and the relevant terms and conditions.
+
+**Classification Criteria**
+
+The Agreement establishes classification criteria for contractual arrangements, including the type of product, scope of use, and subscription term. However, these criteria are not consistently applied across all contract types. To ensure consistency and accuracy, Atlassian should develop a standardized classification framework that outlines clear criteria for categorizing contractual arrangements.
+
+**Documentation Standards**
+
+The Agreement specifies documentation standards for certain contractual arrangements, such as the ""DPA"" (Data Processing Addendum) and ""Product-Specific Terms."" However, these standards are not comprehensive, and many contract types lack documentation requirements. To address this, Atlassian should develop and maintain a set of standardized documentation templates and guidelines that ensure consistency and completeness across all contract types.
+
+**Maintenance Requirements**
+
+The Agreement does not establish explicit maintenance requirements for contractual documentation. To ensure that contract types remain up-to-date and compliant, Atlassian should establish a regular review and update cycle for contractual documentation, including contract type definitions, classification criteria, and documentation standards.
+
+**Recommendation**
+
+To address these compliance gaps, I recommend that Atlassian develop and maintain comprehensive documentation requirements for contract types, including:
+
+1. Contract type definitions and classification criteria
+2. Standardized documentation templates and guidelines
+3. Regular review and update cycle for contractual documentation
+4. Clear maintenance requirements for contract types
+
+By implementing these recommendations, Atlassian can ensure that contractual arrangements are well-documented, compliant, and aligned with regulatory requirements."
+"Review requirements for documenting ICT services and functions. Verify presence of:
+ • Service descriptions
+ • Function specifications
+ • Performance requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and suggest adding detailed service documentation requirements.","Compliance Review: ICT Service Documentation Requirements
+
+Based on the provided document, it appears that the Atlassian Customer Agreement does not explicitly outline detailed documentation requirements for ICT services and functions. A thorough review of the agreement reveals the following:
+
+* Service descriptions: The agreement mentions various products and services offered by Atlassian, but it does not provide detailed descriptions of each service.
+* Function specifications: The agreement does not explicitly outline function specifications for the services offered by Atlassian.
+* Performance requirements: The agreement mentions service level commitments for some cloud products, but it does not provide a comprehensive list of performance requirements for all services.
+* Documentation standards: The agreement references various policies and guidelines, but it does not establish clear documentation standards for ICT services and functions.
+
+Documentation Gap: Flagging the absence of detailed service documentation requirements as a documentation gap.
+
+Recommendation: Suggest adding detailed service documentation requirements to the agreement, including:
+
+* Service descriptions: Provide detailed descriptions of each service, including its purpose, scope, and functionality.
+* Function specifications: Outline the functional specifications for each service, including input, processing, and output requirements.
+* Performance requirements: Establish clear performance requirements for each service, including service level agreements (SLAs) and key performance indicators (KPIs).
+* Documentation standards: Establish clear documentation standards for ICT services and functions, including formatting, content, and version control requirements.
+
+By addressing these documentation gaps, Atlassian can ensure that customers have access to comprehensive and accurate information about their ICT services and functions, facilitating better understanding and utilization of the services."
+"Search for specific procedures regarding register updates and maintenance. Look for:
+ • Update frequency requirements
+ • Responsibility assignments
+ • Review procedures
+ • Quality control measures
+ ▪ 
+Follow-up if Missing: Recommend implementing structured register maintenance procedures with clear responsibilities.","**Compliance Observation: Register Updates and Maintenance Procedures**
+
+As a compliance officer, I have identified a need for improvement in the procedures for register updates and maintenance. Specifically, I recommend that the company implement structured register maintenance procedures with clear responsibilities to ensure accuracy and reliability of the registers.
+
+**Update Frequency Requirements**
+
+Upon reviewing the document, I found that there is no specific requirement for update frequency. To ensure that the registers are up-to-date and accurate, I recommend establishing a schedule for regular updates, such as quarterly or semi-annually, to review and update the registers.
+
+**Responsibility Assignments**
+
+The document does not clearly assign responsibilities for register updates and maintenance. To address this, I recommend designating specific individuals or teams to be responsible for updating and maintaining the registers. This will ensure that someone is accountable for the accuracy and completeness of the registers.
+
+**Review Procedures**
+
+The document does not outline procedures for reviewing the registers. To ensure that the registers are accurate and complete, I recommend establishing procedures for regular reviews, such as quarterly or semi-annually, to verify the information and identify any discrepancies or errors.
+
+**Quality Control Measures**
+
+The document does not mention quality control measures for the registers. To ensure that the registers meet the required standards, I recommend implementing quality control measures, such as checks and balances, to verify the accuracy and completeness of the registers.
+
+**Recommendations**
+
+To address these findings, I recommend implementing the following procedures:
+
+1. Establish a schedule for regular updates and reviews of the registers.
+2. Designate specific individuals or teams to be responsible for updating and maintaining the registers.
+3. Establish procedures for reviewing the registers to verify accuracy and completeness.
+4. Implement quality control measures to ensure that the registers meet the required standards.
+
+By implementing these procedures, the company can ensure that the registers are accurate, reliable, and up-to-date, which is essential for compliance with regulatory requirements."
+"Review requirements for register access and security. Verify:
+ • Access control requirements
+ • Security measures
+ • Audit trail requirements
+ • Confidentiality provisions
+ ▪ 
+Follow-up if Missing: Suggest adding comprehensive access control and security requirements for register maintenance.","Compliance Review Findings: Access Control and Security Requirements
+
+Upon reviewing the Atlassian Customer Agreement, it appears that the access control and security requirements for register maintenance are not explicitly stated. However, we can infer some provisions related to access control and security from various sections of the agreement. Here are the key findings:
+
+**Access Control Requirements:**
+
+* The agreement does not explicitly mention access control requirements for register maintenance. However, Section 3.1 states that Customer is responsible for ensuring that each User keeps their login credentials confidential and promptly notifies Atlassian in case of unauthorized access.
+* Section 2.2 (Restrictions) outlines general restrictions on the use of Products, including limitations on access and use.
+
+**Security Measures:**
+
+* The agreement mentions that Atlassian has implemented a security program (Section 4.2) to protect Customer Data, including physical, technical, and organizational measures.
+* Atlassian's security practices are available on its website (https://www.atlassian.com/legal/security-measures).
+
+**Audit Trail Requirements:**
+
+* There are no explicit audit trail requirements mentioned in the agreement. However, Section 12.4 (Effect of Termination) states that Atlassian will delete Customer Data in accordance with the Documentation, which may imply a requirement for audit trails.
+
+**Confidentiality Provisions:**
+
+* Section 16 (Confidentiality) outlines confidentiality obligations for both parties, including the handling of Confidential Information.
+* However, the agreement does not specifically address confidentiality provisions related to register maintenance.
+
+**Recommendations:**
+
+To ensure comprehensive access control and security requirements for register maintenance, we suggest adding the following:
+
+1. **Access Control Policy:** Develop a clear access control policy for register maintenance, including roles, responsibilities, and permissions.
+2. **Register Access Controls:** Specify access control requirements for register maintenance, such as multi-factor authentication, password policies, and account lockout procedures.
+3. **Security Measures:** Outline specific security measures for register maintenance, including encryption, firewalls, and intrusion detection systems.
+4. **Audit Trail Requirements:** Establish audit trail requirements for register maintenance, including logs of access, changes, and deletions.
+5. **Confidentiality Provisions:** Update confidentiality provisions to specifically address register maintenance, including handling of sensitive information.
+
+By incorporating these recommendations, the agreement will provide a more comprehensive framework for access control and security requirements related to register maintenance."
+"Search for explicit provisions defining restrictions on subcontracting. Look specifically for:
+ • Prohibited activities
+ • Geographic restrictions
+ • Service type limitations
+ • Chain length restrictions
+ • Specific excluded functions
+ ▪ 
+Follow-up if Missing: Flag as control gap and recommend adding comprehensive subcontracting restrictions aligned with DORA requirements.","**Compliance Finding:**
+
+Atlassian's Customer Agreement contains provisions related to subcontracting, but they are not comprehensive and do not fully align with the requirements of the Digital Operational Resilience Act (DORA).
+
+**Prohibited Activities:**
+
+Section 20.11 (Subcontractors and Affiliates) of the Agreement states that Atlassian may use subcontractors or its Affiliates in the performance of its obligations under the Agreement. However, it does not explicitly prohibit any specific activities that subcontractors or Affiliates may engage in.
+
+**Geographic Restrictions:**
+
+The Agreement does not impose any geographic restrictions on subcontracting. This means that Atlassian may subcontract work to entities located anywhere in the world, which could potentially increase the risk of data breaches or other security incidents.
+
+**Service Type Limitations:**
+
+Section 20.11 only allows Atlassian to use subcontractors or Affiliates for the performance of its obligations under the Agreement, without specifying any limitations on the types of services that can be subcontracted.
+
+**Chain Length Restrictions:**
+
+The Agreement does not impose any restrictions on the length of subcontracting chains. This means that Atlassian may subcontract work to multiple entities, which could potentially increase the risk of data breaches or other security incidents.
+
+**Specific Excluded Functions:**
+
+The Agreement does not explicitly exclude any specific functions from subcontracting. However, Section 15.5 (Exceptions) states that Atlassian's obligations under the indemnification clause do not apply to the extent an Infringement Claim arises from use of the Products in combination with items not provided by Atlassian, including Third-Party Products. This suggests that certain functions may be excluded from subcontracting, but it is not explicitly stated.
+
+**Control Gap:**
+
+Given the gaps in Atlassian's subcontracting provisions, I recommend that the company adds comprehensive subcontracting restrictions aligned with DORA requirements. This should include:
+
+* Prohibited activities, such as outsourcing critical functions or sharing sensitive data with subcontractors
+* Geographic restrictions, such as limiting subcontracting to entities located within specific geographic regions
+* Service type limitations, such as excluding certain types of services from subcontracting
+* Chain length restrictions, such as limiting the number of subcontracting levels
+* Specific excluded functions, such as excluding critical functions like security, compliance, or data processing from subcontracting
+
+By adding these provisions, Atlassian can better ensure the security, resilience, and continuity of its services, and comply with the requirements of the Digital Operational Resilience Act (DORA)."
+"Review conditions under which subcontracting is permitted. Verify presence of:
+ • Qualification criteria for subcontractors
+ • Minimum security requirements
+ • Compliance obligations
+ • Performance standards
+ • Risk assessment requirements
+ ▪ 
+Follow-up if Missing: Recommend implementing detailed subcontracting condition framework.","Upon reviewing the Atlassian Customer Agreement, it appears that subcontracting is permitted, but a more detailed framework is recommended to ensure compliance with industry standards and regulatory requirements. Specifically, the agreement does not explicitly outline qualification criteria for subcontractors, minimum security requirements, compliance obligations, performance standards, and risk assessment requirements.
+
+The agreement does mention that Atlassian may use subcontractors or its affiliates in the performance of its obligations under the agreement (Section 20.11). However, it is unclear what criteria Atlassian uses to select subcontractors, what security measures are in place to protect sensitive information, or how subcontractors are held accountable for their performance.
+
+To address these gaps, I recommend implementing a detailed subcontracting condition framework that includes the following elements:
+
+1. **Qualification criteria for subcontractors**: Establish clear criteria for selecting subcontractors, including their technical expertise, experience, and reputation.
+2. **Minimum security requirements**: Specify the minimum security measures that subcontractors must implement to protect sensitive information, such as data encryption, access controls, and incident response procedures.
+3. **Compliance obligations**: Clearly outline the compliance obligations that subcontractors must adhere to, including relevant laws, regulations, and industry standards.
+4. **Performance standards**: Establish clear performance standards for subcontractors, including metrics for measuring their performance and consequences for non-compliance.
+5. **Risk assessment requirements**: Require subcontractors to conduct regular risk assessments to identify potential vulnerabilities and implement mitigation strategies.
+
+By implementing a comprehensive subcontracting framework, Atlassian can ensure that its subcontractors meet the necessary standards for quality, security, and compliance, thereby reducing the risk of reputational damage, financial loss, and non-compliance with regulatory requirements."
+"Search for provisions requiring prior approval for subcontractor engagement. Look for:
+ • Approval request procedures
+ • Required documentation
+ • Assessment criteria
+ • Decision timelines
+ • Approval authority designation
+ ▪ 
+Follow-up if Missing: Flag as critical control gap and suggest adding structured approval process.","Based on the provided Atlassian Customer Agreement, I have identified the relevant provision related to subcontractor engagement.
+
+**Provision:** Section 20.11 (Subcontractors and Affiliates) states: ""Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.""
+
+**Critical Control Gap:** The provision does not specify procedures for requesting prior approval for subcontractor engagement, required documentation, assessment criteria, decision timelines, or approval authority designation.
+
+**Recommendation:** To address this critical control gap, I suggest adding a structured approval process for subcontractor engagement. This could include:
+
+* **Approval Request Procedures:** Atlassian should establish a formal request process for subcontractor engagement, which could include a template or online form for submitting requests.
+* **Required Documentation:** Atlassian should specify the documentation required to support subcontractor engagement requests, such as:
+	+ Contract or agreement details
+	+ Subcontractor qualifications and experience
+	+ Scope of work and deliverables
+	+ Pricing and payment terms
+* **Assessment Criteria:** Atlassian should establish clear criteria for evaluating subcontractor proposals, including:
+	+ Technical expertise and experience
+	+ Quality of services
+	+ Pricing and value for money
+	+ Risk assessment and mitigation strategies
+* **Decision Timelines:** Atlassian should establish clear decision timelines for subcontractor engagement requests, including:
+	+ Response times for initial assessments
+	+ Review and approval timelines
+	+ Notification procedures for rejected or approved proposals
+* **Approval Authority Designation:** Atlassian should designate specific approval authorities for subcontractor engagement requests, including:
+	+ Decision-making roles and responsibilities
+	+ Escalation procedures for complex or high-risk proposals
+
+By implementing a structured approval process for subcontractor engagement, Atlassian can ensure that all subcontractors meet required standards, minimize risks, and maintain control over its obligations under the agreement."
+"Review requirements for managing changes to subcontractor arrangements. Verify:
+ • Change notification requirements
+ • Assessment procedures
+ • Approval processes
+ • Documentation standards
+ • Timeline requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive change management requirements.","**Compliance Review: Subcontractor Change Management**
+
+**Conclusion:** Atlassian's subcontractor change management requirements are not comprehensive, leaving room for potential compliance risks. It is essential to establish clear procedures for managing changes to subcontractor arrangements to ensure the integrity of the relationship, maintain compliance with applicable laws and regulations, and protect Atlassian's interests.
+
+**Change Notification Requirements:**
+
+* Currently, there are no explicit requirements for change notification. It is recommended to establish a clear notification process, including the frequency, format, and content of notifications.
+* Change notifications should be submitted to Atlassian's designated contact person, and a record of the notification should be maintained.
+
+**Assessment Procedures:**
+
+* The current procedures lack a structured assessment framework. It is recommended to develop a comprehensive assessment process that considers factors such as the type and scope of the change, potential risks, and impact on the subcontractor's performance.
+* Assessments should be conducted by designated personnel, and a formal decision-making process should be established.
+
+**Approval Processes:**
+
+* The current approval process is not clearly defined. It is recommended to establish a formal approval process that includes multiple levels of review and approval, including senior management and relevant stakeholders.
+* Approval should be based on a thorough assessment of the change, and a record of the approval should be maintained.
+
+**Documentation Standards:**
+
+* There are no specific documentation standards in place. It is recommended to establish clear documentation requirements, including templates, formats, and retention periods.
+* All documentation related to subcontractor changes should be maintained in a centralized repository, easily accessible to relevant personnel.
+
+**Timeline Requirements:**
+
+* There are no specific timeline requirements for managing subcontractor changes. It is recommended to establish clear deadlines for notification, assessment, and approval processes.
+* Timelines should be realistic and take into account the complexity of the change and the availability of necessary personnel.
+
+**Recommendations:**
+
+* Develop a comprehensive change management policy that outlines the procedures for managing subcontractor changes.
+* Establish a clear notification process, including the frequency, format, and content of notifications.
+* Develop a structured assessment framework that considers factors such as the type and scope of the change, potential risks, and impact on the subcontractor's performance.
+* Establish a formal approval process that includes multiple levels of review and approval.
+* Develop clear documentation standards, including templates, formats, and retention periods.
+* Establish specific timeline requirements for managing subcontractor changes.
+
+By implementing these recommendations, Atlassian can ensure that subcontractor changes are managed in a compliant and effective manner, reducing the risk of non-compliance and protecting the integrity of the relationship."
+"Search for provisions requiring monitoring of subcontractor compliance. Look for:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ • Oversight responsibilities
+ ▪ 
+Follow-up if Missing: Suggest implementing structured monitoring framework.","**Compliance Findings: Monitoring of Subcontractor Compliance**
+
+Upon reviewing the Atlassian Customer Agreement, I have identified provisions related to subcontractor compliance, specifically in Section 20.11 (Subcontractors and Affiliates). However, the provisions are not exhaustive, and certain requirements are missing.
+
+**Provisions Identified:**
+
+* Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement (Section 20.11).
+* Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement (Section 20.11).
+
+**Provisions Missing:**
+
+* Monitoring scope: The Agreement does not specify what aspects of subcontractor compliance Atlassian will monitor.
+* Frequency requirements: There is no requirement for how frequently Atlassian will monitor subcontractor compliance.
+* Performance metrics: The Agreement does not outline specific performance metrics for subcontractor compliance.
+* Reporting obligations: Atlassian is not required to report on subcontractor compliance to the customer.
+* Oversight responsibilities: The Agreement does not specify who will be responsible for overseeing subcontractor compliance.
+
+**Recommendation:**
+
+To ensure effective monitoring of subcontractor compliance, I suggest implementing a structured monitoring framework. This framework should include:
+
+* A clear monitoring scope, outlining the specific aspects of subcontractor compliance that will be monitored.
+* Frequency requirements, such as quarterly or bi-annual monitoring of subcontractor performance.
+* Performance metrics, such as timely completion of tasks, adherence to quality standards, and customer satisfaction ratings.
+* Reporting obligations, requiring Atlassian to provide regular reports to the customer on subcontractor compliance.
+* Oversight responsibilities, clearly defining who will be responsible for overseeing subcontractor compliance and ensuring that they have the necessary authority and resources to perform their duties.
+
+By implementing a structured monitoring framework, Atlassian can ensure that subcontractors are meeting their obligations and that the customer's requirements are being met."
+"Review requirements for assessing subcontractor performance. Verify:
+ • Assessment criteria
+ • Review frequency
+ • Documentation requirements
+ • Corrective action procedures
+ • Escalation protocols
+ ▪ 
+Follow-up if Missing: Flag as monitoring gap and recommend adding detailed assessment requirements.","Based on the provided Atlassian Customer Agreement, I have identified the following requirements for assessing subcontractor performance:
+
+**Assessment Criteria:**
+The agreement does not explicitly state the assessment criteria for evaluating subcontractor performance. However, Section 20.11 (Subcontractors and Affiliates) implies that Atlassian must have written agreements with subcontractors to ensure compliance with the agreement. To address this monitoring gap, I recommend adding detailed assessment requirements to evaluate subcontractor performance, such as:
+
+* Compliance with Atlassian's policies and procedures
+* Quality of work and deliverables
+* Timeliness and meeting deadlines
+* Communication and collaboration
+* Confidentiality and data protection
+
+**Review Frequency:**
+The agreement does not specify the review frequency for subcontractor performance. To ensure continuous monitoring and improvement, I recommend conducting regular reviews, such as quarterly or bi-annually, to assess subcontractor performance and identify areas for improvement.
+
+**Documentation Requirements:**
+The agreement does not explicitly state the documentation requirements for subcontractor performance assessments. To ensure transparency and accountability, I recommend maintaining a record of subcontractor performance assessments, including:
+
+* Assessment reports and findings
+* Corrective action plans and implementation status
+* Escalation protocols and resolutions
+* Lessons learned and improvements
+
+**Corrective Action Procedures:**
+The agreement does not specify the corrective action procedures for subcontractor performance issues. To address this monitoring gap, I recommend developing a corrective action plan that includes:
+
+* Identifying and addressing performance issues
+* Developing and implementing corrective action plans
+* Monitoring progress and implementing changes
+* Escalating issues to management or higher authorities as needed
+
+**Escalation Protocols:**
+The agreement does not specify the escalation protocols for subcontractor performance issues. To ensure timely and effective resolution, I recommend establishing clear escalation protocols, including:
+
+* Identifying and escalating critical issues to management or higher authorities
+* Developing and implementing resolution plans
+* Monitoring progress and implementing changes
+* Communicating with subcontractors and stakeholders throughout the process
+
+In conclusion, while the Atlassian Customer Agreement provides some general requirements for subcontractor performance, there are several monitoring gaps that need to be addressed. I recommend adding detailed assessment requirements, review frequency, documentation requirements, corrective action procedures, and escalation protocols to ensure effective subcontractor performance management."
+"Search for provisions granting comprehensive audit rights over systems. Look for:
+ • Scope of access
+ • Access conditions
+ • Notice requirements
+ • Security protocols
+ • Documentation requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed system access rights provisions.","Upon reviewing the Atlassian Customer Agreement, it is evident that there is a lack of comprehensive audit rights provisions, which raises concerns about the level of access and oversight that Atlassian may have over its systems and data.
+
+The current agreement does not explicitly grant audit rights, and the language used in Section 2.2 (Restrictions) suggests that Atlassian may conduct audits, but the scope and conditions of such audits are not clearly defined.
+
+To address this gap, I recommend that the agreement be amended to include detailed provisions granting comprehensive audit rights, including:
+
+1. **Scope of access**: Clearly define the scope of systems and data that are subject to audit, including specific product offerings, customer data, and other relevant systems.
+2. **Access conditions**: Specify the conditions under which audits may be conducted, including notice requirements, access protocols, and any necessary authorizations or approvals.
+3. **Notice requirements**: Require Atlassian to provide Customer with reasonable notice of any audit, including the scope, timing, and personnel involved.
+4. **Security protocols**: Establish security protocols to ensure that audits are conducted in a manner that protects Customer's data and systems, including the use of secure access methods, encryption, and other necessary measures.
+5. **Documentation requirements**: Specify the documentation requirements for audits, including the type of records to be kept, the retention period, and any necessary certifications or attestations.
+
+Example of proposed language:
+
+""Customer grants Atlassian the right to conduct audits of Customer's systems and data, including access to all relevant product offerings, customer data, and other systems. Atlassian shall provide Customer with reasonable notice of any audit, including the scope, timing, and personnel involved. All audits shall be conducted in accordance with secure access methods and protocols, and Atlassian shall maintain detailed records of all audits, including the results and any findings.""
+
+By incorporating comprehensive audit rights provisions, the agreement can provide greater transparency and assurance for Customer, while also ensuring that Atlassian has the necessary access and oversight to maintain the security and integrity of its systems and data."
+"Review rights to audit processes and procedures. Verify:
+ • Audit scope
+ • Methodology requirements
+ • Documentation access
+ • Testing permissions
+ • Report requirements
+ ▪ 
+Follow-up if Missing: Flag as audit gap and suggest adding comprehensive process audit rights.","Upon reviewing the Atlassian Customer Agreement, I have identified the following compliance gaps and suggestions:
+
+**Audit Scope**: The agreement allows Atlassian to audit Customer's use of the Products and related Support or Advisory Services, but the scope of the audit is not explicitly defined. To ensure compliance, I recommend adding a clear definition of the audit scope, including the specific areas and systems that will be subject to audit.
+
+**Methodology Requirements**: The agreement does not specify the methodology that Atlassian will use for audits. To ensure transparency and compliance, I suggest adding requirements for Atlassian to follow a specific audit methodology, such as ISO 27001 or SOC 2, and to provide documentation of the methodology used.
+
+**Documentation Access**: The agreement allows Atlassian to access Customer's documentation, but it does not specify the types of documentation that will be accessible or the procedures for accessing them. To ensure compliance, I recommend adding a clear definition of the types of documentation that will be accessible, such as financial records, system logs, or user access records.
+
+**Testing Permissions**: The agreement does not specify the permissions that Atlassian will have during the audit process. To ensure compliance, I suggest adding requirements for Atlassian to obtain permission from Customer before testing or accessing any systems or data.
+
+**Report Requirements**: The agreement does not specify the requirements for audit reports, such as the format, content, or frequency of reporting. To ensure compliance, I recommend adding requirements for Atlassian to provide regular audit reports, including summaries of findings, recommendations, and corrective actions taken.
+
+**Flag as Audit Gap**: I flag the following as audit gaps:
+
+1. Lack of clear audit scope definition
+2. Unclear methodology requirements
+3. Insufficient documentation access
+4. Unclear testing permissions
+5. Inadequate report requirements
+
+**Suggested Additions**: To address these audit gaps, I suggest adding comprehensive process audit rights, including:
+
+1. A clear definition of the audit scope, including specific areas and systems subject to audit
+2. Requirements for Atlassian to follow a specific audit methodology, such as ISO 27001 or SOC 2
+3. Clear definitions of the types of documentation that will be accessible and procedures for accessing them
+4. Requirements for Atlassian to obtain permission from Customer before testing or accessing any systems or data
+5. Requirements for regular audit reports, including summaries of findings, recommendations, and corrective actions taken"
+"Search for provisions allowing regulatory body inspections. Look for:
+ • Access scope
+ • Notice requirements
+ • Cooperation obligations
+ • Documentation requirements
+ • Information sharing protocols
+ ▪ 
+Follow-up if Missing: Recommend adding explicit regulatory inspection rights.","**Compliance Finding: Regulatory Body Inspections**
+
+After reviewing the Atlassian Customer Agreement, I have identified provisions related to regulatory body inspections. However, I recommend adding explicit regulatory inspection rights to ensure compliance with regulatory requirements.
+
+**Provisions Related to Regulatory Body Inspections**
+
+The Agreement mentions the following provisions related to regulatory body inspections:
+
+* Section 6.1: Customer must ensure it has made all disclosures and obtained all rights and consents necessary for Atlassian to use Customer Data and Customer Materials to provide the Cloud Products, Support or Advisory Services.
+* Section 16.2: The receiving party must hold the disclosing party's Confidential Information in confidence and not disclose it to third parties, except as permitted in this Agreement.
+* Section 20.1: Each party must comply with all Laws applicable to its business in its performance of obligations or exercise of rights under this Agreement.
+
+**Access Scope**
+
+The Agreement does not specify the scope of access that regulatory bodies may have to Atlassian's systems, facilities, or data. I recommend adding a provision to clarify the access scope, such as:
+
+* Atlassian shall provide regulatory bodies with access to its systems, facilities, and data as necessary to facilitate inspections and audits.
+
+**Notice Requirements**
+
+The Agreement does not specify notice requirements for regulatory body inspections. I recommend adding a provision to require Atlassian to provide Customer with reasonable notice of any regulatory body inspections, such as:
+
+* Atlassian shall provide Customer with at least 14 days' written notice of any regulatory body inspection, unless the regulatory body has a legitimate reason to require less notice.
+
+**Cooperation Obligations**
+
+The Agreement does not specify cooperation obligations for Customer or Atlassian in the event of a regulatory body inspection. I recommend adding a provision to require both parties to cooperate with regulatory bodies, such as:
+
+* Customer and Atlassian shall cooperate fully with regulatory bodies during inspections and audits, including providing access to relevant personnel, systems, and data.
+
+**Documentation Requirements**
+
+The Agreement does not specify documentation requirements for regulatory body inspections. I recommend adding a provision to require Atlassian to maintain accurate and complete records of regulatory body inspections, such as:
+
+* Atlassian shall maintain accurate and complete records of regulatory body inspections, including dates, times, and details of any findings or recommendations.
+
+**Information Sharing Protocols**
+
+The Agreement does not specify information sharing protocols for regulatory body inspections. I recommend adding a provision to require Atlassian to share information with regulatory bodies in a timely and transparent manner, such as:
+
+* Atlassian shall share information with regulatory bodies in a timely and transparent manner, including any relevant data, documents, or records.
+
+**Recommendation**
+
+To ensure compliance with regulatory requirements, I recommend adding explicit regulatory inspection rights to the Agreement, including access scope, notice requirements, cooperation obligations, documentation requirements, and information sharing protocols."
+"Review requirements for Business Continuity and Disaster Recovery plans. Verify:
+ • Plan components
+ • Alignment with operational needs
+ • Update frequency
+ • Testing requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as resilience gap and suggest adding comprehensive BCDR requirements.","**Compliance Verification: Business Continuity and Disaster Recovery Plans**
+
+Upon reviewing the requirements, it appears that the Business Continuity and Disaster Recovery (BCDR) plans are incomplete and lack alignment with operational needs. The current plan components are inadequate, and there is no clear update frequency, testing requirements, or documentation standards in place.
+
+**Deficiency Identification:**
+
+1. **Inadequate Plan Components:** The current plan does not include essential components such as:
+	* Business Impact Analysis (BIA)
+	* Risk Assessment
+	* Recovery Strategy
+	* Communication Plan
+	* Training and Awareness Program
+	* Change Management Process
+2. **Lack of Alignment with Operational Needs:** The plan does not take into account the organization's operational needs, including critical business processes, dependencies, and interdependencies.
+3. **No Update Frequency:** The plan does not specify when updates should be conducted, which may lead to outdated plans and increased risk exposure.
+4. **Insufficient Testing Requirements:** The plan lacks testing requirements, which is crucial for ensuring the effectiveness and efficiency of the BCDR plans.
+5. **Inadequate Documentation Standards:** The plan does not adhere to standard documentation practices, making it difficult to maintain and update.
+
+**Resilience Gap Flagged:**
+
+The identified deficiencies flag a significant resilience gap in the organization's BCDR plans. To address this gap, I recommend adding comprehensive BCDR requirements that include:
+
+1. Conducting a thorough Business Impact Analysis (BIA) to identify critical business processes and dependencies.
+2. Developing a comprehensive Risk Assessment to identify potential risks and threats.
+3. Creating a Recovery Strategy that aligns with operational needs and priorities.
+4. Establishing a Communication Plan to ensure effective communication during a disaster or business disruption.
+5. Implementing a Training and Awareness Program to educate employees on BCDR procedures.
+6. Developing a Change Management Process to ensure that changes to the plan are properly managed and approved.
+7. Conducting regular testing and exercises to validate the effectiveness of the BCDR plans.
+8. Establishing a clear update frequency and documentation standards to ensure the plan remains current and relevant.
+
+**Recommendations:**
+
+To address the resilience gap, I recommend the following:
+
+1. Develop a comprehensive BCDR plan that includes all essential components.
+2. Align the plan with operational needs and priorities.
+3. Establish a clear update frequency and documentation standards.
+4. Conduct regular testing and exercises to validate the effectiveness of the BCDR plans.
+5. Provide training and awareness programs to educate employees on BCDR procedures.
+
+By implementing these recommendations, the organization can ensure that its BCDR plans are comprehensive, effective, and aligned with operational needs, thereby reducing the risk of business disruptions and ensuring business continuity."
+"Search for incident response plan specifications. Look for:
+ • Response procedures
+ • Notification timelines
+ • Escalation protocols
+ • Documentation requirements
+ • Communication plans
+ ▪ 
+Follow-up if Missing: Recommend implementing structured incident response framework.","**Compliance Requirement: Incident Response Plan**
+
+It is essential to establish a comprehensive incident response plan that outlines procedures for responding to and managing incidents that may impact the organization's operations, reputation, or assets. This plan must be well-documented, communicated to all stakeholders, and regularly reviewed and updated to ensure its effectiveness.
+
+**Response Procedures:**
+
+The incident response plan should include clear procedures for identifying, containing, and mitigating incidents. This may involve:
+
+1. Incident classification and prioritization
+2. Activation of the incident response team
+3. Notification of affected parties (e.g., customers, employees, partners)
+4. Containment and mitigation of the incident
+5. Restoration of normal operations
+6. Post-incident review and lessons learned
+
+**Notification Timelines:**
+
+Timely notification is crucial in incident response. The plan should outline specific notification timelines, including:
+
+1. Notification of the incident response team
+2. Notification of affected parties (e.g., customers, employees, partners)
+3. Notification of regulatory bodies (if applicable)
+4. Notification of vendors or third-party service providers (if applicable)
+
+**Escalation Protocols:**
+
+Escalation protocols should be established to ensure that incidents are addressed promptly and effectively. This may involve:
+
+1. Clear escalation procedures for incident severity and priority
+2. Designated incident response team members with specific responsibilities
+3. Communication protocols for escalating incidents to senior management or external stakeholders
+
+**Documentation Requirements:**
+
+Documentation is critical in incident response. The plan should include requirements for:
+
+1. Incident documentation (e.g., incident reports, investigation findings)
+2. Communication records (e.g., emails, phone calls, meetings)
+3. Lessons learned and post-incident reviews
+
+**Communication Plans:**
+
+Effective communication is essential during incident response. The plan should include:
+
+1. Communication protocols for internal stakeholders (e.g., employees, teams)
+2. Communication protocols for external stakeholders (e.g., customers, partners, media)
+3. Communication protocols for regulatory bodies (if applicable)
+
+**Recommendation:**
+
+In the absence of a comprehensive incident response plan, I strongly recommend implementing a structured incident response framework. This will help ensure that the organization is prepared to respond effectively to incidents, minimize their impact, and maintain business continuity. A structured framework should include:
+
+1. Incident response plan development and documentation
+2. Training and awareness programs for incident response team members
+3. Regular review and update of the incident response plan
+4. Continuous monitoring and improvement of incident response processes"
+"Review requirements for regular testing of controls and procedures. Verify:
+ • Test types
+ • Frequency requirements
+ • Documentation standards
+ • Result reporting
+ • Improvement procedures
+ ▪ 
+Follow-up if Missing: Flag as testing gap and suggest adding comprehensive testing requirements.","**Compliance Review: Regular Testing of Controls and Procedures**
+
+Based on the provided document, it appears that regular testing of controls and procedures is not explicitly outlined, leaving room for improvement in ensuring the effectiveness and efficiency of internal controls. As a compliance officer, it is essential to review and address this testing gap to ensure the organization's compliance with relevant laws, regulations, and industry standards.
+
+**Testing Types:**
+The document does not specify the types of tests that should be conducted on controls and procedures. To address this, it is recommended to include a comprehensive testing plan that includes:
+
+* Walkthroughs
+* Observation
+* Simulation
+* Testing of transactions
+* Testing of processes
+
+**Frequency Requirements:**
+The frequency of testing is not specified, which may lead to inconsistent testing and potential control weaknesses. To mitigate this risk, it is recommended to establish a testing schedule that aligns with the following frequencies:
+
+* Annual testing for high-risk controls and procedures
+* Bi-annual testing for moderate-risk controls and procedures
+* Quarterly testing for low-risk controls and procedures
+
+**Documentation Standards:**
+The document does not provide guidance on documentation standards for testing results. To ensure transparency and accountability, it is recommended to establish clear documentation standards, including:
+
+* Detailed testing plans
+* Test results and findings
+* Corrective action plans
+* Follow-up testing schedules
+
+**Result Reporting:**
+The document does not specify how testing results should be reported. To ensure that testing results are effectively communicated, it is recommended to establish a reporting framework that includes:
+
+* Clear and concise reporting of testing results
+* Identification of control weaknesses and deficiencies
+* Recommendations for corrective actions
+* Follow-up testing schedules
+
+**Improvement Procedures:**
+The document does not outline procedures for improving controls and procedures based on testing results. To ensure that testing results lead to meaningful improvements, it is recommended to establish a process that includes:
+
+* Identification of control weaknesses and deficiencies
+* Development of corrective action plans
+* Implementation of corrective actions
+* Follow-up testing to ensure effectiveness of corrective actions
+
+**Flagging as Testing Gap:**
+Given the absence of comprehensive testing requirements, it is essential to flag this as a testing gap and suggest adding the recommended requirements to ensure the organization's compliance with relevant laws, regulations, and industry standards."
+"Search for clear termination provisions. Look for:
+ • Termination triggers
+ • Notice requirements
+ • Material breach definitions
+ • Non-compliance criteria
+ • Process requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed termination provisions.","Upon reviewing the Atlassian Customer Agreement, I have identified the termination provisions and highlighted the key points for clarity. The agreement provides for termination in the following circumstances:
+
+**Termination Triggers:**
+
+* Either party may terminate this Agreement or a Subscription Term upon notice for any reason (Section 12.2).
+* Customer may terminate this Agreement or a Subscription Term if Atlassian materially breaches this Agreement and fails to cure within 30 days (Section 12.3).
+* Atlassian may terminate this Agreement or a Subscription Term if Customer materially breaches this Agreement and fails to cure within 30 days (Section 12.3).
+
+**Notice Requirements:**
+
+* Termination notices must be in writing and given to the other party (Section 12.2).
+* For Customer's termination, notice must be provided through account settings in the Products, by contacting Atlassian's support team, or by otherwise providing Atlassian notice (Section 12.2).
+* For Atlassian's termination, notice must be provided to Customer's billing or technical contact (Section 20.5).
+
+**Material Breach Definitions:**
+
+* A material breach is defined as a failure to perform a significant obligation under this Agreement (Section 12.3).
+* A material breach must be cured within 30 days of notice to be considered non-material (Section 12.3).
+
+**Non-compliance Criteria:**
+
+* Non-compliance with this Agreement, including failure to pay fees, will trigger termination (Section 12.3).
+
+**Process Requirements:**
+
+* Upon termination, Customer must immediately cease accessing the Cloud Products and using the applicable Software Products and Cloud Clients (Section 12.4).
+* Customer must delete or return all license keys, access keys, and any Product copies (Section 12.4).
+* Atlassian will delete Customer Data in accordance with the Documentation (Section 12.4).
+
+While the agreement provides some termination provisions, I recommend adding more detailed provisions to ensure clarity and avoid potential disputes. Specifically, the agreement could benefit from:
+
+* A clear definition of material breach and non-compliance
+* A detailed description of the termination process, including the specific actions required by each party upon termination
+* A specification of the consequences of termination, including any obligations or restrictions on the parties after termination
+* A provision for dispute resolution and mediation in the event of a disagreement over termination
+
+By adding these provisions, the agreement can provide greater clarity and certainty for both parties, reducing the risk of disputes and ensuring a smoother termination process."
+"Review requirements for service continuity during transition. Verify:
+ ▪ Transition plan components
+ ▪ Timeline requirements
+ ▪ Resource allocation
+ ▪ Knowledge transfer
+ ▪ Data migration procedures
+ ◦ 
+Follow-up if Missing: Flag as continuity gap and suggest adding comprehensive transition planning requirements.","**Compliance Review Findings:**
+
+After reviewing the requirements for service continuity during transition, it is clear that a comprehensive transition plan is essential to ensure a smooth and uninterrupted service delivery. The review revealed several areas that require attention to ensure continuity of service.
+
+**Transition Plan Components:**
+
+The transition plan must include the following components:
+
+* Clear objectives and scope of work
+* Timeline and milestones for completion
+* Resource allocation, including personnel, equipment, and materials
+* Knowledge transfer plan, including documentation and training for personnel
+* Data migration procedures, including data validation and verification
+
+**Timeline Requirements:**
+
+A detailed timeline is crucial to ensure that all transition activities are completed on schedule. The timeline should include:
+
+* Start and end dates for each transition activity
+* Key milestones and deadlines
+* Dependencies between activities and timelines
+
+**Resource Allocation:**
+
+Sufficient resources must be allocated to ensure the successful completion of transition activities. This includes:
+
+* Personnel: Identify and assign personnel with the necessary skills and expertise
+* Equipment and materials: Ensure that all necessary equipment and materials are available
+* Budget: Allocate sufficient budget for transition activities
+
+**Knowledge Transfer:**
+
+Effective knowledge transfer is critical to ensure that personnel are equipped to continue providing services after the transition. The knowledge transfer plan should include:
+
+* Documentation: Document all knowledge, processes, and procedures
+* Training: Provide training and support for personnel
+* Mentorship: Assign experienced personnel to mentor and support new personnel
+
+**Data Migration Procedures:**
+
+Data migration procedures must be clearly defined and executed to ensure that all data is transferred correctly. This includes:
+
+* Data validation and verification
+* Data mapping and reconciliation
+* Data backup and recovery procedures
+
+**Compliance Gap:**
+
+Based on the review, it is clear that a comprehensive transition planning requirement is missing. To address this compliance gap, it is recommended that the organization develop a transition planning framework that includes the above components. This will ensure that all transition activities are well-planned, executed, and completed on schedule, thereby ensuring service continuity during transition."

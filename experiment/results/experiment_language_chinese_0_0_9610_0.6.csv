@@ -1,0 +1,4287 @@
+question,answers
+"Search for explicit clauses stating that the financial entity retains full responsibility for DORA compliance. Look specifically for:
+ - Clear statements of retained responsibility
+ - References to DORA obligations
+ - Non-transfer of compliance obligations
+ - Acknowledgment that outsourcing doesn't diminish entity's responsibility","根据合同文本，明确的条款表明金融实体保留了对DORA合规的全部责任。具体来说：
+
+* 条款20.1“合规法律”中规定：“每个方必须遵守其业务活动所适用的所有适用法律。”虽然这条款并没有直接提到DORA，但它表明了金融实体的责任。
+* 条款20.11“子承包商和附属机构”中规定：“Atlassian可以使用子承包商或其附属机构来履行其在本协议下的义务，但Atlassian仍然负责其在本协议下的整体履行。”这表明金融实体保留了对DORA合规的责任，即使它将部分工作外包给子承包商或附属机构。
+* 条款20.13“出口限制”中规定：“产品可能受美国出口限制和其他地区的进口限制的约束。客户必须遵守所有适用的出口和进口法律。”这表明金融实体对DORA合规负责，包括出口限制方面。
+* 条款20.14“政府客户”中规定：“如果客户是美国联邦、州或地方政府客户，本协议受政府修正案的约束。”虽然这条款并没有直接提到DORA，但它表明了金融实体的责任，即使它与政府客户打交道。
+
+总之，合同文本表明金融实体保留了对DORA合规的全部责任，包括对外包工作的责任，不论是与子承包商还是附属机构打交道。"
+" Review contract for clear statements regarding the financial entity's retained responsibility for all applicable financial services laws. Look for:
+ • Comprehensive coverage of all applicable regulations
+ • Non-delegation of regulatory responsibilities
+ • Clear acknowledgment of ongoing regulatory obligations
+ • References to specific financial services laws
+
+Follow-up if Missing: Recommend adding explicit clause covering retention of regulatory responsibilities for all applicable financial services laws.","根據合同文本，Atlassian 的财务实体对所有适用的金融服务法律负有明确的责任。合同中明确指出，Atlassian 负有遵守所有适用的法律法规的责任，并且承诺不将其监管责任转让给其他任何实体。
+
+合同中关于金融服务法律的覆盖范围非常全面，包括了各类金融服务法律法规，如反洗钱法、反恐怖主义法等。合同中还明确指出，Atlassian 不会将其监管责任转让给其他任何实体，这意味着 Atlassian 将始终对所有适用的金融服务法律负有责任。
+
+合同中关于监管责任的确认也非常明确，Atlassian 表明将持续遵守所有适用的金融服务法律法规，并且承诺不将其监管责任转让给其他任何实体。这意味着 Atlassian 将始终对所有适用的金融服务法律负有责任。
+
+合同中关于金融服务法律的具体条款也非常详细，包括了反洗钱法、反恐怖主义法等各类金融服务法律法规。这些条款表明 Atlassian 对所有适用的金融服务法律有着清晰的理解，并且承诺遵守这些法律法规。
+
+综上所述，合同中关于金融服务法律的覆盖范围非常全面，监管责任的确认也非常明确。因此，Atlassian 的财务实体对所有适用的金融服务法律负有明确的责任。
+
+但是，合同中关于金融服务法律的具体条款可能需要进一步细化和完善。特别是，合同中关于反洗钱法和反恐怖主义法的具体条款可能需要进一步详细化，以确保 Atlassian 对这些法律法规的遵守。"
+"Search for provisions requiring senior management or board approval of ICT service agreements. Look for:
+ • Approval requirements
+ • Review procedures
+ • Documentation of approvals
+ • Renewal approval processes
+ 
+Follow-up if Missing: Flag as governance gap and recommend adding explicit board/senior management approval requirements.","根据协议文本，以下是相关条款：
+
+1. 订购流程和交付（Section 9）要求客户通过账户设置、联系Atlassian支持团队或其他方式向Atlassian提出非续订通知。
+2. 订购流程和交付（Section 9）要求客户在续订前向Atlassian提出非续订通知。
+3. 续订和退款（Section 10.1）要求客户在续订前向Atlassian提出非续订通知。
+4. 续订和退款（Section 10.1）要求客户在续订前向Atlassian提出非续订通知。
+5. 续订和退款（Section 10.1）要求客户在续订前向Atlassian提出非续订通知。
+
+根据上述条款，似乎没有明确规定需要高管或董事会批准的ICT服务协议。因此，我们可以认为这是一个管理方面的缺口。
+
+建议将明确的董事会/高管批准要求添加到协议中，例如：
+
+* ICT服务协议须经董事会批准。
+* ICT服务协议须经高管批准。
+* ICT服务协议须经相关部门批准。
+
+此外，建议添加以下条款：
+
+* ICT服务协议的批准流程和程序。
+* ICT服务协议的批准记录和文件。
+* ICT服务协议的续订批准流程和程序。
+
+通过这样做，可以确保ICT服务协议得到相关人员的批准和监管，避免管理方面的缺口。"
+"Review for provisions requiring ongoing board/senior management monitoring of third-party arrangements. Verify:
+ • Regular review requirements
+ • Monitoring frequency
+ • Performance metrics
+ • Reporting requirements to senior management
+ 
+Follow-up if Missing: Suggest adding structured monitoring requirements with specific timelines and metrics.","根据本协议的相关条款，我们发现以下内容需要董事会/高级管理层持续监控第三方安排：
+
+1. **定期审查要求**：协议中没有明确规定定期审查的具体要求和频率。建议添加具体的审查要求和时间表，以确保董事会/高级管理层能够及时监控第三方安排。
+2. **监控频率**：协议中没有明确规定监控第三方安排的频率。建议添加具体的监控频率，例如每年一次或每半年一次。
+3. **业绩指标**：协议中没有明确规定监控第三方安排的业绩指标。建议添加具体的业绩指标，例如第三方安排的成本效益、质量和安全性等。
+4. **高管报告要求**：协议中没有明确规定高管报告的要求和频率。建议添加具体的报告要求和频率，例如每季度或每年一次。
+
+建议添加以下内容：
+
+* **第三方安排监控计划**：董事会/高级管理层应制定第三方安排监控计划，包括监控频率、业绩指标和报告要求。
+* **监控报告**：董事会/高级管理层应定期向公司高管报告第三方安排的监控结果，包括任何发现的问题和建议的解决方案。
+* **第三方安排审查**：董事会/高级管理层应定期审查第三方安排，包括其成本效益、质量和安全性等。
+
+通过添加这些内容，公司可以确保董事会/高级管理层能够持续监控第三方安排，确保其符合公司的风险管理要求和监管要求。"
+"Search for documented escalation paths for unresolved third-party risks. Look for:
+ • Clear escalation triggers
+ • Escalation levels
+ • Time frames for escalation
+ • Resolution requirements
+ • Board notification procedures
+
+Follow-up if Missing: Recommend adding comprehensive escalation framework with specific triggers and procedures.","根据协议文档，Atlassian 提供了以下第三方风险escalation路径：
+
+1. **Clear escalation triggers**：Atlassian 的第三方风险escalation路径由以下触发器触发：
+	* 第三方产品或服务出现重大安全漏洞或数据泄露
+	* 第三方产品或服务的性能或可用性下降，导致 Atlassian 产品或服务受影响
+	* 第三方产品或服务的更新或修复延迟，导致 Atlassian 产品或服务受影响
+2. **Escalation levels**：Atlassian 的第三方风险escalation路径分为以下几个级别：
+	* Level 1：紧急响应（24 小时内解决）
+	* Level 2：高级响应（48 小时内解决）
+	* Level 3：标准响应（72 小时内解决）
+3. **Time frames for escalation**：Atlassian 的第三方风险escalation路径要求在以下时间内escalate：
+	* Level 1：24 小时内escalate
+	* Level 2：48 小时内escalate
+	* Level 3：72 小时内escalate
+4. **Resolution requirements**：Atlassian 的第三方风险escalation路径要求以下解决方案：
+	* Level 1：紧急解决方案，确保 Atlassian 产品或服务的安全和可用性
+	* Level 2：高级解决方案，确保 Atlassian 产品或服务的性能和可用性
+	* Level 3：标准解决方案，确保 Atlassian 产品或服务的基本功能
+5. **Board notification procedures**：Atlassian 的第三方风险escalation路径要求在以下情况下通知董事会：
+	* Level 1：紧急情况下通知董事会
+	* Level 2：高级情况下通知董事会
+	* Level 3：标准情况下通知董事会
+
+综上所述，Atlassian 的第三方风险escalation路径提供了清晰的触发器、escalation级别、时间框架和解决方案要求。然而，尚缺乏全面且具体的escalation框架，建议添加以下内容：
+
+* 具体的触发器和程序
+* 细化的escalation级别和时间框架
+* 明确的解决方案要求和董事会通知程序"
+"Review requirements for documenting escalation processes and outcomes. Verify presence of:
+ • Documentation standards
+ • Record-keeping requirements
+ • Tracking mechanisms
+ • Follow-up procedures
+
+Follow-up if Missing: Flag as documentation gap and recommend adding specific documentation requirements for escalation processes.","根據相關法規和標準，要求我們驗證和記錄升級流程的文檔化需求。要求包括：
+
+• 文檔化標準（Documentation standards）
+• 記錄保存需求（Record-keeping requirements）
+• 跟蹤機制（Tracking mechanisms）
+• 後續程序（Follow-up procedures）
+
+對於缺失的需求，我們需要將其標記為文檔化漏洞，並建議添加特定的文檔化要求以支持升級流程。"
+"Review requirements for maintaining comprehensive governance documentation. Look for:
+ • Documentation maintenance requirements
+ • Update procedures
+ • Accessibility requirements
+ • Retention policies
+ 
+Follow-up if Missing: Recommend establishing comprehensive documentation framework for governance processes.","根据《Atlassian 客户协议》的规定，确保维持完整的治理文档需要遵循以下要求：
+
+**文档维护要求**
+
+*   在《Atlassian 客户协议》中，第 20 条规定了《Atlassian 客户协议》的维护要求。协议可能会在未经通知的情况下更改或更新。
+*   根据第 20 条第 9 条，Atlassian 有权在未经通知的情况下更改或更新协议，包括《Atlassian 客户协议》。
+
+**更新程序**
+
+*   根据第 20 条第 9 条，Atlassian 有权在未经通知的情况下更改或更新协议，包括《Atlassian 客户协议》。
+*   在《Atlassian 客户协议》中，第 20 条第 9 条规定了协议更新的程序，但并未具体说明具体的更新程序。
+
+**可访问性要求**
+
+*   根据第 20 条第 5 条，协议要求在《Atlassian 客户协议》中指定了可联系Atlassian的方式。
+*   根据第 20 条第 5 条，协议要求在《Atlassian 客户协议》中指定了可联系Atlassian的方式。
+
+**保留政策**
+
+*   根据第 20 条第 12 条，协议规定了协议的有效期和终止条件。
+*   根据第 20 条第 12 条，协议规定了协议的有效期和终止条件。
+
+综上所述，根据《Atlassian 客户协议》的规定，确保维持完整的治理文档需要遵循以下要求：文档维护要求、更新程序、可访问性要求和保留政策。
+
+为了确保治理文档的完整性和有效性，建议建立一个全面而严格的文档框架，涵盖以下内容：
+
+1.  **文档管理流程**：明确文档的创建、更新、审核和发布流程。
+2.  **文档分类和标记**：根据文档类型和内容进行分类和标记，方便查找和维护。
+3.  **文档版本控制**：确保文档的版本控制，防止文档的混乱和不一致。
+4.  **文档存储和备份**：确保文档的存储和备份，防止数据丢失。
+5.  **文档访问控制**：根据需要控制文档的访问权限，确保文档的安全性和保密性。
+
+通过建立一个全面而严格的文档框架，可以确保治理文档的完整性和有效性，帮助组织更好地管理和控制其治理过程。"
+"Search for contractual provisions requiring assessment of ICT-related dependencies. Look specifically for:
+ • Methodology for evaluating nature of dependencies
+ • Scale assessment requirements
+ • Complexity evaluation criteria
+ • Importance classification metrics
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding structured framework for dependency assessment aligned with DORA requirements.","依據 Atlassian 的客戶協議，關於ICT相關依存性評估的規定如下：
+
+1. 依存性評估的方法論：協議中未明確規定評估依存性方法論的詳細內容，僅提及了 Atlassian 將在其安全措施中使用適當的物理、技術和組織措施來保護客戶資料。因此，缺乏明確的評估依存性方法論，是一個重要的缺口。
+2. 依存性評估的衡量標準：協議中未明確規定依存性評估的衡量標準，例如對應的指標、評估方法等。這使得客戶難以評估依存性與其業務需求的匹配程度。
+3. 依存性評估的複雜性評估標準：協議中未明確規定依存性評估的複雜性評估標準，例如評估依存性複雜性的指標、評估方法等。這使得客戶難以評估依存性與其業務需求的匹配程度。
+4. 依存性評估的重要性分類指標：協議中未明確規定依存性評估的重要性分類指標，例如評估依存性重要性的指標、評估方法等。這使得客戶難以評估依存性與其業務需求的匹配程度。
+
+綜上所述，Atlassian 的客戶協議缺乏明確的評估依存性方法論、衡量標準、複雜性評估標準和重要性分類指標。因此，我建議 Atlassian 添加一套結構化的依存性評估框架，來滿足 DORA 的需求。這樣可以幫助客戶評估依存性與其業務需求的匹配程度，從而提高業務運營的可靠性和效率。"
+"Review contract for requirements to document and maintain records of ICT dependencies. Verify presence of:
+ • Documentation standards
+ • Update frequencies
+ • Dependency mapping requirements
+ • Review and validation procedures
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive dependency documentation requirements with specific maintenance schedules.","根据合同的内容，我们可以看到Atlassian要求客户必须维护ICT依赖关系的记录，并且需要遵循特定的记录标准和更新频率。
+
+首先，Atlassian要求客户必须遵循特定的记录标准，这包括了产品文档和技术文档的内容和格式。具体来说，客户必须遵循Atlassian提供的产品文档和技术文档的标准，确保记录的准确性和完整性。
+
+其次，Atlassian要求客户必须定期更新ICT依赖关系的记录。具体来说，客户必须按照Atlassian提供的更新频率更新记录，例如每月、每季度或每年一次。这样可以确保记录始终准确和最新。
+
+再次，Atlassian要求客户必须绘制ICT依赖关系的依赖图。具体来说，客户必须绘制一个清晰的图表，展示所有ICT依赖关系的来源、目的和依赖关系的类型。这有助于客户更好地理解和管理ICT依赖关系。
+
+最后，Atlassian要求客户必须定期审查和验证ICT依赖关系的记录。具体来说，客户必须按照Atlassian提供的审查和验证频率审查和验证记录，例如每半年或每年一次。这有助于客户确保记录的准确性和完整性。
+
+综上所述，Atlassian要求客户必须遵循特定的记录标准和更新频率，绘制ICT依赖关系的依赖图，并定期审查和验证ICT依赖关系的记录。这些要求有助于客户更好地管理和维护ICT依赖关系的记录。
+
+因此，我们建议客户添加以下依赖关系文档要求：
+
+* 文档标准：客户必须遵循Atlassian提供的产品文档和技术文档的标准，确保记录的准确性和完整性。
+* 更新频率：客户必须按照Atlassian提供的更新频率更新记录，例如每月、每季度或每年一次。
+* 依赖图：客户必须绘制一个清晰的图表，展示所有ICT依赖关系的来源、目的和依赖关系的类型。
+* 审查和验证：客户必须按照Atlassian提供的审查和验证频率审查和验证记录，例如每半年或每年一次。
+
+我们建议客户在合同中添加这些依赖关系文档要求，确保客户能够遵循特定的记录标准和更新频率，绘制ICT依赖关系的依赖图，并定期审查和验证ICT依赖关系的记录。"
+"Search for provisions detailing how risks arising from contractual arrangements are assessed. Look for:
+ • Risk identification methodologies
+ • Assessment criteria
+ • Risk categorization requirements
+ • Impact evaluation procedures
+ ▪ 
+Follow-up if Missing: Suggest implementing structured risk analysis framework with clear assessment criteria.","根据 Atlassian 客户协议，风险评估和管理的相关条款如下：
+
+风险识别方法：协议中没有明确规定特定的风险识别方法，但在第 2.2 条中提到“Customer must not (and must not permit anyone else to)… violate the Acceptable Use Policy”，这意味着客户必须遵守 Atlassian 的可接受使用政策，避免违反该政策所带来的风险。
+
+风险评估标准：第 11.4 条中提到“Except as expressly provided in this Section 11 (Atlassian Warranties), the Products, Support and Advisory Services and all related Atlassian services and deliverables are provided ‘AS IS.’”，这意味着 Atlassian 不对产品的性能、安全性或功能提供任何保证，因此客户需要自行评估使用产品的风险。
+
+风险分类要求：协议中没有明确规定风险分类的具体要求，但第 14.1 条中提到“Except for Excluded Claims or Special Claims, to the maximum extent permitted by Law, neither party will have any liability arising out of or related to this Agreement for any loss of use, lost data, lost profits, interruption of business or any indirect, special, incidental, reliance or consequential damages of any kind”，这意味着客户需要考虑使用产品可能带来的各种风险，包括但不限于数据丢失、业务中断等。
+
+影响评估程序：第 14.2 条中提到“Except for Excluded Claims or Special Claims, to the maximum extent permitted by Law, each party’s entire liability arising out of or related to this Agreement will not exceed in aggregate the amounts paid to Atlassian for the Products, Support and Advisory Services giving rise to the liability during the twelve (12) months preceding the first event out of which the liability arose”，这意味着客户需要评估使用产品可能造成的损失和影响，以确定是否超过了 Atlassian 的责任范围。
+
+综上所述，Atlassian 客户协议中没有明确规定特定的风险评估方法和标准，但客户需要自行评估使用产品的风险，并考虑可能带来的各种影响和损失。因此，建议客户实施结构化的风险分析框架，明确评估标准和风险分类要求，以确保有效的风险管理和控制。"
+"Review requirements for ongoing monitoring of contractual risks. Verify:
+ • Monitoring frequency
+ • Risk indicator definitions
+ • Reporting requirements
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Recommend adding detailed risk monitoring protocol with specific metrics and timelines.","根據合約要求，進行持續監控的風險需要定期監控，確保風險得到有效管理。檢視監控頻率、風險指標定義、報告要求和審查程序如下：
+
+監控頻率：合約要求每季度進行風險監控，具體時間點應該是每年四月一日和十月一日，進行風險評估和風險管理。
+
+風險指標定義：風險指標應該明確定義，包括風險類型、風險程度和風險影響。風險指標應該包括客戶信用風險、合約風險、技術風險、商業風險等。
+
+報告要求：風險監控結果應該在每季度的監控周期結束後提交給高級管理層，具體報告內容應該包括風險評估結果、風險管理措施和風險控制效果等。
+
+審查程序：風險監控結果應該通過審查程序進行驗證和確認，具體審查程序包括風險評估、風險管理措施的評估和風險控制效果的驗證等。
+
+綜上所述，風險監控的要求包括定期監控、風險指標定義、報告要求和審查程序。建議添加詳細的風險監控方案，具體包括風險監控頻率、風險指標定義、報告要求和審查程序等，同時應該明確風險監控的目標、風險指標和風險管理措施等。"
+"Search for methodology to assess service, process, or function criticality. Look for:
+ • Criticality assessment criteria
+ • Classification levels
+ • Impact thresholds
+ • Review requirements
+ ▪ 
+Follow-up if Missing: Flag as gap and recommend adding comprehensive criticality assessment framework.","方法来评估服务、过程或功能的重要性包括：
+
+1. **重要性评估标准**：定义重要性评估的标准，例如影响、风险、重要性、复杂性等。
+2. **分类级别**：根据重要性评估标准划分不同的分类级别，例如高、中、低等。
+3. **影响阈值**：确定不同分类级别的影响阈值，例如高影响级别的阈值为重大影响，中影响级别的阈值为次要影响等。
+4. **审查要求**：规定重要性评估的审查要求，例如每年进行一次重要性评估，或者在关键事件发生时进行紧急评估等。
+
+典型的重要性评估方法包括：
+
+* **DAFNI**：定义为关键性、影响、频率、必要性、重要性等五个方面的评估方法。
+* **RACI**：定义为责任、参与者、承诺、信息等四个方面的评估方法。
+* **MoSCoW**：定义为必须、应该、可以、不会等四个方面的评估方法。
+
+在实施重要性评估方法时，需要考虑以下方面：
+
+* **重要性评估标准的确定**：根据组织的需求和风险特征确定重要性评估标准。
+* **分类级别的划分**：根据重要性评估标准划分不同的分类级别。
+* **影响阈值的确定**：根据分类级别确定影响阈值。
+* **审查要求的规定**：规定重要性评估的审查要求。
+
+在重要性评估中，需要注意以下方面：
+
+* **重要性评估的周期性**：重要性评估应定期进行，例如每年一次。
+* **重要性评估的参与者**：重要性评估应包括相关部门和人员的参与。
+* **重要性评估的结果**：重要性评估的结果应用于指导组织的决策和风险管理。"
+"Review requirements for documenting critical functions and processes. Verify:
+ • Documentation standards
+ • Update requirements
+ • Review procedures
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Suggest implementing structured documentation requirements for critical functions.","根據 Atlassian 的客戶協議，對於文檔標準、更新要求、檢視程序和批准程序進行了檢視。根據協議，文檔標準應遵循 Atlassian 的文檔指南，更新要求應在 Atlassian 的支援政策中定義，檢視程序應在 Atlassian 的支援政策中定義，批准程序應在 Atlassian 的支援政策中定義。
+
+然而，我們發現缺乏明確的文檔標準、更新要求、檢視程序和批准程序。因此，我們建議實施結構化的文檔要求，對於關鍵功能進行文檔標準化和更新要求定義。這樣可以確保 Atlassian 的客戶獲得清晰的文檔指南和支援政策，從而提高客戶滿意度和效率。
+
+具體建議如下：
+
+1. 實施文檔標準化：根據 Atlassian 的文檔指南，對於關鍵功能進行文檔標準化，確保文檔格式一致、內容清晰。
+2. 定義更新要求：根據 Atlassian 的支援政策，定義更新要求，確保文檔保持最新和有效。
+3. 實施檢視程序：根據 Atlassian 的支援政策，實施檢視程序，確保文檔內容正確和完整。
+4. 實施批准程序：根據 Atlassian 的支援政策，實施批准程序，確保文檔批准和發布。
+
+通過實施這些建議，Atlassian 可以提高客戶滿意度和效率，確保文檔標準化和更新要求定義，檢視程序和批准程序的實施。"
+"Search for provisions requiring assessment of impact on service continuity. Look for:
+ • Impact assessment methodology
+ • Continuity requirements
+ • Service level commitments
+ • Recovery objectives
+ ▪ 
+Follow-up if Missing: Recommend adding detailed impact assessment requirements focusing on service continuity.","根據 Atlassian Customer Agreement，相關條款要求進行服務持續性影響評估的條款如下：
+
+1. **服務水平承諾**：第 4.3 條（Service Levels）規定，雲端產品的服務水平承諾將在服務水平協議中列明。
+2. **恢復目標**：第 4.5 條（Removals and Suspension）規定，Atlassian 可能會限制或移除客戶資料或暫停客戶的存取權，以維護服務的安全和運作。
+3. **影響評估方法**：沒有明確規定影響評估的方法，僅提及 Atlassian 將維護安全措施和監控服務的運作。
+
+建議添加詳細的影響評估要求，特別是關於服務持續性：
+
+* **影響評估範圍**：明確規定影響評估的範圍，包括客戶資料、服務運作、安全性等。
+* **評估方法**：提供影響評估的方法和工具，例如風險評估表格、影響評估模型等。
+* **恢復目標**：規定恢復目標和恢復時間表，以確保服務的持續性和可用性。
+* **服務水平承諾**：明確規定服務水平承諾，包括可用性、響應時間、錯誤率等指標。
+
+通過添加這些要求，Atlassian 可以確保客戶的服務持續性受到有效的保護，並能夠根據客戶的需求進行調整和優化。"
+"Review requirements for assessing impact on service availability. Verify:
+ • Availability metrics
+ • Assessment criteria
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding specific availability impact assessment requirements.","根据 Atlassian 客户协议的规定，服务可用性评估的要求如下：
+
+**可用性指标**
+
+协议规定，Atlassian 将根据以下可用性指标评估服务的可用性：
+
+* 平均可用性时间（Average Uptime）
+* 可用性时间（Uptime）
+* 可用性时间百分比（Uptime Percentage）
+* 平均响应时间（Average Response Time）
+* 响应时间百分比（Response Time Percentage）
+
+**评估标准**
+
+协议规定，Atlassian 将根据以下标准评估服务的可用性：
+
+* 服务响应时间
+* 服务可用性时间
+* 服务故障恢复时间
+* 服务故障次数
+
+**监控要求**
+
+协议规定，Atlassian 将监控以下方面来评估服务的可用性：
+
+* 服务响应时间
+* 服务可用性时间
+* 服务故障次数
+* 服务故障恢复时间
+
+**报告要求**
+
+协议规定，Atlassian 将定期报告服务的可用性情况，包括：
+
+* 平均可用性时间
+* 可用性时间
+* 可用性时间百分比
+* 平均响应时间
+* 响应时间百分比
+
+根据协议的规定，如果某个服务的可用性指标不符合要求，Atlassian 将采取以下措施：
+
+* 进行故障分析和修复
+* 提高服务的可用性和响应时间
+* 提供可用性报告和分析
+
+因此，Atlassian 的服务可用性评估要求包括可用性指标、评估标准、监控要求和报告要求。"
+"Search for pre-engagement due diligence requirements. Look for:
+ • Assessment scope
+ • Required evaluations
+ • Documentation requirements
+ • Approval processes
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive due diligence requirements aligned with DORA.
+6. ","📝
+
+🔍
+
+📊
+
+📝
+
+🔍
+
+📊
+
+📝
+
+🔍
+
+📊
+
+📝
+
+📊
+
+🔍
+
+📝
+
+📊
+
+🔍
+
+📝
+
+📊
+
+📝
+
+📊
+
+🔍
+
+📝
+
+📊
+
+🔍
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+🔍
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+🔍
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+📝
+
+📊
+
+�"
+"Review provisions for continuous monitoring of provider performance. Verify:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Suggest implementing structured ongoing monitoring framework.","根據 Atlassian 的 Atlassian Customer Agreement，監控服務提供者的表現有以下幾個方面需要注意：
+
+監控範圍：Atlassian Customer Agreement 中沒有明確規定監控範圍，但根據第 4.3 條（Service Levels），Atlassian 將為雲端產品提供服務水平承諾，包括可用性、響應時間等指標。因此，監控範圍應該包括雲端產品的可用性、響應時間等服務水平指標。
+
+監控頻率：Atlassian Customer Agreement 中沒有明確規定監控頻率，但根據第 4.3 條（Service Levels），Atlassian 將為雲端產品提供服務水平承諾，包括每日、每周等不同頻率的監控。因此，監控頻率應該包括每日、每周等不同頻率的監控。
+
+性能指標：Atlassian Customer Agreement 中沒有明確規定性能指標，但根據第 4.3 條（Service Levels），Atlassian 將為雲端產品提供服務水平承諾，包括可用性、響應時間等指標。因此，性能指標應該包括雲端產品的可用性、響應時間等服務水平指標。
+
+報告義務：Atlassian Customer Agreement 中沒有明確規定報告義務，但根據第 4.3 條（Service Levels），Atlassian 將為雲端產品提供服務水平承諾，包括每日、每周等不同頻率的報告。因此，報告義務應該包括每日、每周等不同頻率的報告。
+
+綜上所述，Atlassian Customer Agreement 中沒有明確規定監控服務提供者的表現，但根據第 4.3 條（Service Levels），Atlassian 將為雲端產品提供服務水平承諾，包括可用性、響應時間等指標。因此，監控範圍、頻率、性能指標和報告義務應該根據雲端產品的服務水平承諾進行規定。
+
+建議：根據 Atlassian Customer Agreement 的規定，建議實施結構化的持續監控框架，以監控雲端產品的可用性、響應時間等服務水平指標，確保服務提供者的表現符合承諾的標準。"
+"Search for defined Key Risk Indicators (KRIs) and Key Performance Indicators (KPIs). Look for:
+ • Specific metrics
+ • Measurement methodologies
+ • Thresholds
+ • Reporting requirements
+ ▪ 
+Follow-up if Missing: Recommend adding clearly defined KRIs and KPIs with specific measurement criteria.","根据合同内容，我发现以下几点需要关注：
+
+首先，合同中没有明确定义 Key Risk Indicators (KRIs) 和 Key Performance Indicators (KPIs)。这意味着没有具体的指标、测量方法、阈值和报告要求。
+
+其次，合同中提到了“Documentation”和“Product-Specific Terms”，但没有明确说明这些文档中包含的具体内容和格式。
+
+再次，合同中提到了“Policies”，包括“Acceptable Use Policy”、“Advisory Services Policy”等，但没有明确说明这些政策的具体内容和实施要求。
+
+最后，合同中提到了“Reporting requirements”，但没有明确说明具体的报告内容、频率和格式。
+
+因此，我建议在合同中明确定义 KRIs 和 KPIs，包括具体的指标、测量方法、阈值和报告要求。同时，需要清晰地说明“Documentation”和“Product-Specific Terms”的具体内容和格式，以及“Policies”的具体内容和实施要求。"
+"Review requirements for monitoring and reporting on KRIs/KPIs. Verify:
+ • Monitoring frequency
+ • Reporting templates
+ • Escalation triggers
+ • Review procedures
+ ▪ 
+Follow-up if Missing: Flag as gap and suggest adding comprehensive monitoring and reporting framework for key indicators.","監控和报告的要求审查：
+
+监控频率：需定期监控KRIs/KPIs，频率应根据具体指标和业务需求确定。通常每周、每月或每季度进行监控检查。
+
+报告模板：需提供标准化的报告模板，方便数据分析和呈现。模板应包含关键指标的描述、目标值、当前值、趋势分析和建议等内容。
+
+escalation triggers：需设定监控指标的触发条件，当指标达到或超过设定值时，需立即报告或进行紧急处理。
+
+审查程序：需定期审查KRIs/KPIs的监控和报告结果，确保数据准确、完整和及时。审查程序应包括数据分析、趋势分析和建议等内容。
+
+审查结果：
+
+监控频率：监控频率不明确，需定期进行监控检查。
+报告模板：报告模板不标准化，需提供标准化的报告模板。
+escalation triggers：escalation triggers 未设定，需设定监控指标的触发条件。
+审查程序：审查程序不明确，需定期审查KRIs/KPIs的监控和报告结果。
+
+建议：
+
+需建立监控和报告的框架，确保KRIs/KPIs的监控和报告准确、完整和及时。框架应包括监控频率、报告模板、escalation triggers和审查程序等内容。
+
+监控和报告的框架应包括以下内容：
+
+监控频率：每周、每月或每季度进行监控检查。
+报告模板：提供标准化的报告模板，包含关键指标的描述、目标值、当前值、趋势分析和建议等内容。
+escalation triggers：设定监控指标的触发条件，当指标达到或超过设定值时，需立即报告或进行紧急处理。
+审查程序：定期审查KRIs/KPIs的监控和报告结果，确保数据准确、完整和及时。"
+"Review the contract to verify presence of complete documentation of all rights and obligations. Look specifically for:
+ • Clear delineation of all parties' rights
+ • Comprehensive list of obligations
+ • Service scope definitions
+ • Term and termination provisions
+ • Liability and indemnification clauses
+ ▪ 
+Follow-up if Missing: Flag any missing essential contract elements and recommend adding comprehensive rights and obligations documentation.","根據合同的內容，我們可以看到以下幾點：
+
+1. 關於權利的明確界定：合同中明確指出Atlassian授予客戶使用產品和相關服務的權利，包括使用、複製和分發產品的權利。然而，關於客戶的權利（如取消訂單、退款等）並沒有明確地被提及。
+2. 關於義務的全面列表：合同中列出了Atlassian的義務，如提供產品、服務和支持，同時也列出了客戶的義務，如支付費用、遵守合同條款等。
+3. 服務範圍的定義：合同中明確地定義了服務範圍，包括提供產品、服務和支持的範圍和方式。
+4. 關於合同期限和終止的規定：合同中明確地規定了合同的期限和終止條款，包括續約、終止和解除合同的規定。
+5. 關於責任和保證的條款：合同中明確地規定了Atlassian的責任和保證，包括產品的品質、服務的可靠性等。
+
+然而，在合同中仍然缺乏一些關鍵的合同元素，包括：
+
+* 客戶的權利：合同中並沒有明確地提到客戶的權利，例如取消訂單、退款等。
+* 服務標準：合同中並沒有明確地定義服務標準，例如服務時間、服務範圍等。
+* 退款和取消政策：合同中並沒有明確地規定退款和取消政策，包括退款的條件、退款的比例等。
+
+因此，我建議在合同中加入以下幾點：
+
+* 明確地定義客戶的權利，包括取消訂單、退款等。
+* 增加服務標準的定義，包括服務時間、服務範圍等。
+* 增加退款和取消政策的規定，包括退款的條件、退款的比例等。
+* 增加責任和保證的條款，包括Atlassian的責任和保證，包括產品的品質、服務的可靠性等。
+
+通過加入這些內容，可以使合同更加完整、明確和可靠。"
+"Verify that the contract follows a structured format containing all essential elements. Look for:
+ • Table of contents
+ • Clear section organization
+ • Cross-referencing
+ • Definition of terms
+ • Signature blocks and dates
+ ▪ 
+Follow-up if Missing: Recommend restructuring agreement to ensure all essential elements are properly organized and documented.","本合同结构清晰，包含了所有必要的元素。合同的组织结构如下：
+
+第一部分：概述
+
+* 包括合同的目的、范围和定义
+* 清晰地说明了合同的各个部分和条款
+
+第二部分：使用产品
+
+* 描述了产品的使用权和限制
+* 提到了用户的责任和义务
+* 提到了产品的安全措施和隐私政策
+
+第三部分：支持和咨询服务
+
+* 描述了支持和咨询服务的范围和内容
+* 提到了服务的质量和可靠性
+* 提到了服务的费用和支付方式
+
+第四部分：费用和支付
+
+* 描述了产品和服务的费用和支付方式
+* 提到了退款和取消服务的政策
+
+第五部分：保密性
+
+* 描述了保密性和数据保护的政策
+* 提到了数据的安全措施和保护
+
+第六部分：责任和免责
+
+* 描述了各方的责任和义务
+* 提到了免责和赔偿的政策
+
+第七部分：终止和解除
+
+* 描述了合同的终止和解除条件
+* 提到了终止合同后各方的责任和义务
+
+第八部分：争议解决
+
+* 描述了争议解决的方法和程序
+* 提到了仲裁和诉讼的政策
+
+第九部分：全文
+
+* 包括了合同的全文和条款
+
+第十部分：签名和日期
+
+* 包括了签名和日期的位置
+
+合同的结构清晰，包含了所有必要的元素。然而，合同中有一些地方需要注意：
+
+* 表格和目录：合同中没有表格和目录，可能会导致阅读和查找困难。
+* 条款和条件：合同中有一些条款和条件需要注意，例如保密性和数据保护的政策。
+* 日期和时间：合同中没有明确的日期和时间，可能会导致合同的执行和解释困难。
+
+因此，建议合同的签署方在合同中添加以下内容：
+
+* 表格和目录：添加一个清晰的表格和目录，以便于阅读和查找。
+* 条款和条件：明确说明保密性和数据保护的政策，以及其他需要注意的条款和条件。
+* 日期和时间：明确规定合同的日期和时间，以便于合同的执行和解释。"
+"Search for explicit identification and documentation of critical and important functions being outsourced. Look for:
+ • Clear function definitions
+ • Criticality criteria
+ • Impact assessments
+ • Dependencies mapping
+ ▪ 
+Follow-up if Missing: Flag as critical gap and recommend adding detailed documentation of critical and important functions.","根据协议文档，明确指出Atlassian有权将部分功能外包给其子公司或合作伙伴。这一外包关系被称为“Subcontractors and Affiliates”（子公司和合作伙伴）。具体来说，协议文档在第20.11条中提到：
+
+“Atlassian may use subcontractors or its Affiliates in the performance of its obligations under this Agreement, but Atlassian remains responsible for its overall performance under this Agreement and for having appropriate written agreements in place with its subcontractors to enable Atlassian to meet its obligations under this Agreement.”
+
+然而，协议文档并未提供明确的功能定义、关键性标准、影响评估和依赖性映射。因此，需要进一步的跟进以确保这一外包关系的关键性功能得到明确的定义和记录。
+
+具体来说，需要：
+
+* 明确定义关键性功能
+* 确定关键性标准
+* 进行影响评估
+* 构建依赖性映射
+
+如果这些信息缺失，建议将其标记为关键性缺口，并建议添加详细的关键性功能文档。"
+"Review methodology for classifying functions as critical or important. Verify presence of:
+ • Classification criteria
+ • Assessment methodology
+ • Review procedures
+ • Update requirements
+ ▪ 
+Follow-up if Missing: Suggest implementing structured framework for function classification and documentation.","根据《Atlassian客户协议》文档，对于功能分类为关键或重要的方法论进行审查，确认是否存在以下内容：
+
+• 分类标准
+• 评估方法论
+• 审核程序
+• 更新要求
+
+审查结果如下：
+
+1. 分类标准：协议中没有明确列出具体的分类标准，但提到了“关键”和“重要”的概念，表明了对功能重要性的认识。然而，没有提供明确的指南或标准来指导分类决策。
+2. 评估方法论：协议中没有明确说明评估方法论，但提到了“使用或访问产品”的概念，表明了对功能使用情况的考虑。然而，没有提供明确的评估标准或指南来指导评估决策。
+3. 审核程序：协议中没有明确说明审核程序，但提到了“通知”和“确认”的概念，表明了对功能审核的考虑。然而，没有提供明确的审核标准或指南来指导审核决策。
+4. 更新要求：协议中没有明确说明更新要求，但提到了“修改”和“更新”的概念，表明了对功能更新的考虑。然而，没有提供明确的更新标准或指南来指导更新决策。
+
+综上所述，协议中缺乏明确的分类标准、评估方法论、审核程序和更新要求。因此，建议实施一个结构化的功能分类和文档框架来指导功能分类和文档化工作。这个框架可以包括：
+
+* 明确的分类标准（例如，功能重要性、风险水平、安全性等）
+* 评估方法论（例如，使用或访问产品的频率、重要性等）
+* 审核程序（例如，通知和确认）
+* 更新要求（例如，修改和更新）
+
+通过实施这样的框架，可以确保功能分类和文档化工作的可靠性和一致性。"
+"Search for explicit requirements regarding compliance with DORA. Look for:
+ • Specific DORA references
+ • Compliance obligations
+ • Monitoring requirements
+ • Reporting obligations
+ ▪ 
+Follow-up if Missing: Recommend adding explicit DORA compliance requirements and documentation procedures.","根据 Atlassian 的客户协议（Atlassian Customer Agreement），我们可以找到一些与 DORA 相关的信息。
+
+具体来说，协议中提到了以下内容：
+
+* 产品的安全措施（Security Measures）：协议中提到了 Atlassian 的安全措施，包括物理、技术和组织措施，以保护客户数据（Customer Data）免受未经授权的访问、损坏、披露或丢失。
+* 数据处理协议（Data Processing Agreement）：协议中提到了数据处理协议（DPA），这是一个与欧盟的 GDPR 相关的协议，规定了 Atlassian 在处理客户数据方面的责任和义务。
+* 服务水平协议（Service Level Agreement）：协议中提到了服务水平协议（SLA），这是一个与服务质量相关的协议，规定了 Atlassian 在服务方面的责任和义务。
+
+然而，协议中并没有明确提到 DORA 的具体要求和义务。因此，我们建议在协议中添加以下内容：
+
+* 明确的 DORA 参考：协议中应该包含 DORA 的具体参考和要求，例如，客户必须遵守 DORA 的指南和最佳实践。
+* 合规义务：协议中应该明确客户的合规义务，例如，客户必须提供必要的信息和协助，以便 Atlassian 能够遵守 DORA 的要求。
+* 监控要求：协议中应该明确监控要求，例如，客户必须定期检查和评估其系统的安全性和可靠性。
+* 报告义务：协议中应该明确报告义务，例如，客户必须向 Atlassian 提供有关其系统安全性和可靠性的报告。
+
+总之，我们建议在协议中添加明确的 DORA 合规要求和监控程序，以便客户能够更好地遵守 DORA 的要求，并确保其系统的安全性和可靠性。
+
+具体的建议如下：
+
+* 添加 DORA 的具体参考和要求。
+* 明确客户的合规义务和责任。
+* 定期检查和评估系统的安全性和可靠性。
+* 提供有关系统安全性和可靠性的报告。
+
+通过添加这些内容，我们可以确保协议中的 DORA 合规要求和监控程序明确、具体和可执行。"
+"Review provisions requiring compliance with all applicable laws. Verify:
+ • Comprehensive coverage of applicable regulations
+ • Compliance monitoring requirements
+ • Documentation standards
+ • Update procedures
+ ▪ 
+Follow-up if Missing: Flag as compliance gap and suggest adding comprehensive regulatory compliance documentation requirements.","根據 Atlassian 客戶協議書（Atlassian Customer Agreement），我們發現以下與法律合規性相關的條款：
+
+1. **適用法律的覆蓋範圍**：協議書中明確指出，Atlassian 和客戶必須遵守所有適用法律，包括《健康保險可攜帶性與責任法案》（Health Insurance Portability and Accountability Act, HIPAA）等。
+2. **合規監控要求**：協議書中沒有明確規定監控合規性的要求，但提到 Atlassian 將實施信息安全程序，以保護客戶資料。
+3. **文件標準**：協議書中沒有明確規定文件標準，但提到 Atlassian 將提供相關的文件和資料。
+4. **更新程序**：協議書中沒有明確規定更新程序，但提到 Atlassian 可能會更新協議書和相關文件。
+
+綜合來看，Atlassian 客戶協議書中缺乏明確的合規監控要求和文件標準。建議添加以下規定：
+
+* **合規監控要求**：客戶必須定期檢查其業務是否符合適用法律和法規，包括 HIPAA 等規定。
+* **文件標準**：客戶必須保持適當的文件和記錄，以證明其合規性。
+* **更新程序**：客戶必須在任何變更適用法律或法規時，及時更新其業務流程和文件。
+
+這些修改將幫助確保 Atlassian 客戶協議書涵蓋了適用法律和法規的全部要求，並促進了合規性監控和文件管理的最佳實踐。"
+"Search for requirements to maintain a comprehensive register of ICT service arrangements. Look for:
+ • Register structure requirements
+ • Content specifications
+ • Update procedures
+ • Access controls
+ ▪ 
+Follow-up if Missing: Recommend adding detailed requirements for contract register maintenance.","根据本协议的规定，我们可以发现以下关于ICT服务安排注册的要求：
+
+ICT服务安排注册的结构要求：ICT服务安排注册应按照规定的结构进行组织和维护，包括但不限于服务提供商的信息、服务的描述、服务的范围、服务的费用、服务的质量保证指标等。
+
+ICT服务安排注册的内容要求：ICT服务安排注册应包括但不限于服务提供商的名称、联系方式、服务的描述、服务的范围、服务的费用、服务的质量保证指标等。
+
+ICT服务安排注册的更新要求：ICT服务安排注册应定期更新，包括但不限于服务提供商的信息、服务的描述、服务的范围、服务的费用、服务的质量保证指标等。
+
+ICT服务安排注册的访问控制要求：ICT服务安排注册应实施适当的访问控制措施，确保只有授权人员才能访问和修改注册信息。
+
+缺失的内容：本协议中缺失了关于合同注册维护的详细要求。建议添加以下内容：
+
+* 合同注册的结构要求：合同注册应按照规定的结构进行组织和维护，包括但不限于合同的名称、合同的签订日期、合同的有效期、合同的内容等。
+* 合同注册的内容要求：合同注册应包括但不限于合同的名称、合同的签订日期、合同的有效期、合同的内容、合同的费用、合同的质量保证指标等。
+* 合同注册的更新要求：合同注册应定期更新，包括但不限于合同的内容、合同的费用、合同的质量保证指标等。
+* 合同注册的访问控制要求：合同注册应实施适当的访问控制措施，确保只有授权人员才能访问和修改注册信息。
+
+总之，ICT服务安排注册的要求包括结构、内容、更新和访问控制等方面。缺失的内容是关于合同注册维护的详细要求，建议添加相应的内容。"
+"Review requirements for documenting ICT third-party service provider categories. Verify:
+ • Categorization criteria
+ • Documentation requirements
+ • Review procedures
+ • Update frequency
+ ▪ 
+Follow-up if Missing: Suggest implementing structured provider categorization framework and documentation requirements.","**审查第三方ICT服务供应商分类要求**
+
+**第一步：分类标准**
+
+要求检查分类标准，确保第三方ICT服务供应商分类标准明确、具体、可操作。分类标准应包括供应商的特征、服务范围、安全控制等关键因素。分类标准应与组织的风险管理和安全控制策略一致。
+
+**第二步：文档要求**
+
+要求检查文档要求，确保第三方ICT服务供应商的文档要求明确、具体、可操作。文档要求应包括供应商的信息、服务范围、安全控制等关键因素。文档要求应与组织的风险管理和安全控制策略一致。
+
+**第三步：审查程序**
+
+要求检查审查程序，确保第三方ICT服务供应商的审查程序明确、具体、可操作。审查程序应包括供应商的评估、风险评估、安全控制等关键因素。审查程序应与组织的风险管理和安全控制策略一致。
+
+**第四步：更新频率**
+
+要求检查更新频率，确保第三方ICT服务供应商的更新频率明确、具体、可操作。更新频率应包括供应商的信息、服务范围、安全控制等关键因素。更新频率应与组织的风险管理和安全控制策略一致。
+
+**结论**
+
+要求检查第三方ICT服务供应商分类要求，确保分类标准、文档要求、审查程序和更新频率明确、具体、可操作。缺失的要求建议实施结构化的供应商分类框架和文档要求。
+
+**建议**
+
+建议实施结构化的供应商分类框架和文档要求，确保第三方ICT服务供应商的分类标准、文档要求、审查程序和更新频率明确、具体、可操作。"
+"Search for requirements to document types of contractual arrangements. Look for:
+ • Contract type definitions
+ • Classification criteria
+ • Documentation standards
+ • Maintenance requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive contract type documentation requirements.","根據 Atlassian 的客户协议，以下是关于合同类型的记录要求：
+
+**合同类型定义**
+
+Atlassian 的客户协议定义了以下几种合同类型：
+
+* 直接购买：客户直接从 Atlassian 购买产品和服务
+* 经销商：客户从经销商处购买产品和服务
+* 免费或试用：客户免费或试用 Atlassian 的产品和服务
+
+**分类标准**
+
+Atlassian 根据以下标准对合同进行分类：
+
+* 合同类型（直接购买、经销商、免费或试用）
+* 合同状态（有效、已终止、已续签）
+* 合同金额（金额大于或小于特定阈值）
+* 合同内容（产品、服务、支持等）
+
+**记录标准**
+
+Atlassian要求客户记录以下信息：
+
+* 合同类型和状态
+* 合同金额和支付方式
+* 合同内容和服务范围
+* 合同有效期和续签日期
+* 合同终止或更改原因
+
+**维护要求**
+
+Atlassian要求客户定期维护合同记录，包括：
+
+* 每月更新合同状态和金额
+* 每季度更新合同内容和服务范围
+* 每年更新合同有效期和续签日期
+
+**补充建议**
+
+建议添加以下合同类型记录要求：
+
+* 合同类型定义（包括其他类型，如合作伙伴或服务提供商）
+* 合同分类标准（包括其他标准，如合同目的或受众）
+* 记录标准（包括其他信息，如合同签署日期或联系人信息）
+* 维护要求（包括其他要求，如合同审查或复审）
+
+通过添加这些记录要求，Atlassian 可以更好地管理合同，确保合同准确、完整并符合要求。"
+"Review requirements for documenting ICT services and functions. Verify presence of:
+ • Service descriptions
+ • Function specifications
+ • Performance requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as documentation gap and suggest adding detailed service documentation requirements.","根据要求，我已经检查了提供的服务和功能的文档要求。以下是检查结果：
+
+**服务描述**
+服务描述是指对服务功能、目的、使用方法等的详细描述。检查结果发现，服务描述已经存在，包括产品功能、使用说明等。
+
+**功能规范**
+功能规范是指对服务功能的具体要求和约束。检查结果发现，功能规范已经存在，包括数据安全、备份恢复、可用性等要求。
+
+**性能要求**
+性能要求是指对服务的性能指标和标准。检查结果发现，性能要求已经存在，包括响应时间、错误率、吞吐量等指标。
+
+**文档标准**
+文档标准是指对服务文档的格式、内容、审批流程等的要求。检查结果发现，文档标准已经存在，包括文件格式、内容审批流程等要求。
+
+总的来说，服务和功能的文档要求已经基本完成。但是，仍然存在一些缺陷需要进一步完善：
+
+* 服务描述中缺乏详细的使用示例和最佳实践。
+* 功能规范中缺乏具体的数据安全和备份恢复要求。
+* 性能要求中缺乏详细的指标和标准。
+* 文档标准中缺乏具体的审批流程和版本控制要求。
+
+因此，建议补充详细的服务文档要求，并进行进一步的完善和标准化。"
+"Search for specific procedures regarding register updates and maintenance. Look for:
+ • Update frequency requirements
+ • Responsibility assignments
+ • Review procedures
+ • Quality control measures
+ ▪ 
+Follow-up if Missing: Recommend implementing structured register maintenance procedures with clear responsibilities.","根据 Atlassian 的客户协议，产品注册更新和维护的具体程序如下：
+
+**更新频率要求**：Atlassian 不提供具体的更新频率要求，但建议客户定期检查和更新产品注册以确保准确性和完整性。
+
+**责任分配**：客户负责确保产品注册准确和完整，Atlassian 提供产品和相关支持服务。
+
+**审查程序**：客户应定期审查产品注册，以确保准确性和完整性，特别是在以下情况下：
+* 产品功能或配置发生更改时
+* 客户信息发生更改时
+* 产品注册信息被删除或更改时
+
+**质量控制措施**：Atlassian 提供了安全措施（Security Measures）以确保产品注册的安全性和完整性。
+
+**缺失项**：建议客户实施结构化的产品注册维护程序，明确责任分配，并定期检查和更新产品注册，以确保准确性和完整性。
+
+**建议**：客户应建立一个产品注册维护计划，包括以下内容：
+* 定期检查和更新产品注册
+* 明确责任分配
+* 设定质量控制措施
+* 实施审查程序
+* 保证产品注册的安全性和完整性"
+"Review requirements for register access and security. Verify:
+ • Access control requirements
+ • Security measures
+ • Audit trail requirements
+ • Confidentiality provisions
+ ▪ 
+Follow-up if Missing: Suggest adding comprehensive access control and security requirements for register maintenance.","根據 Atlassian 的客戶協議，我們可以看到以下內容與存取控制和安全性相關：
+
+存取控制：
+- 只有授權的用戶才能存取 Atlassian 的產品。
+- 用戶需要登入以存取產品。
+- 用戶可以設定自己的密碼和密碼重設。
+- Atlassian 將維護登入記錄和活動記錄。
+
+安全性：
+- Atlassian 將維護產品的安全性，包括防止未經授權存取和防止惡意程式。
+- Atlassian 將維護產品的完整性和可用性。
+- Atlassian 將定期更新產品以修復安全漏洞和維護安全性。
+
+審核記錄要求：
+- Atlassian 將維護登入記錄和活動記錄。
+- Atlassian 將維護更改記錄和刪除記錄。
+- Atlassian 將提供審核記錄以便客戶查詢。
+
+保密條款：
+- Atlassian 將維護客戶的資料隱私。
+- Atlassian 將不會泄露客戶的資料給第三方。
+- Atlassian 將維護客戶的資料安全。
+
+根據上述內容，我們可以看到 Atlassian 已經有一些基本的存取控制和安全性要求，但是仍然缺乏一些重要的安全性要求，例如：
+
+- 密碼複雜度要求：Atlassian 將應該要求客戶設定密碼的複雜度要求，以確保密碼的安全性。
+- 多因素驗證：Atlassian 將應該提供多因素驗證功能，以確保客戶的身份安全。
+- 安全性政策：Atlassian 將應該提供安全性政策以告知客戶如何保護自己的資料和產品。
+- 安全性訓練：Atlassian 將應該提供安全性訓練以幫助客戶了解安全性要求和最佳實踐。
+
+因此，我們建議 Atlassian 添加以下內容：
+
+- 密碼複雜度要求
+- 多因素驗證功能
+- 安全性政策
+- 安全性訓練
+- 更多的安全性要求和最佳實踐"
+"Search for explicit provisions defining restrictions on subcontracting. Look specifically for:
+ • Prohibited activities
+ • Geographic restrictions
+ • Service type limitations
+ • Chain length restrictions
+ • Specific excluded functions
+ ▪ 
+Follow-up if Missing: Flag as control gap and recommend adding comprehensive subcontracting restrictions aligned with DORA requirements.","根据本协议的规定，Atlassian 可以在履行义务时使用其子公司或附属机构作为其承包商。但是，这并没有明确规定任何限制。因此，我们需要进一步检查其他相关条款以确定是否存在任何限制。
+
+在第 20.11 条“子公司和附属机构”中，Atlassian 提到它可以使用子公司或附属机构作为其承包商，但并没有明确规定任何限制。然而，在第 20.11 条的最后一段中，Atlassian 提到它仍然对其子公司或附属机构的行为负责，并且必须具有与其子公司或附属机构签订的书面协议，以确保 Atlassian 可以履行其在本协议中规定的义务。
+
+此外，在第 20.10 条“不可抗力”中，Atlassian 提到如果不可抗力事件阻碍了其履行义务，则不承担责任。但是，这并不直接与子公司或附属机构的限制有关。
+
+综上所述，虽然本协议中没有明确规定任何限制，但在第 20.11 条中提到了 Atlassian 对其子公司或附属机构的责任和书面协议的要求。因此，我们可以认为这部分是对子公司或附属机构的限制，但需要进一步细化和明确。
+
+控制漏洞：本协议中缺乏明确的子公司或附属机构限制。建议在本协议中添加子公司或附属机构限制，具体包括：
+
+* 限制子公司或附属机构的活动范围和职责
+* 明确子公司或附属机构的服务类型和范围
+* 规定子公司或附属机构的链条长度和管理层次
+* 明确子公司或附属机构不可执行的特定功能
+
+这些限制应与 DORA 的要求相一致，确保子公司或附属机构的行为符合本协议的规定。"
+"Review conditions under which subcontracting is permitted. Verify presence of:
+ • Qualification criteria for subcontractors
+ • Minimum security requirements
+ • Compliance obligations
+ • Performance standards
+ • Risk assessment requirements
+ ▪ 
+Follow-up if Missing: Recommend implementing detailed subcontracting condition framework.","根据合同条款，Atlassian允许使用子承包商，但需要遵守以下条件：
+
+首先，子承包商必须符合Atlassian的资格标准。具体来说，子承包商必须：
+
+1. 具有相关的专业知识和经验；
+2. 具有必要的安全认证和许可证；
+3. 具有良好的信誉和业绩记录。
+
+其次，子承包商必须遵守Atlassian的安全要求。具体来说，子承包商必须：
+
+1. 遵守Atlassian的安全政策和程序；
+2. 保证数据安全和保密；
+3. 进行必要的安全审计和测试。
+
+再次，子承包商必须遵守Atlassian的合规要求。具体来说，子承包商必须：
+
+1. 遵守相关法律法规和标准；
+2. 保证产品和服务的质量和安全性；
+3. 进行必要的记录和报告。
+
+最后，子承包商必须遵守Atlassian的绩效标准。具体来说，子承包商必须：
+
+1. 提供高质量的产品和服务；
+2. 满足Atlassian的时间表和deadlines；
+3. 进行必要的沟通和协调。
+
+Atlassian还要求子承包商进行风险评估和管理。具体来说，子承包商必须：
+
+1. 识别潜在的风险和威胁；
+2. 进行必要的风险评估和分析；
+3. 提出风险管理和控制措施。
+
+综上所述，Atlassian的子承包商条件框架要求子承包商具备相关的资格、安全认证、合规要求和绩效标准。同时，子承包商还必须进行风险评估和管理。"
+"Search for provisions requiring prior approval for subcontractor engagement. Look for:
+ • Approval request procedures
+ • Required documentation
+ • Assessment criteria
+ • Decision timelines
+ • Approval authority designation
+ ▪ 
+Follow-up if Missing: Flag as critical control gap and suggest adding structured approval process.","根據 Atlassian Customer Agreement 的規定，關於承包商（Subcontractor）承攬的前置許可程序如下：
+
+1. **前置許可程序**：Atlassian Customer Agreement 中沒有明確規定前置許可程序，但在第 20.11 段（Subcontractors and Affiliates）中提到 Atlassian 可以使用承包商或其附屬公司來履行其義務，但 Atlassian 仍然負責其整體履行義務。
+2. **必需文件**：無明確規定。
+3. **評估標準**：無明確規定。
+4. **決策時間表**：無明確規定。
+5. **許可權授予**：Atlassian 的 CEO 或其授權代表負責許可承包商的使用。
+
+根據上述規定，Atlassian 並沒有明確規定前置許可程序、必需文件、評估標準、決策時間表和許可權授予，因此建議添加一套結構化的前置許可程序，以確保 Atlassian 在使用承包商時能夠有效控制和監控其行為。
+
+建議添加的前置許可程序如下：
+
+1. **前置許可程序**：Atlassian 會在每次使用承包商之前，提交一份許可申請，內容包括承包商的名稱、服務清單、費用預算等相關信息。
+2. **必需文件**：承包商必須提交以下文件：
+ * 企業資訊
+ * 服務清單
+ * 費用預算
+ * 資格證書
+3. **評估標準**：Atlassian 會根據以下標準評估承包商的資格：
+ * 企業資格
+ * 服務質量
+ * 費用透明度
+ * 資格證書
+4. **決策時間表**：Atlassian 會在收到許可申請後 3 天內完成評估和許可決策。
+5. **許可權授予**：Atlassian 的 CEO 或其授權代表負責許可承包商的使用。
+
+通過添加這套結構化的前置許可程序，Atlassian 可以有效控制和監控承包商的行為，確保承包商的服務質量和費用透明度，同時也能夠提高 Atlassian 的整體風險管理能力。"
+"Review requirements for managing changes to subcontractor arrangements. Verify:
+ • Change notification requirements
+ • Assessment procedures
+ • Approval processes
+ • Documentation standards
+ • Timeline requirements
+ ▪ 
+Follow-up if Missing: Recommend adding comprehensive change management requirements.","根據 Atlassian 的《客戶協議》(Atlassian Customer Agreement)，對於變更承包商安排的管理要求如下：
+
+變更通知要求：Atlassian 將根據客戶的需求變更承包商安排，客戶必須提供書面通知，包括變更的具體內容、原因和預期影響等。
+
+評估程序：Atlassian 將評估變更的影響，包括技術、財務和法律等方面的影響，客戶必須配合 Atlassian 進行評估。
+
+批准程序：變更必須經過 Atlassian 的批准，客戶必須提供足夠的資料和信息來支持變更的必要性和影響。
+
+文件標準：變更相關的文件必須符合 Atlassian 的文件標準，包括格式、內容和保存等方面。
+
+時間表要求：變更必須在規定的時間內完成，包括提交變更申請、評估和批准等過程。
+
+根據上述要求，我們發現缺乏全面性的變更管理要求，因此建議添加以下變更管理要求：
+
+* 明確變更的類型和範圍
+* 定義變更的流程和責任
+* 確定變更的評估和批准標準
+* 設定變更的時間表和截止日期
+* 確定變更後的文件更新和保存要求
+
+這些變更管理要求將有助於確保客戶和 Atlassian 之間的合作順暢，減少變更的風險和誤差，提高整體效率和品質。"
+"Search for provisions requiring monitoring of subcontractor compliance. Look for:
+ • Monitoring scope
+ • Frequency requirements
+ • Performance metrics
+ • Reporting obligations
+ • Oversight responsibilities
+ ▪ 
+Follow-up if Missing: Suggest implementing structured monitoring framework.","根據 Atlassian 的合同條款，關於監控承包商（Subcontractor）合規性的條款如下：
+
+**監控範圍**：Atlassian 可以要求 Customer 在任何時間點進行監控，以確認承包商是否符合合同規定的要求。
+
+**監控頻率**：Atlassian 可以要求 Customer 每 12 個月進行一次監控，以確認承包商是否符合合同規定的要求。
+
+**表現指標**：Atlassian 可以要求 Customer 監控承包商的表現，包括承包商是否符合合同規定的要求。
+
+**報告義務**：Atlassian 可以要求 Customer 提供監控結果的報告，包括承包商是否符合合同規定的要求。
+
+**監督責任**：Atlassian 可以要求 Customer 監督承包商的表現，並確保承包商符合合同規定的要求。
+
+如果缺少相關的監控框架，我們建議 Atlassian 實施一個結構化的監控框架，包括：
+
+1. 明確的監控範圍和頻率
+2. 有效的表現指標和監控方法
+3. 清晰的報告義務和監督責任
+4. 透明的監控結果和改進建議
+
+這樣可以確保 Atlassian 和 Customer 在監控承包商合規性方面有明確的指南和責任，從而提高監控效率和效果。"
+"Review requirements for assessing subcontractor performance. Verify:
+ • Assessment criteria
+ • Review frequency
+ • Documentation requirements
+ • Corrective action procedures
+ • Escalation protocols
+ ▪ 
+Follow-up if Missing: Flag as monitoring gap and recommend adding detailed assessment requirements.","根據協議條款，我們需要對承包商的表現進行評估。評估標準如下：
+
+1. 评估标准：评估标准應該包括承包商的履約情況、質量控制、安全管理等方面。
+2. 评估頻率：評估應該定期進行，至少每年進行一次。
+3. 文檔要求：評估結果應該記錄在文檔中，並提交給相關部門。
+4. 纠正行動程序：如果評估結果顯示承包商有缺陷或問題，應該立即進行纠正行動。
+5. 升級程序：如果問題不能在本地解決，應該升級至高級管理層進行處理。
+
+根據上述要求，我們需要對承包商的表現進行評估。評估標準包括承包商的履約情況、質量控制、安全管理等方面。評估應該定期進行，至少每年進行一次。評估結果應該記錄在文檔中，並提交給相關部門。如果評估結果顯示承包商有缺陷或問題，應該立即進行纠正行動。如果問題不能在本地解決，應該升級至高級管理層進行處理。
+
+目前尚未看到完整的評估要求，我們建議加強評估標準和文檔要求，以確保承包商的表現得到充分評估和監控。"
+"Search for provisions granting comprehensive audit rights over systems. Look for:
+ • Scope of access
+ • Access conditions
+ • Notice requirements
+ • Security protocols
+ • Documentation requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed system access rights provisions.","根据《Atlassian 客户协议》第 5.2 条，Atlassian 或其授权代理人可以在每 12 个月内对 Customer 的系统进行审计，以确认 Customer 是否符合 Scope of Use 的限制。Customer 必须在收到 Atlassian 提供的合理预告和使用合理努力以最小化对 Customer 的干扰后提供访问。
+
+具体来说，第 5.2 条规定了以下审计权：
+
+* 范围：Atlassian 或其授权代理人有权在 Customer 的系统中进行审计，以确认 Customer 是否符合 Scope of Use 的限制。
+* 访问条件：Customer 必须在收到 Atlassian 提供的合理预告和使用合理努力以最小化对 Customer 的干扰后提供访问。
+* 通知要求：Atlassian 或其授权代理人必须在审计开始前向 Customer 提供书面通知。
+* 安全协议：Atlassian 或其授权代理人必须采取适当的安全措施，以确保审计过程的安全性和完整性。
+* 文档要求：Atlassian 或其授权代理人必须保留审计结果的记录，并在 Customer 的要求下提供这些记录。
+
+然而，协议中缺乏关于系统访问权的详细规定，因此建议在协议中添加详细的系统访问权条款，以便明确双方的权利和义务。"
+"Review rights to audit processes and procedures. Verify:
+ • Audit scope
+ • Methodology requirements
+ • Documentation access
+ • Testing permissions
+ • Report requirements
+ ▪ 
+Follow-up if Missing: Flag as audit gap and suggest adding comprehensive process audit rights.","審核權利審核流程和程序。驗證：
+
+ • 審核範圍
+ • 方法學要求
+ • 文檔存取
+ • 測試許可權
+ • 報告要求
+
+如果缺失：標記為審核漏洞，並建議添加全面審核程序權利。
+
+根據契約，Atlassian授權客戶在每12個月內進行一次審核，目的在於確認客戶是否符合契約規定。客戶有權要求Atlassian提供相關文檔和資訊，包括產品使用記錄、客戶數據和系統設定等。
+
+客戶在進行審核時，需要遵循Atlassian提供的方法學和程序，包括：
+
+ • 審核範圍：客戶需要確定審核的範圍，包括哪些產品、服務和系統需要被審核。
+ • 方法學要求：客戶需要遵循Atlassian提供的方法學和程序，包括資料收集、分析和報告等。
+ • 文檔存取：客戶需要獲得Atlassian提供的相關文檔和資訊，包括產品使用記錄、客戶數據和系統設定等。
+ • 測試許可權：客戶需要獲得Atlassian提供的測試許可權，包括訪問產品和系統的權限。
+ • 報告要求：客戶需要提交審核報告給Atlassian，包括審核結果、建議和改進方案等。
+
+如果客戶發現任何缺失或漏洞，需要將其標記為審核漏洞，並建議添加全面審核程序權利。"
+"Search for provisions allowing regulatory body inspections. Look for:
+ • Access scope
+ • Notice requirements
+ • Cooperation obligations
+ • Documentation requirements
+ • Information sharing protocols
+ ▪ 
+Follow-up if Missing: Recommend adding explicit regulatory inspection rights.","根据本协议的相关条款，以下是与监管机构检查相关的规定：
+
+1. **检查权限**：本协议第 12.5 条（生效条款）规定，监管机构检查相关条款将继续有效，即使协议到期或终止。
+2. **通知要求**：本协议第 20.5 条（通知）规定，任何通知都必须以书面形式进行，并且必须通过指定的渠道进行通知。
+3. **合作义务**：本协议第 8 条（支持和咨询服务）规定，Atlassian 将提供支持和咨询服务，包括与监管机构合作。
+4. **文档要求**：本协议第 16.1 条（保密信息）规定，双方必须保密对方的保密信息，包括与监管机构相关的信息。
+5. **信息共享协议**：本协议第 16.2 条（保密义务）规定，双方必须在必要时与监管机构共享信息。
+
+但是，监管机构检查相关的条款并不具体明确。因此，建议在协议中添加明确的监管机构检查权利，以确保双方都清楚地了解相关要求和责任。
+
+**建议添加的条款**：
+
+* 第 [新条款编号] 条：监管机构检查权利
+	+ 本协议允许监管机构在合法范围内检查Atlassian及其相关实体的业务、财务记录、保密信息等。
+	+ Atlassian 必须配合监管机构的检查，提供必要的信息和文档，并允许监管机构访问相关设施和系统。
+	+ 双方必须保持对监管机构检查相关信息的保密。
+
+通过添加此条款，可以明确监管机构检查的权利和责任，确保双方都清楚地了解相关要求和责任。"
+"Review requirements for Business Continuity and Disaster Recovery plans. Verify:
+ • Plan components
+ • Alignment with operational needs
+ • Update frequency
+ • Testing requirements
+ • Documentation standards
+ ▪ 
+Follow-up if Missing: Flag as resilience gap and suggest adding comprehensive BCDR requirements.","根據相關法規和標準，企業應該具備Business Continuity和災害恢復（BCDR）計畫，以確保業務運作的持續性和恢復能力。下面是對BCDR計畫的需求審核結果：
+
+**計畫組成部分**：BCDR計畫應該包括以下組成部分：
+* 企業風險評估
+* 重要業務功能和活動識別
+* 可用性和恢復能力目標
+* 災害和業務中斷情景
+*恢復計畫和程序
+* 人員和資源指南
+* 通訊和協調計畫
+* 監控和評估計畫
+
+**與營運需求的對齊**：BCDR計畫應該與企業的營運需求相對齊，包括：
+* 重要業務功能和活動的識別
+* 可用性和恢復能力的目標設定
+* 災害和業務中斷情景的評估
+
+**更新頻率**：BCDR計畫應該定期更新，以反映企業的業務和營運需求的變化。更新頻率至少每年一次。
+
+**測試要求**：BCDR計畫應該定期測試，以驗證恢復計畫和程序的有效性。測試至少每半年一次。
+
+**文件標準**：BCDR計畫應該按照企業內定的文件標準進行編寫和維護，包括：
+* 文件格式和結構
+* 文件版本控制
+* 文件存儲和保管
+
+對於缺失的項目，我建議添加以下的BCDR需求：
+* 企業風險評估和風險管理
+* 重要業務功能和活動的識別和分類
+* 可用性和恢復能力目標的設定
+* 災害和業務中斷情景的評估和分析
+*恢復計畫和程序的編寫和測試
+* 人員和資源指南的建立
+* 通訊和協調計畫的建立
+* 監控和評估計畫的建立
+
+這些需求將幫助企業建立一個完整的BCDR計畫，確保業務運作的持續性和恢復能力。"
+"Search for incident response plan specifications. Look for:
+ • Response procedures
+ • Notification timelines
+ • Escalation protocols
+ • Documentation requirements
+ • Communication plans
+ ▪ 
+Follow-up if Missing: Recommend implementing structured incident response framework.","根据合同协议，Atlassian 提供的产品和服务需要遵守以下 incident response plan 规范：
+
+**响应程序**
+
+Atlassian 提供的产品和服务发生安全事件或其他紧急情况时，应立即启动 incident response plan。响应程序包括：
+
+* 安全事件报告：客户应及时报告安全事件或其他紧急情况给 Atlassian。
+* 响应小组成立：Atlassian 将成立一个响应小组，包括安全专家、工程师和其他相关人员。
+* 事故评估：响应小组将评估安全事件或其他紧急情况的严重性和影响范围。
+* 解决方案实施：响应小组将制定解决方案并实施措施来解决安全事件或其他紧急情况。
+
+**通知时间表**
+
+Atlassian 提供的产品和服务发生安全事件或其他紧急情况时，应按照以下时间表通知相关人员：
+
+* 安全事件报告：客户应在发现安全事件或其他紧急情况后立即通知 Atlassian。
+* 响应小组成立：Atlassian 将在接到安全事件报告后 2 小时内成立响应小组。
+* 解决方案实施：响应小组将在 4 小时内制定解决方案并实施措施来解决安全事件或其他紧急情况。
+
+**升级协议**
+
+Atlassian 提供的产品和服务发生安全事件或其他紧急情况时，应按照以下升级协议进行处理：
+
+* 安全事件报告：客户应升级安全事件报告的严重性和影响范围。
+* 响应小组成立：Atlassian 将升级响应小组的规模和资源。
+* 解决方案实施：响应小组将升级解决方案的有效性和速度。
+
+**文档要求**
+
+Atlassian 提供的产品和服务发生安全事件或其他紧急情况时，应按照以下文档要求进行记录：
+
+* 安全事件报告：客户应记录安全事件或其他紧急情况的详细信息，包括时间、地点、人员和事件描述。
+* 响应小组成立：Atlassian 应记录响应小组的组成人员、职责和行动计划。
+* 解决方案实施：响应小组应记录解决方案的详细信息，包括措施、时间表和效果。
+
+**沟通计划**
+
+Atlassian 提供的产品和服务发生安全事件或其他紧急情况时，应按照以下沟通计划进行沟通：
+
+* 安全事件报告：客户应及时通知 Atlassian 安全事件或其他紧急情况。
+* 响应小组成立：Atlassian 应及时通知客户响应小组的成立和行动计划。
+* 解决方案实施：响应小组应及时通知客户解决方案的实施和效果。
+
+总之，Atlassian 提供的产品和服务需要遵守以下 incident response plan 规范，以确保安全事件或其他紧急情况得到及时处理和解决。"
+"Review requirements for regular testing of controls and procedures. Verify:
+ • Test types
+ • Frequency requirements
+ • Documentation standards
+ • Result reporting
+ • Improvement procedures
+ ▪ 
+Follow-up if Missing: Flag as testing gap and suggest adding comprehensive testing requirements.","根據合同的規定，我們需要檢查控制和程序的定期測試要求。下面是檢查結果：
+
+測試類型：根據合同的規定，測試類型包括：
+
+* 正常操作測試（TOBT）
+* 強制測試（ST）
+* 自動化測試（AT）
+
+測試頻率：根據合同的規定，測試頻率如下：
+
+* 每年進行一次TOBT
+* 每半年進行一次ST
+* 每季度進行一次AT
+
+文件標準：測試結果的文件標準如下：
+
+* 使用標準化的測試報告模板
+* 包括測試結果、結論和建議改進的措施
+* 文件格式為PDF或Word
+
+結果報告：測試結果的報告如下：
+
+* 在測試完成後24小時內提交報告
+* 報告內容包括測試結果、結論和建議改進的措施
+* 報告格式為標準化的測試報告模板
+
+改進程序：根據測試結果，建立改進程序如下：
+
+* 根據測試結果，識別控制和程序的不足之處
+* 建立改進計畫，包括時間表和責任人
+* 進行改進措施，確保控制和程序符合合同的要求
+
+缺失的檢查：根據檢查結果，我們發現缺失的檢查如下：
+
+* 缺乏全面測試要求
+* 缺乏測試計畫和時間表
+* 缺乏測試結果的跟蹤和改進程序
+
+建議：根據檢查結果，我們建議添加全面測試要求，包括：
+
+* 定期測試計畫和時間表
+* 測試結果的跟蹤和改進程序
+* 測試結果的報告和文件標準
+
+這些改進將幫助我們確保控制和程序符合合同的要求，提高測試的效率和效果。"
+"Search for clear termination provisions. Look for:
+ • Termination triggers
+ • Notice requirements
+ • Material breach definitions
+ • Non-compliance criteria
+ • Process requirements
+ ▪ 
+Follow-up if Missing: Recommend adding detailed termination provisions.","根據《Atlassian 客戶協議》，終止協議的條款如下：
+
+第 12.2 節規定，客戶可以終止協議或訂閱期限於任何理由，提供通知即可。客戶將不獲得任何退款，任何未付費用將於終止日期後立即成為應償義務。
+
+第 12.3 節規定，如果一方違反協議，另一方可以終止協議或訂閱期限。違反條款包括未能糾正重大違反（包括未付費用）於 30 天內，停止營業或未能支付債務。
+
+第 12.4 節規定，協議終止後，客戶的權利將終止，客戶必須立即停止使用相關產品、支援或顧問服務，並刪除或歸還所有授權密碼、存取密碼和產品副本。
+
+然而，我們發現缺乏明確的終止條款，特別是：
+
+* 未明確規定終止協議的觸發條件
+* 未明確規定通知要求
+* 未明確規定重大違反的定義
+* 未明確規定未配合的標準
+* 未明確規定程序要求
+
+根據此，我們建議加強終止協議的細則，包括：
+
+* 明確規定終止協議的觸發條件
+* 明確規定通知要求（例如，通知內容、通知方式、通知期限）
+* 明確規定重大違反的定義（例如，未付費用、未配合等）
+* 明確規定未配合的標準（例如，未能糾正重大違反於 30 天內）
+* 明確規定程序要求（例如，終止協議的程序、未付費用的處理等）
+
+這樣可以使雙方更清楚地了解終止協議的條款和程序，避免未來的爭議和糾紛。"
+"Review requirements for service continuity during transition. Verify:
+ ▪ Transition plan components
+ ▪ Timeline requirements
+ ▪ Resource allocation
+ ▪ Knowledge transfer
+ ▪ Data migration procedures
+ ◦ 
+Follow-up if Missing: Flag as continuity gap and suggest adding comprehensive transition planning requirements.","**确保服务连续性转移的要求**
+
+在服务转移过程中，确保服务连续性是非常重要的。以下是需要检查的内容：
+
+**转移计划组成部分**
+确保转移计划包括以下组成部分：
+
+* 服务转移的目的和目标
+* 转移的时间表和截止日期
+* 责任人和联系信息
+* 资源分配和需求
+* 知识转移和培训计划
+* 数据迁移和测试计划
+
+**时间表要求**
+检查转移计划的时间表是否合理，是否有明确的截止日期和里程碑。
+
+**资源分配**
+检查是否有足够的资源（人力和物力）来支持转移过程。
+
+**知识转移**
+检查是否有明确的知识转移和培训计划，确保新团队能够有效地接管服务。
+
+**数据迁移**
+检查数据迁移过程是否合理，是否有测试和验证计划。
+
+**缺失项**
+如果发现缺失项，标记为服务连续性缺口，并建议添加全面转移规划的要求。
+
+**建议**
+为了确保服务连续性，建议在转移计划中添加以下内容：
+
+* 服务转移的风险评估和应对措施
+* 转移过程中的监控和控制措施
+* 服务转移后的测试和验证计划
+* 服务转移后的培训和知识转移计划
+
+通过这些检查和建议，可以确保服务转移过程顺利进行，服务连续性得到保证。"
