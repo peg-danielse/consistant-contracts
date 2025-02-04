@@ -10,36 +10,88 @@
 
 from typing import Optional
 
-import fire, os, openpyxl, sys
+import pandas as pd
+
+import fire, os, openpyxl, sys, torch, random
 
 from llama_models.llama3.api.datatypes import RawMessage, StopReason
 from llama_models.llama3.reference_impl.generation import Llama
 
 
-def generateParaphrasePrompt(method, sentence):
-    prompt = f""":
-    Today I want you to learn the ways of paraphrasing a sentence. Below are few methods with examples. Go through
-    them carefully.
+CoG_paraphrase_prompt = """\
+    Today I want you to learn the ways of paraphrasing a sentence. Below are few methods with examples. Go through them carefully.
+    
     1. Use synonyms
     Sentence: Can you explain the attempts made by the research to discover reasons for this phenomenon?
     Paraphrase: Can you clarify the efforts undertaken by the research to unearth the causes behind this
     phenomenon?
+    
     2. Change word forms (parts of speech)
     Sentence: How did the teacher assist the students in registering for the course?
     Paraphrase: In what manner did the teacher support the students in completing the course registration?
+    
     3. Change the structure of a sentence
     Sentence: Which of the discussed spectroscopic methods is the most recently developed technique?
     Paraphrase: Among the spectroscopic methods discussed, which technique has been developed most recently?
+    
     4. Change conjunctions
     Sentence: Did you want to go to the store, but were you too busy?
     Paraphrase: Although you were busy, did you still want to go to the store?
     Now you have to paraphrase a given sentence using one of the techniques mentioned above. I will provide you
     the number of the technique to use.
-    Technique Number: {method}
-    Sentence: {sentence}
-    Paraphrase (Do not give any preamble, just give the paraphrased text):"""
+    
+    Technique Number: {}
+    Sentence: {}
+    Paraphrase (Do not give any preamble, just give the paraphrased text)
+"""
 
-    return prompt
+CoG_rank_prompt = """\
+Question: {}
+
+For the question above there are several options given, choose one among them which seems to be the most correct. 
+Do not give any other output. Only the number.
+
+
+"""
+
+CoG_answer_options_str = "Option {}: {}\n"
+
+def generate_answer(generator, prompt, max_gen_len, temperature, top_p):
+    torch.cuda.empty_cache() # clear cache of GPU. Having issues with with GPU OOM 
+                
+    result = generator.chat_completion(prompt,
+                                       max_gen_len=max_gen_len,
+                                       temperature=temperature,
+                                       top_p=top_p,
+                                      )
+    
+    return result
+
+def create_dialogue(language: str, context_doc: str, test_doc: str):
+    system_add_agent_message = "Answer as if you are a compliance officer."
+    system_add_context_message = "Add the following document to your context and use it to answer questions."
+    system_add_test_message = "Add the following document to your context and only answer questions about the content of this document."
+    system_restrict_message = "format your answers in a short paragraph of max 512 words starting with a difinitive statement about the compliance"
+
+    dialogue = [
+            RawMessage(role="system", content=system_add_agent_message),
+
+            # RawMessage(role="system", content=system_add_context_message),
+            # RawMessage(role="document", content=context_doc),
+
+            RawMessage(role="system", content=system_add_test_message),
+            RawMessage(role="document", content=test_doc),
+
+            RawMessage(role="system", content=system_restrict_message),
+    ]
+
+
+    # add language experiment details
+    if language != "english":
+        system_add_language_message = f"write everything in {language}"
+        dialogue.append(RawMessage(role="system", content=system_add_language_message))
+
+    return dialogue
 
 
 def read_xlsx_to_lists(file_path):
@@ -62,111 +114,115 @@ def read_xlsx_to_lists(file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-
-# def generate_reply(generator, context, prompt, max_gen_len, temperature, top_p):
-
-#     if context:
-#         model_input = [RawMessage(role="system", content=context), RawMessage(role="user", content=prompt)]
-#     else:
-#         model_input = [RawMessage(role="user", content=prompt)]
-
-#     result = generator.chat_completion(model_input, max_gen_len=max_gen_len, temperature=temperature, top_p=top_p)
-    
-#     #print("\n\n=== MODEL PROMPT ===")
-#     #for msg in model_input:
-#     #    print(f"{msg.role.capitalize()}: {msg.content}\n")
-
-#     out_message = result.generation
-#     #print("\n\n=== MODEL OUTPUT ===")
-#     #print(f"> {out_message.role.capitalize()}: {out_message.content}")
-#     #print("\n==================================\n")
-
-#     return out_message.content
-    
+def str_to_int(s, default=0):
+    try:
+        return int(s)
+    except ValueError:
+        return default
 
 def run_main(
+    label: str,
     ckpt_dir: str,
     temperature: float = 0.6,
     top_p: float = 0.9,
-    max_seq_len: int = 512,
+    max_seq_len: int = 15000,
     max_batch_size: int = 4,
+    seed = -1,
+    results_dir = "./results",
+    language = "english",
+    cog = False,
     max_gen_len: Optional[int] = None,
-    model_parallel_size: Optional[int] = None,
+    model_parallel_size: Optional[int] = None
 ):
-    """
-    Examples to run with the models finetuned for chat. Prompts correspond of chat
-    turns between the user and assistant with the final one always being the user.
+    # generate a random seed    
+    if seed >= -1:
+        seed=random.randint(1, 10000)
 
-    An optional system prompt at the beginning to control how the model should respond
-    is also supported.
-
-    `max_gen_len` is optional because finetuned models are able to stop generations naturally.
-    """
     generator = Llama.build(
         ckpt_dir=ckpt_dir,
         max_seq_len=max_seq_len,
         max_batch_size=max_batch_size,
         model_parallel_size=model_parallel_size,
-        seed=42
-    )
+        seed=seed
+    )   
 
-    # base. 
-
-    # 1. Load in the benchmark documents with formatting.
-
-    # 2. Load the prompts.
-
-    # 3. Do the experiments.
-    print("the current directory is: ", os.getcwd())
-
-    context_documents = ["dora-chapter-V-art-28.txt", "dora-chapter-V-art-30.txt", "dora-chapter-V-art-30.txt"] 
-    test_documents = ["bench-Atlas-CA.txt","bench-Micro-SA.txt","bench-SG-MSA.txt","bench-TSP.txt","bench-TTSP.txt"]
+    context_documents = ["dora-chapter-V-art-28.txt", "dora-chapter-V-art-29.txt"] 
+    question_documents = ["questions-art-28.xlsx", "questions-art-29.xlsx"] 
+    test_documents = ["bench-Atlas-CA.txt"] # ,"bench-Micro-SA.txt","bench-SG-MSA.txt","./bench-TSP.txt","./bench-TTSP.txt"]
     
-    for i, fn in enumerate(context_documents):
-        with open(fn, "r") as file:
-            context_documents[i] = file.read()
+    for i, test in enumerate(test_documents):
+        for j, quest in enumerate(question_documents):
 
-    for i, fn in enumerate(test_documents):
-        with open(fn, "r") as file:
-            test_documents[i] = file.read()
+            test_doc = ''
+            context_doc = ''
+            questions, _ = read_xlsx_to_lists(quest)
 
-    questions_28, answers_28 = read_xlsx_to_lists("article_28_question_answer_pairs.xlsx")
-    print(questions_28)
+            with open(context_documents[j], "r") as file:
+                context_doc = file.read()
 
-    system_add_context_message = "Answer as if you are a compliance officer."
-    system_add_context_message = "add the following document to your context."
-    system_add_test_message = "add the following document to your context and only answer questions about this document."    
+            with open(test, "r") as file:
+                test_doc = file.read()
 
-    experiments = []
+            if cog:
+                answers = []
+                for n, q in enumerate(questions):
 
-    for prompt in questions:
-        exp = [
-            RawMessage(role="System", content=system_add_context_message),
-            RawMessage(role="Document", content=context_documents[0]),
-            RawMessage(role="System", content=system_add_test_message),
-            RawMessage(role="Document", content=test_documents[0]),
-            RawMessage(role="User", content=prompt),
-        ]
+                    rank_prompt = CoG_rank_prompt.format(q)
+                    para_answers = []
+                    for k in (0, 1, 2, 3):
+                        para_prompt = CoG_paraphrase_prompt.format(k, q)
+                        d = create_dialogue(language, context_doc, test_doc)
+                        d.append(RawMessage(role="user", content=para_prompt))
+                        
+                        p_result = generate_answer(generator, d, max_gen_len, temperature, top_p)
+                        rank_prompt += CoG_answer_options_str.format(k, p_result.generation.content)
+                        para_answers.append(p_result.generation.content)
+                        print(f"{k} : \n", p_result.generation.content)
 
-        experiments.append(exp)
+                    # select
+                    r_d = create_dialogue(language, context_doc, '')
+                    r_d.append(RawMessage(role="user", content=rank_prompt))
+                    
+                    r_result = generate_answer(generator, r_d, max_gen_len, temperature, top_p)
+                    
+                    choice_i = max(0, min(str_to_int(r_result.generation.content), len(para_answers)-1)) #clamp
+                    answers.append(para_answers[choice_i])
+                    
+                    print(f"chosen {choice_i}", para_answers[choice_i])
+                    print(f"\n================{n+1}/{len(questions)}==================\n")
+
+
+            else:
+                # generate experiments
+                experiments = []
+                for q in questions:
+                    # create base dialogue
+                    exp = create_dialogue(language, context_doc, test_doc)                 
+
+                    # add the question
+                    exp.append(RawMessage(role="user", content=q))
+                    experiments.append(exp) 
+            
+                # run experiments
+                answers = []
+                for n, e in enumerate(experiments):
+                    result = generate_answer(generator, e, max_gen_len, temperature, top_p)
+                    answers.append(result.generation.content)
     
-    for dialog in experiments:
-        result = generator.chat_completion(
-            dialog,
-            max_gen_len=max_gen_len,
-            temperature=temperature,
-            top_p=top_p,
-        )
+                    out_message = result.generation
 
-        for msg in dialog:
-            print(f"{msg.role.capitalize()}: {msg.content}\n")
+                    print(f"> {out_message.role.capitalize()}: {out_message.content}")
+                    print(f"\n================{n+1}/{len(experiments)}==================\n")
 
-        out_message = result.generation
-        print(f"> {out_message.role.capitalize()}: {out_message.content}")
-        print("\n==================================\n")
+            df = pd.DataFrame()
+            df["question"] = questions 
+            df["answers"] = answers
 
+            df.to_csv(f'{results_dir}/experiment_{label}_{language}_{i}_{j}_{seed}_{temperature}.csv', index=False)
 
 def main():
+    
+
     fire.Fire(run_main)
 
 
